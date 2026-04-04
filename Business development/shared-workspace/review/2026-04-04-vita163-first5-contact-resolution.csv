@@ -1,0 +1,6 @@
+outbound_id,company,contact_person_name,contact_person_title_or_role,contact_email_route,route_owner_confidence,source_1,source_2,resolution_status
+OUT-2026-0001,HN Safal,Founder Office (named recipient pending),Founder/Managing Director office,sales@hnsafal.com,low,https://www.hnsafal.com/contact-us/,https://www.hnsafal.com/,route_ready_named_contact_pending
+OUT-2026-0002,Arvind SmartSpaces,Priyansh Kapoor,Managing Director & CEO,investor@arvindinfra.com,medium,https://www.arvindsmartspaces.com/our-leadership-team/,https://www.arvindsmartspaces.com/investors/investor-support/,route_ready_shared_inbox
+OUT-2026-0003,Shivalik Group,Chitrak Shah,Founder & MD,info@shivalikgroup.com,medium,https://shivalikgroup.com/about,https://shivalikgroup.com/contact,route_ready_shared_inbox
+OUT-2026-0004,Goyal & Co.,Trilok Goyal,Leadership (Ahmedabad oversight),vinay@goyalco.com,medium,https://goyalco.com/leadership/,https://goyalco.com/contact-us/,route_ready_named_route_likely
+OUT-2026-0005,Iscon Group,Jayesh Kotak,Managing Director,jp@iscongroup.com,low,https://www.iscongroup.com/about.html,https://www.iscongroup.com/contact.html,route_ready_owner_mapping_pending

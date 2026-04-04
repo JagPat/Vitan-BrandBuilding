@@ -1,84 +1,44 @@
 # Git Coordination Protocol — Vitan Growth OS
 
-## Problem
-Multiple AI agents (BB, FE, PA, HR) operate on the same repository simultaneously.
-Direct pushes to `main` from different agents cause race conditions where one agent's
-commit overwrites another's work.
+## Branch Isolation (7 Agents)
 
-## Solution: Per-Agent Branch Isolation
+| Agent | Branch | Primary Dimensions |
+|-------|--------|-------------------|
+| Business Builder (BB) | `agent/bb` | Dim 1: Client Acquisition, Dim 11: Strategic Partnerships |
+| Founding Engineer (FE) | `agent/fe` | Dim 4: Website & SEO (technical), Infrastructure |
+| Principle Architect (PA) | `agent/pa` | Strategic Oversight, Quality Gate, Vision |
+| HR | `agent/hr` | Dim 7: Academic Engagement, Talent Pipeline |
+| Brand Storyteller (BS) | `agent/bs` | Dim 2: Industry Portals, Dim 8: Publications, Dim 9: Media/PR |
+| Outreach Coordinator (OC) | `agent/oc` | Dim 5: Awards, Dim 6: Speaking, Dim 10: Associations |
+| Digital Presence Manager (DP) | `agent/dp` | Dim 3: Social Media, Dim 4: Website (content), Dim 12: Reputation |
 
-### Architecture
-```
-main (protected)
-  ├── agent/bb   ← Business Builder works here
-  ├── agent/fe   ← Founding Engineer works here
-  ├── agent/pa   ← Product Architect works here
-  └── agent/hr   ← HR works here
-```
+## Protected Main Branch
 
-### Rules
+- Direct push to `main` is **blocked** for all agents
+- All changes go through PRs: `agent/{name}` → `main`
+- PA agent or board merges approved PRs
+- After merge, agents sync their branches from latest main
 
-1. **NEVER push directly to `main`.**
-   - `main` is branch-protected. Direct pushes will be rejected.
-   - All changes reach `main` only through Pull Requests.
+## File Ownership (Advisory)
 
-2. **Each agent works ONLY on its own branch.**
-   - BB → `agent/bb`
-   - FE → `agent/fe`
-   - PA → `agent/pa`
-   - HR → `agent/hr`
+| Path | Primary Owner | Secondary |
+|------|--------------|-----------|
+| shared-workspace/references/ | PA | All agents |
+| shared-workspace/contacts-master.csv | BB | PA |
+| shared-workspace/review/{issue-id}/ | Assigned agent | PA |
+| shared-workspace/deliverables/content/ | BS | PA |
+| shared-workspace/deliverables/outreach/ | OC | PA |
+| shared-workspace/deliverables/social/ | DP | HR |
+| shared-workspace/deliverables/analytics/ | DP | PA |
+| shared-workspace/references/awards-calendar.md | OC | PA |
+| shared-workspace/references/publishing-protocol.md | DP | BS, BB |
+| shared-workspace/references/sensitivity-protocol.md | BB | PA |
+| shared-workspace/references/brand-ecosystem.md | PA | All |
 
-3. **Workflow for every task:**
-   ```
-   git fetch origin
-   git checkout agent/<your-agent>
-   git pull origin agent/<your-agent>
-   # ... do work, commit ...
-   git push origin agent/<your-agent>
-   # Then create a PR: agent/<your-agent> → main
-   ```
+## Cross-Agent Coordination Rules
 
-4. **Pull Request merge process:**
-   - Agent creates PR from its branch to `main`
-   - If merge conflicts exist, the agent must rebase its branch on `main` first
-   - PRs use squash merge to keep `main` history clean
-
-5. **Sync with main regularly:**
-   ```
-   git fetch origin main
-   git rebase origin/main
-   ```
-
-6. **Conflict resolution:**
-   - If two agents need to modify the same file, the second agent must rebase after the first agent's PR is merged
-   - Never force-push to `main`
-   - Agents should check `git log origin/main` before starting work to see recent changes
-
-### File Ownership (Advisory)
-To minimize conflicts, each agent should primarily work in designated areas:
-
-| Agent | Primary directories |
-|-------|-------------------|
-| BB    | `shared-workspace/review/`, `shared-workspace/change-notes/`, `shared-workspace/contacts-master.csv` |
-| FE    | `scripts/`, `SHORTLISTED TREES & LANDSCAPE/`, `Business development/PHOTOS FOR SAMPLE PROJECT/` |
-| PA    | `shared-workspace/references/`, `shared-workspace/intelligence/` |
-| HR    | `shared-workspace/approved/`, `Business development/Brand Guide/` |
-
-### Emergency: Resolving Conflicts
-If an agent's push to its own branch fails:
-1. `git fetch origin`
-2. `git rebase origin/agent/<your-agent>`
-3. Resolve any conflicts
-4. `git push origin agent/<your-agent>`
-
-If a PR to main has conflicts:
-1. `git fetch origin main`
-2. `git rebase origin/main`
-3. Resolve conflicts
-4. `git push origin agent/<your-agent> --force-with-lease`
-5. PR will auto-update
-
-## Enforcement
-- Branch protection on `main`: PRs required, linear history, no force push
-- Each agent's capability instructions include these rules
-- Violations will cause push rejections (not silent overwrites)
+1. Never modify files another agent is actively working on
+2. Use shared-workspace/references/ for inter-agent communication
+3. If you need content from another agent's domain, create an issue requesting it
+4. PA agent is the merge authority — tag PA in your PR description
+5. All deliverables must go through shared-workspace/review/ before final

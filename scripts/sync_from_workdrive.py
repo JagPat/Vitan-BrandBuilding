@@ -301,21 +301,28 @@ def push_via_pr(commit_msg):
     subprocess.run(["git", "checkout", "-b", branch_name], check=True)
     subprocess.run(["git", "push", "origin", branch_name], check=True)
 
-    # Get GitHub token from the remote URL or GITHUB_TOKEN env
+    # Get GitHub token — try multiple sources
     gh_token = os.environ.get("GITHUB_TOKEN", "")
     if not gh_token:
-        # Try extracting from remote URL
+        gh_token = os.environ.get("GH_TOKEN", "")
+    if not gh_token:
+        # Try extracting from remote URL (checkout@v4 embeds as x-access-token:TOKEN)
         result = subprocess.run(["git", "remote", "get-url", "origin"],
                                 capture_output=True, text=True)
         import re
-        match = re.search(r'https://([^@]+)@github.com', result.stdout)
+        # Match x-access-token:TOKEN@ or just TOKEN@
+        match = re.search(r'https://(?:x-access-token:)?([^@]+)@github\.com', result.stdout)
         if match:
             gh_token = match.group(1)
 
     if not gh_token:
         print("ERROR: No GitHub token available for PR creation")
+        print(f"  GITHUB_TOKEN env: {'set' if os.environ.get('GITHUB_TOKEN') else 'empty'}")
+        print(f"  Remote URL: {subprocess.run(['git', 'remote', 'get-url', 'origin'], capture_output=True, text=True).stdout.strip()[:50]}...")
         subprocess.run(["git", "checkout", "main"], check=True)
         return False
+
+    print(f"  Using GitHub token (source: {'env' if os.environ.get('GITHUB_TOKEN') or os.environ.get('GH_TOKEN') else 'remote-url'}, length: {len(gh_token)})")
 
     headers = {
         "Authorization": f"token {gh_token}",

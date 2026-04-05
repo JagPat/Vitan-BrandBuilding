@@ -1,19 +1,25 @@
 # SOCIAL_STRATEGY
 
-Last updated: 2026-04-05 (UTC, VITA-273 process-led thought-leadership translation rules)
+Last updated: 2026-04-05 (UTC, VITA-287 canonical sync and strategy-brief restoration)
 Owner: Business Builder
+Canonical status: repo-tracked source of truth for DPM, BS, and OC. Agent-local notes must defer to this file.
 
 ## 1. Objectives
 
 - Grow qualified awareness for Vitan Architects across LinkedIn, Facebook, Instagram, and X.
 - Convert social attention into tracked inquiry actions through `connect@vitan.in`.
-- Build repeatable proof-first storytelling around Vitan projects and design philosophy.
+- Build repeatable proof-first storytelling around Vitan projects, design philosophy, and delivery rigor.
+- Keep the strategy -> weekly plan -> review cascade explicit in git so downstream agents are never dependent on implicit or agent-local state.
 
-## 2. Core Brand Voice
+## 2. Core Brand Direction
 
 - Human impact first: spaces as lived experience, not visual spectacle alone.
 - Calm authority: practical, confident, specific.
-- Execution credibility: design quality + delivery discipline.
+- Execution credibility: design quality plus delivery discipline.
+- Use only `Vitan Architects` in new outward-facing copy.
+- Canonical website: `https://www.vitan.in`
+- Canonical inquiry contact for new outbound content: `connect@vitan.in`
+- Do not reintroduce legacy outward identifiers such as `Jagrut & Partners`, `#jagrutandpartners`, or non-canonical domain/email references.
 
 ## 3. Content Pillars (Current Weights)
 
@@ -27,28 +33,42 @@ Owner: Business Builder
 
 ### LinkedIn
 
-- Primary business narrative channel.
+- Primary business narrative and authority channel.
 - Format: 1-2 short paragraphs, strong opening line, one clear CTA.
-- Best use: project proof, founder POV, developer-facing insights.
+- Best use: project proof, founder POV, developer-facing insights, and `Proof vs Pattern` contrasts.
 
 ### Facebook
 
-- Community reinforcement and reach extension.
-- Format: concise caption + visual proof; stronger local relevance.
-- Best use: project highlights, milestones, branded stats.
+- Community reinforcement and reach extension channel.
+- Format: concise caption plus visual proof with stronger local relevance.
+- Best use: project highlights, milestones, branded stats, and trust-signal reinforcement.
 
 ### Instagram
 
 - Visual-first storytelling channel.
-- Format: image-led post + concise caption + focused hashtags.
+- Format: image-led post plus concise caption and focused hashtags.
 - Non-negotiable: publish flow requires publicly accessible `image_url` for API-based posting.
 
 ### X
 
-- Secondary channel; currently lower priority until token/credits are stable.
-- Publish readiness gate: verify X API account credits/plan before execution to avoid `402 CreditsDepleted` runtime failures.
+- Secondary channel; keep lower priority unless account credits and execution stability are confirmed.
+- Publish readiness gate: verify X API account credits/plan before execution to avoid `402 CreditsDepleted` failures.
 
-## 5. Process-Led Thought Leadership Rules
+## 5. Conversion Hooks And Measurement
+
+Conversion rule:
+- Every post carries exactly one intent CTA.
+- Approved CTA set:
+  - `Book a 20-minute project-fit discussion`
+  - `Request a site-responsive concept review`
+  - `Share your project brief for a first-pass feasibility response`
+
+Weekly measurement pack:
+- Post level: reach, saves, comments, inbound DMs, CTA clicks/replies.
+- Funnel level: touched, replied, meeting booked, proposal started, proposal won.
+- Brand hygiene: count of legacy-name/domain traces discovered and corrected.
+
+## 6. Process-Led Thought Leadership Rules
 
 Use process/capability posts only when internal rigor is translated into external client value.
 
@@ -89,9 +109,10 @@ Before/after examples:
   - Before: "We are improving documentation discipline across our publication workflow."
   - After: "Documentation discipline protects design intent from concept to construction by reducing ambiguity across consultants, approvals, and on-site execution."
 
-## 6. Hashtag Strategy
+## 7. Hashtag Strategy
 
 ### Core recurring
+
 `#VitanArchitects #AddingLifeEverySqFt #Architecture #DesignThinking`
 
 Canonical branded hashtag rule:
@@ -99,6 +120,7 @@ Canonical branded hashtag rule:
 - Do not mix or substitute variants such as `#AddingLifeEverySquareFoot`.
 
 ### Rotating discovery sets
+
 - Project proof: `#ProjectHighlight #BuiltEnvironment #ArchitectureIndia`
 - Premium segment: `#LuxuryDesign #UrbanDevelopment #DesignQuality`
 - Process insight: `#DesignProcess #ProjectDelivery #BuiltForm`
@@ -109,17 +131,17 @@ Rule:
 - Instagram first comment bundle: 6-10 hashtags total.
 - If Instagram is published without a first-comment bundle, keep the caption within the 2-3 hashtag cap rather than moving to a 6-10 caption block.
 
-## 7. Image Pipeline
+## 8. Image Pipeline
 
 1. Source from `JagPat/Vitan-BrandBuilding` repository assets first.
 2. Match post pillar to project folder image set.
 3. For Instagram API flow, convert selected asset into a public raw URL.
-4. If no suitable asset, generate a branded social card and host at public URL.
+4. If no suitable asset, generate a branded social card and host it at a public URL.
 
-## 8. Approval Workflow (Current)
+## 9. Approval Workflow (Current)
 
 - Draft content package per post: platform, caption, hashtags, CTA, image URL, publish window.
-- Approval tickets are incomplete until they include all three required contract blocks below:
+- Approval tickets are incomplete until they include all three required contract blocks below.
 - Add mandatory `Feedback alignment` block in each approval request:
   - `Recent feedback reviewed`: list last up to 10 feedback ids or `none yet`.
   - `Applied in this draft`: concrete choices in tone, pillar, CTA, or hashtag use.
@@ -135,47 +157,81 @@ Rule:
   - `Translation check: internal process language converted to client-facing outcome language.`
 - Submit via Paperclip issue for Principle Architect approval before any external publishing.
 - Publish only after explicit approval status is recorded.
-- Review packets and approval HTML exports must preserve these blocks verbatim; if any block is missing, the item should be treated as draft-incomplete rather than review-ready.
+- Review packets and approval HTML exports must preserve these blocks verbatim; if any block is missing, treat the item as draft-incomplete rather than review-ready.
 
-## 9. Operational Learnings (From Live Runs)
+## 10. Active Execution Signals (Current Cycle)
+
+### DPM
+
+- Keep the current queue anchored to approved or already in-review themes; avoid net-new social themes until the existing review load stabilizes.
+- Prioritize proof-first and process-value framing across the active queue, especially items tied to [VITA-254](/VITA/issues/VITA-254), [VITA-255](/VITA/issues/VITA-255), [VITA-257](/VITA/issues/VITA-257), [VITA-260](/VITA/issues/VITA-260), [VITA-262](/VITA/issues/VITA-262), [VITA-269](/VITA/issues/VITA-269), [VITA-270](/VITA/issues/VITA-270), and [VITA-271](/VITA/issues/VITA-271).
+- Treat [VITA-285](/VITA/issues/VITA-285) as the active reputation-side extension of the strategy once the review-request packet is ready.
+
+### BS
+
+- Keep long-form and publication-adjacent storytelling aligned to project proof, founder POV, and process credibility.
+- Do not publish or amplify Ahmedabad Racquet Academy details that depend on unresolved metadata, credits, permissions, or drawings while [VITA-211](/VITA/issues/VITA-211) and [VITA-226](/VITA/issues/VITA-226) remain blocked.
+- Until those blockers clear, use only supported firm proof points and process-value framing rather than unsupported ARA specifics.
+
+### OC
+
+- Use speaking, awards, partnerships, and association visibility as credibility amplifiers for the same proof-first narrative rather than as disconnected announcements.
+- Feed any confirmed external proof signal back into shared strategy inputs so DPM and BS can reuse it.
+- Avoid depending on ARA publication readiness until [VITA-211](/VITA/issues/VITA-211) and [VITA-226](/VITA/issues/VITA-226) resolve.
+
+## 11. Operational Learnings (From Live Runs)
 
 - LinkedIn publish endpoint can return HTTP 201 with minimal response body.
 - Facebook publish can fail with permission errors unless token role includes required page permissions.
-- Instagram API flow fails without `image_url`; text-only assumption is invalid for current endpoint path.
+- Instagram API flow fails without `image_url`; text-only assumption is invalid for the current endpoint path.
 - Instagram publish can succeed using a public `raw.githubusercontent.com` image URL sourced from the brand repository.
 - After Instagram publish, fetch `/{media_id}?fields=permalink` to capture proof URL in issue comments and reports.
-- Social publisher now includes media URL preflight (`HTTP 2xx` + `image/*`) and an approved fallback list of 3 Instagram-safe project image URLs to reduce interruption risk.
-- Pillar-based caption templates are now standardized in `Business development/social-publisher/templates/caption-templates.md` to reduce drafting latency.
+- Social publisher now includes media URL preflight (`HTTP 2xx` plus `image/*`) and an approved fallback list of 3 Instagram-safe project image URLs to reduce interruption risk.
+- Pillar-based caption templates are standardized in `Business development/social-publisher/templates/caption-templates.md` to reduce drafting latency.
 - Keep technical blockers isolated in dedicated engineering issues for rapid unblock.
-- X API can fail with `HTTP 402` / `CreditsDepleted` even when OAuth credentials are valid; treat as account billing/plan blocker and escalate to Founding Engineer.
+- X API can fail with `HTTP 402` / `CreditsDepleted` even when OAuth credentials are valid; treat as an account billing/plan blocker and escalate to Founding Engineer.
 - After credits restoration, X publish retry succeeded with `externalPostId=2040064800764604691` (2026-04-03 UTC); keep the same retry path and attach URL proof in the issue thread.
-- Board-confirmed unblock retry also succeeded with `externalPostId=2040070439972790297` (2026-04-03 UTC), confirming end-to-end X publish path is stable when credits are available.
+- Board-confirmed unblock retry also succeeded with `externalPostId=2040070439972790297` (2026-04-03 UTC), confirming the end-to-end X publish path is stable when credits are available.
 
-## 10. Weekly Kaizen Cadence
+## 12. Weekly Kaizen Cadence
 
 Every week:
 1. Review post-level outcomes (reach, replies, inquiry actions).
-2. Identify top-performing pillar and weak-performing pillar.
+2. Identify the top-performing pillar and the weak-performing pillar.
 3. Adjust pillar weights by small increments (5-10%).
 4. Rotate hashtag sets and compare discovery lift.
 5. Record one process improvement in PARA memory and, if systemic, open a `[KAIZEN]` issue.
 
-## 11. Board Feedback Loop (Capability Baseline)
+## 13. Board Feedback Loop (Capability Baseline)
 
 Feedback issue protocol:
-- Board/CEO opens issue with prefix `[FEEDBACK]` and uses template at `Business development/social-publisher/templates/board-feedback-issue-template.md`.
+- Board/CEO opens an issue with prefix `[FEEDBACK]` and uses the template at `Business development/social-publisher/templates/board-feedback-issue-template.md`.
 - Required fields: content reference, 1-5 rating, what worked, what to improve, strategic direction, priority.
 
 Business Builder processing SLA:
-1. Acknowledge feedback issue in same heartbeat.
-2. Log entry into PARA feedback memory:
+1. Acknowledge the feedback issue in the same heartbeat.
+2. Log the entry into PARA feedback memory:
    - `$AGENT_HOME/memory/feedback/index.yaml`
    - `$AGENT_HOME/memory/feedback/YYYY-MM-DD.yaml`
-   - `$AGENT_HOME/memory/feedback/strategy-impact/changelog.yaml` when strategy changes are made.
+   - `$AGENT_HOME/memory/feedback/strategy-impact/changelog.yaml` when strategy changes are made
 3. Apply concrete strategy adjustments to this file within 24 hours when applicable.
 4. Create follow-on action issues when requested or implied by feedback.
-5. Close feedback issue with summary of applied updates and any pending conflicts.
+5. Close the feedback issue with a summary of applied updates and any pending conflicts.
 
 Feedback-aware creation rule:
-- Before drafting any new content, read last 10 entries in `$AGENT_HOME/memory/feedback/index.yaml` and incorporate them.
-- If feedback is conflicting, flag to Principle Architect before publishing.
+- Before drafting any new content, read the last 10 entries in `$AGENT_HOME/memory/feedback/index.yaml` and incorporate them.
+- If feedback is conflicting, flag it to Principle Architect before publishing.
+
+## Sources Consulted
+
+- [VITA-287](/VITA/issues/VITA-287) — required a repo-tracked canonical strategy file plus a dated strategy brief for the execution layer.
+- [VITA-286](/VITA/issues/VITA-286) — established that the planning cascade had been restored structurally but still needed the BB-owned strategy artifact.
+- [VITA-211](/VITA/issues/VITA-211) — confirmed the ArchDaily package remains blocked, so publication-led amplification cannot assume resolved source data.
+- [VITA-226](/VITA/issues/VITA-226) — confirmed the Ahmedabad Racquet Academy metadata and permissions gap that must remain visible in strategy dependencies.
+- [VITA-285](/VITA/issues/VITA-285) — identified the live reputation/review workflow as the next execution-side extension of the strategy.
+- `Business development/shared-workspace/deliverables/analytics/social-pipeline-snapshot-2026-04-05.md` — provided the current DPM queue state and active upstream blockers affecting social narrative depth.
+- `Business development/shared-workspace/deliverables/analytics/reputation-review-baseline-2026-04-05.md` — provided the immediate reputation-system baseline and KPI direction.
+- `Business development/shared-workspace/change-notes/2026-04-05-vita265-social-strategy-clarification.md` — carried forward the canonical branded hashtag rule and Instagram hashtag packaging limits.
+- `Business development/shared-workspace/change-notes/2026-04-05-vita273-process-led-thought-leadership-rules.md` — carried forward the process-to-client-value translation rule and approval-contract addition.
+- `Business development/shared-workspace/references/growth-os.md` — informed the cross-workstream role of strategy across scanning, positioning, and communication execution.
+- `$AGENT_HOME/SOCIAL_STRATEGY.md` — recovered agent-local strategy signals that had not yet been synchronized into the repo-tracked canonical file.

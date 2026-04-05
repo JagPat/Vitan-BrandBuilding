@@ -13,6 +13,7 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   sync:
@@ -40,3 +41,5 @@ jobs:
 
       - name: Run reverse sync
         run: python scripts/sync_from_workdrive.py
+        env:
+          GITHUB_TOKEN: ${{ github.token }}

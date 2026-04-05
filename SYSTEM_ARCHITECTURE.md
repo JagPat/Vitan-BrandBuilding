@@ -84,6 +84,18 @@ Required content:
 - major agent progress
 - governance risks
 
+### Strategy-Readiness Evidence
+
+Default evidence source:
+
+- Use the platform-health signal `planningCascade.strategy` as the default indicator for strategy-layer readiness when it is available.
+
+Fallback evidence path:
+
+- If the signal is unavailable or suspected stale, PA may fall back to direct repo inspection of:
+  - `SOCIAL_STRATEGY.md`
+  - the latest `Business development/shared-workspace/drafts/strategy-brief-*.md`
+
 ## Required Artifact Paths
 
 - Repo root: `SYSTEM_ARCHITECTURE.md`

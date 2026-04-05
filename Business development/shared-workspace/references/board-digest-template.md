@@ -36,12 +36,14 @@ Prepared by: Principle Architect
 
 ### Planning Cascade Health
 
+- current `planningCascade.strategy` signal state when available
 - current state of `SOCIAL_STRATEGY.md`
 - current state of latest `strategy-brief-*.md`
 - current state of latest `weekly-plan-*.md`
 - note whether daily content review is operating normally
 
 If any expected artifact is missing or stale, call it out explicitly.
+If the platform-health signal is unavailable, say that manual repo inspection was used as fallback.
 
 ### Active Execution
 
@@ -84,6 +86,7 @@ If any expected artifact is missing or stale, call it out explicitly.
 
 ## Minimum Inputs Before Writing
 
+- current `planningCascade.strategy` health signal when available
 - current open issue snapshot
 - latest architecture/governance changes
 - active blocker chain status

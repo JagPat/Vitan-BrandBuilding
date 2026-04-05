@@ -1,0 +1,39 @@
+name: Sync GitHub → WorkDrive
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'Business development/shared-workspace/**'
+      - 'Business development/Brand Guide/**'
+      - 'Business development/PHOTOS FOR SAMPLE PROJECT/**'
+  workflow_dispatch:
+    inputs:
+      full_sync:
+        description: 'Run full sync (migrate all files)'
+        required: false
+        default: 'false'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    env:
+      ZOHO_CLIENT_ID: ${{ secrets.ZOHO_CLIENT_ID }}
+      ZOHO_CLIENT_SECRET: ${{ secrets.ZOHO_CLIENT_SECRET }}
+      ZOHO_REFRESH_TOKEN: ${{ secrets.ZOHO_REFRESH_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run sync
+        run: python scripts/sync_to_workdrive.py
+        env:
+          FULL_SYNC: ${{ github.event.inputs.full_sync || 'false' }}

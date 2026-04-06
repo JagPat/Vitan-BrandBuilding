@@ -141,7 +141,7 @@ The system's measurement, adaptation, and board-intelligence layer is tracked in
 - `Business development/shared-workspace/evaluation-log.md`
   Weekly measurement ledger for PASS / REVERT / RATCHET / UNMEASURED verdicts.
 - `Business development/shared-workspace/scorecards/`
-  Per-agent scorecard contract and future cycle files.
+  Per-agent rolling scorecards at canonical filenames such as `PA-SCORECARD.md`, `BB-SCORECARD.md`, and their peer agent equivalents.
 
 These artifacts must exist in git if PA is expected to run the Performance Ratchet, Adaptation Engine, Relay Race Protocol, or board-preference extraction without relying on unstored session context.
 
@@ -190,5 +190,6 @@ As of 2026-04-06:
 - `Business development/shared-workspace/references/engagement-system.md`
 - `Business development/shared-workspace/review/vita311/path-contract-normalization-decision-2026-04-06.md`
 - `Business development/shared-workspace/review/vita313/board-morning-digest-2026-04-06.md`
+- `Business development/shared-workspace/review/vita326/governance-baseline-resolution-2026-04-06.md`
 - Principle Architect operating instructions loaded for 2026-04-06
-- Open issue state: [VITA-211](/VITA/issues/VITA-211), [VITA-226](/VITA/issues/VITA-226), [VITA-233](/VITA/issues/VITA-233), [VITA-309](/VITA/issues/VITA-309), [VITA-314](/VITA/issues/VITA-314), [VITA-317](/VITA/issues/VITA-317), [VITA-318](/VITA/issues/VITA-318), [VITA-319](/VITA/issues/VITA-319)
+- Open issue state: [VITA-211](/VITA/issues/VITA-211), [VITA-226](/VITA/issues/VITA-226), [VITA-233](/VITA/issues/VITA-233), [VITA-309](/VITA/issues/VITA-309), [VITA-314](/VITA/issues/VITA-314), [VITA-317](/VITA/issues/VITA-317), [VITA-318](/VITA/issues/VITA-318), [VITA-319](/VITA/issues/VITA-319), [VITA-326](/VITA/issues/VITA-326)

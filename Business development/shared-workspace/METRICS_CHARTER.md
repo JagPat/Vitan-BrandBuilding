@@ -36,10 +36,13 @@ This document defines the KPI surface for the 7-agent system. It is the operatin
 
 ### Business Builder
 
-- Strategy brief delivered on cadence
-- Upstream strategy adopted by DPM / BS / OC
-- Client-acquisition lanes advanced from research to real market contact
-- Sensitivity and authority rules kept execution-safe
+| KPI | Target | Evidence source | Status |
+| --- | --- | --- | --- |
+| Strategy brief freshness | Current-cycle strategy brief published by Tuesday 7:00 PM IST | `SOCIAL_STRATEGY.md`, latest `Business development/shared-workspace/drafts/strategy-brief-YYYY-MM-DD.md`, issue timestamps | active |
+| Downstream adoption rate | `>= 90%` of current-cycle DPM / BS / OC outputs cite the latest strategy brief or explicit BB directive | weekly plans, review artifacts, linked downstream issues | active |
+| Brand consistency score | `>= 4/5` on PA review of strategy-derived external-facing work | PA review packets, board review comments, approval issues | bootstrapping |
+| Growth dimension coverage | every active weekly strategy brief maps its priorities to at least one active growth-dimension lane and avoids silent omission of currently prioritized lanes | strategy brief, downstream task graph, weekly scorecard | active |
+| Sensitivity / authority compliance | `100%` of BB-originated strategy and outbound recommendations avoid unauthorized claims, client leakage, or route violations | sensitivity review artifacts, approval comments, outbound review packets | active |
 
 ### Founding Engineer
 

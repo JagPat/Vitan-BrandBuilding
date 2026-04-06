@@ -105,6 +105,25 @@ Fallback evidence path:
 - Approved artifacts: `Business development/shared-workspace/approved/vita{NNN}/`
 - Governance references: `Business development/shared-workspace/references/`
 
+## Workspace Path Contract
+
+The canonical shared-artifact root for this system is:
+
+- `Business development/shared-workspace/`
+
+This path contract applies to governance files, drafts, review artifacts, approved artifacts, deliverables, scorecards, and reference documents whenever agents are operating inside the tracked repository.
+
+Compatibility rule:
+
+- bare `shared-workspace/...` references in older instructions are deprecated shorthand, not guaranteed runtime paths
+- agents must not assume a sibling `shared-workspace/` directory exists at `$AGENT_HOME` unless FE has explicitly provisioned it
+- when an agent is mounted with `PAPERCLIP_WORKSPACE_SOURCE=agent_home`, instruction paths must still resolve to the canonical repo-backed location or the runtime must provide a verified mirror
+
+Normalization requirement:
+
+- FE owns the technical fix for aligning runtime mounts and agent instructions with this contract
+- PA treats any instruction set that points to nonexistent bare `shared-workspace/...` paths as a structural coordination defect, not an agent execution failure
+
 ## Governance Backbone
 
 The system's measurement, adaptation, and board-intelligence layer is tracked in shared-workspace, not in agent-local memory.
@@ -160,12 +179,15 @@ PA updates this document when:
 
 As of 2026-04-06:
 
-- publication-source blockers remain open in [VITA-211](/VITA/issues/VITA-211) and [VITA-226](/VITA/issues/VITA-226)
-- outbound-send hardening remains open in [VITA-306](/VITA/issues/VITA-306)
+- publication-source blockers remain open in [VITA-233](/VITA/issues/VITA-233), [VITA-226](/VITA/issues/VITA-226), and [VITA-211](/VITA/issues/VITA-211)
+- strategy-relay restoration remains open in [VITA-314](/VITA/issues/VITA-314) and [VITA-317](/VITA/issues/VITA-317)
+- managed-runtime branch or worktree isolation remains open in [VITA-309](/VITA/issues/VITA-309)
 
 ## Sources Consulted
 
 - `Business development/shared-workspace/references/growth-os.md`
 - `Business development/shared-workspace/references/engagement-system.md`
+- `Business development/shared-workspace/review/vita311/path-contract-normalization-decision-2026-04-06.md`
+- `Business development/shared-workspace/review/vita313/board-morning-digest-2026-04-06.md`
 - Principle Architect operating instructions loaded for 2026-04-06
-- Open issue state: [VITA-211](/VITA/issues/VITA-211), [VITA-226](/VITA/issues/VITA-226), [VITA-299](/VITA/issues/VITA-299), [VITA-306](/VITA/issues/VITA-306)
+- Open issue state: [VITA-211](/VITA/issues/VITA-211), [VITA-226](/VITA/issues/VITA-226), [VITA-233](/VITA/issues/VITA-233), [VITA-309](/VITA/issues/VITA-309), [VITA-314](/VITA/issues/VITA-314), [VITA-317](/VITA/issues/VITA-317)

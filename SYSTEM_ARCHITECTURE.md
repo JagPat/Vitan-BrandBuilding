@@ -96,6 +96,32 @@ Fallback evidence path:
   - `SOCIAL_STRATEGY.md`
   - the latest `Business development/shared-workspace/drafts/strategy-brief-*.md`
 
+## Branch Promotion Cycle
+
+Approved work reaches users only after it is promoted from an agent branch into `main`.
+
+### Ownership
+
+- PA validates merge readiness and decides what exact commit set is approved.
+- FE executes promotion into `main`.
+- Source agents keep their designated branches rebased and their pushed commits traceable to issue artifacts.
+
+### Triggers
+
+- task-completion trigger: after an agent confirms a pushed artifact is ready for promotion
+- daily scan trigger: during PA's Daily Content Review, where branch divergence against `main` is checked explicitly
+
+### Promotion Rule
+
+- Persistent agent branches are not deployment units by default.
+- When a branch contains mixed approved and unapproved history, FE must promote only the approved commit set through a temporary branch created from `origin/main`.
+- Whole-branch squash is reserved for cases where PA explicitly approves the entire ahead range.
+
+### Governance Consequence
+
+- An approved artifact that stays only on an agent branch for more than 24 hours is a governance failure and must be surfaced in board digests.
+- Branch divergence without a bounded merge packet is treated as `mixed-range`, not silently merge-ready.
+
 ## Required Artifact Paths
 
 - Repo root: `SYSTEM_ARCHITECTURE.md`
@@ -155,6 +181,7 @@ The system is considered degraded when any of the following are true:
 - a weekly plan exists without a current strategy brief
 - daily review is happening without explicit upstream strategic linkage
 - execution agents are producing work that does not trace back to strategy or issue dependencies
+- an approved artifact remains stranded on an agent branch without promotion to `main` inside the merge-cycle window
 
 When degradation is detected, PA must surface it in board communications and create corrective work rather than relying on implicit recovery.
 
@@ -191,5 +218,6 @@ As of 2026-04-06:
 - `Business development/shared-workspace/review/vita311/path-contract-normalization-decision-2026-04-06.md`
 - `Business development/shared-workspace/review/vita313/board-morning-digest-2026-04-06.md`
 - `Business development/shared-workspace/review/vita326/governance-baseline-resolution-2026-04-06.md`
+- `Business development/shared-workspace/review/vita328/merge-cycle-routine-2026-04-06.md`
 - Principle Architect operating instructions loaded for 2026-04-06
-- Open issue state: [VITA-211](/VITA/issues/VITA-211), [VITA-226](/VITA/issues/VITA-226), [VITA-233](/VITA/issues/VITA-233), [VITA-309](/VITA/issues/VITA-309), [VITA-314](/VITA/issues/VITA-314), [VITA-317](/VITA/issues/VITA-317), [VITA-318](/VITA/issues/VITA-318), [VITA-319](/VITA/issues/VITA-319), [VITA-326](/VITA/issues/VITA-326)
+- Open issue state: [VITA-211](/VITA/issues/VITA-211), [VITA-226](/VITA/issues/VITA-226), [VITA-233](/VITA/issues/VITA-233), [VITA-309](/VITA/issues/VITA-309), [VITA-314](/VITA/issues/VITA-314), [VITA-317](/VITA/issues/VITA-317), [VITA-318](/VITA/issues/VITA-318), [VITA-319](/VITA/issues/VITA-319), [VITA-326](/VITA/issues/VITA-326), [VITA-328](/VITA/issues/VITA-328)

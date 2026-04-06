@@ -24,6 +24,7 @@ This document defines the KPI surface for the 7-agent system. It is the operatin
 | Cascade completion rate | PA | `100%` | active |
 | Relay drop rate | PA | `0` | active |
 | PA approval latency | PA | `< 4 hours` | active |
+| Approved artifact to `main` promotion time | PA | `< 24 hours` | bootstrapping |
 
 ## Agent KPI Surface
 
@@ -83,3 +84,5 @@ This document defines the KPI surface for the 7-agent system. It is the operatin
 - Principle Architect operating instructions loaded for 2026-04-06
 - `SYSTEM_ARCHITECTURE.md`
 - `Business development/shared-workspace/references/board-digest-template.md`
+- `Business development/shared-workspace/references/git-coordination.md`
+- `Business development/shared-workspace/review/vita328/merge-cycle-routine-2026-04-06.md`

@@ -59,6 +59,14 @@ def require_env(name: str) -> str:
     return value
 
 
+def require_any_env(*names: str) -> str:
+    for name in names:
+        value = os.environ.get(name, "").strip()
+        if value:
+            return value
+    raise RuntimeError(f"Missing env: one of {', '.join(names)}")
+
+
 def load_contacts(path: Path) -> List[Dict[str, str]]:
     if not path.exists():
         raise RuntimeError(f"Missing contacts file: {path}")
@@ -410,9 +418,9 @@ def refresh_zoho_token() -> str:
     token_url = os.environ.get("ZOHO_ACCOUNTS_URL", "https://accounts.zoho.in/oauth/v2/token")
     payload = parse.urlencode(
         {
-            "refresh_token": require_env("ZOHO_REFRESH_TOKEN"),
-            "client_id": require_env("ZOHO_CLIENT_ID"),
-            "client_secret": require_env("ZOHO_CLIENT_SECRET"),
+            "refresh_token": require_any_env("ZOHO_REFRESH_TOKEN", "ZOHO_MAIL_REFRESH_TOKEN"),
+            "client_id": require_any_env("ZOHO_CLIENT_ID", "ZOHO_MAIL_CLIENT_ID"),
+            "client_secret": require_any_env("ZOHO_CLIENT_SECRET", "ZOHO_MAIL_CLIENT_SECRET"),
             "grant_type": "refresh_token",
         }
     ).encode("utf-8")

@@ -1,6 +1,6 @@
 # SOCIAL_STRATEGY
 
-Last updated: 2026-04-05 (UTC, VITA-287 canonical sync and strategy-brief restoration)
+Last updated: 2026-04-06 (UTC, VITA-314 relay restoration sync including publication-route and reputation sequencing updates)
 Owner: Business Builder
 Canonical status: repo-tracked source of truth for DPM, BS, and OC. Agent-local notes must defer to this file.
 
@@ -179,7 +179,32 @@ Rule:
 - Feed any confirmed external proof signal back into shared strategy inputs so DPM and BS can reuse it.
 - Avoid depending on ARA publication readiness until [VITA-211](/VITA/issues/VITA-211) and [VITA-226](/VITA/issues/VITA-226) resolve.
 
-## 11. Operational Learnings (From Live Runs)
+## 11. Publication Route Discipline
+
+- Keep `ArchDaily` as the primary global publication lane when a project is ready for flagship external proof.
+- Use `ArchitectureLive!` and `ArchiSHOTS` as the default India follow-on route once the flagship submission lane and supporting package are clear.
+- Treat `Surfaces Reporter` as conditional rather than default; use it when the strongest story is material-led, detailing-led, or product-surface driven.
+- Keep outlet priority separate from first-project selection. Do not assume that the oldest blocked publication thread should define the next pack.
+- If the first-project choice is still unresolved, hold the execution choice until the comparison is explicit rather than letting the queue drift into a false default.
+
+## 12. Reputation Review Sequencing
+
+- The reputation workflow now follows this order:
+  1. approved review-request copy variants
+  2. trigger definitions for when the request is sent
+  3. tracking fields for request status and response status
+  4. testimonial intake format for reusable proof capture
+  5. monthly `GBP` and `Houzz` monitoring
+- Treat this sequence as canonical for reputation execution and reporting.
+- DPM should align review-request planning to this order rather than treating reputation as an unstructured follow-up task.
+
+## 13. Review-Only Strategy Inputs
+
+- The Instagram guideline in [VITA-320](/VITA/issues/VITA-320) is still approval-stage only.
+- Until the board explicitly approves that guideline, do not treat its weekly post mix or platform refinements as canonical strategy.
+- Current canonical Instagram direction remains the simpler visual-first system already defined in this file.
+
+## 14. Operational Learnings (From Live Runs)
 
 - LinkedIn publish endpoint can return HTTP 201 with minimal response body.
 - Facebook publish can fail with permission errors unless token role includes required page permissions.
@@ -193,7 +218,7 @@ Rule:
 - After credits restoration, X publish retry succeeded with `externalPostId=2040064800764604691` (2026-04-03 UTC); keep the same retry path and attach URL proof in the issue thread.
 - Board-confirmed unblock retry also succeeded with `externalPostId=2040070439972790297` (2026-04-03 UTC), confirming the end-to-end X publish path is stable when credits are available.
 
-## 12. Weekly Kaizen Cadence
+## 15. Weekly Kaizen Cadence
 
 Every week:
 1. Review post-level outcomes (reach, replies, inquiry actions).
@@ -202,7 +227,7 @@ Every week:
 4. Rotate hashtag sets and compare discovery lift.
 5. Record one process improvement in PARA memory and, if systemic, open a `[KAIZEN]` issue.
 
-## 13. Board Feedback Loop (Capability Baseline)
+## 16. Board Feedback Loop (Capability Baseline)
 
 Feedback issue protocol:
 - Board/CEO opens an issue with prefix `[FEEDBACK]` and uses the template at `Business development/social-publisher/templates/board-feedback-issue-template.md`.
@@ -229,9 +254,13 @@ Feedback-aware creation rule:
 - [VITA-211](/VITA/issues/VITA-211) — confirmed the ArchDaily package remains blocked, so publication-led amplification cannot assume resolved source data.
 - [VITA-226](/VITA/issues/VITA-226) — confirmed the Ahmedabad Racquet Academy metadata and permissions gap that must remain visible in strategy dependencies.
 - [VITA-285](/VITA/issues/VITA-285) — identified the live reputation/review workflow as the next execution-side extension of the strategy.
+- [VITA-302](/VITA/issues/VITA-302) — established the explicit reputation-review sequencing that now belongs in canonical strategy.
+- [VITA-320](/VITA/issues/VITA-320) — confirmed the Instagram guideline remains review-stage only and should not be merged into canonical strategy before approval.
+- [VITA-325](/VITA/issues/VITA-325) — established the current publication-route order and the need to separate outlet priority from first-project selection.
 - `Business development/shared-workspace/deliverables/analytics/social-pipeline-snapshot-2026-04-05.md` — provided the current DPM queue state and active upstream blockers affecting social narrative depth.
 - `Business development/shared-workspace/deliverables/analytics/reputation-review-baseline-2026-04-05.md` — provided the immediate reputation-system baseline and KPI direction.
 - `Business development/shared-workspace/change-notes/2026-04-05-vita265-social-strategy-clarification.md` — carried forward the canonical branded hashtag rule and Instagram hashtag packaging limits.
 - `Business development/shared-workspace/change-notes/2026-04-05-vita273-process-led-thought-leadership-rules.md` — carried forward the process-to-client-value translation rule and approval-contract addition.
+- `Business development/shared-workspace/review/vita320/2026-04-06-instagram-strategy-guideline.md` — confirmed what stays review-only until explicit approval.
 - `Business development/shared-workspace/references/growth-os.md` — informed the cross-workstream role of strategy across scanning, positioning, and communication execution.
 - `$AGENT_HOME/SOCIAL_STRATEGY.md` — recovered agent-local strategy signals that had not yet been synchronized into the repo-tracked canonical file.

@@ -82,7 +82,8 @@
     },
     "1pu3jf77a7619a1e04e349a15733c5b9d757c": {
       "name": "engagement-system.md",
-      "modified_time": 1775357392462
+      "local_path": "Business development/shared-workspace/references/engagement-system.md",
+      "modified_time": 1775474998295
     },
     "1pu3ja4618a40d6a346ed97ae6f46819ee8be": {
       "name": "git-coordination.md",
@@ -90,15 +91,18 @@
     },
     "1pu3jc5713784a28a42dab62b30199c9f1cc7": {
       "name": "publishing-protocol.md",
-      "modified_time": 1775357388835
+      "local_path": "Business development/shared-workspace/references/publishing-protocol.md",
+      "modified_time": 1775475000900
     },
     "1pu3j316cf5f5f6874755a6a47a9c99269654": {
       "name": "sensitivity-protocol.md",
-      "modified_time": 1775357387017
+      "local_path": "Business development/shared-workspace/references/sensitivity-protocol.md",
+      "modified_time": 1775475003113
     },
     "1pu3j04bc50c1ef1644baa499c8e3ce7d7e76": {
       "name": "contacts-master.csv",
-      "modified_time": 1775357399928
+      "local_path": "Business development/shared-workspace/contacts-master.csv",
+      "modified_time": 1775474996192
     },
     "1pu3j72b776e058954e3897b2536f1a59d3aa": {
       "name": "2026-04-04-ws2-competitor-mapping-delivery.md",
@@ -429,7 +433,22 @@
       "name": "RETHAL GREENS (1).JPG",
       "local_path": "Business development/PHOTOS FOR SAMPLE PROJECT/RETHAL/RETHAL GREENS (1).JPG",
       "modified_time": 1380970884000
+    },
+    "v6hjg777b3a87315e48a39700dd18469904b5": {
+      "name": "2026-04-05-process-thought-leadership-rule-closeout.md",
+      "local_path": "Business development/shared-workspace/change-notes/2026-04-05-process-thought-leadership-rule-closeout.md",
+      "modified_time": 1775474993107
+    },
+    "v6hjgb72d126b2c9b48df9cf2f179ef3267a9": {
+      "name": "2026-04-06-vita299-outbound-authority-normalization.md",
+      "local_path": "Business development/shared-workspace/change-notes/2026-04-06-vita299-outbound-authority-normalization.md",
+      "modified_time": 1775474990985
+    },
+    "v6hjg5a46ead6fc304cf49928468893d9eaa1": {
+      "name": "2026-04-06-vita297-value-lead-qualitative-first.md",
+      "local_path": "Business development/shared-workspace/change-notes/2026-04-06-vita297-value-lead-qualitative-first.md",
+      "modified_time": 1775474988954
     }
   },
-  "last_sync_ts": 1775474039385
+  "last_sync_ts": 1775476872552
 }

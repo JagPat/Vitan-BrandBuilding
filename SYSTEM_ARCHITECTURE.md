@@ -2,7 +2,7 @@
 
 Owner: Principle Architect (PA)  
 Status: Canonical system blueprint  
-Last updated: 2026-04-05
+Last updated: 2026-04-06
 
 ## Purpose
 
@@ -105,6 +105,27 @@ Fallback evidence path:
 - Approved artifacts: `Business development/shared-workspace/approved/vita{NNN}/`
 - Governance references: `Business development/shared-workspace/references/`
 
+## Governance Backbone
+
+The system's measurement, adaptation, and board-intelligence layer is tracked in shared-workspace, not in agent-local memory.
+
+- `Business development/shared-workspace/METRICS_CHARTER.md`
+  Defines which KPIs exist, who owns them, and how they are interpreted at an operating level.
+- `Business development/shared-workspace/EVALUATION_BASELINES.md`
+  Read-only scoring function and thresholds. Board-controlled after publication.
+- `Business development/shared-workspace/BOARD_FEEDBACK.md`
+  Decision log and Preference Codex source for recurring board patterns.
+- `Business development/shared-workspace/CAPABILITY_REGISTRY.md`
+  Capability map, gap log, and adaptation history for the 7-agent system.
+- `Business development/shared-workspace/ratchet-log.md`
+  History of ratchet proposals and accepted target increases.
+- `Business development/shared-workspace/evaluation-log.md`
+  Weekly measurement ledger for PASS / REVERT / RATCHET / UNMEASURED verdicts.
+- `Business development/shared-workspace/scorecards/`
+  Per-agent scorecard contract and future cycle files.
+
+These artifacts must exist in git if PA is expected to run the Performance Ratchet, Adaptation Engine, Relay Race Protocol, or board-preference extraction without relying on unstored session context.
+
 ## Failure Conditions
 
 The system is considered degraded when any of the following are true:
@@ -137,13 +158,14 @@ PA updates this document when:
 
 ## Current Known Gaps
 
-As of 2026-04-05:
+As of 2026-04-06:
 
-- `SOCIAL_STRATEGY.md` is missing from the tracked repo and has been delegated for restoration in [VITA-287](/VITA/issues/VITA-287)
 - publication-source blockers remain open in [VITA-211](/VITA/issues/VITA-211) and [VITA-226](/VITA/issues/VITA-226)
+- outbound-send hardening remains open in [VITA-306](/VITA/issues/VITA-306)
 
 ## Sources Consulted
 
 - `Business development/shared-workspace/references/growth-os.md`
 - `Business development/shared-workspace/references/engagement-system.md`
-- Open issue state: [VITA-211](/VITA/issues/VITA-211), [VITA-226](/VITA/issues/VITA-226), [VITA-285](/VITA/issues/VITA-285), [VITA-286](/VITA/issues/VITA-286), [VITA-287](/VITA/issues/VITA-287)
+- Principle Architect operating instructions loaded for 2026-04-06
+- Open issue state: [VITA-211](/VITA/issues/VITA-211), [VITA-226](/VITA/issues/VITA-226), [VITA-299](/VITA/issues/VITA-299), [VITA-306](/VITA/issues/VITA-306)

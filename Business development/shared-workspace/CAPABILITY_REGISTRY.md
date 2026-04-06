@@ -155,6 +155,20 @@ This file maps current system capabilities, records capability gaps, and stores 
   - FE must validate the workflow-file push path after provisioning and close [VITA-332](/VITA/issues/VITA-332) only once the helper path is proven end-to-end
   - PA may then resume scheduled promotion for the board communication workflow under [VITA-331](/VITA/issues/VITA-331)
 
+### 2026-04-06 - Stale Board-Owned Blocker Retirement Gap
+
+- Gap type: `WORKFLOW_GAP`
+- Status: `acquiring`
+- Lead owner: Principle Architect
+- Supporting agents: none
+- Trigger:
+  - [VITA-337](/VITA/issues/VITA-337) remained active on the board queue after [VITA-335](/VITA/issues/VITA-335) resolved the mailbox-read path and [VITA-339](/VITA/issues/VITA-339) verified the manual board-email workflow was operational
+- Structural weakness:
+  - the system had no explicit governance rule requiring board-owned blocker tickets to be retired or re-scoped once the underlying dependency had already been removed by another fix path
+- Required adaptation:
+  - PA must codify a retirement rule in `SYSTEM_ARCHITECTURE.md`
+  - future stale board-owned blockers must receive direct ticket-level retirement or re-scope guidance rather than being corrected only in parent comments or board digests
+
 ## Adaptation History
 
 ### 2026-04-06 - Canonical Shared-Workspace Path Contract Declared
@@ -232,6 +246,19 @@ This file maps current system capabilities, records capability gaps, and stores 
   - `Business development/shared-workspace/review/vita331/board-email-review-workflow-2026-04-06.md`
   - `scripts/board_communication_workflow.py`
 
+### 2026-04-06 - Stale Board-Owned Blocker Retirement Rule Codified
+
+- Status: `active`
+- Source issues:
+  - [VITA-337](/VITA/issues/VITA-337)
+  - [VITA-342](/VITA/issues/VITA-342)
+- Outcome:
+  - PA formalized the rule that board-owned blocker tickets must be explicitly retired, re-scoped, or annotated at the ticket itself once the underlying dependency is resolved or superseded
+  - the operating system now treats stale board-owned blockers as governance noise, not harmless backlog residue
+- Artifacts:
+  - `SYSTEM_ARCHITECTURE.md`
+  - `Business development/shared-workspace/review/vita342/stale-board-owned-blocker-retirement-decision-2026-04-06.md`
+
 ## Status Vocabulary
 
 - `active`: currently usable in production workflow
@@ -248,6 +275,7 @@ This file maps current system capabilities, records capability gaps, and stores 
 - `Business development/shared-workspace/review/vita326/governance-baseline-resolution-2026-04-06.md`
 - `Business development/shared-workspace/review/vita328/merge-cycle-routine-2026-04-06.md`
 - `Business development/shared-workspace/review/vita331/board-email-review-workflow-2026-04-06.md`
+- `Business development/shared-workspace/review/vita342/stale-board-owned-blocker-retirement-decision-2026-04-06.md`
 - [VITA-311](/VITA/issues/VITA-311)
 - [VITA-313](/VITA/issues/VITA-313)
 - [VITA-314](/VITA/issues/VITA-314)
@@ -255,6 +283,9 @@ This file maps current system capabilities, records capability gaps, and stores 
 - [VITA-328](/VITA/issues/VITA-328)
 - [VITA-320](/VITA/issues/VITA-320)
 - [VITA-331](/VITA/issues/VITA-331)
+- [VITA-337](/VITA/issues/VITA-337)
+- [VITA-339](/VITA/issues/VITA-339)
+- [VITA-342](/VITA/issues/VITA-342)
 - [VITA-318](/VITA/issues/VITA-318)
 - [VITA-319](/VITA/issues/VITA-319)
 - [VITA-317](/VITA/issues/VITA-317)

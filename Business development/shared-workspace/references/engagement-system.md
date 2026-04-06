@@ -57,6 +57,9 @@ Fresh angle (new project, award, publication). Max 2 re-engagement attempts/year
 1. BB drafts HTML → shared-workspace/review/vita{NNN}/
 2. BB updates contacts-master Draft Message Status = "drafted"
 3. Board reviews → approves/changes/rejects
-4. Board sends via Zoho Mail
-5. Board updates contacts-master: "sent", Last Contacted = date
-6. BB monitors follow-up triggers
+4. If approved for outbound and sensitivity is GREEN or AMBER, BB runs `python3 scripts/approved_outreach_preflight.py ...` and sends via the canonical approved route
+5. If sensitivity is RED or the board explicitly retains send ownership, the board sends and records that exception on the task
+6. After send, BB updates contacts-master: `sent`, `Last Contacted`, `Follow-up Date`, `Draft Message Status`, and route metadata
+7. BB monitors follow-up triggers
+
+See `Business development/shared-workspace/references/approved-outbound-send-runbook.md` for the reusable preflight path and execution checklist.

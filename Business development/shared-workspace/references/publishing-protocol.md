@@ -151,10 +151,12 @@ Friday:    Social posts published (board or scheduled)
 - Approved drafts moved to shared-workspace/approved/camp-{id}/
 
 ### Step 4: Publishing
-- Emails: Board sends via Zoho Mail
+- Emails: if approved for outbound and sensitivity is GREEN or AMBER, BB runs `python3 scripts/approved_outreach_preflight.py ...` and sends via the canonical approved route; RED sensitivity or explicit board-owned sends stay board-side
 - Social: Board publishes or schedules (agents prepare final copy + images)
 - BB updates contacts-master.csv (Last Contacted, Response Status)
 - HR logs social post metrics when available
+
+Use `Business development/shared-workspace/references/approved-outbound-send-runbook.md` for the reusable send checklist and post-send logging standard.
 
 ### Step 5: Feedback Loop
 - Track: email opens/replies, social engagement, profile visits

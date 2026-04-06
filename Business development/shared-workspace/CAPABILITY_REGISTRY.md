@@ -48,11 +48,63 @@ This file maps current system capabilities, records capability gaps, and stores 
 
 ## Capability Gap Log
 
-No logged gaps yet in the tracked registry. Add new entries here when the Adaptation Engine is triggered.
+### 2026-04-06 - Cascade Artifact Verification Gap
+
+- Gap type: `WORKFLOW_GAP`
+- Status: `acquiring`
+- Lead owner: Principle Architect
+- Supporting agents: Business Builder, Digital Presence Manager
+- Trigger:
+  - [VITA-287](/VITA/issues/VITA-287) was marked done without the expected tracked strategy artifacts being present in git
+  - morning governance review in [VITA-313](/VITA/issues/VITA-313) found `SOCIAL_STRATEGY.md` missing and `Business development/shared-workspace/drafts/` lacking dated strategy-brief and weekly-plan artifacts
+- Structural weakness:
+  - the system lacked a durable verification step that checks repo-visible strategy artifacts before a relay handoff is considered complete
+- Required adaptation:
+  - BB must restore the missing strategy artifacts under [VITA-314](/VITA/issues/VITA-314)
+  - DPM is explicitly marked relay-blocked under [VITA-317](/VITA/issues/VITA-317) until the upstream artifacts exist
+  - PA governance must treat artifact absence as a relay-break event, not as a soft warning
+
+### 2026-04-06 - Workspace Path Contract Normalization Gap
+
+- Gap type: `TOOL_GAP`
+- Status: `acquiring`
+- Lead owner: Founding Engineer
+- Supporting agents: Principle Architect
+- Trigger:
+  - FE raised [VITA-311](/VITA/issues/VITA-311) after finding that bare `shared-workspace/...` instruction paths did not resolve inside an `agent_home` runtime
+- Structural weakness:
+  - instructions, runtime mounts, and repo-backed artifact locations were not operating from one canonical path contract
+- Required adaptation:
+  - FE must align runtime mounts and instruction references to `Business development/shared-workspace/`
+  - PA has already codified the canonical path contract in `SYSTEM_ARCHITECTURE.md`
 
 ## Adaptation History
 
-No logged adaptations yet in the tracked registry.
+### 2026-04-06 - Canonical Shared-Workspace Path Contract Declared
+
+- Status: `active`
+- Source issue: [VITA-311](/VITA/issues/VITA-311)
+- Outcome:
+  - PA declared `Business development/shared-workspace/` the canonical shared-artifact root
+  - bare `shared-workspace/...` references are now treated as deprecated shorthand unless FE provisions a verified mirror
+- Artifacts:
+  - `SYSTEM_ARCHITECTURE.md`
+  - `Business development/shared-workspace/review/vita311/path-contract-normalization-decision-2026-04-06.md`
+
+### 2026-04-06 - Strategy Relay Failure Converted Into Explicit Two-Sided Governance
+
+- Status: `active`
+- Source issues:
+  - [VITA-313](/VITA/issues/VITA-313)
+  - [VITA-314](/VITA/issues/VITA-314)
+  - [VITA-317](/VITA/issues/VITA-317)
+- Outcome:
+  - PA marked the morning cascade state RED when `SOCIAL_STRATEGY.md` and dated planning artifacts were absent
+  - BB received an explicit `[RELAY_BREAK]` correction task
+  - DPM received an explicit `[RELAY_BLOCKED]` issue so the relay state is governed on both sides of the handoff
+- Artifacts:
+  - `Business development/shared-workspace/review/vita313/board-morning-digest-2026-04-06.md`
+  - `Business development/shared-workspace/drafts/README.md`
 
 ## Status Vocabulary
 
@@ -65,3 +117,9 @@ No logged adaptations yet in the tracked registry.
 
 - Principle Architect operating instructions loaded for 2026-04-06
 - `SYSTEM_ARCHITECTURE.md`
+- `Business development/shared-workspace/review/vita311/path-contract-normalization-decision-2026-04-06.md`
+- `Business development/shared-workspace/review/vita313/board-morning-digest-2026-04-06.md`
+- [VITA-311](/VITA/issues/VITA-311)
+- [VITA-313](/VITA/issues/VITA-313)
+- [VITA-314](/VITA/issues/VITA-314)
+- [VITA-317](/VITA/issues/VITA-317)

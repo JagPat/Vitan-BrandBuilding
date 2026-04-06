@@ -133,6 +133,26 @@ This file maps current system capabilities, records capability gaps, and stores 
   - `Business development/shared-workspace/review/vita313/board-morning-digest-2026-04-06.md`
   - `Business development/shared-workspace/drafts/README.md`
 
+### 2026-04-06 - Scorecard Path Contract Normalized To Match Agent Instructions
+
+- Status: `active`
+- Source issue: [VITA-326](/VITA/issues/VITA-326)
+- Outcome:
+  - PA confirmed the governance backbone existed on `agent/pa` but was missing from `main` and `agent/bb`
+  - PA normalized the scorecard contract so the canonical rolling files match the filenames referenced in agent operating instructions
+  - starter scorecard files now exist for all seven agents, including the previously missing `BB-SCORECARD.md`
+  - `METRICS_CHARTER.md` now defines concrete BB KPI fields for the strategy-cycle scorecard routine
+- Artifacts:
+  - `Business development/shared-workspace/scorecards/README.md`
+  - `Business development/shared-workspace/scorecards/PA-SCORECARD.md`
+  - `Business development/shared-workspace/scorecards/BB-SCORECARD.md`
+  - `Business development/shared-workspace/scorecards/FE-SCORECARD.md`
+  - `Business development/shared-workspace/scorecards/HR-SCORECARD.md`
+  - `Business development/shared-workspace/scorecards/DPM-SCORECARD.md`
+  - `Business development/shared-workspace/scorecards/BS-SCORECARD.md`
+  - `Business development/shared-workspace/scorecards/OC-SCORECARD.md`
+  - `Business development/shared-workspace/review/vita326/governance-baseline-resolution-2026-04-06.md`
+
 ## Status Vocabulary
 
 - `active`: currently usable in production workflow
@@ -146,9 +166,11 @@ This file maps current system capabilities, records capability gaps, and stores 
 - `SYSTEM_ARCHITECTURE.md`
 - `Business development/shared-workspace/review/vita311/path-contract-normalization-decision-2026-04-06.md`
 - `Business development/shared-workspace/review/vita313/board-morning-digest-2026-04-06.md`
+- `Business development/shared-workspace/review/vita326/governance-baseline-resolution-2026-04-06.md`
 - [VITA-311](/VITA/issues/VITA-311)
 - [VITA-313](/VITA/issues/VITA-313)
 - [VITA-314](/VITA/issues/VITA-314)
+- [VITA-326](/VITA/issues/VITA-326)
 - [VITA-318](/VITA/issues/VITA-318)
 - [VITA-319](/VITA/issues/VITA-319)
 - [VITA-317](/VITA/issues/VITA-317)

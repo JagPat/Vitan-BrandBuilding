@@ -8,16 +8,18 @@ Last updated: 2026-04-06
 
 This directory holds per-agent cycle scorecards used for ratchet review, relay-break detection, and adaptation decisions.
 
-## Naming Convention
+## Canonical Files
 
-- One file per agent per cycle, for example:
-  - `pa-YYYY-MM-DD.md`
-  - `bb-YYYY-MM-DD.md`
-  - `fe-YYYY-MM-DD.md`
-  - `hr-YYYY-MM-DD.md`
-  - `dpm-YYYY-MM-DD.md`
-  - `bs-YYYY-MM-DD.md`
-  - `oc-YYYY-MM-DD.md`
+- Each agent maintains one rolling canonical scorecard file at the path referenced in its operating instructions:
+  - `PA-SCORECARD.md`
+  - `BB-SCORECARD.md`
+  - `FE-SCORECARD.md`
+  - `HR-SCORECARD.md`
+  - `DPM-SCORECARD.md`
+  - `BS-SCORECARD.md`
+  - `OC-SCORECARD.md`
+- These files are the required repo-backed locations for the latest live scorecard state.
+- If cycle snapshots are needed later, add them as linked historical artifacts without replacing the canonical per-agent file.
 
 ## Minimum Fields
 
@@ -32,6 +34,11 @@ This directory holds per-agent cycle scorecards used for ratchet review, relay-b
 ## Rule
 
 Do not backfill fake historical scorecards. Start from the next real cycle.
+
+## Current Starter Files
+
+- The canonical per-agent scorecard files were created on 2026-04-06 to resolve path-contract ambiguity between operating instructions and the shared-workspace contract.
+- Blank starter files are allowed. Invented historical performance is not.
 
 ## Sources Consulted
 

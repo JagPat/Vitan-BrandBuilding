@@ -154,6 +154,10 @@ Every accepted verdict becomes a new Decision Log entry in `BOARD_FEEDBACK.md` w
 - `ZOHO_CLIENT_ID`
 - `ZOHO_CLIENT_SECRET`
 - `ZOHO_REFRESH_TOKEN`
+- current managed-runtime aliases also accepted:
+  - `ZOHO_MAIL_CLIENT_ID`
+  - `ZOHO_MAIL_CLIENT_SECRET`
+  - `ZOHO_MAIL_REFRESH_TOKEN`
 - optional `ZOHO_ACCOUNTS_URL`
 - optional `ZOHO_MAIL_BASE_URL`
 - optional `ZOHO_MAIL_ACCOUNT_ID`

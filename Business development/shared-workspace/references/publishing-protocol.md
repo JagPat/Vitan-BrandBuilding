@@ -49,7 +49,7 @@ Cross-Platform Hooks: [How does each platform point to the others?]
 - Middle: the campaign's core message, framed as relevant to their situation
 - Close: specific CTA (meeting, call, studio visit)
 - Sensitivity guardrails from contacts-master MUST be applied
-- Email goes through engagement-system.md stage workflow (draft → review → board sends)
+- Email goes through engagement-system.md stage workflow (draft → review → approved route executes)
 
 **Connection to other platforms**: Email can reference "as we shared recently on LinkedIn" or include a project image that's also on Instagram. This makes the story feel alive, not siloed.
 
@@ -121,7 +121,7 @@ Cross-Platform Hooks: [How does each platform point to the others?]
 Monday:    Campaign Brief approved → content production starts
 Tuesday:   Email drafts ready for board review (in shared-workspace/review/)
 Wednesday: LinkedIn + Instagram + X drafts ready for board review
-Thursday:  Board approves/edits → emails sent (board via Zoho)
+Thursday:  Board approves/edits → approved email route executes
 Friday:    Social posts published (board or scheduled)
 ```
 
@@ -150,8 +150,34 @@ Friday:    Social posts published (board or scheduled)
 - Board edits/approves via issue comments
 - Approved drafts moved to shared-workspace/approved/camp-{id}/
 
+### Step 3A: Principle Architect Review Exit Rules (Queue Hygiene)
+
+After Principle Architect review on any `[CONTENT REVIEW]` ticket, apply exactly one exit path:
+
+1. **Approved (content + images)**
+- Execution owner (Digital Presence Manager) moves the ticket out of PA review lane immediately.
+- Set status to `done` if publishing proof links are already captured, or `in_progress` under execution ownership if packaging/scheduling/logging remains.
+- Do NOT return unchanged approved content to Principle Architect.
+
+2. **Partial approval (content approved, image changes needed / image approved, content changes needed)**
+- Return to execution ownership (`Digital Presence Manager`) with status `in_progress`.
+- Issue body must be updated with concrete deltas before any re-review request.
+- Re-submit to Principle Architect only after the revised element is reflected in the issue body and artifacts.
+
+3. **Changes needed (both content and images)**
+- Return to execution ownership (`Digital Presence Manager`) with status `in_progress`.
+- Add explicit revision checklist in the issue body:
+  - content deltas
+  - image deltas
+  - which feedback comment is being addressed
+- Do not re-route to Principle Architect until checklist items are completed in-file.
+
+4. **Blocked by upstream dependency**
+- Keep under execution ownership and set status `blocked` with named unblocker.
+- Principle Architect should not remain assignee for dependency wait states.
+
 ### Step 4: Publishing
-- Emails: Board sends via Zoho Mail
+- Emails: if PA/board approved for outbound and sensitivity is GREEN/AMBER, BB sends via the canonical approved route and logs execution; RED or explicitly board-owned sends stay board-side
 - Social: Board publishes or schedules (agents prepare final copy + images)
 - BB updates contacts-master.csv (Last Contacted, Response Status)
 - HR logs social post metrics when available
@@ -182,13 +208,18 @@ Before ANY content goes to board review:
 - **Rule**: Every piece of content must lead with client benefit, not Vitan capability
 - **Applies to**: All platforms
 
+### Pattern: REVIEW-LANE EXIT DISCIPLINE
+- **Observation**: Approved or unchanged review tickets were bouncing back to Principle Architect, creating avoidable queue cleanup work.
+- **Rule**: After PA decision, tickets either exit review immediately (approved) or return to execution ownership with explicit deltas before re-review.
+- **Applies to**: All `[CONTENT REVIEW]` issues.
+
 ---
 
 ## Agent Responsibilities
 
 | Platform | Primary Agent | Backup Agent | Board Role |
 |----------|--------------|--------------|------------|
-| Email drafts | BB | PA | Sends via Zoho, provides relationship context |
+| Email drafts | BB | PA | Approves outbound, may retain send ownership when sensitivity or relationship context requires it |
 | LinkedIn | HR | BB | Approves, publishes |
 | Instagram | HR | FE (visuals) | Approves, publishes |
 | X / Twitter | HR | BB | Approves, publishes |

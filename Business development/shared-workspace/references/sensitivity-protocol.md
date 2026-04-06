@@ -67,7 +67,7 @@ After discovery, every contact must be tagged in contacts-master.csv using these
 - `BOARD_APPROVE_FIRST` — All outreach must be approved by board before sending
 - `CONFIDENTIALITY_OFFER` — Proactively offer NDA or confidentiality clause
 - `NO_PAST_DETAIL` — Never reference details of past projects with this client
-- `VALUE_LEAD` — Always lead with 10-15% savings framework
+- `VALUE_LEAD` — Lead with qualitative value-first framing (for example premium perception, decision confidence, execution clarity, or reduced downstream drift). Numeric savings or value-loss language is allowed only when tied to a canonical, approved external-proof source named in the draft or approval packet.
 - `WARM_REINTRO` — Use re-introduction framing, not cold outreach
 
 ### Loop 3: LEARN (Turn Every Board Correction Into a System Rule)

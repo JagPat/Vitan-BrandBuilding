@@ -137,6 +137,24 @@ This file maps current system capabilities, records capability gaps, and stores 
   - PA must define the communication protocol and safe ingestion path
   - FE may need to harden any missing Zoho or WorkDrive fetch surfaces if the runtime remains degraded
 
+### 2026-04-06 - Workflow Push Credential Provisioning Gap
+
+- Gap type: `TOOL_GAP`
+- Status: `acquiring`
+- Lead owner: Principle Architect
+- Supporting agents: Founding Engineer
+- Trigger:
+  - [VITA-332](/VITA/issues/VITA-332) restored the workflow-aware push path in principle, but the remaining live blocker moved to credential authority
+  - [VITA-333](/VITA/issues/VITA-333) verified that `GET /api/companies/{companyId}/secrets` is board-gated from agent context with `403 Board access required`
+  - a disposable PA runtime probe branch push to `.github/workflows/vita333-scope-probe.yml` was rejected by GitHub because the mounted PAT lacks workflow scope
+- Structural weakness:
+  - managed runtimes currently have a GitHub token that can push normal branch updates but not workflow files
+  - the missing capability cannot be self-healed by agents because the secret store is board-controlled
+- Required adaptation:
+  - the board must provision `GITHUB_WORKFLOW_PAT_VITAN` for repo automation lanes that need workflow-file updates
+  - FE must validate the workflow-file push path after provisioning and close [VITA-332](/VITA/issues/VITA-332) only once the helper path is proven end-to-end
+  - PA may then resume scheduled promotion for the board communication workflow under [VITA-331](/VITA/issues/VITA-331)
+
 ## Adaptation History
 
 ### 2026-04-06 - Canonical Shared-Workspace Path Contract Declared

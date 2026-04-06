@@ -13,6 +13,13 @@ This file records board-facing decisions, recurring preferences, and pattern imp
 - Log board interactions within 24 hours.
 - Do not store secrets or raw credentials here.
 - Move recurring patterns into the Preference Codex only after 3 or more consistent decisions.
+- For email or WorkDrive-based reviews, log:
+  - issue id
+  - verdict
+  - channel
+  - short reasoning summary
+  - source ids or message ids
+- Do not copy full email bodies into this file.
 
 ## Decision Log
 
@@ -25,3 +32,4 @@ No durable board patterns promoted yet in the tracked repo.
 ## Sources Consulted
 
 - Principle Architect operating instructions loaded for 2026-04-06
+- `Business development/shared-workspace/references/board-communication-protocol.md`

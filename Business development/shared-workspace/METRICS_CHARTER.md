@@ -25,6 +25,8 @@ This document defines the KPI surface for the 7-agent system. It is the operatin
 | Relay drop rate | PA | `0` | active |
 | PA approval latency | PA | `< 4 hours` | active |
 | Approved artifact to `main` promotion time | PA | `< 24 hours` | bootstrapping |
+| Board response time | PA | `< 24 hours` | bootstrapping |
+| Board feedback loop closure rate | PA | `100%` of accepted verdicts logged in `BOARD_FEEDBACK.md` within 24 hours | bootstrapping |
 
 ## Agent KPI Surface
 
@@ -34,6 +36,8 @@ This document defines the KPI surface for the 7-agent system. It is the operatin
 - Approval latency held below target
 - Architecture and governance artifacts kept current
 - Ratchet, adaptation, and board-feedback routines executed when due
+- Board review requests sent on cadence when board sign-off is required
+- Board replies and WorkDrive review comments ingested through a controlled allowlisted workflow
 
 ### Business Builder
 
@@ -84,5 +88,6 @@ This document defines the KPI surface for the 7-agent system. It is the operatin
 - Principle Architect operating instructions loaded for 2026-04-06
 - `SYSTEM_ARCHITECTURE.md`
 - `Business development/shared-workspace/references/board-digest-template.md`
+- `Business development/shared-workspace/references/board-communication-protocol.md`
 - `Business development/shared-workspace/references/git-coordination.md`
 - `Business development/shared-workspace/review/vita328/merge-cycle-routine-2026-04-06.md`

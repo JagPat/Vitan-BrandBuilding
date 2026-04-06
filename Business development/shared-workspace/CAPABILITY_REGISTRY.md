@@ -16,6 +16,7 @@ This file maps current system capabilities, records capability gaps, and stores 
 - Planning-cascade supervision
 - Architecture ownership
 - Objective validation and system coordination
+- Board email review and digest workflow
 
 ### Business Builder
 
@@ -120,6 +121,22 @@ This file maps current system capabilities, records capability gaps, and stores 
   - PA must define the merge-cycle routine and readiness checklist under [VITA-328](/VITA/issues/VITA-328)
   - FE must execute promotion merges from explicit commit packets rather than assuming the full branch head is safe to merge
 
+### 2026-04-06 - Board External Review Loop Gap
+
+- Gap type: `WORKFLOW_GAP`
+- Status: `acquiring`
+- Lead owner: Principle Architect
+- Supporting agents: Founding Engineer
+- Trigger:
+  - [VITA-320](/VITA/issues/VITA-320) exposed that board approval was requested conceptually, but there was no governed delivery path from agent artifacts to board inboxes and back into tracked decisions
+  - [VITA-331](/VITA/issues/VITA-331) was opened to convert this from ad hoc communication into a system capability
+- Structural weakness:
+  - the board could not review artifacts without opening Paperclip directly
+  - accepted board feedback had no durable machine-readable intake path
+- Required adaptation:
+  - PA must define the communication protocol and safe ingestion path
+  - FE may need to harden any missing Zoho or WorkDrive fetch surfaces if the runtime remains degraded
+
 ## Adaptation History
 
 ### 2026-04-06 - Canonical Shared-Workspace Path Contract Declared
@@ -181,6 +198,22 @@ This file maps current system capabilities, records capability gaps, and stores 
   - `Business development/shared-workspace/review/vita328/merge-cycle-routine-2026-04-06.md`
   - `SYSTEM_ARCHITECTURE.md`
 
+### 2026-04-06 - Board Email Review Workflow Activated
+
+- Status: `degraded`
+- Source issue: [VITA-331](/VITA/issues/VITA-331)
+- Outcome:
+  - PA defined a board communication protocol covering review requests, daily digests, reply parsing, and WorkDrive comment intake
+  - a dedicated workflow script now builds the board emails, records pending reviews, and resolves verdicts conservatively from trusted board channels
+  - governance docs now measure board response time and feedback-loop closure
+  - dry-run verification succeeded for review request assembly, digest assembly, and conservative reply resolution from trusted senders
+  - live mailbox polling remains degraded until Zoho OAuth mailbox credentials are mounted in the active runtime
+  - GitHub workflow-based scheduling remains uncommitted from this runtime because the available PAT cannot update `.github/workflows/*`
+- Artifacts:
+  - `Business development/shared-workspace/references/board-communication-protocol.md`
+  - `Business development/shared-workspace/review/vita331/board-email-review-workflow-2026-04-06.md`
+  - `scripts/board_communication_workflow.py`
+
 ## Status Vocabulary
 
 - `active`: currently usable in production workflow
@@ -196,11 +229,14 @@ This file maps current system capabilities, records capability gaps, and stores 
 - `Business development/shared-workspace/review/vita313/board-morning-digest-2026-04-06.md`
 - `Business development/shared-workspace/review/vita326/governance-baseline-resolution-2026-04-06.md`
 - `Business development/shared-workspace/review/vita328/merge-cycle-routine-2026-04-06.md`
+- `Business development/shared-workspace/review/vita331/board-email-review-workflow-2026-04-06.md`
 - [VITA-311](/VITA/issues/VITA-311)
 - [VITA-313](/VITA/issues/VITA-313)
 - [VITA-314](/VITA/issues/VITA-314)
 - [VITA-326](/VITA/issues/VITA-326)
 - [VITA-328](/VITA/issues/VITA-328)
+- [VITA-320](/VITA/issues/VITA-320)
+- [VITA-331](/VITA/issues/VITA-331)
 - [VITA-318](/VITA/issues/VITA-318)
 - [VITA-319](/VITA/issues/VITA-319)
 - [VITA-317](/VITA/issues/VITA-317)

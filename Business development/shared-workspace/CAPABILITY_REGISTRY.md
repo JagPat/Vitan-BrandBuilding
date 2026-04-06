@@ -105,6 +105,21 @@ This file maps current system capabilities, records capability gaps, and stores 
 - Required adaptation:
   - BB must improve closeout quality under [VITA-319](/VITA/issues/VITA-319) so future strategy handoffs are auditable from issue state plus repo state
 
+### 2026-04-06 - Approved Branch Promotion Gap
+
+- Gap type: `WORKFLOW_GAP`
+- Status: `acquiring`
+- Lead owner: Principle Architect
+- Supporting agents: Founding Engineer
+- Trigger:
+  - [VITA-320](/VITA/issues/VITA-320) showed that a commit could be approved in principle yet remain stranded on an agent branch when push or promotion handling failed
+  - the initial VITA-328 branch scan found multiple long-lived agent branches ahead of `main`, which means whole-branch squash would mix approved and unapproved work
+- Structural weakness:
+  - the system had branch isolation, but not a bounded promotion routine that turns approved branch work into a safely mergeable mainline packet
+- Required adaptation:
+  - PA must define the merge-cycle routine and readiness checklist under [VITA-328](/VITA/issues/VITA-328)
+  - FE must execute promotion merges from explicit commit packets rather than assuming the full branch head is safe to merge
+
 ## Adaptation History
 
 ### 2026-04-06 - Canonical Shared-Workspace Path Contract Declared
@@ -153,6 +168,19 @@ This file maps current system capabilities, records capability gaps, and stores 
   - `Business development/shared-workspace/scorecards/OC-SCORECARD.md`
   - `Business development/shared-workspace/review/vita326/governance-baseline-resolution-2026-04-06.md`
 
+### 2026-04-06 - Merge-Cycle Routine Activated For Agent Branch Promotion
+
+- Status: `active`
+- Source issue: [VITA-328](/VITA/issues/VITA-328)
+- Outcome:
+  - PA codified two merge triggers: task-completion and the daily 10:30 AM IST branch scan
+  - the architecture now treats persistent agent branches as working lanes rather than default deployment units
+  - promotion-branch packaging is now the default for mixed branch history so approved commits can be promoted without dragging unrelated work into `main`
+- Artifacts:
+  - `Business development/shared-workspace/references/git-coordination.md`
+  - `Business development/shared-workspace/review/vita328/merge-cycle-routine-2026-04-06.md`
+  - `SYSTEM_ARCHITECTURE.md`
+
 ## Status Vocabulary
 
 - `active`: currently usable in production workflow
@@ -167,10 +195,12 @@ This file maps current system capabilities, records capability gaps, and stores 
 - `Business development/shared-workspace/review/vita311/path-contract-normalization-decision-2026-04-06.md`
 - `Business development/shared-workspace/review/vita313/board-morning-digest-2026-04-06.md`
 - `Business development/shared-workspace/review/vita326/governance-baseline-resolution-2026-04-06.md`
+- `Business development/shared-workspace/review/vita328/merge-cycle-routine-2026-04-06.md`
 - [VITA-311](/VITA/issues/VITA-311)
 - [VITA-313](/VITA/issues/VITA-313)
 - [VITA-314](/VITA/issues/VITA-314)
 - [VITA-326](/VITA/issues/VITA-326)
+- [VITA-328](/VITA/issues/VITA-328)
 - [VITA-318](/VITA/issues/VITA-318)
 - [VITA-319](/VITA/issues/VITA-319)
 - [VITA-317](/VITA/issues/VITA-317)

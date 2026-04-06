@@ -53,10 +53,19 @@ Fresh angle (new project, award, publication). Max 2 re-engagement attempts/year
 - Dead: 2 re-engagements no response → lost, stop all
 - Declined: explicit decline → lost/declined, never contact again
 
+## Outbound Authority Rule
+
+- `PA approved for outbound` means the content, route, and guardrails are approved for execution on the named task.
+- After that approval, BB may execute Stage-1, Stage-2, Stage-3, and Stage-7 outreach directly using the canonical approved sending route when the contact sensitivity is GREEN or AMBER.
+- RED sensitivity outreach still requires explicit board approval before any send, and the board may still require board-side sending on a task when relationship context or channel control matters.
+- If the board wants to retain direct sending control on a specific task, that exception must be stated explicitly in the issue or approval thread. Do not infer it from the general workflow.
+- BB must not improvise a new channel, new recipient, or materially revised copy after approval. Any such change returns the task to board review.
+
 ## Email Delivery Workflow
 1. BB drafts HTML → shared-workspace/review/vita{NNN}/
 2. BB updates contacts-master Draft Message Status = "drafted"
 3. Board reviews → approves/changes/rejects
-4. Board sends via Zoho Mail
-5. Board updates contacts-master: "sent", Last Contacted = date
-6. BB monitors follow-up triggers
+4. If approved for outbound and sensitivity is GREEN/AMBER, BB sends via the canonical approved route and logs the send
+5. If sensitivity is RED or the board explicitly retains send ownership, board sends via the named route and records that choice in the issue
+6. BB updates contacts-master: "sent", Last Contacted = date, route used, and execution note reference
+7. BB monitors follow-up triggers

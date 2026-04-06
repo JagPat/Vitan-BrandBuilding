@@ -19,6 +19,29 @@
 - PA agent or board merges approved PRs
 - After merge, agents sync their branches from latest main
 
+## Push Protocol
+
+1. Commit your branch changes locally.
+2. Push the branch with `node scripts/github_branch_push.mjs --branch agent/{slug}`.
+3. If you need PR handoff from a managed runtime, run `node $AGENT_HOME/scripts/github_pr_handoff.mjs --head agent/{slug} --base main --commit <sha> --issue <issue-id>`.
+
+### Why the helper is required
+
+- Managed shells do not always inherit a usable GitHub credential helper.
+- `.github/workflows/*` changes are stricter than normal repo content: GitHub rejects them unless the token used for the push has `workflow` scope.
+- `scripts/github_branch_push.mjs` detects workflow-file changes before push, selects the right token env var, and fails fast with an explicit error if the workflow-capable token is missing.
+
+### Token contract
+
+- `GITHUB_PAT_VITAN`: default repo push token for normal branch content.
+- `GITHUB_WORKFLOW_PAT_VITAN`: required when the push includes `.github/workflows/*`.
+
+### Expected behavior
+
+- Normal branch changes: helper uses `GITHUB_PAT_VITAN`.
+- Workflow-file changes: helper requires `GITHUB_WORKFLOW_PAT_VITAN`.
+- If a workflow-scoped token is missing or still under-scoped, treat it as a credential provisioning problem, not a transient git failure.
+
 ## File Ownership (Advisory)
 
 | Path | Primary Owner | Secondary |

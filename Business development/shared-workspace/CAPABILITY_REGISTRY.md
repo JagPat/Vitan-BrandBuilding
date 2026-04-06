@@ -78,6 +78,33 @@ This file maps current system capabilities, records capability gaps, and stores 
   - FE must align runtime mounts and instruction references to `Business development/shared-workspace/`
   - PA has already codified the canonical path contract in `SYSTEM_ARCHITECTURE.md`
 
+### 2026-04-06 - Managed Runtime PR Creation Gap
+
+- Gap type: `TOOL_GAP`
+- Status: `acquiring`
+- Lead owner: Founding Engineer
+- Supporting agents: Principle Architect
+- Trigger:
+  - PA pushed commit `b53987f` successfully to `agent/pa`, but could not create a PR from the managed runtime
+  - `gh` CLI was absent and the GitHub API create-PR attempt returned `403 Forbidden`
+- Structural weakness:
+  - the runtime supports branch updates but not the full review handoff described in PA git workflow guidance
+- Required adaptation:
+  - FE must restore a reviewable PR creation path or document an explicit alternative workflow under [VITA-318](/VITA/issues/VITA-318)
+
+### 2026-04-06 - Strategy Handoff Quality Gap
+
+- Gap type: `WORKFLOW_GAP`
+- Status: `acquiring`
+- Lead owner: Business Builder
+- Supporting agents: Principle Architect, Digital Presence Manager
+- Trigger:
+  - [VITA-287](/VITA/issues/VITA-287) closed without repo-visible strategy artifacts, creating a false-positive relay completion signal
+- Structural weakness:
+  - BB closeouts for strategy work did not require explicit verification of tracked artifacts or downstream unblocked dependencies
+- Required adaptation:
+  - BB must improve closeout quality under [VITA-319](/VITA/issues/VITA-319) so future strategy handoffs are auditable from issue state plus repo state
+
 ## Adaptation History
 
 ### 2026-04-06 - Canonical Shared-Workspace Path Contract Declared
@@ -122,4 +149,6 @@ This file maps current system capabilities, records capability gaps, and stores 
 - [VITA-311](/VITA/issues/VITA-311)
 - [VITA-313](/VITA/issues/VITA-313)
 - [VITA-314](/VITA/issues/VITA-314)
+- [VITA-318](/VITA/issues/VITA-318)
+- [VITA-319](/VITA/issues/VITA-319)
 - [VITA-317](/VITA/issues/VITA-317)

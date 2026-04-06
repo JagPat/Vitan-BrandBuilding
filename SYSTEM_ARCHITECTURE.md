@@ -180,8 +180,9 @@ PA updates this document when:
 As of 2026-04-06:
 
 - publication-source blockers remain open in [VITA-233](/VITA/issues/VITA-233), [VITA-226](/VITA/issues/VITA-226), and [VITA-211](/VITA/issues/VITA-211)
-- strategy-relay restoration remains open in [VITA-314](/VITA/issues/VITA-314) and [VITA-317](/VITA/issues/VITA-317)
+- strategy-relay restoration remains open in [VITA-314](/VITA/issues/VITA-314), [VITA-317](/VITA/issues/VITA-317), and [VITA-319](/VITA/issues/VITA-319)
 - managed-runtime branch or worktree isolation remains open in [VITA-309](/VITA/issues/VITA-309)
+- managed-runtime PR creation remains open in [VITA-318](/VITA/issues/VITA-318)
 
 ## Sources Consulted
 
@@ -190,4 +191,4 @@ As of 2026-04-06:
 - `Business development/shared-workspace/review/vita311/path-contract-normalization-decision-2026-04-06.md`
 - `Business development/shared-workspace/review/vita313/board-morning-digest-2026-04-06.md`
 - Principle Architect operating instructions loaded for 2026-04-06
-- Open issue state: [VITA-211](/VITA/issues/VITA-211), [VITA-226](/VITA/issues/VITA-226), [VITA-233](/VITA/issues/VITA-233), [VITA-309](/VITA/issues/VITA-309), [VITA-314](/VITA/issues/VITA-314), [VITA-317](/VITA/issues/VITA-317)
+- Open issue state: [VITA-211](/VITA/issues/VITA-211), [VITA-226](/VITA/issues/VITA-226), [VITA-233](/VITA/issues/VITA-233), [VITA-309](/VITA/issues/VITA-309), [VITA-314](/VITA/issues/VITA-314), [VITA-317](/VITA/issues/VITA-317), [VITA-318](/VITA/issues/VITA-318), [VITA-319](/VITA/issues/VITA-319)

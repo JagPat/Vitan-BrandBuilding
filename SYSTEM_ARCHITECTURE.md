@@ -182,8 +182,17 @@ The system is considered degraded when any of the following are true:
 - daily review is happening without explicit upstream strategic linkage
 - execution agents are producing work that does not trace back to strategy or issue dependencies
 - an approved artifact remains stranded on an agent branch without promotion to `main` inside the merge-cycle window
+- a board-owned blocker remains open after the underlying dependency has already been resolved or superseded, causing board digests and dependency maps to report false active blockers
 
 When degradation is detected, PA must surface it in board communications and create corrective work rather than relying on implicit recovery.
+
+## Board-Owned Blocker Retirement Rule
+
+Board-owned dependency tickets are part of the system's governance surface, not passive backlog.
+
+- If the underlying dependency is resolved through a different corrective path, the board-owned ticket must be explicitly retired, re-scoped, or annotated with a PA recommendation at the ticket itself.
+- Parent issue comments or board digests are not sufficient on their own; the stale ticket must carry its own updated state or retirement guidance.
+- Once a blocker is superseded, leaving the board-owned ticket untouched is treated as a coordination defect because it pollutes blocker reporting and distracts board attention from the real remaining dependencies.
 
 ## Cross-Agent Coordination Rules
 
@@ -191,6 +200,7 @@ When degradation is detected, PA must surface it in board communications and cre
 - DPM, BS, and OC should reference upstream VITA issues when they produce downstream deliverables.
 - FE is engaged when tooling or repository structure prevents the cascade from operating reliably.
 - HR is engaged when expansion priorities create capability gaps or when agent topology needs revision.
+- PA is responsible for ensuring board-owned blockers are re-scoped or retired when downstream or sibling fixes remove the original dependency.
 
 ## Architecture Review Triggers
 
@@ -219,5 +229,6 @@ As of 2026-04-06:
 - `Business development/shared-workspace/review/vita313/board-morning-digest-2026-04-06.md`
 - `Business development/shared-workspace/review/vita326/governance-baseline-resolution-2026-04-06.md`
 - `Business development/shared-workspace/review/vita328/merge-cycle-routine-2026-04-06.md`
+- `Business development/shared-workspace/review/vita342/stale-board-owned-blocker-retirement-decision-2026-04-06.md`
 - Principle Architect operating instructions loaded for 2026-04-06
-- Open issue state: [VITA-211](/VITA/issues/VITA-211), [VITA-226](/VITA/issues/VITA-226), [VITA-233](/VITA/issues/VITA-233), [VITA-309](/VITA/issues/VITA-309), [VITA-314](/VITA/issues/VITA-314), [VITA-317](/VITA/issues/VITA-317), [VITA-318](/VITA/issues/VITA-318), [VITA-319](/VITA/issues/VITA-319), [VITA-326](/VITA/issues/VITA-326), [VITA-328](/VITA/issues/VITA-328)
+- Open issue state: [VITA-211](/VITA/issues/VITA-211), [VITA-226](/VITA/issues/VITA-226), [VITA-233](/VITA/issues/VITA-233), [VITA-309](/VITA/issues/VITA-309), [VITA-314](/VITA/issues/VITA-314), [VITA-317](/VITA/issues/VITA-317), [VITA-318](/VITA/issues/VITA-318), [VITA-319](/VITA/issues/VITA-319), [VITA-326](/VITA/issues/VITA-326), [VITA-328](/VITA/issues/VITA-328), [VITA-337](/VITA/issues/VITA-337), [VITA-342](/VITA/issues/VITA-342)

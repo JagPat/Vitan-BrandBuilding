@@ -7,7 +7,7 @@ on:
       - 'Business development/shared-workspace/**'
       - 'Business development/Brand Guide/**'
       - 'Business development/PHOTOS FOR SAMPLE PROJECT/**'
-                - 'Growth OS/**'
+      - 'Growth OS/**'
   workflow_dispatch:
     inputs:
       full_sync:

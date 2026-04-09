@@ -43,6 +43,8 @@ FOLDER_MAP = {
     "Business development/PHOTOS FOR SAMPLE PROJECT/SAFAL PARISAR": "1pu3jd044912b8f4b4e9ca2624349e1a77b5b",
     "Business development/PHOTOS FOR SAMPLE PROJECT/SAFAL PEGASUS": "1pu3j0c0b3f15d35f4b0ca00bfab4c2a9c4a0",
     "Business development/PHOTOS FOR SAMPLE PROJECT/SEVENTY": "1pu3j1de1290a5b8042a9a97092ca55f16658",
+        # Growth OS paths
+            "Growth OS/Board Review/": "1pu3jecae75f067904dbfa42225b1cdaa1ed7",  # Board Review
 }
 
 # Echo loop marker

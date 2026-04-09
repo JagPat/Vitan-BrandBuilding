@@ -22,9 +22,6 @@ WORKDRIVE_UPLOAD_URL = "https://workdrive.zoho.in/api/v1/upload"
 TEAM_ID = "kidw386248c6f04a747c4991913a2e33042c2"
 WORKSPACE_ID = "e5w44b189830995064556babffa4b4cd9c68c"
 
-# Folder ID mapping: WorkDrive folder IDs
-GROWTH_OS_ID = "1pu3j0063efb738b44cd6929455bd66a0d60a"
-
 FOLDER_MAP = {
     # GitHub path prefix → WorkDrive folder ID
     "Business development/shared-workspace/review/vita191/": "1pu3jb52bdad662004a14bd315433324cc788",  # Competitor Research

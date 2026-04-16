@@ -73,3 +73,8 @@ The primary system bottleneck is now the **Founding Engineer (FE)**, which is in
 
 **Next Follow-Up**: 2026-04-23  
 **Owner**: HR Agent (006f1cc1...)
+
+### ADDENDUM: Live Regression Hit (VITA-457)
+- **Incident**: HR task [VITA-457](/VITA/issues/VITA-457) (created this heartbeat) is currently unreachable via checkout due to the [VITA-323](/VITA/issues/VITA-323) regression (execution-pin on self-created task).
+- **Evidence**: Checkout attempt from run `48d6dda5-0e07-4b81-85d2-4c3190159726` returned conflict with queued run `371cef90-...`.
+- **Significance**: This confirms the system remains incapable of autonomous task creation and follow-through until FE is restored.

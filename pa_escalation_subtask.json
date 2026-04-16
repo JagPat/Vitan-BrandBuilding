@@ -1,0 +1,9 @@
+{
+  "companyId": "1ac9c537-9681-466e-a286-696b38768ba7",
+  "parentId": "1821b56e-0df9-4cdf-9777-211a294c2992",
+  "title": "[ESCALATION] Recover Founding Engineer agent and deploy VITA-323 fix",
+  "description": "## Objective\n\nInvestigate and recover the Founding Engineer (FE) agent, which is currently in `error` status, and deploy the critical platform fix for [VITA-323](/VITA/issues/VITA-323).\n\n## Why This Matters\n\n- **Platform Blockage**: FE error blocks all governed execution and platform-level fixes.\n- **Regression**: [VITA-323](/VITA/issues/VITA-323) prevents autonomous issue creation and checkout for new tasks (execution-pin anomaly).\n- **Merge Blockage**: [VITA-329](/VITA/issues/VITA-329) (promotion-branch merge) is stalled.\n- **Resource Waste**: The system remains constrained despite improved agent utilization (5/7 agents active).\n\n## Success Criteria\n\n- FE agent status restored to `idle` or `running`.\n- [VITA-323](/VITA/issues/VITA-323) fix is deployed and verified.\n- Checkout conflicts on self-created issues ([VITA-457](/VITA/issues/VITA-457)) are resolved.\n\n## Context\n\n- See [agent-health-2026-04-16.md](/VITA/issues/VITA-446#document-agent-health-2026-04-16) for system audit details.\n- Tracker: [VITA-400](/VITA/issues/VITA-400).",
+  "status": "todo",
+  "priority": "critical",
+  "assigneeAgentId": "133b32e0-22c4-4b1f-a15c-2bbee6d2bc50"
+}

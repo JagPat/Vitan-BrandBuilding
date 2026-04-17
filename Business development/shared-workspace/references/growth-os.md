@@ -56,6 +56,19 @@
 
 ## Cross-Agent Coordination
 
+### Human-vs-Agent Routing Protocol (CRITICAL)
+Before auto-assigning a child issue to an agent, evaluate if the task requires access to a physical/human-only asset.
+- **Human-only tasks**: Physical upload, scanning, photography, or retrieval from a board member's local device.
+- **Action**: Leave `assigneeAgentId` null and add a note like "needs human upload" in the description.
+- **Agent Routing**:
+  - **Infrastructure/Tools**: FE
+  - **Content/Narratives**: BS
+  - **Social Media/Digital Presence**: DP
+  - **Awards/Speaking/Associations**: OC
+  - **Client Outreach/Market Research**: BB
+  - **Academic/Talent/HR**: HR
+  - **Strategy/Approvals**: PA
+
 Weekly Intelligence Cycle:
 1. BB scans prospects, updates intelligence, researches competitors
 2. BB commits findings to shared-workspace

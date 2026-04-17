@@ -110,11 +110,13 @@ Awards are the most powerful credibility signal in architecture.
 **A Vitan monograph/book**:
 - Showcases 10-15 best projects with photography, drawings, and design narratives
 - Positions Vitan as a serious, established practice
+- Source of truth for all project data: `shared-workspace/intelligence/projects/` registry.
 - Can be given to prospects, displayed in studio, sent to awards juries
 - Can be self-published or through an architecture publisher (RIBA Publishing, Images Publishing, etc.)
 
 **Case studies**:
-- For each completed project, create a detailed case study: brief, design response, challenges, solutions, cost savings delivered
+- For each completed project, create a detailed case study: brief, design response, challenges, solutions, cost savings delivered.
+- Use the **Project Fact Sheet Registry** (`shared-workspace/intelligence/projects/`) as the foundation for all technical and team data.
 - These feed into: website, awards submissions, portal submissions, client presentations
 
 **Agent mandate**: PA to outline a monograph structure. FE to organize project photography. HR to research publishing options.

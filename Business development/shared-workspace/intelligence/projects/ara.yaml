@@ -1,0 +1,28 @@
+id: "ara"
+title: "Ahmedabad Racquet Academy (ARA)"
+location:
+  city: "Ahmedabad"
+  state: "Gujarat"
+  country: "India"
+  address: "Ahmedabad, Gujarat, India"
+typology: "Institutional / Sports & Leisure"
+status: "Completed"
+timeline:
+  completion_year: 2011
+technical_data:
+  gross_built_area:
+    value: 20234
+    unit: "sqm"
+  site_area:
+    value: 20234
+    unit: "sqm"
+team:
+  client: "Ahmedabad Racquet Academy Pvt. Ltd."
+  lead_architect: "Ar. Jagrut Patel"
+  design_team: []
+media:
+  photographer: "Umang Shah"
+  photography_permission: true
+  key_features: []
+identifiers:
+  internal_id: "VITA-211"

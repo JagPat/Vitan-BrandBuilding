@@ -1,0 +1,32 @@
+id: "seventy"
+title: "Seventy"
+location:
+  city: "Ahmedabad"
+  state: "Gujarat"
+  country: "India"
+  address: "Ahmedabad, Gujarat, India"
+typology: "Residential / Luxury Housing"
+status: "Completed"
+timeline:
+  completion_year: 2020
+technical_data:
+  height:
+    value: 70
+    unit: "m"
+  units: 70
+team:
+  client: "B Safal (Safal Engineers and Realities LLP)"
+  lead_architect: "Ar. Jagrut Patel"
+  international_architect: "SCDA Architects, Singapore"
+  design_team: []
+media:
+  photographer: "TBC"
+  photography_permission: false
+  key_features:
+    - "The Cloud sky bridge"
+    - "Double-height sky villas"
+    - "Floor-to-ceiling glass skins"
+    - "Infinity pool and wellness hub"
+identifiers:
+  rera: "PR/GJ/AHMEDABAD/AHMEDABAD CITY/AUDA/RAA00067/040917"
+  internal_id: "VITA-461"

@@ -79,7 +79,7 @@ This document provides a consolidated reference for submitting Vitan Architects'
 | Category | Requirement | Notes |
 | :--- | :--- | :--- |
 | **Narrative** | 500 - 800 words | 3rd person, professional yet warm ("Adding life"). |
-| **Technical** | Fact File | Area, Location, Year, Team, Consultants, Clients. |
+| **Technical** | Fact File | Source from `intelligence/projects/` registry. |
 | **Drawings** | Site Plan, Floor Plans, Sections | PDF/High-res JPG. No watermarks. Clear line weights. |
 | **Photos** | High-Res Professional | 2000px - 3000px+ side. Must credit photographer. |
 | **Credits** | Manufacturers & Brands | Essential for ArchDaily and specialized trade journals. |
@@ -88,8 +88,9 @@ This document provides a consolidated reference for submitting Vitan Architects'
 
 ## 4. Submission Pipeline Workflow
 
-1.  **Drafting**: BS Agent drafts narrative based on project brief.
-2.  **Asset Collection**: FE Agent provides photos and technical drawings.
-3.  **Review**: PA Agent (Jagrut) approves the submission package.
-4.  **Filing**: BS Agent submits to portals and tracks status.
-5.  **Amplification**: DP Agent shares published links on social media.
+1.  **Fact Check**: Consult the Project Fact Sheet registry (`intelligence/projects/`) for the latest source-of-truth data.
+2.  **Drafting**: BS Agent drafts narrative based on project brief.
+3.  **Asset Collection**: FE Agent provides photos and technical drawings.
+4.  **Review**: PA Agent (Jagrut) approves the submission package.
+5.  **Filing**: BS Agent submits to portals and tracks status.
+6.  **Amplification**: DP Agent shares published links on social media.

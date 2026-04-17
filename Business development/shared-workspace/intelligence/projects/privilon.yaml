@@ -1,0 +1,29 @@
+id: "privilon"
+title: "Privilon"
+location:
+  city: "Ahmedabad"
+  state: "Gujarat"
+  country: "India"
+  address: "Ambli-BRTS Road, Ahmedabad, India"
+typology: "Mixed-use (Commercial + Retail)"
+status: "Completed"
+timeline:
+  completion_year: 2018
+technical_data:
+  floors: 22
+team:
+  client: "B Safal Group"
+  lead_architect: "Ar. Jagrut Patel"
+  collaborators:
+    - "Benoy (Exterior Designer)"
+  design_team: []
+media:
+  photographer: "TBC"
+  photography_permission: false
+  key_features:
+    - "Exposed concrete facade homage to modernist heritage"
+    - "Private corporate lobbies"
+    - "Sunken courtyard and multilevel landscape"
+    - "Glass and aluminum curtain wall"
+identifiers:
+  internal_id: "VITA-458"

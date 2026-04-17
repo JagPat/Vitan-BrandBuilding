@@ -2,20 +2,30 @@
 
 ## Company Overview
 - **Name:** Sahashya Group (Saraswati Structures LLP)
-- **Leadership:** Ashok Patel (Leadership Team)
-- **Sector Focus:** High-rise Residential
+- **Leadership:** Ashok Umakant Patel (Designated Partner)
+- **Sector Focus:** Ultra-Luxury Residential, Skyscrapers
 - **Relationship Stage:** Cold
+- **Sensitivity:** GREEN (Skyscraper Segment)
 
 ## Active Projects
-- **SKYZENIA (Science Park):** 41-storey exclusive high-rise designed for limited families.
+- **Sahashya Skyzenia (Hebatpur/Science City):** 41-floor ultra-luxury residential tower (161 meters). Flagship skyscraper.
+- **Felicia & Felicia II:** Established premium residential.
 
 ## Current Architects
-- **99 Studio** (Likely associated with their high-end designs).
+- **Prashant Paradava (PDC Architects)** - Lead architect for Skyzenia.
+- **Narendra Patel** - Structural consultant.
 
-## Challenges & Growth Plans
-- Specializing in ultra-exclusive, low-density high-rises in the Science City area.
-- Targeting the "ultra-premium" buyer segment who values privacy and height.
+## Discovery Intelligence (2026-04-17)
+- **Corporate Entity:** Saraswati Structures LLP (inc. 2022). Partners have over 12 years of industry experience. 
+- **Skyline Ambition:** Skyzenia is one of the tallest residential towers in Gujarat, featuring a gym on the 20th floor and an infinity pool.
+- **Financial Reputation:** No public red flags. Substantial open charges (₹135 Cr) which are normal for a project of this scale. RERA compliant.
+- **Philosophy:** Focus on "spaces that breathe" and mindful architecture that blends elegance with well-being.
 
 ## Vitan Positioning Angle
-- Vitan's "Seventy" project is a perfect comparison point for ultra-luxury high-rise excellence.
-- Lead with design philosophy: "Human impact first" in vertical living.
+- **Skyscraper Mastery:** Position Vitan as a peer in ultra-high-rise residential design.
+- **"Breathe" Philosophy Alignment:** Align Vitan's monolithic and modern design principles with their "spaces that breathe" philosophy.
+- **Risk Mitigation:** For a massive 41-floor project, Vitan’s integrated delivery model reduces the risk of design drift and execution delays, protecting their significant capital investment.
+
+## Communication Guardrails
+- `NO_COMPETITOR_MENTION` (Avoid naming PDC Architects)
+- `VALUE_LEAD` (Focus on execution reliability for high-rise complexity)

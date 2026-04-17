@@ -41,10 +41,10 @@
 
 | Project | Category | Photography | Drawings | Narrative | Eligibility (WAF 2026 / AYA 36th) |
 |---------|----------|-------------|----------|-----------|----------------------------------|
-| **Shaligram Luxuria** | Housing | 🔴 Needed | 🔴 Needed | ✅ Drafted | **WAF: ✅** / **AYA: ❌** |
-| **Augusta (Tragad)** | Housing | 🔴 Needed | 🔴 Needed | ✅ Drafted | **WAF: ✅** / **AYA: ❌** |
-| **Safal Vihaan** | Sustainable | 🔴 Needed | 🔴 Needed | ✅ Drafted | **WAF: ✅** / **AYA: 🟡** (Check 2024 completion) |
-| **ARA Sports Complex** | Sports | ✅ Ready | 🟡 Needed | ✅ Drafted | **WAF: ❌** / **AYA: ❌** (Completed 2011) |
+| **Shaligram Luxuria** | Housing | 🔴 Needed | 🔴 Needed | ✅ [Review](/VITA/issues/VITA-530) | **WAF: ✅** / **AYA: ❌** |
+| **Augusta (Tragad)** | Housing | 🔴 Needed | 🔴 Needed | ✅ [Review](/VITA/issues/VITA-530) | **WAF: ✅** / **AYA: ❌** |
+| **Safal Vihaan** | Sustainable | 🔴 Needed | 🔴 Needed | ✅ [Review](/VITA/issues/VITA-530) | **WAF: ✅** / **AYA: 🟡** (Check 2024 completion) |
+| **ARA Sports Complex** | Sports | ✅ Ready | 🟡 Needed | ✅ [Review](/VITA/issues/VITA-530) | **WAF: ❌** / **AYA: ❌** (Completed 2011) |
 | **Pacifica Reflections**| Housing | ✅ Ready | 🟡 Needed | 🟡 Needed | **WAF: ❌** / **AYA: ❌** (Completed 2018) |
 | **Mondeal Retail Park** | Commercial | ✅ Ready | 🟡 Needed | 🟡 Needed | **WAF: ❌** / **AYA: ❌** (Completed 2014) |
 

@@ -4,8 +4,11 @@ Purpose: keep collaboration artifacts in one shared location for drafting, revie
 
 ## Structure
 - `drafts/` — working drafts before review
+  - `outreach-proactive/` — proactive outreach drafts (WAF, AYA, etc.)
 - `review/` — artifacts currently under review
 - `approved/` — finalized/approved outputs
+- `intelligence/` — research and market data
+  - `discovery/` — new opportunities and project candidates
 - `comments/` — reviewer comments and threaded feedback docs
 - `change-notes/` — change logs and revision notes
 

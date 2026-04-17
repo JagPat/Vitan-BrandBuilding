@@ -39,12 +39,16 @@
 
 ## 🏗️ Submission Readiness (Project Candidates)
 
-| Project | Category | Photography | Drawings | Narrative |
-|---------|----------|-------------|----------|-----------|
-| **ARA Sports Complex** | Public / Sports | ✅ Ready | 🟡 Needed | 🟡 Needed |
-| **Pacifica Reflections** | Group Housing | ✅ Ready | 🟡 Needed | 🟡 Needed |
-| **Mondeal** | Commercial | ✅ Ready | 🟡 Needed | 🟡 Needed |
-| **Samprat Residency 3** | Group Housing | 🟡 Needed | 🟡 Needed | 🟡 Needed |
+| Project | Category | Photography | Drawings | Narrative | Eligibility (WAF 2026 / AYA 36th) |
+|---------|----------|-------------|----------|-----------|----------------------------------|
+| **Shaligram Luxuria** | Housing | 🔴 Needed | 🔴 Needed | ✅ Drafted | **ELIGIBLE** (Possession Nov 2025) |
+| **Augusta (Tragad)** | Housing | 🔴 Needed | 🔴 Needed | 🟡 Needed | **ELIGIBLE** (Completed April 2025) |
+| **Safal Vihaan** | Sustainable | 🔴 Needed | 🔴 Needed | 🟡 Needed | **ELIGIBLE** (Completed 2024-2025) |
+| **ARA Sports Complex** | Sports | ✅ Ready | 🟡 Needed | ✅ Drafted | **INELIGIBLE** (Completed 2011) |
+| **Pacifica Reflections**| Housing | ✅ Ready | 🟡 Needed | 🟡 Needed | **INELIGIBLE** (Completed 2018) |
+| **Mondeal Retail Park** | Commercial | ✅ Ready | 🟡 Needed | 🟡 Needed | **INELIGIBLE** (Completed 2014) |
+
+*Note: WAF 2026 requires completion between Jan 1, 2025 and June 1, 2026. JK AYA 36th requires completion in 2024-2025.*
 
 ---
-*Last Updated: April 16, 2026 by Outreach Coordinator*
+*Last Updated: April 17, 2026 by Outreach Coordinator*

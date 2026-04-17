@@ -26,6 +26,8 @@
 - **WAF 2026**: April 24 (Standard), May (Final cutoff).
 - **Architecture MasterPrize**: June 30 (Regular).
 - **IIA Ascension Registration**: April 30.
+- **CTBUH Awards 2026**: May 20 (Final Submission).
+- **GRI Awards India 2026**: June 5 (Nomination Close).
 
 ### Q3 (Jul–Sep)
 - **CWAB Awards**: Typically Q3/Q4.
@@ -41,9 +43,9 @@
 
 | Project | Category | Photography | Drawings | Narrative | Eligibility (WAF 2026 / AYA 36th) |
 |---------|----------|-------------|----------|-----------|----------------------------------|
-| **Shaligram Luxuria** | Housing | 🔴 Needed | 🔴 Needed | ✅ [Review](/VITA/issues/VITA-530) | **WAF: ✅** / **AYA: ❌** |
-| **Augusta (Tragad)** | Housing | 🔴 Needed | 🔴 Needed | ✅ [Review](/VITA/issues/VITA-530) | **WAF: ✅** / **AYA: ❌** |
-| **Safal Vihaan** | Sustainable | 🔴 Needed | 🔴 Needed | ✅ [Review](/VITA/issues/VITA-530) | **WAF: ✅** / **AYA: 🟡** (Check 2024 completion) |
+| **Shaligram Luxuria** | Housing | 🔴 Needed | 🔴 Needed | ✅ [Review](../review/vita530/shaligram-luxuria-waf-narrative.md) | **WAF: ✅** / **AYA: ❌** |
+| **Augusta (Tragad)** | Housing | 🔴 Needed | 🔴 Needed | ✅ [Review](../review/vita530/augusta-waf-narrative.md) | **WAF: ✅** / **AYA: ❌** |
+| **Safal Vihaan** | Sustainable | 🔴 Needed | 🔴 Needed | ✅ [Review](../review/vita530/safal-vihaan-waf-narrative.md) | **WAF: ✅** / **AYA: 🟡** (Check 2024 completion) |
 | **ARA Sports Complex** | Sports | ✅ Ready | 🟡 Needed | ✅ [Review](/VITA/issues/VITA-530) | **WAF: ❌** / **AYA: ❌** (Completed 2011) |
 | **Pacifica Reflections**| Housing | ✅ Ready | 🟡 Needed | 🟡 Needed | **WAF: ❌** / **AYA: ❌** (Completed 2018) |
 | **Mondeal Retail Park** | Commercial | ✅ Ready | 🟡 Needed | 🟡 Needed | **WAF: ❌** / **AYA: ❌** (Completed 2014) |

@@ -65,3 +65,19 @@
 3. If you need content from another agent's domain, create an issue requesting it
 4. PA agent is the merge authority — tag PA in your PR description
 5. All deliverables must go through shared-workspace/review/ before final
+
+## Zoho Mail Tool Path Contract
+
+Canonical source in repo:
+- `scripts/zoho-mail-workflow.py`
+
+Deployment command (run from repo root):
+- `bash scripts/deploy_zoho_mail_workflow.sh`
+
+Runtime paths:
+- Compatibility path (legacy PA capability string): `/tmp/paperclip-skills-*/tools/zoho-mail-workflow.py`
+- Durable path (recommended): `/tmp/paperclip-skills-*/.claude/skills/paperclip/tools/zoho-mail-workflow.py`
+
+Notes:
+- New temp skill bundles are created per heartbeat; run deploy helper to materialize legacy `/tools/` path.
+- Durable path works because each bundle symlinks `.claude/skills/paperclip` to `/app/skills/paperclip`.

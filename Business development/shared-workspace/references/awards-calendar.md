@@ -41,14 +41,14 @@
 
 | Project | Category | Photography | Drawings | Narrative | Eligibility (WAF 2026 / AYA 36th) |
 |---------|----------|-------------|----------|-----------|----------------------------------|
-| **Shaligram Luxuria** | Housing | 🔴 Needed | 🔴 Needed | ✅ Drafted | **ELIGIBLE** (Possession Nov 2025) |
-| **Augusta (Tragad)** | Housing | 🔴 Needed | 🔴 Needed | ✅ Drafted | **ELIGIBLE** (Completed April 2025) |
-| **Safal Vihaan** | Sustainable | 🔴 Needed | 🔴 Needed | ✅ Drafted | **ELIGIBLE** (Completed 2024-2025) |
-| **ARA Sports Complex** | Sports | ✅ Ready | 🟡 Needed | ✅ Drafted | **INELIGIBLE** (Completed 2011) |
-| **Pacifica Reflections**| Housing | ✅ Ready | 🟡 Needed | 🟡 Needed | **INELIGIBLE** (Completed 2018) |
-| **Mondeal Retail Park** | Commercial | ✅ Ready | 🟡 Needed | 🟡 Needed | **INELIGIBLE** (Completed 2014) |
+| **Shaligram Luxuria** | Housing | 🔴 Needed | 🔴 Needed | ✅ Drafted | **WAF: ✅** / **AYA: ❌** |
+| **Augusta (Tragad)** | Housing | 🔴 Needed | 🔴 Needed | ✅ Drafted | **WAF: ✅** / **AYA: ❌** |
+| **Safal Vihaan** | Sustainable | 🔴 Needed | 🔴 Needed | ✅ Drafted | **WAF: ✅** / **AYA: 🟡** (Check 2024 completion) |
+| **ARA Sports Complex** | Sports | ✅ Ready | 🟡 Needed | ✅ Drafted | **WAF: ❌** / **AYA: ❌** (Completed 2011) |
+| **Pacifica Reflections**| Housing | ✅ Ready | 🟡 Needed | 🟡 Needed | **WAF: ❌** / **AYA: ❌** (Completed 2018) |
+| **Mondeal Retail Park** | Commercial | ✅ Ready | 🟡 Needed | 🟡 Needed | **WAF: ❌** / **AYA: ❌** (Completed 2014) |
 
-*Note: WAF 2026 requires completion between Jan 1, 2025 and June 1, 2026. JK AYA 36th requires completion in 2024-2025.*
+*Note: WAF 2026 window (Jan 2025 – June 2026); JK AYA 36th window (Jan 2023 – Dec 2024).*
 
 ---
 *Last Updated: April 17, 2026 (11:15 IST) by Outreach Coordinator*

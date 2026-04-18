@@ -7,27 +7,27 @@ Ahmedabad is undergoing a rapid transition from a mid-rise city to a high-rise m
 ## High-Rise Residential & Commercial Hotspots
 Western corridors (SG Highway, Ambli, Science City Road, Shilaj) are the primary nodes for ultra-luxury residential and premium commercial development.
 
-| Project | Developer | Height/Scale | Status/Note | Vitan Strategic Angle |
-| --- | --- | --- | --- | --- |
-| Iskcon Circle Tower | Navratna Group | 162m (Tallest in GJ) | Mixed-use landmark | Highlight Vitan's ability to handle complex mixed-use logistics |
-| Royce One | Rajyash Group | 156m (40 floors) | Sky residences | Focus on "livability at height" |
-| Titanium World Tower | - | 154m (38 floors) | Commercial benchmark | Differentiate via operational cost savings |
-| Skyzenia | Sahashya Group | 150m (41 floors) | Science City node | Focus on "design that survives operations" |
-| Maruti 360 Towers | Anjey Maruti Group | 153m (41 floors) | Twin residential | High-density luxury positioning |
+| Project | Developer | Height/Scale | Status/Note | Vitan Strategic Angle | Contact ID |
+| --- | --- | --- | --- | --- | --- |
+| Iskcon Circle Tower | Navratna Group | 162m (Tallest in GJ) | Mixed-use landmark | Complex mixed-use logistics | [VIT-C-015](/VITA/contacts/VIT-C-015) |
+| Royce One | Rajyash Group | 156m (40 floors) | Sky residences | "Livability at height" | [VIT-C-009](/VITA/contacts/VIT-C-009) |
+| Titanium World Tower | - | 154m (38 floors) | Commercial benchmark | Operational cost savings | - |
+| Skyzenia | Sahashya Group | 150m (41 floors) | Science City node | "Design that survives operations" | [VIT-C-011](/VITA/contacts/VIT-C-011) |
+| Maruti 360 Towers | Anjey Maruti Group | 153m (41 floors) | Twin residential | High-density luxury | [VIT-C-016](/VITA/contacts/VIT-C-016) |
 
 ## Institutional & Infrastructure Momentum
 - **Sardar Vallabhbhai Patel Sports Enclave**: Massive 350-acre masterplan. Includes a 10,000-seat International Tennis Centre and 12,000-seat Aquatic Centre.
-- **Sankdi Sheri Heritage Makeover (CEPT University)**: A pilot project in the Walled City to restore heritage facades while improving modern urban mobility. **DIRECT HOOK for CEPT outreach.**
+- **Sankdi Sheri Heritage Makeover (CEPT University)**: A pilot project in the Walled City to restore heritage facades while improving modern urban mobility. **DIRECT HOOK for CEPT [VIT-C-019](/VITA/contacts/VIT-C-019) outreach.**
 - **Sabarmati Riverfront Phase-2**: Introduces "Ahmedabad Eye" and floating solar plants, creating a new civic tourism layer.
 
 ## Competitor Movements
 - **INI Design Studio** and **PDC Architects** are currently dominating the 150m+ skyscraper segment.
 - **Apurva Amin Architects** remains strong in the luxury residential tower market.
-- **CEPT University** is actively leading heritage-led urban renewal projects, creating a bridge between academic research and civic execution.
+- **CEPT University [VIT-C-019](/VITA/contacts/VIT-C-019)** is actively leading heritage-led urban renewal projects, creating a bridge between academic research and civic execution.
 
 ## Strategic Recommendations for BB
-1. **Leverage the CEPT-Heritage Link**: Use the Sankdi Sheri project as a specific point of admiration in CEPT outreach. Position Vitan as a firm that understands both heritage sensitivity (like Sankdi Sheri) and the technical rigor of skyscrapers (like Parijaat Eclat).
-2. **Target "The Camellia" & "NB Palm"**: These Science City projects focus on "Sky Villa" and "Luxury 4 BHK" concepts. Vitan’s Parijaat Eclat experience is a direct competitive reference.
+1. **Leverage the CEPT-Heritage Link**: Use the Sankdi Sheri project as a specific point of admiration in CEPT [VIT-C-019](/VITA/contacts/VIT-C-019) outreach. Position Vitan as a firm that understands both heritage sensitivity (like Sankdi Sheri) and the technical rigor of skyscrapers (like Parijaat Eclat).
+2. **Target "The Camellia" [VIT-C-012](/VITA/contacts/VIT-C-012) & "NB Palm" [VIT-C-010](/VITA/contacts/VIT-C-010)**: These Science City projects focus on "Sky Villa" and "Luxury 4 BHK" concepts. Vitan’s Parijaat Eclat experience is a direct competitive reference.
 3. **Institutional Pivot**: With the 2030 Games bid, Vitan should highlight its ARA (Ahmedabad Racquet Academy) credentials to target sub-consultancy or specific facility design roles in the new sports enclave.
 
 ## Verification / Source Link

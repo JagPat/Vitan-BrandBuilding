@@ -7,35 +7,24 @@
 
 ## 🏆 Upcoming Deadlines (Immediate Action Required)
 
-| Award | Category | Deadline | Fee | Link |
-|-------|----------|----------|-----|------|
-| **World Architecture Festival (WAF)** | International | April 24, 2026 | £400+ | [worldarchitecturefestival.com](https://www.worldarchitecturefestival.com) |
-| **IIA Ascension (Competition)** | National | April 30, 2026 | TBD | [theindianinstituteofarchitects.com](https://theindianinstituteofarchitects.com) |
-| **JK Architect of the Year (AYA)** | National | April 30, 2026 | ₹0 | [aya.jkcement.com](https://aya.jkcement.com) |
+| Award | Category | Deadline | Fee | Status | Reference |
+|-------|----------|----------|-----|--------|-----------|
+| **World Architecture Festival (WAF)** | International | April 24, 2026 | £400+ | **URGENT** (6 Days) | [worldarchitecturefestival.com](https://www.worldarchitecturefestival.com) |
+| **IIA Ascension (Competition)** | National | April 30, 2026 | TBD | Monitoring | [theindianinstituteofarchitects.com](https://theindianinstituteofarchitects.com) |
+| **JK Architect of the Year (AYA)** | National | April 30, 2026 | ₹0 | Monitoring | [aya.jkcement.com](https://aya.jkcement.com) |
+| **CTBUH / CVU Awards 2026** | International | May 20, 2026* | TBD | Preparation | Best Tall Building/Innovation |
+| **GRI Awards India 2026** | National | June 5, 2026 | TBD | Monitoring | Nomination Close |
 
-## 📅 Annual Awards Cycle (2026-2027)
+*Note: CTBUH main registration closed Feb 14; May 20 target reflects specific innovation/technical category windows or extension targets.*
 
-### Q1 (Jan–Mar) — *Post-Mortem for 2026 / Planning for 2027*
-- **Architizer A+ Awards**: Jan 30 (Final), Feb 27 (Extended).
-- **India Design ID Honours**: Jan 5.
-- **HUDCO Design Awards**: Feb/Mar.
-- **IIID Regional Awards**: March.
+---
 
-### Q2 (Apr–Jun) — *Current Focus*
-- **JK AYA (36th Edition)**: April 30.
-- **WAF 2026**: April 24 (Standard), May (Final cutoff).
-- **Architecture MasterPrize**: June 30 (Regular).
-- **IIA Ascension Registration**: April 30.
-- **CTBUH Awards 2026**: May 20 (Final Submission).
-- **GRI Awards India 2026**: June 5 (Nomination Close).
+## 🎤 Speaking & Writing Opportunities
 
-### Q3 (Jul–Sep)
-- **CWAB Awards**: Typically Q3/Q4.
-- **WAN Awards (World Architecture News)**: Check for 2026 cycle.
-
-### Q4 (Oct–Dec)
-- **ArchDaily Building of the Year**: Usually Feb (Planning starts Dec).
-- **FOAID ICA Creative Minds**: Submission window closes Aug/Sep.
+| Platform | Speaker | Topic | Deadline | Date | Status |
+|----------|---------|-------|----------|------|--------|
+| **Vibrant Gujarat Regional** | Jagrut Patel | Vertical Urbanism | N/A | 2026-06-10 | Panel/Keynote |
+| **ICAD 2026 (Vadodara)** | Jagrut Patel | Execution Rigor in Skyscrapers | 2026-08-22 | 2026-09-11 | Abstract Due |
 
 ---
 
@@ -43,14 +32,30 @@
 
 | Project | Category | Photography | Drawings | Narrative | Eligibility (WAF 2026 / AYA 36th) |
 |---------|----------|-------------|----------|-----------|----------------------------------|
-| **Shaligram Luxuria** | Housing | 🔴 Needed | 🔴 Needed | ✅ [Review](../review/vita530/shaligram-luxuria-waf-narrative.md) | **WAF: ✅** / **AYA: ❌** |
-| **Augusta (Tragad)** | Housing | 🔴 Needed | 🔴 Needed | ✅ [Review](../review/vita530/augusta-waf-narrative.md) | **WAF: ✅** / **AYA: ❌** |
-| **Safal Vihaan** | Sustainable | 🔴 Needed | 🔴 Needed | ✅ [Review](../review/vita530/safal-vihaan-waf-narrative.md) | **WAF: ✅** / **AYA: 🟡** (Check 2024 completion) |
-| **ARA Sports Complex** | Sports | ✅ Ready | 🟡 Needed | ✅ [Review](/VITA/issues/VITA-530) | **WAF: ❌** / **AYA: ❌** (Completed 2011) |
+| **Shaligram Luxuria** | Housing | 🔴 [VITA-474] | 🔴 Needed | ✅ [Review](../review/vita530/shaligram-luxuria-waf-narrative.md) | **WAF: ✅** / **AYA: ❌** |
+| **Augusta (Tragad)** | Housing | 🔴 [VITA-474] | 🔴 Needed | ✅ [Review](../review/vita530/augusta-waf-narrative.md) | **WAF: ✅** / **AYA: ❌** |
+| **Safal Vihaan** | Sustainable | 🔴 [VITA-474] | 🔴 Needed | ✅ [Review](../review/vita530/safal-vihaan-waf-narrative.md) | **WAF: ✅** / **AYA: 🟡** (Check 2024 completion) |
+| **ARA Sports Complex** | Sports | ✅ Ready | 🟡 [VITA-233] | ✅ [Review](../review/vita530/ara-waf-narrative.md) | **WAF: ❌** / **AYA: ❌** (Completed 2011) |
 | **Pacifica Reflections**| Housing | ✅ Ready | 🟡 Needed | 🟡 Needed | **WAF: ❌** / **AYA: ❌** (Completed 2018) |
 | **Mondeal Retail Park** | Commercial | ✅ Ready | 🟡 Needed | 🟡 Needed | **WAF: ❌** / **AYA: ❌** (Completed 2014) |
 
-*Note: WAF 2026 window (Jan 2025 – June 2026); JK AYA 36th window (Jan 2023 – Dec 2024).*
+---
+
+## 📅 Annual Awards Cycle (2026-2027 Tracking)
+
+### Q1 (Jan–Mar)
+- **Architizer A+ Awards**: Jan/Feb (**CLOSED**)
+- **ArchDaily Building of the Year**: Feb (**CLOSED**)
+- **IIID Regional Awards**: March (**CLOSED**)
+
+### Q3 (Jul–Sep)
+- **Construction World Global Awards (CWGA)**: Aug 15*
+- **CWAB Awards**: Typically Q3/Q4.
+- **WAN Awards**: TBD.
+
+### Q4 (Oct–Dec)
+- **FOAID ICA Creative Minds**: Aug/Sep window.
+- **2027 Cycle Planning**: December.
 
 ---
-*Last Updated: April 17, 2026 (11:15 IST) by Outreach Coordinator*
+*Last Updated: April 18, 2026 (12:30 IST) by Outreach Coordinator*

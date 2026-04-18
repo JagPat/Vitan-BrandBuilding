@@ -21,7 +21,7 @@ CONTACTS_CSV = SHARED_WORKSPACE_DIR / "contacts-master.csv"
 SOCIAL_LINKS = {
     "LinkedIn": "https://in.linkedin.com/company/vitanarchitects",
     "Instagram": "https://www.instagram.com/vitanarchitects/",
-    "Facebook": "https://www.facebook.com/jagrutnpartners/",
+    "Facebook": "https://www.facebook.com/vitanarchitects/",
     "ArchDaily": "https://www.archdaily.com/office/vitan-architects",
     "Website": "https://vitan.in",
 }

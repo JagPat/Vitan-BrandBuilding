@@ -22,9 +22,6 @@ WORKDRIVE_UPLOAD_URL = "https://workdrive.zoho.in/api/v1/upload"
 TEAM_ID = "kidw386248c6f04a747c4991913a2e33042c2"
 WORKSPACE_ID = "e5w44b189830995064556babffa4b4cd9c68c"
 
-# Folder ID mapping: WorkDrive folder IDs
-GROWTH_OS_ID = "1pu3j0063efb738b44cd6929455bd66a0d60a"
-
 FOLDER_MAP = {
     # GitHub path prefix → WorkDrive folder ID
     "Business development/shared-workspace/review/vita191/": "1pu3jb52bdad662004a14bd315433324cc788",  # Competitor Research
@@ -43,6 +40,8 @@ FOLDER_MAP = {
     "Business development/PHOTOS FOR SAMPLE PROJECT/SAFAL PARISAR": "1pu3jd044912b8f4b4e9ca2624349e1a77b5b",
     "Business development/PHOTOS FOR SAMPLE PROJECT/SAFAL PEGASUS": "1pu3j0c0b3f15d35f4b0ca00bfab4c2a9c4a0",
     "Business development/PHOTOS FOR SAMPLE PROJECT/SEVENTY": "1pu3j1de1290a5b8042a9a97092ca55f16658",
+        # Growth OS paths
+            "Growth OS/Board Review/": "1pu3jecae75f067904dbfa42225b1cdaa1ed7",  # Board Review
 }
 
 # Echo loop marker

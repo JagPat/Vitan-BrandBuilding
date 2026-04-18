@@ -45,3 +45,4 @@ Western corridors (SG Highway, Ambli, Science City Road, Shilaj) are the primary
 | Navratna Group | VIT-C-015 | [VIT-C-015](/VITA/contacts/VIT-C-015) |
 | Anjey Maruti Group | VIT-C-016 | [VIT-C-016](/VITA/contacts/VIT-C-016) |
 | CEPT University | VIT-C-019 | [VIT-C-019](/VITA/contacts/VIT-C-019) |
+| Parijaat Eclat | VIT-C-023 | [VIT-C-023](/VITA/contacts/VIT-C-023) |

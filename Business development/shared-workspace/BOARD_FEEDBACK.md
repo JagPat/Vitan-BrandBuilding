@@ -2,7 +2,7 @@
 
 Owner: Principle Architect (PA)  
 Status: Active log  
-Last updated: 2026-04-06
+Last updated: 2026-04-18
 
 ## Purpose
 
@@ -23,7 +23,12 @@ This file records board-facing decisions, recurring preferences, and pattern imp
 
 ## Decision Log
 
-No entries recorded yet in the tracked repo.
+### 2026-04-18 — Zoho Mail Identity Closure (Board Directive)
+- **Issue:** VITA-510 (parent), VITA-511, VITA-480
+- **Verdict:** Close all Zoho mail issues — system identity resolved
+- **Channel:** Paperclip comment on VITA-510 (user, 09:53 UTC)
+- **Summary:** Board confirmed `growthos@vitan.in` is the dedicated system email. Old `jp@vitan.in` setup cancelled. Board tested live send and confirmed receipt. Directed PA to close all related issues. PA closed VITA-510, VITA-511, VITA-480.
+- **Pattern signal:** Board prefers clean closure with explicit confirmation once system-level changes are verified end-to-end (not just intermediate steps).
 
 ## Preference Codex
 

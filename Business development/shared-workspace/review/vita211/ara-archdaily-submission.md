@@ -39,8 +39,13 @@ By prioritizing transparency, accessibility, and architectural integrity, ARA do
 - **Client**: Ahmedabad Racquet Academy Pvt. Ltd.
 - **Completion Year**: 2011
 - **Site Area**: 5 Acres (~20,234 sqm)
-- **Photographer**: Umang Shah
+- **Architect**: Vitan Architects
 - **Lead Architect**: Ar. Jagrut Patel
+- **Structural Consultant**: P-Cube Consultant (Viren D. Parekh)
+- **MEP Consultant**: Jhaveri Associates (Maulik Jhaveri)
+- **Landscape Architect**: M/s Prabhakar B. Bhagwat (Aniket Bhagwat)
+- **Specialized Roofing**: Proflex (m&b engineering)
+- **Photographer**: Umang Shah
 - **Typology**: Institutional / Sports Facility
 
 ## Key Features

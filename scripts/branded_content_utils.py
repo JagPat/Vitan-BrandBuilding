@@ -15,7 +15,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 BRAND_GUIDE_DIR = REPO_ROOT / "Business development" / "Brand Guide"
 PROJECT_PHOTO_DIR = REPO_ROOT / "Business development" / "PHOTOS FOR SAMPLE PROJECT"
 SHARED_WORKSPACE_DIR = REPO_ROOT / "Business development" / "shared-workspace"
-DEFAULT_OUTPUT_DIR = SHARED_WORKSPACE_DIR / "review" / "vita189"
+DEFAULT_OUTPUT_DIR = SHARED_WORKSPACE_DIR / "review" / "VITA-595"
 CONTACTS_CSV = SHARED_WORKSPACE_DIR / "contacts-master.csv"
 
 SOCIAL_LINKS = {

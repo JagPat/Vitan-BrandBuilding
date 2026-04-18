@@ -28,6 +28,8 @@
 | **Vibrant Gujarat Regional (Central)** | Jagrut Patel | Smart High-Rise as Urban Infrastructure | N/A | 2026-06-10 | Abstract Prepared ([VITA-533](/VITA/issues/VITA-533)) |
 | **ICAD 2026 (Vadodara)** | Jagrut Patel | Engineering the 162m Vertical City | 2026-08-22 | 2026-09-11 | Abstract Prepared ([VITA-533](/VITA/issues/VITA-533)) |
 | **ZAK World of Facades (Mumbai/Delhi)**| Jagrut Patel | Climate-Responsive Envelopes | June 2026 | Q3/Q4 2026 | In Planning |
+| **ARCASIA Forum 23 (New Delhi/Jaipur)** | Jagrut Patel | Vernacular Wisdom in High-Density | TBD | 2026-09-08 | **NEW OPPORTUNITY** |
+| **FOAID 2026 (New Delhi)** | Jagrut Patel | Design Manthan: The Profit Centre | TBD | 2026-11-27 | **NEW OPPORTUNITY** |
 
 ---
 
@@ -51,15 +53,25 @@
 - **Architizer A+ Awards**: Jan/Feb (**CLOSED**)
 - **ArchDaily Building of the Year**: Feb (**CLOSED**)
 - **IIID Regional Awards**: March (**CLOSED**)
+- **India Design ID**: Feb (**PASSED**)
+
+### Q2 (Apr–Jun)
+- **India’s Best Design Awards**: Apr 20 (**URGENT** - ₹35k fee flag to PA).
+- **IIA Ascension Competition**: Reg Apr 30 / Sub May 15.
+- **JK Architect of the Year (AYA)**: Apr 30.
+- **CTBUH Awards**: May 20.
+- **GRI Awards India**: June 5.
 
 ### Q3 (Jul–Sep)
 - **Construction World Global Awards (CWGA)**: Aug 15*
+- **ARCASIA Forum 23**: Sep 8-12.
+- **Global Future Design Awards**: Sep 30.
 - **CWAB Awards**: Typically Q3/Q4.
-- **WAN Awards**: TBD.
 
 ### Q4 (Oct–Dec)
-- **FOAID ICA Creative Minds**: Aug/Sep window.
+- **FOAID India**: Nov 27-28.
+- **Intl. Residential Architecture Awards (IRA)**: Nov 30.
 - **2027 Cycle Planning**: December.
 
 ---
-*Last Updated: April 18, 2026 (14:35 IST) by Outreach Coordinator*
+*Last Updated: April 18, 2026 (14:55 IST) by Outreach Coordinator*

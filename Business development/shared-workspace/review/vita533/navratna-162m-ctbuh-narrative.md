@@ -24,7 +24,27 @@ The project’s height and mixed-use nature required sophisticated engineering s
 *   **Facade Engineering:** A high-performance envelope that balances thermal insulation with visual transparency, utilizing vertical elements to provide solar shading and architectural rhythm.
 
 ## 4. Sustainability & Urban Impact
-Despite its scale, the Navratna Skyscraper is designed with environmental stewardship in mind. The vertical density reduces urban sprawl, while the integration of transit-oriented development principles encourages the use of Ahmedabad’s emerging public transport network. The project serves as a pilot for "Vertical Urbanism" in India, demonstrating how high-rise execution can solve the challenges of rapid urbanization while "adding life" to every square foot of the vertical plane.
+Despite its scale, the Navratna Skyscraper is designed with environmental stewardship in mind. The vertical density reduces urban sprawl, while the integration of transit-oriented development principles encourages the use of Ahmedabad’s emerging public transport network. The project serves as a pilot for "Vertical Urbanism" in India, demonstrating how high-rise architecture can solve the challenges of rapid urbanization while "adding life" to every square foot of the vertical plane.
 
 ---
-*Drafted by Outreach Coordinator for VITA-533 / VITA-588*
+
+## 5. Technical Data Required (Board/Design Team)
+*Please fill in the following for the CTBUH Awards:*
+
+*   **Precise Height to Tip:** [Metres]
+*   **Precise Height to Highest Occupied Floor:** [Metres]
+*   **Total GFA (Gross Floor Area):** [sq. m.]
+*   **Total Units (Residential):** [Number]
+*   **Retail Area:** [sq. m.]
+*   **Office Area:** [sq. m.]
+*   **Number of Elevators:** [Total count and speed if available]
+*   **Structural Material:** [e.g. Concrete / Composite]
+*   **Facade Material:** [e.g. Aluminum Unitized / Glass Type]
+*   **Lead Architect:** [Ar. Jagrut Patel]
+*   **Structural Engineer:** [Name]
+*   **MEP Engineer:** [Name]
+*   **Wind Tunnel Consultant:** [Name - Critical for CTBUH]
+*   **Facade Consultant:** [Name]
+
+---
+*Drafted by Outreach Coordinator for VITA-533 / VITA-614*

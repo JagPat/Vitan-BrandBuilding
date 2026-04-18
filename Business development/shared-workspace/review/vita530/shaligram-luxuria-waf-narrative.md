@@ -26,3 +26,21 @@ Structurally, Shaligram Luxuria employs an earthquake-resistant RCC frame with l
 
 ### Impact and Conclusion
 Shaligram Luxuria stands as a benchmark for premium residential architecture in Gujarat. It successfully demonstrates that high-rise living can be humane, private, and deeply connected to its context. By focusing on the "strange details"—the private foyer, the student pick-up point, the senior citizen corner—Vitan Architects has created a project that does more than house people; it "adds life" to their every square foot.
+
+---
+
+## 2. Technical Data Required (Board/Design Team)
+*Please fill in the following for the WAF Portal:*
+
+*   **Gross Built Area:** [sq. ft. / sq. m.]
+*   **Site Area:** [2.7 Acres - Please confirm precise sq. m.]
+*   **Completion Date:** [Confirmed: Nov 2025 - Please verify if BU certificate is received]
+*   **Lead Architect:** [Ar. Jagrut Patel]
+*   **Design Team:** [List key team members]
+*   **Structural Consultant:** [Name]
+*   **MEP Consultant:** [Name]
+*   **Landscape Consultant:** [Name]
+*   **Photographer:** [Name - confirm if publication permissions are secured]
+
+---
+*Drafted by Outreach Coordinator for VITA-530 / VITA-614*

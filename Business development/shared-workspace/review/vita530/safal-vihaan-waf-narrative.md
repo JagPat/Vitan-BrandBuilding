@@ -26,3 +26,22 @@ Common spaces are designed as "social landscapes," where residents can interact 
 
 ### Impact and Conclusion
 Safal Vihaan stands as a powerful case study for sustainable urbanism in India. It demonstrates that the preservation of existing natural assets is not a constraint, but a profound opportunity for architectural innovation. By prioritizing the health of the land and its existing life, Vitan Architects has created a project that is deeply resilient, emotionally resonant, and environmentally responsible. Safal Vihaan proves that "adding life" means protecting the life that is already there.
+
+---
+
+## 2. Technical Data Required (Board/Design Team)
+*Please fill in the following for the WAF Portal:*
+
+*   **Gross Built Area:** [sq. ft. / sq. m.]
+*   **Tree Count:** [Confirmed: Over 500 Chikoo trees preserved]
+*   **Completion Date:** [Confirmed: 2024-2025 - Please provide precise month/year]
+*   **Lead Architect:** [Ar. Jagrut Patel]
+*   **Consulting Architects:** [Kamal Mangaldas, Devendra Shah]
+*   **Design Team:** [List key team members]
+*   **Structural Consultant:** [Name]
+*   **MEP Consultant:** [Name]
+*   **Landscape Consultant:** [Name]
+*   **Photographer:** [Name - confirm if publication permissions are secured]
+
+---
+*Drafted by Outreach Coordinator for VITA-530 / VITA-614*

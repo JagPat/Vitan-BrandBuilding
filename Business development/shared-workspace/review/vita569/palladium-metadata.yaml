@@ -1,0 +1,44 @@
+# Palladium Project Metadata
+# Source: Business development/shared-workspace/intelligence/projects/palladium.yaml
+
+project_id: "palladium"
+official_name: "Palladium"
+location:
+  address: "S.G. Highway, Thaltej"
+  city: "Ahmedabad"
+  state: "Gujarat"
+  country: "India"
+typology: "Commercial (Retail + Lifestyle)"
+status: "Completed"
+completion_year: 2023
+
+technical_data:
+  gross_built_area: 69677
+  area_unit: "sqm"
+  site_area: null
+  floors: null
+
+credits:
+  client: "The Phoenix Mills Ltd. + B Safal Group"
+  lead_architect: "blocher partners india"
+  associate_architect: "Ar. Jagrut Patel (Vitan Architects)"
+  structural_engineer: "Ducon Consultants"
+  mep_consultant: "Pankaj Dharkar & Associates (PDA)"
+  contractor: "PSP Projects Limited"
+  photographer: "Umang Shah / Abhishek Shah"
+
+key_features:
+  - "Dazzling perforated metal facade"
+  - "Luxury retail and dining destination"
+  - "Climate-resilient design with passive cooling"
+  - "Perforated metal facade for daylight control and thermal insulation"
+  - "Urban oasis with integrated greenery"
+
+portal_tags:
+  - Retail
+  - Luxury
+  - Ahmedabad
+  - Perforated Facade
+  - Climate Resilient
+  - Passive Cooling
+  - Indian Architecture

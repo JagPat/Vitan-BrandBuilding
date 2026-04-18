@@ -1,0 +1,32 @@
+id: "palladium"
+title: "Palladium"
+location:
+  city: "Ahmedabad"
+  state: "Gujarat"
+  country: "India"
+  address: "S.G. Highway, Thaltej, Ahmedabad, India"
+typology: "Commercial (Retail + Lifestyle)"
+status: "Completed"
+timeline:
+  completion_year: 2023
+technical_data:
+  gross_built_area:
+    value: 69677  # ~750,000 sq.ft to sqm
+    unit: "sqm"
+team:
+  client: "The Phoenix Mills Ltd. + B Safal Group"
+  lead_architect: "blocher partners india"
+  associate_architect: "Ar. Jagrut Patel (Vitan Architects)"
+  design_team: []
+  structural_engineer: "Ducon Consultants"
+  mep_consultant: "Pankaj Dharkar & Associates (PDA)"
+  contractor: "PSP Projects Limited"
+media:
+  photographer: "Umang Shah / Abhishek Shah"
+  photography_permission: true
+  key_features:
+    - "Dazzling perforated metal facade"
+    - "Luxury retail and dining destination"
+    - "Climate-resilient design with passive cooling"
+identifiers:
+  internal_id: "VITA-311"

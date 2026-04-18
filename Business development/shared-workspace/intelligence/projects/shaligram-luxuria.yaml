@@ -1,0 +1,27 @@
+id: "shaligram-luxuria"
+title: "Shaligram Luxuria"
+location:
+  city: "Ahmedabad"
+  state: "Gujarat"
+  country: "India"
+  address: "Ambli"
+typology: "Residential High-Rise"
+status: "Completed"
+timeline:
+  completion_year: 2025
+technical_data:
+  site_area:
+    value: 2.7
+    unit: "acres"
+  units: 104
+team:
+  client: "Shaligram Group"
+  lead_architect: "Ar. Jagrut Patel"
+media:
+  key_features:
+    - "Private Elevators & Foyers"
+    - "Low-Density Planning (104 Units on 2.7 Acres)"
+    - "25+ Lifestyle Amenities"
+    - "Climate-Responsive Orientation"
+identifiers:
+  internal_id: "VITA-589"

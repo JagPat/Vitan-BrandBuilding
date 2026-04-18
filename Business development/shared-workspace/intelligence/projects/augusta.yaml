@@ -1,0 +1,26 @@
+id: "augusta"
+title: "Augusta"
+location:
+  city: "Ahmedabad"
+  state: "Gujarat"
+  country: "India"
+  address: "Tragad"
+typology: "Residential High-Rise"
+status: "Completed"
+timeline:
+  completion_year: 2025
+technical_data:
+  gross_built_area:
+    value: 170000
+    unit: "sqft"
+team:
+  client: "B Safal & Adani Realty"
+  lead_architect: "Ar. Jagrut Patel"
+media:
+  key_features:
+    - "Central Landscaped Spine"
+    - "10-15% Execution Efficiency"
+    - "Multi-Generational Amenities"
+    - "Climate-Responsive Facade"
+identifiers:
+  internal_id: "VITA-589"

@@ -33,3 +33,15 @@ Western corridors (SG Highway, Ambli, Science City Road, Shilaj) are the primary
 ## Verification / Source Link
 - Market research via web search (2026-04-18).
 - Alignment with `VITA-191` and `VITA-560`.
+
+
+## [CONTACTS_MAP]
+| Entity | Contact ID | Link |
+| --- | --- | --- |
+| Rajyash Group | VIT-C-009 | [VIT-C-009](/VITA/contacts/VIT-C-009) |
+| NB Group | VIT-C-010 | [VIT-C-010](/VITA/contacts/VIT-C-010) |
+| Sahashya Group | VIT-C-011 | [VIT-C-011](/VITA/contacts/VIT-C-011) |
+| K K Group | VIT-C-012 | [VIT-C-012](/VITA/contacts/VIT-C-012) |
+| Navratna Group | VIT-C-015 | [VIT-C-015](/VITA/contacts/VIT-C-015) |
+| Anjey Maruti Group | VIT-C-016 | [VIT-C-016](/VITA/contacts/VIT-C-016) |
+| CEPT University | VIT-C-019 | [VIT-C-019](/VITA/contacts/VIT-C-019) |

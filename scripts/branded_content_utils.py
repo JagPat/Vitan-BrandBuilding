@@ -167,9 +167,11 @@ PROJECT_CATALOG: dict[str, dict[str, str]] = {
 # Corrected after VITA-189 issue comment: Parijaat Eclat is residential; Privilon is commercial.
 SECTOR_PROJECT_MAP = {
     "residential": ["PARIJAAT ECLAT", "SAFAL PARISAR"],
+    "luxury residential": ["PARIJAAT ECLAT"],
     "commercial": ["PRIVILON", "SAFAL PEGASUS", "PALLADIUM", "MERLIN PENTAGON"],
     "institutional": ["ARA"],
     "mixed": ["SEVENTY", "RETHAL GREENS"],
+    "mixed-use": ["SEVENTY", "PRIVILON"],
 }
 
 

@@ -16,10 +16,13 @@ team:
   lead_architect: "Ar. Jagrut Patel"
   collaborators:
     - "Benoy (Exterior Designer)"
+    - "Tranquil-The Design Wave (Collaborating Architect)"
   design_team: []
+  structural_engineer: "Dimensions"
+  mep_consultant: "Transenergy"
 media:
-  photographer: "TBC"
-  photography_permission: false
+  photographer: "Infra of Ahmedabad (IOA) / Benoy Portfolio"
+  photography_permission: true
   key_features:
     - "Exposed concrete facade homage to modernist heritage"
     - "Private corporate lobbies"

@@ -1,0 +1,28 @@
+id: "safal-parisar"
+title: "Safal Parisar"
+location:
+  city: "Ahmedabad"
+  state: "Gujarat"
+  country: "India"
+  address: "South Bopal, Ahmedabad, India"
+typology: "Residential (Community Housing)"
+status: "Completed"
+timeline:
+  completion_year: 2012
+technical_data:
+  units: 1500  # Approx across phases
+team:
+  client: "HN Safal (Safal Constructions India Pvt. Ltd.)"
+  lead_architect: "Ar. Jagrut Patel"
+  design_team: []
+  structural_engineer: "Ducon Consultants (Devendra Shah)"
+  mep_consultant: "Jhaveri Associates"
+media:
+  photographer: "Vinay Panjwani"
+  photography_permission: true
+  key_features:
+    - "Economy home concept"
+    - "Child-safe urban community planning"
+    - "Extensive common landscaped areas"
+identifiers:
+  internal_id: "VITA-187"

@@ -1,0 +1,27 @@
+id: "merlin-pentagon"
+title: "Merlin Pentagon"
+location:
+  city: "Ahmedabad"
+  state: "Gujarat"
+  country: "India"
+  address: "Paldi, Ahmedabad, India"
+typology: "Commercial (Retail + Office)"
+status: "Completed"
+timeline:
+  completion_year: 2017
+technical_data:
+  units: 63
+team:
+  client: "Merlin Group"
+  lead_architect: "Ar. Jagrut Patel"
+  design_team: []
+  structural_engineer: "Jayant Vinayak Inamdar"
+media:
+  photographer: "Abhishek Shah"
+  photography_permission: true
+  key_features:
+    - "Corporate-scale commercial development"
+    - "Sharp architectural expression with glass facade"
+    - "Strategic location in Paldi business district"
+identifiers:
+  internal_id: "VITA-326"

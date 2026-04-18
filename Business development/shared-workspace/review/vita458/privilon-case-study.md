@@ -13,6 +13,11 @@ Privilon is a landmark mixed-use commercial development situated in the high-gro
 - **Architects**: Vitan Architects (Jagrut & Partners)
 - **Collaborators**: Benoy (Exterior Designer)
 - **Developer**: B Safal Group
+- **Lead Architect**: Vitan Architects (Ar. Jagrut Patel)
+- **Exterior Designer**: Benoy
+- **Structural Consultant**: Dimensions
+- **MEP Consultant**: Transenergy
+- **Photographer**: Infra of Ahmedabad (IOA) / Benoy Portfolio
 - **Typology**: Mixed-use (Commercial + Retail)
 - **Status**: Completed (~2018)
 

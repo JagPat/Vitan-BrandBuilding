@@ -1,0 +1,32 @@
+id: "parijaat-eclat"
+title: "Parijaat Eclat"
+location:
+  city: "Ahmedabad"
+  state: "Gujarat"
+  country: "India"
+  address: "Ambli-Bopal Road, Ahmedabad, India"
+typology: "Residential (Luxury High-rise)"
+status: "Completed"
+timeline:
+  completion_year: 2018
+technical_data:
+  floors: 23
+  units: 48
+team:
+  client: "B Safal Group"
+  lead_architect: "Ar. Jagrut Patel"
+  collaborators:
+    - "Benoy (Exterior Designer)"
+    - "HCP Interior Design (Sample Apartments)"
+  design_team: []
+  mep_consultant: "Chettiar Consulting Engineers"
+  landscape_architect: "Prakruti Landscapes"
+media:
+  photographer: "Abhishek Shah"
+  photography_permission: true
+  key_features:
+    - "Exposed concrete facade"
+    - "Luxury 4 BHK apartments and penthouses"
+    - "Integration with Privilon commercial hub"
+identifiers:
+  internal_id: "VITA-189"

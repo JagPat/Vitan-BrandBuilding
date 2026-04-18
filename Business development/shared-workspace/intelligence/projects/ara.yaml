@@ -20,9 +20,17 @@ team:
   client: "Ahmedabad Racquet Academy Pvt. Ltd."
   lead_architect: "Ar. Jagrut Patel"
   design_team: []
+  structural_engineer: "P-Cube Consultant (Viren D. Parekh)"
+  mep_consultant: "Jhaveri Associates (Maulik Jhaveri)"
+  landscape_architect: "M/s Prabhakar B. Bhagwat (Aniket Bhagwat)"
+  collaborators:
+    - "Proflex (m&b engineering) - Specialized Roofing"
 media:
   photographer: "Umang Shah"
   photography_permission: true
-  key_features: []
+  key_features:
+    - "FIFA-approved football ground"
+    - "International standard tennis courts"
+    - "Self-supported steel roofing"
 identifiers:
   internal_id: "VITA-211"

@@ -39,6 +39,9 @@ By prioritizing identity, flexibility, and a strong visual character, Seventy do
 - **Client/Developer**: B Safal (Safal Engineers and Realities LLP)
 - **International Architect**: SCDA Architects, Singapore
 - **Local Architect**: Vitan Architects (Jagrut Patel & Partners)
+- **Structural Consultant**: Ducon Consulting Engineers
+- **MEP Consultant**: Chettiar Consulting Engineers
+- **Photographer**: Sebastian Zachariah (Photographix India)
 - **Completion Year**: 2020-2021
 - **Height**: 70 Meters
 - **Configuration**: 70 Ultra-Luxurious "Sky Villas" (primarily 4 BHK)

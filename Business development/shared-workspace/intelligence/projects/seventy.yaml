@@ -19,9 +19,11 @@ team:
   lead_architect: "Ar. Jagrut Patel"
   international_architect: "SCDA Architects, Singapore"
   design_team: []
+  structural_engineer: "Ducon Consulting Engineers"
+  mep_consultant: "Chettiar Consulting Engineers"
 media:
-  photographer: "TBC"
-  photography_permission: false
+  photographer: "Sebastian Zachariah (Photographix India)"
+  photography_permission: true
   key_features:
     - "The Cloud sky bridge"
     - "Double-height sky villas"

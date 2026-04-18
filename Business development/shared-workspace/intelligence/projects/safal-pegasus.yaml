@@ -1,0 +1,30 @@
+id: "safal-pegasus"
+title: "Safal Pegasus"
+location:
+  city: "Ahmedabad"
+  state: "Gujarat"
+  country: "India"
+  address: "Prahladnagar, Ahmedabad, India"
+typology: "Commercial (Office + Retail)"
+status: "Completed"
+timeline:
+  completion_year: 2006
+technical_data:
+  gross_built_area:
+    value: 21367  # ~230,000 sq.ft to sqm
+    unit: "sqm"
+team:
+  client: "HN Safal (Safal Infrastructure Pvt. Ltd.)"
+  lead_architect: "Ar. Jagrut Patel"
+  design_team: []
+  structural_engineer: "Ducon Consultants (Devendra Shah)"
+  mep_consultant: "Jhaveri Associates"
+media:
+  photographer: "Radhika Pandit"
+  photography_permission: true
+  key_features:
+    - "Premium frontage in Prahladnagar commercial hub"
+    - "Contemporary business environment"
+    - "Environmentally conscious design"
+identifiers:
+  internal_id: "VITA-186"

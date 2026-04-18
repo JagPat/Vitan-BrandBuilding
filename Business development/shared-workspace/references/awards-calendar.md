@@ -12,8 +12,8 @@
 | **World Architecture Festival (WAF)** | International | April 24, 2026 | £400+ | **URGENT** (6 Days) | [worldarchitecturefestival.com](https://www.worldarchitecturefestival.com) |
 | **IIA Ascension (Competition)** | National | April 30, 2026 | TBD | Monitoring | [theindianinstituteofarchitects.com](https://theindianinstituteofarchitects.com) |
 | **JK Architect of the Year (AYA)** | National | April 30, 2026 | ₹0 | Monitoring | [aya.jkcement.com](https://aya.jkcement.com) |
-| **CTBUH / CVU Awards 2026** | International | May 20, 2026* | TBD | Preparation | Best Tall Building/Innovation |
-| **GRI Awards India 2026** | National | June 5, 2026 | TBD | Monitoring | Nomination Close |
+| **CTBUH / CVU Awards 2026** | International | May 20, 2026 | $500+ | Preparation | [awards.ctbuh.org](https://awards.ctbuh.org) |
+| **GRI Awards India 2026** | National | June 5, 2026 | TBD | Monitoring | [gri.org.in](https://gri.org.in) |
 
 *Note: CTBUH main registration closed Feb 14; May 20 target reflects specific innovation/technical category windows or extension targets.*
 
@@ -23,21 +23,23 @@
 
 | Platform | Speaker | Topic | Deadline | Date | Status |
 |----------|---------|-------|----------|------|--------|
-| **Vibrant Gujarat Regional** | Jagrut Patel | Vertical Urbanism | N/A | 2026-06-10 | Panel/Keynote |
-| **ICAD 2026 (Vadodara)** | Jagrut Patel | Execution Rigor in Skyscrapers | 2026-08-22 | 2026-09-11 | Abstract Due |
+| **Vibrant Gujarat Regional (Central)** | Jagrut Patel | Smart High-Rise as Urban Infrastructure | N/A | 2026-06-10 | Abstract Prepared ([VITA-533](/VITA/issues/VITA-533)) |
+| **ICAD 2026 (Vadodara)** | Jagrut Patel | Engineering the 162m Vertical City | 2026-08-22 | 2026-09-11 | Abstract Prepared ([VITA-533](/VITA/issues/VITA-533)) |
+| **ZAK World of Facades (Mumbai/Delhi)**| Jagrut Patel | Climate-Responsive Envelopes | June 2026 | Q3/Q4 2026 | In Planning |
 
 ---
 
 ## 🏗️ Submission Readiness (Project Candidates)
 
-| Project | Category | Photography | Drawings | Narrative | Eligibility (WAF 2026 / AYA 36th) |
+| Project | Category | Photography | Drawings | Narrative | Eligibility (WAF 2026 / CTBUH 2026) |
 |---------|----------|-------------|----------|-----------|----------------------------------|
-| **Shaligram Luxuria** | Housing | 🔴 [VITA-474] | 🔴 Needed | ✅ [Review](../review/vita530/shaligram-luxuria-waf-narrative.md) | **WAF: ✅** / **AYA: ❌** |
-| **Augusta (Tragad)** | Housing | 🔴 [VITA-474] | 🔴 Needed | ✅ [Review](../review/vita530/augusta-waf-narrative.md) | **WAF: ✅** / **AYA: ❌** |
-| **Safal Vihaan** | Sustainable | 🔴 [VITA-474] | 🔴 Needed | ✅ [Review](../review/vita530/safal-vihaan-waf-narrative.md) | **WAF: ✅** / **AYA: 🟡** (Check 2024 completion) |
-| **ARA Sports Complex** | Sports | ✅ Ready | 🟡 [VITA-233] | ✅ [Review](../review/vita530/ara-waf-narrative.md) | **WAF: ❌** / **AYA: ❌** (Completed 2011) |
-| **Pacifica Reflections**| Housing | ✅ Ready | 🟡 Needed | 🟡 Needed | **WAF: ❌** / **AYA: ❌** (Completed 2018) |
-| **Mondeal Retail Park** | Commercial | ✅ Ready | 🟡 Needed | 🟡 Needed | **WAF: ❌** / **AYA: ❌** (Completed 2014) |
+| **Navratna Skyscraper** | Tall / Future | 🔴 Needed | 🔴 Needed | ✅ [Review](/VITA/issues/VITA-533) | **CTBUH: ✅** / **WAF: 🟡** |
+| **Shaligram Luxuria** | Housing | 🔴 [VITA-474](/VITA/issues/VITA-474) | 🔴 Needed | ✅ [Review](/VITA/issues/VITA-530) | **WAF: ✅** / **CTBUH: 🟡** |
+| **Augusta (Tragad)** | Housing | 🔴 [VITA-474](/VITA/issues/VITA-474) | 🔴 Needed | ✅ [Review](/VITA/issues/VITA-530) | **WAF: ✅** / **CTBUH: ✅** |
+| **Safal Vihaan** | Sustainable | 🔴 [VITA-474](/VITA/issues/VITA-474) | 🔴 Needed | ✅ [Review](/VITA/issues/VITA-530) | **WAF: ✅** / **CTBUH: ❌** |
+| **ARA Sports Complex** | Sports | ✅ Ready | 🟡 [VITA-233](/VITA/issues/VITA-233) | ✅ [Review](/VITA/issues/VITA-530) | **WAF: ❌** / **AYA: ❌** |
+| **Pacifica Reflections**| Housing | ✅ Ready | 🟡 Needed | 🟡 Needed | **WAF: ❌** / **AYA: ❌** |
+| **Mondeal Retail Park** | Commercial | ✅ Ready | 🟡 Needed | 🟡 Needed | **WAF: ❌** / **AYA: ❌** |
 
 ---
 
@@ -58,4 +60,4 @@
 - **2027 Cycle Planning**: December.
 
 ---
-*Last Updated: April 18, 2026 (12:30 IST) by Outreach Coordinator*
+*Last Updated: April 18, 2026 (07:45 IST) by Outreach Coordinator*

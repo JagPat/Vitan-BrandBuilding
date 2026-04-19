@@ -10,7 +10,7 @@
 | Award | Category | Deadline | Fee | Status | Reference |
 |-------|----------|----------|-----|--------|-----------|
 | **World Architecture Festival (WAF)** | International | April 24, 2026 | £400+ | **URGENT** (6 Days) | [worldarchitecturefestival.com](https://www.worldarchitecturefestival.com) |
-| **India’s Best Design Awards 2026** | National | April 20, 2026 | ₹35,000 | **URGENT** (2 Days) | [indiasbestdesignawards.com](https://www.indiasbestdesignawards.com) |
+| **India’s Best Design Awards 2026** | National | April 20, 2026 | ₹35,000 | **IN REVIEW** ([VITA-632](/VITA/issues/VITA-632)) | [indiasbestdesignawards.com](https://www.indiasbestdesignawards.com) |
 | **IIA Ascension (Competition)** | National | April 30, 2026 | ₹0 | Monitoring | [indianinstituteofarchitects.com](https://indianinstituteofarchitects.com) |
 *Note: Ascension is for the redevelopment of IIA HQ in Navi Mumbai. Reg: Apr 30. Sub: May 15. Prize: ₹15L.*
 | **JK Architect of the Year (AYA)** | National | April 30, 2026 | ₹0 | Monitoring | [aya.jkcement.com](https://aya.jkcement.com) |
@@ -74,4 +74,4 @@
 - **2027 Cycle Planning**: December.
 
 ---
-*Last Updated: April 18, 2026 (14:55 IST) by Outreach Coordinator*
+*Last Updated: April 18, 2026 (20:50 IST) by Outreach Coordinator*

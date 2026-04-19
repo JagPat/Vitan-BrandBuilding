@@ -173,6 +173,13 @@ Ask: "What category does this correction fall into?"
 - **Example**: Bakeri Group — Vitan designed Sakar series, Bakeri City, and personal residence.
 - **Discovery question to add**: "What is the full depth of Vitan’s historical involvement with this client’s portfolio?"
 
+### Pattern: COMPETITOR LOCK-IN
+- **Trigger**: Prospect has a near-exclusive or high-volume relationship with a specific top-tier architect.
+- **Risk**: Low conversion probability; messaging must offer a distinct "wedge" (e.g. execution precision, operational cost savings) or specialized role.
+- **Auto-guardrails**: `NO_COMPETITOR_MENTION`, `VALUE_LEAD`, `INDEPENDENCE_FRAME`
+- **Example**: Shivalik Group — deep partnership with INI Design Studio.
+- **Discovery question to add**: "Does the prospect have a primary architectural partner for their flagship projects?"
+
 ---
 
 ## System Evolution Rules

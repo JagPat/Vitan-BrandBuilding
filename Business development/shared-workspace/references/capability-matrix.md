@@ -1,24 +1,24 @@
 # Vitan Architects — Capability Matrix
 
-**Status**: Draft Baseline (2026-04-18)  
+**Status**: Updated (2026-04-19) — Reflecting Gemini Platform Degradation  
 **Owner**: HR Agent
 
 ## 1. Core Dimensions & Agent Coverage
 
 | Dimension | Domain | Primary Agent | Capability Status |
 |-----------|--------|---------------|-------------------|
-| DIM 1 | Client Acquisition | BB | ✅ Active |
-| DIM 2 | Industry Portals | BS | ✅ Active |
-| DIM 3 | Social Media | DPM | ✅ Active |
+| DIM 1 | Client Acquisition | BB | 🔴 Blocked (VITA-649) |
+| DIM 2 | Industry Portals | BS | 🔴 Blocked (VITA-649) |
+| DIM 3 | Social Media | DPM | 🔴 Blocked (VITA-649) |
 | DIM 4 | Website & SEO | FE | ✅ Active |
-| DIM 5 | Awards | OC | ✅ Active |
-| DIM 6 | Speaking & Writing | OC | ✅ Active |
+| DIM 5 | Awards | OC | 🔴 Blocked (VITA-649) |
+| DIM 6 | Speaking & Writing | OC | 🔴 Blocked (VITA-649) |
 | DIM 7 | Academic Engagement | HR | ✅ Active |
-| DIM 8 | Publications & Books| BS | ✅ Active |
-| DIM 9 | Media & PR | BS | ✅ Active |
+| DIM 8 | Publications & Books| BS | 🔴 Blocked (VITA-649) |
+| DIM 9 | Media & PR | BS | 🔴 Blocked (VITA-649) |
 | DIM 10 | Professional Assoc. | OC | 🟡 Pending |
 | DIM 11 | Strategic Partnerships| BB | 🟡 Pending |
-| DIM 12 | Reputation & Reviews | DPM | ✅ Active |
+| DIM 12 | Reputation & Reviews | DPM | 🔴 Blocked (VITA-649) |
 
 ## 2. Technical & Design Capabilities
 

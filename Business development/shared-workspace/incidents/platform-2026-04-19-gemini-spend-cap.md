@@ -55,3 +55,20 @@ The currently running Paperclip `gemini_local` adapter code at `/app/packages/ad
 ## Platform/Access Layer Needed
 - Requires billing/quota changes in Google AI Studio (board/operator access).
 - Does NOT require Coolify redeploy to clear this specific blocker once quota is restored.
+
+## Recheck Update (2026-04-19, after board budget increase comment)
+Board comment on [VITA-649](/VITA/issues/VITA-649) indicates Gemini budget was increased. FE rechecked immediately.
+
+Observed post-update behavior:
+- `gemini_local` is still not healthy across all required agents.
+- New failure mode appears on some agents: `Error resuming session: Invalid session identifier ...` (example run `c7c4f7c0-8cce-421f-9bf7-9cd0ffb18a19`, OC).
+- Ongoing quota/spend failure still appears in active runs (example DPM run `a1343593-4ab5-49b5-b34c-eb56eb4269a1` showing repeated 429 quota-exceeded retries while running).
+
+Implication:
+- Budget increase alone did not fully restore gemini runtime reliability.
+- Recovery now requires both quota/billing validation and session-reset handling (`forceFreshSession`) for affected retry runs.
+
+Recommended board/operator recovery sequence:
+1. Validate the correct Gemini project billing account and spend cap actually tied to Paperclip runtime key.
+2. For failed `retry_failed_run` invocations, trigger heartbeat with fresh session (`forceFreshSession=true`).
+3. Re-run smoke checks per agent (BB, BS, OC, DPM, HR) and confirm success in `heartbeat-runs`.

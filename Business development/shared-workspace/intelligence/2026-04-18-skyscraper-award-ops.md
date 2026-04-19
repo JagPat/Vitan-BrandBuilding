@@ -1,48 +1,61 @@
-# Skyscraper & Vertical Urbanism Award/Speaking Ops 2026
+# Skyscraper & Vertical Urbanism: Award & Speaking Ops 2026
 
-**Date:** 18 Apr 2026
-**Owner:** Digital Presence Manager (DPM)
-**Target:** VITA-533
+**Date:** April 18, 2026
+**Status:** ACTIVE EXECUTION
+**Issue:** [VITA-533](/VITA/issues/VITA-533) / [VITA-588](/VITA/issues/VITA-588)
 
-## 1. High-Priority Global Platforms
+---
 
-### CTBUH Awards 2026 (Council on Tall Buildings and Urban Habitat)
-- **Deadline:** 20 May 2026
-- **Categories:** Best Tall Building, Innovation, Structure.
-- **Vitan Strategy:** Enter **Shaligram Luxuria** (Residential) and **Augusta**. CTBUH is the global gold standard for high-rises.
-- **Action:** Coordinate with BB for project narratives.
+## 1. High-Prestige Award Targets
 
-### World Architecture Festival (WAF) 2026
-- **Deadline:** 24 Apr 2026 (**URGENT: 6 Days Left**)
-- **Categories:** Future Projects (Residential/Commercial).
-- **Vitan Strategy:** Enter **Shaligram Luxuria** and **Augusta** in Future Projects.
-- **Blocker:** High-res photos for these projects [VITA-474].
+### A. CTBUH Awards 2026 (Council on Tall Buildings and Urban Habitat)
+*   **Deadline:** May 20, 2026 (Final)
+*   **Primary Candidate:** **Navratna 162m Skyscraper** (Category: Future Projects)
+*   **Secondary Candidate:** **Augusta (Tragad)** (Category: Best Tall Building Asia / Housing)
+*   **Strategy:** Enter **Shaligram Luxuria** and **Augusta**. CTBUH is the global gold standard for high-rises.
+*   **Status:** Narrative drafted for Navratna. Blocked on high-res photos/drawings.
+
+### B. WAF 2026 (World Architecture Festival)
+*   **Deadline:** April 24, 2026 (**URGENT - 6 days remaining**)
+*   **Candidates:** Shaligram Luxuria, Augusta, Safal Vihaan.
+*   **Status:** Narratives ready ([VITA-530](/VITA/issues/VITA-530)). Blocked on high-res photos/drawings.
+
+---
 
 ## 2. Technical & Regional Speaking Opportunities
 
-### International Conference on Architecture Design (ICAD) 2026
-- **Date:** 11 Sep 2026 (Vadodara)
-- **Deadline:** 22 Aug 2026
-- **Focus:** R&D and Technical Execution.
-- **Vitan Strategy:** Ar. Jagrut Patel to present "Vertical Urbanism in Ahmedabad: Execution Rigor in the Skyscraper Wave".
+### A. ICAD Sep 2026 (Vadodara)
+*   **Focus:** R&D and Technical Execution.
+*   **Proposal:** "Vertical Urbanism in Ahmedabad: Execution Rigor in the Skyscraper Wave."
+*   **Status:** Abstract drafted.
 
-### Vibrant Gujarat Regional Conference (Central Gujarat)
-- **Date:** 10–11 Jun 2026 (Vadodara)
-- **Focus:** Urban Development and Engineering.
-- **Vitan Strategy:** Panel participation or keynote on high-rise urbanism.
+### B. Vibrant Gujarat Regional Conference (Central Gujarat)
+*   **Date:** June 10-11, 2026 (Vadodara)
+*   **Focus:** Smart Cities & Infrastructure.
+*   **Proposal:** "Smart High-Rise: Engineering the Vertical City as Urban Infrastructure."
+*   **Status:** Abstract drafted.
+
+---
 
 ## 3. Industry Awards (India)
 
-### Construction World Global Awards (CWGA) 2026
+### A. Construction World Global Awards (CWGA) 2026
 - **Date:** 15 Oct 2026 (Mumbai)
 - **Focus:** Landmark projects and fast-growing firms.
 - **Vitan Strategy:** Firm-level award (Architecture Firm of the Year - Gujarat).
 
-### iDAC Infinity Awards
+### B. iDAC Infinity Awards
 - **Categories:** Skyscrapers and Tall Buildings.
 - **Action:** Monitor for 2026 nomination window.
 
-## Next Steps
-1. Immediate escalation of WAF deadline to Board [VITA-474].
-2. Prepare draft submission forms for CTBUH by April 30.
-3. Align social content with these themes to build "Vertical Urbanism" authority.
+---
+
+## 4. Critical Blockers & Next Actions
+
+1.  **URGENT Asset Upload [VITA-474]:** WAF submission is impossible without high-res photography. Board (Jagrut) must upload photos for Shaligram Luxuria, Augusta, and Safal Vihaan.
+2.  **Technical Drawings:** Need floor plans and elevations for Navratna and Augusta for CTBUH/WAF technical binders.
+3.  **Submission Fees:** PA approval required for CTBUH entry fee (00+).
+4.  **Align social content**: Build "Vertical Urbanism" authority.
+
+---
+*Prepared by Digital Presence Manager & Outreach Coordinator*

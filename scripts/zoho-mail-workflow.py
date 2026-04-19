@@ -7,13 +7,14 @@ run against either a live Zoho source or a local fixture file.
 
 from __future__ import annotations
 
+import argparse
 import json
 import os
 import re
 import sys
 from dataclasses import dataclass
-from datetime import datetime, timezone
-from email.utils import getaddresses
+from datetime import datetime, timedelta, timezone
+from email.utils import getaddresses, parsedate_to_datetime
 from pathlib import Path
 from typing import Iterable, Sequence
 
@@ -43,6 +44,7 @@ LOG_PATH = Path(os.getenv("BOARD_BYPASS_LOG_PATH", "/app/shared-workspace/board-
 
 ZOHO_ACCOUNTS_URL = os.getenv("ZOHO_ACCOUNTS_URL", "https://accounts.zoho.in/oauth/v2/token")
 ZOHO_MAIL_MESSAGES_URL = os.getenv("ZOHO_MAIL_MESSAGES_URL", "")
+ZOHO_SENT_FOLDER_URL = os.getenv("ZOHO_SENT_FOLDER_URL", "")
 ZOHO_THREAD_ROOT_URL_TEMPLATE = os.getenv("ZOHO_THREAD_ROOT_URL_TEMPLATE", "")
 
 PAPERCLIP_API_URL = os.getenv("PAPERCLIP_API_URL", "")
@@ -155,6 +157,118 @@ def fetch_messages() -> list[Message]:
     payload = resp.json()
     items = payload.get("messages", payload if isinstance(payload, list) else [])
     return [message_from_dict(item) for item in items]
+
+
+def parse_timestamp(value: object) -> datetime | None:
+    if value in (None, ""):
+        return None
+
+    if isinstance(value, datetime):
+        dt = value
+        if dt.tzinfo is None:
+            return dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(timezone.utc)
+
+    if isinstance(value, (int, float)):
+        ts = float(value)
+        if ts > 1e12:
+            ts = ts / 1000.0
+        return datetime.fromtimestamp(ts, tz=timezone.utc)
+
+    if isinstance(value, str):
+        raw = value.strip()
+        if not raw:
+            return None
+        if raw.isdigit():
+            return parse_timestamp(int(raw))
+        try:
+            return datetime.fromisoformat(raw.replace("Z", "+00:00")).astimezone(timezone.utc)
+        except ValueError:
+            pass
+        try:
+            return parsedate_to_datetime(raw).astimezone(timezone.utc)
+        except (TypeError, ValueError):
+            return None
+
+    return None
+
+
+def extract_sent_timestamp(item: dict) -> datetime | None:
+    for key in (
+        "timestamp",
+        "sent_at",
+        "sentAt",
+        "sent_time",
+        "sentTime",
+        "date",
+        "created_time",
+        "createdTime",
+        "time",
+    ):
+        parsed = parse_timestamp(item.get(key))
+        if parsed:
+            return parsed
+    return None
+
+
+def normalize_snippet(raw: object, limit: int = 200) -> str:
+    text = re.sub(r"\s+", " ", str(raw or "")).strip()
+    return text[:limit]
+
+
+def fetch_sent_items() -> list[dict]:
+    fixture_path = os.getenv("ZOHO_SENT_MESSAGES_FILE", "") or os.getenv("ZOHO_MESSAGES_FILE", "")
+    if fixture_path:
+        payload = json.loads(Path(fixture_path).read_text(encoding="utf-8"))
+        if isinstance(payload, dict):
+            return payload.get("messages", payload.get("data", []))
+        return payload if isinstance(payload, list) else []
+
+    sent_url = os.getenv("ZOHO_SENT_FOLDER_URL", ZOHO_SENT_FOLDER_URL)
+    if not sent_url:
+        return []
+
+    token = get_access_token()
+    resp = requests.get(
+        sent_url,
+        headers={"Authorization": f"Zoho-oauthtoken {token}"},
+        timeout=60,
+    )
+    resp.raise_for_status()
+    payload = resp.json()
+    if isinstance(payload, dict):
+        return payload.get("messages", payload.get("data", []))
+    return payload if isinstance(payload, list) else []
+
+
+def list_sent_messages(hours: int) -> list[dict]:
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=max(hours, 0))
+    items = fetch_sent_items()
+    rows: list[dict] = []
+
+    for item in items:
+        if not isinstance(item, dict):
+            continue
+        sent_at = extract_sent_timestamp(item)
+        if sent_at and sent_at < cutoff:
+            continue
+        rows.append(
+            {
+                "from": canonical_email(item.get("from") or item.get("sender") or item.get("fromAddress") or ""),
+                "subject": (item.get("subject") or "(no subject)").strip(),
+                "timestamp": sent_at.isoformat() if sent_at else "",
+                "body_snippet": normalize_snippet(
+                    item.get("body_snippet")
+                    or item.get("snippet")
+                    or item.get("preview")
+                    or item.get("content")
+                    or item.get("body")
+                ),
+            }
+        )
+
+    rows.sort(key=lambda row: row.get("timestamp") or "", reverse=True)
+    return rows
 
 
 def fetch_thread_root_recipients(message: Message) -> list[str]:
@@ -312,7 +426,20 @@ def process_incoming_message(message: Message) -> bool:
 
 
 def main() -> int:
+    parser = argparse.ArgumentParser(description="Zoho mail workflow")
+    subparsers = parser.add_subparsers(dest="command")
+
+    list_sent_parser = subparsers.add_parser("list-sent", help="List sent messages as JSON")
+    list_sent_parser.add_argument("--hours", type=int, default=24, help="Lookback window in hours (default: 24)")
+    subparsers.add_parser("detect-board-bypass", help="Run board bypass detection")
+    subparsers.add_parser("process-inbox", help="Backward-compatible alias for detect-board-bypass")
+    args = parser.parse_args()
+
     try:
+        if args.command == "list-sent":
+            print(json.dumps(list_sent_messages(args.hours), ensure_ascii=True))
+            return 0
+
         messages = fetch_messages()
         if not messages:
             print("No messages to process")

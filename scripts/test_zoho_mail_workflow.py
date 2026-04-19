@@ -1,8 +1,12 @@
 #!/usr/bin/env python3
 
 import importlib.util
+import json
+import os
 import sys
+import tempfile
 import unittest
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 
@@ -13,6 +17,7 @@ assert SPEC and SPEC.loader
 sys.modules["zoho_mail_workflow"] = MODULE
 SPEC.loader.exec_module(MODULE)
 is_board_bypass = MODULE.is_board_bypass
+list_sent_messages = MODULE.list_sent_messages
 
 
 class BoardBypassClassifierTests(unittest.TestCase):
@@ -55,6 +60,44 @@ class BoardBypassClassifierTests(unittest.TestCase):
             thread_root_recipients=[],
         )
         self.assertEqual(result, (True, ["HR"]))
+
+
+class ListSentMessagesTests(unittest.TestCase):
+    def setUp(self):
+        self.previous_fixture = os.environ.get("ZOHO_SENT_MESSAGES_FILE")
+        self.tmp_file = tempfile.NamedTemporaryFile(mode="w", suffix=".json", delete=False)
+        now = datetime.now(timezone.utc)
+        fixture = [
+            {
+                "from": "growthos@vitan.in",
+                "subject": "Recent message",
+                "timestamp": int((now - timedelta(hours=2)).timestamp()),
+                "snippet": "  hello\nworld  ",
+            },
+            {
+                "from": "growthos@vitan.in",
+                "subject": "Old message",
+                "timestamp": int((now - timedelta(hours=30)).timestamp()),
+                "snippet": "ignore me",
+            },
+        ]
+        json.dump(fixture, self.tmp_file)
+        self.tmp_file.close()
+        os.environ["ZOHO_SENT_MESSAGES_FILE"] = self.tmp_file.name
+
+    def tearDown(self):
+        if self.previous_fixture is None:
+            os.environ.pop("ZOHO_SENT_MESSAGES_FILE", None)
+        else:
+            os.environ["ZOHO_SENT_MESSAGES_FILE"] = self.previous_fixture
+        Path(self.tmp_file.name).unlink(missing_ok=True)
+
+    def test_list_sent_filters_by_hours(self):
+        rows = list_sent_messages(24)
+        self.assertEqual(len(rows), 1)
+        self.assertEqual(rows[0]["subject"], "Recent message")
+        self.assertEqual(rows[0]["from"], "growthos@vitan.in")
+        self.assertEqual(rows[0]["body_snippet"], "hello world")
 
 
 if __name__ == "__main__":

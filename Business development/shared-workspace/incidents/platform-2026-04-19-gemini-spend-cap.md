@@ -72,3 +72,27 @@ Recommended board/operator recovery sequence:
 1. Validate the correct Gemini project billing account and spend cap actually tied to Paperclip runtime key.
 2. For failed `retry_failed_run` invocations, trigger heartbeat with fresh session (`forceFreshSession=true`).
 3. Re-run smoke checks per agent (BB, BS, OC, DPM, HR) and confirm success in `heartbeat-runs`.
+
+## Session Persistence Finding (2026-04-19, PA follow-up)
+Per PA follow-up, FE traced stale session handling in server code:
+
+- Runtime session fallback is stored in `agentRuntimeState` and heartbeat run session fields.
+  - Reference: `/app/server/src/services/heartbeat.ts` (agentRuntimeState reads/writes and resume logic).
+- Fresh-session bypass is supported via wake context `forceFreshSession`.
+  - Reference: `/app/server/src/services/heartbeat.ts` (checks `contextSnapshot.forceFreshSession`).
+
+### Board-only controls (permission-gated)
+The required recovery controls are API-exposed but `assertBoard`-gated:
+
+1. Reset persisted runtime session pointer:
+   - `POST /api/agents/{agentId}/runtime-state/reset-session`
+2. Invoke heartbeat with fresh session request:
+   - `POST /api/agents/{agentId}/wakeup` body `{ "forceFreshSession": true }`
+
+Route references:
+- `/app/server/src/routes/agents.ts`
+  - `POST /agents/:id/runtime-state/reset-session` (board-only)
+  - `POST /agents/:id/wakeup` (supports `forceFreshSession`, but agent callers can only invoke self)
+
+### FE execution constraint
+Using agent auth token, FE cannot invoke/reset other agents directly (`Agent can only invoke itself`), so board/PA must execute the above recovery calls for BB/BS/HR.

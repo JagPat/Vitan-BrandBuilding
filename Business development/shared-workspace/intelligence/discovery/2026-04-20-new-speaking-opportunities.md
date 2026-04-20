@@ -21,7 +21,21 @@ Recent research identifies several high-impact platforms in Ahmedabad and Gujara
 *   **Strategic Value:** Perfect for presenting the **Safal Vihaan** tree preservation narrative as a model for "Sustainable Humanity."
 *   **Action:** Reach out to IGBC Ahmedabad Chapter for panel/session slots.
 
-## 3. ICAD 2026 (International Conference on Architecture Design)
+## 3. ARCASIA Forum 23
+*   **Date:** September 8–12, 2026
+*   **Location:** New Delhi / Jaipur
+*   **Theme:** "Bringing Back… Vernacular Wisdom."
+*   **Strategic Value:** Premier international platform. Abstract drafted: "The Modern Vernacular: Climate-Responsive High-Density in Gujarat."
+*   **Action:** Submit abstract on [arcasiaforum23.com](https://arcasiaforum23.com).
+
+## 4. Design Democracy (Hyderabad)
+*   **Date:** September 18–20, 2026
+*   **Location:** HITEX Exhibition Centre, Hyderabad
+*   *Theme:** Curated Exhibits & Luxury Design.
+*   **Strategic Value:** High-net-worth audience. Abstract drafted: "Crafting Warmth: Modern Ahmedabad Roots in Contemporary Residential Design."
+*   **Action:** Reach out to organizers for speaking/panel opportunities.
+
+## 5. ICAD 2026 (International Conference on Architecture Design)
 *   **Date:** December 21, 2026
 *   **Submission Deadline:** December 1, 2026
 *   **Theme:** Research and Development in Architecture.

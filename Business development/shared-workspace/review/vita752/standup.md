@@ -18,7 +18,9 @@
 
 ## Section 4 — Last week in review.
 - Content shipped: IIA Vision Statement ([VITA-740](/VITA/issues/VITA-740)).
-- Outreach outcomes: Wave 2 drafts finalized; IBDA 2026 deferred.
+- Outreach outcomes: Wave 2 skyscraper drafts finalized; CEPT leadership outreach drafted ([VIT-C-019]); IBDA 2026 deferred.
+- Strategy: Updated SOCIAL_STRATEGY with CEPT/Institutional Pivot and heritage discovery sets.
+- Review: Aligned weekly artifacts with board directive to skip WAF 2026.
 - Digital presence: Metrics gathering pending (DPM to establish analytics folder).
 
 ## Section 5 — This week's proposed focus.

@@ -10,7 +10,7 @@
 
 ## Monday, April 20
 ### Campaign: Rising Skyline
-**Post 1: The Monolithic Standard (LinkedIn/Instagram)**
+**Post 1: The Monolithic Standard (LinkedIn/Instagram) [PUBLISHED]**
 **Theme**: Execution Rigor / IBDA Alignment
 
 **Caption**:

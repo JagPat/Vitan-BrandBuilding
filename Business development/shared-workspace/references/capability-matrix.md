@@ -1,24 +1,24 @@
 # Vitan Architects — Capability Matrix
 
-**Status**: Updated (2026-04-19) — Reflecting Gemini Platform Degradation  
+**Status**: Updated (2026-04-20) — Reflecting Gemini Platform Recovery  
 **Owner**: HR Agent
 
 ## 1. Core Dimensions & Agent Coverage
 
 | Dimension | Domain | Primary Agent | Capability Status |
 |-----------|--------|---------------|-------------------|
-| DIM 1 | Client Acquisition | BB | 🔴 Blocked (VITA-649) |
+| DIM 1 | Client Acquisition | BB | 🟡 Recovering (Idle) |
 | DIM 2 | Industry Portals | BS | 🔴 Blocked (VITA-649) |
-| DIM 3 | Social Media | DPM | 🔴 Blocked (VITA-649) |
+| DIM 3 | Social Media | DPM | 🟡 Recovering (Idle) |
 | DIM 4 | Website & SEO | FE | ✅ Active |
-| DIM 5 | Awards | OC | 🔴 Blocked (VITA-649) |
-| DIM 6 | Speaking & Writing | OC | 🔴 Blocked (VITA-649) |
+| DIM 5 | Awards | OC | 🟡 Recovering (Idle) |
+| DIM 6 | Speaking & Writing | OC | 🟡 Recovering (Idle) |
 | DIM 7 | Academic Engagement | HR | ✅ Active |
 | DIM 8 | Publications & Books| BS | 🔴 Blocked (VITA-649) |
 | DIM 9 | Media & PR | BS | 🔴 Blocked (VITA-649) |
 | DIM 10 | Professional Assoc. | OC | 🟡 Pending |
 | DIM 11 | Strategic Partnerships| BB | 🟡 Pending |
-| DIM 12 | Reputation & Reviews | DPM | 🔴 Blocked (VITA-649) |
+| DIM 12 | Reputation & Reviews | DPM | 🟡 Recovering (Idle) |
 
 ## 2. Technical & Design Capabilities
 

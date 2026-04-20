@@ -1,6 +1,6 @@
 # Talent Pipeline Tracker
 
-**Last Updated**: 2026-04-18  
+**Last Updated**: 2026-04-20
 **Owner**: HR Agent
 
 ## Core Objectives
@@ -14,7 +14,9 @@
 
 | Name | Institution | Role | Status | Last Contact |
 |------|-------------|------|--------|--------------|
-| Sameep Padora | CEPT University | Dean | Contacted | 2026-04-17 |
+| Sameep Padora | CEPT University | Dean | **ACTIVE CONVERSATION** | 2026-04-19 |
+| Vishwanath Kashikar | CEPT University | Faculty | **ACTIVE CONVERSATION** | 2026-04-20 |
+| Sachin Soni | CEPT University | Faculty | **WARM** | 2026-04-20 |
 | Snehal Nagarsheth | Anant National University | Principal | Contacted | 2026-04-17 |
 | C. Rekha Jetty | Nirma University | Director | Contacted | 2026-04-17 |
 
@@ -26,7 +28,7 @@
 
 | Candidate Name | Source | Level | Interest Area | Status |
 |----------------|--------|-------|---------------|--------|
-| *Awaiting Faculty Referrals* | CEPT | Graduate | - | Pending Follow-up |
+| *Awaiting Faculty Referrals* | CEPT | Graduate | - | **In Discussion (VITA-771)** |
 | *Awaiting Faculty Referrals* | Anant | Intern | - | Pending Follow-up |
 | *Awaiting Faculty Referrals* | Nirma | Intern/Graduate | - | Pending Follow-up |
 
@@ -40,6 +42,7 @@
 ---
 
 ## Next Actions
-1. Follow up with CEPT/Anant/Nirma deans after 7 days if no response.
-2. Request top 3-5 portfolios from each placement coordinator for Vitan review.
-3. Feed promising student work to Outreach Coordinator (OC) for brand social amplification.
+1. Execute follow-up conversation with CEPT faculty (VITA-771).
+2. Follow up with Anant/Nirma deans after 7 days (by Apr 24) if no response.
+3. Request top 3-5 portfolios from each placement coordinator for Vitan review.
+4. Feed promising student work to Outreach Coordinator (OC) for brand social amplification.

@@ -1,6 +1,6 @@
 # SOCIAL_STRATEGY
 
-Last updated: 2026-04-06 (UTC, VITA-314 relay restoration sync including publication-route and reputation sequencing updates)
+Last updated: 2026-04-20 (UTC, Skyscraper Wave & 'Efficiency of Grandeur' update)
 Owner: Business Builder
 Canonical status: repo-tracked source of truth for DPM, BS, and OC. Agent-local notes must defer to this file.
 
@@ -9,6 +9,7 @@ Canonical status: repo-tracked source of truth for DPM, BS, and OC. Agent-local 
 - Grow qualified awareness for Vitan Architects across LinkedIn, Facebook, Instagram, and X.
 - Convert social attention into tracked inquiry actions through `connect@vitan.in`.
 - Build repeatable proof-first storytelling around Vitan projects, design philosophy, and delivery rigor.
+- Position Vitan as the "Execution Specialist" for the 2026 Ahmedabad Skyscraper Wave.
 - Keep the strategy -> weekly plan -> review cascade explicit in git so downstream agents are never dependent on implicit or agent-local state.
 
 ## 2. Core Brand Direction
@@ -16,6 +17,7 @@ Canonical status: repo-tracked source of truth for DPM, BS, and OC. Agent-local 
 - Human impact first: spaces as lived experience, not visual spectacle alone.
 - Calm authority: practical, confident, specific.
 - Execution credibility: design quality plus delivery discipline.
+- **Value Positioning:** Lead with: "We are a profit centre, not a cost." Vitan's experience saves 10-15% on execution costs.
 - Use only `Vitan Architects` in new outward-facing copy.
 - Canonical website: `https://www.vitan.in`
 - Canonical inquiry contact for new outbound content: `connect@vitan.in`
@@ -23,11 +25,11 @@ Canonical status: repo-tracked source of truth for DPM, BS, and OC. Agent-local 
 
 ## 3. Content Pillars (Current Weights)
 
-- Project proof and case snapshots: 35%
-- Founder perspective / philosophy: 25%
-- Process and execution insights: 20%
-- Capability and firm proof points: 15%
-- Market commentary and trend POV: 5%
+- Project proof and case snapshots (Focus on High-Rise): 40% (+5%)
+- Process and execution insights (Profit Centre model): 25% (+5%)
+- Founder perspective / philosophy: 20% (-5%)
+- Capability and firm proof points: 10% (-5%)
+- Market commentary and trend POV (Skyscraper Wave): 5%
 
 ## 4. Platform Guidelines
 
@@ -35,7 +37,7 @@ Canonical status: repo-tracked source of truth for DPM, BS, and OC. Agent-local 
 
 - Primary business narrative and authority channel.
 - Format: 1-2 short paragraphs, strong opening line, one clear CTA.
-- Best use: project proof, founder POV, developer-facing insights, and `Proof vs Pattern` contrasts.
+- Best use: project proof, founder POV, developer-facing insights, and `Proof vs Pattern` contrasts. Focus on vertical urbanism ROI.
 
 ### Facebook
 
@@ -48,6 +50,7 @@ Canonical status: repo-tracked source of truth for DPM, BS, and OC. Agent-local 
 - Visual-first storytelling channel.
 - Format: image-led post plus concise caption and focused hashtags.
 - Non-negotiable: publish flow requires publicly accessible `image_url` for API-based posting.
+- **Image Direction:** High-contrast, monolithic shots for the "Rising Skyline" theme.
 
 ### X
 
@@ -62,6 +65,7 @@ Conversion rule:
   - `Book a 20-minute project-fit discussion`
   - `Request a site-responsive concept review`
   - `Share your project brief for a first-pass feasibility response`
+  - `Inquire about our 10-15% execution saving model for high-rise projects` (New)
 
 Weekly measurement pack:
 - Post level: reach, saves, comments, inbound DMs, CTA clicks/replies.
@@ -75,6 +79,7 @@ Use process/capability posts only when internal rigor is translated into externa
 Translation rule:
 - Start with the client-facing outcome, not the internal fix.
 - Convert internal mechanics into one of these external value frames:
+  - **Lower execution cost (10-15% saving)**
   - faster decision clarity
   - lower coordination risk
   - stronger design intent retention
@@ -105,15 +110,15 @@ Before/after examples:
 - Pattern from [VITA-270](/VITA/issues/VITA-270)
   - Before: "We tightened our approval workflow so review packets move with less internal churn."
   - After: "Clear review gates help clients compare options sooner, reduce late-stage ambiguity, and move toward confident project decisions."
-- Pattern from [VITA-271](/VITA/issues/VITA-271)
-  - Before: "We are improving documentation discipline across our publication workflow."
-  - After: "Documentation discipline protects design intent from concept to construction by reducing ambiguity across consultants, approvals, and on-site execution."
+- Pattern from [VITA-595](/VITA/issues/VITA-595)
+  - Before: "We use high-rise transport optimization."
+  - After: "Vitan's technical execution typically saves 10-15% on high-rise execution costs through optimized engineering integration."
 
 ## 7. Hashtag Strategy
 
 ### Core recurring
 
-`#VitanArchitects #AddingLifeEverySqFt #Architecture #DesignThinking`
+`#VitanArchitects #AddingLifeEverySqFt #Architecture #EfficiencyOfGrandeur #AhmedabadSkyscrapers`
 
 Canonical branded hashtag rule:
 - Use `#AddingLifeEverySqFt` as the only recurring branded hashtag form in captions, first comments, approval tickets, and review packets.
@@ -121,9 +126,9 @@ Canonical branded hashtag rule:
 
 ### Rotating discovery sets
 
-- Project proof: `#ProjectHighlight #BuiltEnvironment #ArchitectureIndia`
-- Premium segment: `#LuxuryDesign #UrbanDevelopment #DesignQuality`
-- Process insight: `#DesignProcess #ProjectDelivery #BuiltForm`
+- Project proof: `#SkyscraperExecution #HighRiseArchitecture #AhmedabadSkyline`
+- Premium segment: `#LuxuryVerticalLiving #DesignCredibility #VerticalUrbanism`
+- Process insight: `#ProfitCentreDesign #ExecutionOptimization #BuiltResilience`
 
 Rule:
 - LinkedIn/Facebook: 4-6 total hashtags.
@@ -159,25 +164,27 @@ Rule:
 - Publish only after explicit approval status is recorded.
 - Review packets and approval HTML exports must preserve these blocks verbatim; if any block is missing, treat the item as draft-incomplete rather than review-ready.
 
-## 10. Active Execution Signals (Current Cycle)
+## 10. Active Execution Signals (April 2026 Wave)
 
 ### DPM
 
-- Keep the current queue anchored to approved or already in-review themes; avoid net-new social themes until the existing review load stabilizes.
-- Prioritize proof-first and process-value framing across the active queue, especially items tied to [VITA-254](/VITA/issues/VITA-254), [VITA-255](/VITA/issues/VITA-255), [VITA-257](/VITA/issues/VITA-257), [VITA-260](/VITA/issues/VITA-260), [VITA-262](/VITA/issues/VITA-262), [VITA-269](/VITA/issues/VITA-269), [VITA-270](/VITA/issues/VITA-270), and [VITA-271](/VITA/issues/VITA-271).
-- Treat [VITA-285](/VITA/issues/VITA-285) as the active reputation-side extension of the strategy once the review-request packet is ready.
+- **Campaign:** "Ahmedabad's Rising Skyline"
+- **Task:** Sequence posts to coincide with Stage 1 outreach send.
+- **Messaging:** Highlight the "Profit Centre" model (10-15% execution savings).
+- **Assets:** Use high-contrast monolithic shots of Parijaat Eclat and Privilon.
 
 ### BS
 
-- Keep long-form and publication-adjacent storytelling aligned to project proof, founder POV, and process credibility.
-- Do not publish or amplify Ahmedabad Racquet Academy details that depend on unresolved metadata, credits, permissions, or drawings while [VITA-211](/VITA/issues/VITA-211) and [VITA-226](/VITA/issues/VITA-226) remain blocked.
-- Until those blockers clear, use only supported firm proof points and process-value framing rather than unsupported ARA specifics.
+- **Theme:** "Execution Mastery in the 100m+ Segment."
+- **Task:** Draft LinkedIn long-form article on "Vertical Logistics: Why Execution Matters for Skyscrapers."
+- **Heritage:** Refresh case studies for Parijaat Eclat and Mondeal as Vitan's high-rise foundation.
 
 ### OC
 
-- Use speaking, awards, partnerships, and association visibility as credibility amplifiers for the same proof-first narrative rather than as disconnected announcements.
-- Feed any confirmed external proof signal back into shared strategy inputs so DPM and BS can reuse it.
-- Avoid depending on ARA publication readiness until [VITA-211](/VITA/issues/VITA-211) and [VITA-226](/VITA/issues/VITA-226) resolve.
+- **Campaign:** "Landmark Recognition."
+- **Award Priority:** CTBUH 2026, WAF 2026, India's Best Design Awards 2026.
+- **Projects:** Shaligram Luxuria, Augusta, Safal Vihaan.
+- **Blocker:** High-res photography is the critical path.
 
 ## 11. Publication Route Discipline
 
@@ -249,18 +256,13 @@ Feedback-aware creation rule:
 
 ## Sources Consulted
 
+- [VITA-595](/VITA/issues/VITA-595) — Established the 'Efficiency of Grandeur' campaign theme and the 2026 Skyscraper Wave focus.
+- [VITA-531](/VITA/issues/VITA-531) — Identified high-prestige skyscraper prospects in Ahmedabad.
+- [VITA-727](/VITA/issues/VITA-727) — Monday standup confirming sub-team health and blocker status.
 - [VITA-287](/VITA/issues/VITA-287) — required a repo-tracked canonical strategy file plus a dated strategy brief for the execution layer.
-- [VITA-286](/VITA/issues/VITA-286) — established that the planning cascade had been restored structurally but still needed the BB-owned strategy artifact.
 - [VITA-211](/VITA/issues/VITA-211) — confirmed the ArchDaily package remains blocked, so publication-led amplification cannot assume resolved source data.
 - [VITA-226](/VITA/issues/VITA-226) — confirmed the Ahmedabad Racquet Academy metadata and permissions gap that must remain visible in strategy dependencies.
-- [VITA-285](/VITA/issues/VITA-285) — identified the live reputation/review workflow as the next execution-side extension of the strategy.
 - [VITA-302](/VITA/issues/VITA-302) — established the explicit reputation-review sequencing that now belongs in canonical strategy.
 - [VITA-320](/VITA/issues/VITA-320) — confirmed the Instagram guideline remains review-stage only and should not be merged into canonical strategy before approval.
 - [VITA-325](/VITA/issues/VITA-325) — established the current publication-route order and the need to separate outlet priority from first-project selection.
-- `Business development/shared-workspace/deliverables/analytics/social-pipeline-snapshot-2026-04-05.md` — provided the current DPM queue state and active upstream blockers affecting social narrative depth.
-- `Business development/shared-workspace/deliverables/analytics/reputation-review-baseline-2026-04-05.md` — provided the immediate reputation-system baseline and KPI direction.
-- `Business development/shared-workspace/change-notes/2026-04-05-vita265-social-strategy-clarification.md` — carried forward the canonical branded hashtag rule and Instagram hashtag packaging limits.
-- `Business development/shared-workspace/change-notes/2026-04-05-vita273-process-led-thought-leadership-rules.md` — carried forward the process-to-client-value translation rule and approval-contract addition.
-- `Business development/shared-workspace/review/vita320/2026-04-06-instagram-strategy-guideline.md` — confirmed what stays review-only until explicit approval.
 - `Business development/shared-workspace/references/growth-os.md` — informed the cross-workstream role of strategy across scanning, positioning, and communication execution.
-- `$AGENT_HOME/SOCIAL_STRATEGY.md` — recovered agent-local strategy signals that had not yet been synchronized into the repo-tracked canonical file.

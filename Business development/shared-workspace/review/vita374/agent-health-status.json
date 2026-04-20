@@ -1,0 +1,77 @@
+{
+  "generatedAt": "2026-04-20T06:10:47.868848Z",
+  "staleMultiplier": 2.0,
+  "defaultIntervalSec": 21600,
+  "agents": [
+    {
+      "id": "5dbbd0b4-4ae8-4e2a-b924-f8a2ed082e2a",
+      "name": "Digital Presence Manager",
+      "runtimeStatus": "idle",
+      "health": "healthy",
+      "lastHeartbeatAt": "2026-04-20T03:53:09.971Z",
+      "heartbeatAgeSec": 8257,
+      "intervalSec": 21600,
+      "staleAfterSec": 43200
+    },
+    {
+      "id": "1b2e7035-dc4b-46ce-9125-a6713d1ba51d",
+      "name": "Brand Storyteller",
+      "runtimeStatus": "idle",
+      "health": "healthy",
+      "lastHeartbeatAt": "2026-04-20T04:24:33.420Z",
+      "heartbeatAgeSec": 6374,
+      "intervalSec": 21600,
+      "staleAfterSec": 43200
+    },
+    {
+      "id": "006f1cc1-6f96-40fe-90da-a7fe3d8b9319",
+      "name": "HR",
+      "runtimeStatus": "idle",
+      "health": "healthy",
+      "lastHeartbeatAt": "2026-04-20T04:39:53.502Z",
+      "heartbeatAgeSec": 5454,
+      "intervalSec": 21600,
+      "staleAfterSec": 43200
+    },
+    {
+      "id": "eda59c6a-8b69-4bc9-b8e8-b8a477a11749",
+      "name": "Business Builder",
+      "runtimeStatus": "idle",
+      "health": "healthy",
+      "lastHeartbeatAt": "2026-04-20T05:06:37.414Z",
+      "heartbeatAgeSec": 3850,
+      "intervalSec": 21600,
+      "staleAfterSec": 43200
+    },
+    {
+      "id": "ed683b84-7a68-4569-ba19-356a15c63911",
+      "name": "Founding Engineer",
+      "runtimeStatus": "running",
+      "health": "healthy",
+      "lastHeartbeatAt": "2026-04-20T05:42:42.065Z",
+      "heartbeatAgeSec": 1685,
+      "intervalSec": 21600,
+      "staleAfterSec": 43200
+    },
+    {
+      "id": "333972c1-2e03-417e-b881-d4b6edce7411",
+      "name": "Outreach Coordinator",
+      "runtimeStatus": "idle",
+      "health": "healthy",
+      "lastHeartbeatAt": "2026-04-20T05:45:31.362Z",
+      "heartbeatAgeSec": 1516,
+      "intervalSec": 21600,
+      "staleAfterSec": 43200
+    },
+    {
+      "id": "133b32e0-22c4-4b1f-a15c-2bbee6d2bc50",
+      "name": "Principle Architect",
+      "runtimeStatus": "idle",
+      "health": "healthy",
+      "lastHeartbeatAt": "2026-04-20T06:09:40.690Z",
+      "heartbeatAgeSec": 67,
+      "intervalSec": 21600,
+      "staleAfterSec": 43200
+    }
+  ]
+}

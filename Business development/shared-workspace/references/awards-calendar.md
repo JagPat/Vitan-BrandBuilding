@@ -25,8 +25,8 @@
 
 | Platform | Speaker | Topic | Deadline | Date | Status |
 |----------|---------|-------|----------|------|--------|
-| **IGBC Green Gujarat Summit** | Jagrut Patel | Sustainable Humanity: The Safal Vihaan Case | N/A | 2026-06-12 | Researching Slot |
-| **iDAC Summit Ahmedabad** | Jagrut Patel | High-Rise Execution: Profit vs. Complexity | TBD | 2026-06-26 | Preparing Application |
+| **IGBC Green Gujarat Summit** | Jagrut Patel | Sustainable Humanity: The Safal Vihaan Case | N/A | 2026-06-12 | [Abstract Prepared](../deliverables/outreach/igbc-gujarat-2026-abstract.md) |
+| **iDAC Summit Ahmedabad** | Jagrut Patel | High-Rise Execution: Profit vs. Complexity | TBD | 2026-06-26 | [Abstract Prepared](../deliverables/outreach/idac-ahmedabad-2026-abstract.md) |
 | **Vibrant Gujarat Regional (Central)** | Jagrut Patel | Smart High-Rise as Urban Infrastructure | N/A | 2026-06-10 | Abstract Prepared ([VITA-533](/VITA/issues/VITA-533)) |
 | **ICAD 2026 (Vadodara)** | Jagrut Patel | Engineering the 162m Vertical City | 2026-08-22 | 2026-09-11 | Abstract Prepared ([VITA-533](/VITA/issues/VITA-533)) |
 | **ZAK World of Facades (Mumbai/Delhi)**| Jagrut Patel | Climate-Responsive Envelopes | June 2026 | Q3/Q4 2026 | In Planning |

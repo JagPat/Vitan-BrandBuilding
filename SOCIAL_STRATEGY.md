@@ -1,6 +1,6 @@
 # SOCIAL_STRATEGY
 
-Last updated: 2026-04-20 (UTC, Skyscraper Wave & 'Efficiency of Grandeur' update)
+Last updated: 2026-04-20 (UTC, Skyscraper Wave & CEPT Institutional Pivot update)
 Owner: Business Builder
 Canonical status: repo-tracked source of truth for DPM, BS, and OC. Agent-local notes must defer to this file.
 
@@ -129,6 +129,7 @@ Canonical branded hashtag rule:
 - Project proof: `#SkyscraperExecution #HighRiseArchitecture #AhmedabadSkyline`
 - Premium segment: `#LuxuryVerticalLiving #DesignCredibility #VerticalUrbanism`
 - Process insight: `#ProfitCentreDesign #ExecutionOptimization #BuiltResilience`
+- Institutional/Heritage: `#HeritageRenewal #InstitutionalExcellence #AhmedabadHeritage #UrbanSustainability`
 
 Rule:
 - LinkedIn/Facebook: 4-6 total hashtags.
@@ -183,8 +184,15 @@ Rule:
 
 - **Campaign:** "Landmark Recognition."
 - **Award Priority:** CTBUH 2026, WAF 2026, India's Best Design Awards 2026.
-- **Projects:** Shaligram Luxuria, Augusta, Safal Vihaan.
-- **Blocker:** High-res photography is the critical path.
+- Projects: Shaligram Luxuria, Augusta, Safal Vihaan.
+- Blocker: High-res photography is the critical path.
+
+### CEPT / Institutional Pivot
+
+- **Campaign:** "Heritage vs Performance"
+- **Task:** Personalized outreach to CEPT leadership ([VIT-C-019]).
+- **Messaging:** Bridging heritage sensitivity with technical rigor for urban renewal.
+- **Assets:** Use Ahmedabad Racquet Academy (ARA) as primary reference.
 
 ## 11. Publication Route Discipline
 

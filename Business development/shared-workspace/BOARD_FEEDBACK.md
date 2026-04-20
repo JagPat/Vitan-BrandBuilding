@@ -2,7 +2,7 @@
 
 Owner: Principle Architect (PA)  
 Status: Active log  
-Last updated: 2026-04-18
+Last updated: 2026-04-20
 
 ## Purpose
 
@@ -30,9 +30,29 @@ This file records board-facing decisions, recurring preferences, and pattern imp
 - **Summary:** Board confirmed `growthos@vitan.in` is the dedicated system email. Old `jp@vitan.in` setup cancelled. Board tested live send and confirmed receipt. Directed PA to close all related issues. PA closed VITA-510, VITA-511, VITA-480.
 - **Pattern signal:** Board prefers clean closure with explicit confirmation once system-level changes are verified end-to-end (not just intermediate steps).
 
+### 2026-04-19 — Board increased Gemini AI Studio budget
+- **Issue:** VITA-649 / VITA-645 — all gemini_local agents in error (quota exhaustion)
+- **Decision:** Board increased Google AI Studio "Using Budget" for Gemini app
+- **Channel:** Paperclip comment on VITA-649 (2026-04-19T13:59:58)
+- **Outcome:** Partial recovery — BB, DPM, OC, HR recovered; BS remained in error (permissions blocker)
+- **Pattern implication:** Gemini quota can be exhausted by parallel heartbeat runs; budget headroom needed for concurrent agent ops
+
+### 2026-04-20 — PA approved Wave 2 skyscraper outreach drafts
+- **Issue:** VITA-595 / VITA-725 — Wave 2 drafts for 5 skyscraper targets (VIT-C-025 to VIT-C-029 range)
+- **Decision:** PA approved (Job 4 Quality Gate) — all 5 drafts pass brand voice, guardrails, and value-lead checks
+- **Drafts location:** `shared-workspace/review/VITA-725/` (commit f4d52f0 on agent/bb branch)
+- **Status:** Ready for board review and dispatch decision; VITA-733 created for BB to send
+
+### 2026-04-20 — Board needs to decide on IBDA entry fee (deadline today)
+- **Issue:** VITA-632 — India's Best Design Awards 2026 (Safal Vihaan), deadline April 20
+- **Open ask:** ₹35,000 entry fee approval; high-res Safal Vihaan photos
+- **Channel:** VITA-645 board alert and VITA-632 PA comment (2026-04-20T03:56)
+- **Status:** OC actively running VITA-632 but cannot file without fee approval and photos
+
 ## Preference Codex
 
-No durable board patterns promoted yet in the tracked repo.
+### PC-001 — Clean closure with explicit board confirmation
+Board prefers closing system-level issues only after end-to-end verification with explicit confirmation, not just intermediate milestone completion. (Sourced from 2026-04-18 Zoho identity closure pattern, 1 occurrence — monitor for 2 more before full promotion.)
 
 ## Sources Consulted
 

@@ -20,6 +20,7 @@ Three new major developers added to the master system today:
    - **Vitan Hook:** Focus on ROI of design-to-execution for premium corporate tenants.
 
 ## Strategic Observations
+- **Awards Pivot:** WAF 2026 submission has been **SKIPPED** per board directive due to asset blockers. Focus has shifted to unblocking the long-term asset SOP and IIA Ascension.
 - **Sector Rotation:** While residential high-rises dominated 2024-2025, 2026 is seeing a surge in 150m+ commercial and mixed-use towers (Times Marvel, Gota Commercial Tower).
 - **Competitor Watch:** INI Design Studio continues to be the primary incumbent for these landmarks. Vitan's "Profit Centre" messaging is the critical wedge to disrupt their dominance by focusing on execution credibility and cost optimization.
 

@@ -35,6 +35,6 @@ This week focused on capitalizing on the "Ahmedabad Skyscraper Wave" (100m+ segm
 - **OC**: Capacity overloaded; SLIPPING on awards deadlines due to missing board inputs and system errors.
 
 ## Next-Week Focus
-1. **WAF 2026 Submission**: Deadline April 24. Requires immediate asset upload (VITA-474).
-2. **Skyscraper Outreach Launch**: Secure board approval for 15 Stage 1 drafts and initiate sending.
-3. **IIA Ascension Competition**: Begin conceptual response for the HQ redevelopment.
+1. **Skyscraper Outreach Launch**: Secure board approval for 15 Stage 1 drafts and initiate sending.
+2. **IIA Ascension Competition**: Begin conceptual response for the HQ redevelopment.
+3. **Asset Library**: Finalize the SOP for project asset uploads (VITA-764) to prevent future award blockers.

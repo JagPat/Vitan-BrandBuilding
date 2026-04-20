@@ -34,15 +34,23 @@ FOLDER_MAP = {
     "Business development/shared-workspace/contacts-master.csv": "1pu3j6596ef15eea243e6885a2ae839cde599",  # Contacts
     "Business development/shared-workspace/change-notes/": "1pu3j5429b8a1a129424babf1d9fb38360d0b",   # Content Calendar
     "Business development/Brand Guide/": "1pu3j6301c26ba9a8497b99daef5e6a30476a",                     # Brand Guidelines
-    "Business development/PHOTOS FOR SAMPLE PROJECT/ARA": "1pu3jd89dddaad69b49908467ea262baba378",
-    "Business development/PHOTOS FOR SAMPLE PROJECT/MERLIN": "1pu3jed8ac3e1155142e8a1cecb57f776622e",
+    # Canonical Git folder names for sample project photos
+    "Business development/PHOTOS FOR SAMPLE PROJECT/ARA (AHMEDABAD RACQUET ACADEMY)/": "1pu3jd89dddaad69b49908467ea262baba378",
+    "Business development/PHOTOS FOR SAMPLE PROJECT/MERLIN PENTAGON/": "1pu3jed8ac3e1155142e8a1cecb57f776622e",
     "Business development/PHOTOS FOR SAMPLE PROJECT/PALLADIUM": "1pu3j15e9a7662b3e409c8d74e4a49698d330",
-    "Business development/PHOTOS FOR SAMPLE PROJECT/PARIJAAT": "1pu3jc2f6bf4edf7d46c69f05ae4a4928f386",
+    "Business development/PHOTOS FOR SAMPLE PROJECT/PARIJAAT ECLAT/": "1pu3jc2f6bf4edf7d46c69f05ae4a4928f386",
     "Business development/PHOTOS FOR SAMPLE PROJECT/PRIVILON": "1pu3j52c2bbbfff9c41778eb74adfa62c5b22",
-    "Business development/PHOTOS FOR SAMPLE PROJECT/RETHAL": "1pu3j6adf43ab33e742e1bd38c0d2d803510a",
+    "Business development/PHOTOS FOR SAMPLE PROJECT/RETHAL GREENS/": "1pu3j6adf43ab33e742e1bd38c0d2d803510a",
     "Business development/PHOTOS FOR SAMPLE PROJECT/SAFAL PARISAR": "1pu3jd044912b8f4b4e9ca2624349e1a77b5b",
     "Business development/PHOTOS FOR SAMPLE PROJECT/SAFAL PEGASUS": "1pu3j0c0b3f15d35f4b0ca00bfab4c2a9c4a0",
     "Business development/PHOTOS FOR SAMPLE PROJECT/SEVENTY": "1pu3j1de1290a5b8042a9a97092ca55f16658",
+    # Backward-compatible aliases used by older scripts/docs
+    "Business development/PHOTOS FOR SAMPLE PROJECT/ARA/": "1pu3jd89dddaad69b49908467ea262baba378",
+    "Business development/PHOTOS FOR SAMPLE PROJECT/MERLIN/": "1pu3jed8ac3e1155142e8a1cecb57f776622e",
+    "Business development/PHOTOS FOR SAMPLE PROJECT/PARIJAAT/": "1pu3jc2f6bf4edf7d46c69f05ae4a4928f386",
+    "Business development/PHOTOS FOR SAMPLE PROJECT/RETHAL/": "1pu3j6adf43ab33e742e1bd38c0d2d803510a",
+    # Interim route: keep shortlist assets synced while board finalizes a dedicated WorkDrive folder ID.
+    "SHORTLISTED TREES & LANDSCAPE/": GROWTH_OS_ID,
 }
 
 # Echo loop marker

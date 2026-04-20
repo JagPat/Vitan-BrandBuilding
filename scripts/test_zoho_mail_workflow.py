@@ -8,6 +8,7 @@ import tempfile
 import unittest
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from unittest import mock
 
 
 MODULE_PATH = Path(__file__).with_name("zoho-mail-workflow.py")
@@ -18,6 +19,8 @@ sys.modules["zoho_mail_workflow"] = MODULE
 SPEC.loader.exec_module(MODULE)
 is_board_bypass = MODULE.is_board_bypass
 list_sent_messages = MODULE.list_sent_messages
+fetch_messages = MODULE.fetch_messages
+resolve_messages_url = MODULE.resolve_messages_url
 
 
 class BoardBypassClassifierTests(unittest.TestCase):
@@ -98,6 +101,82 @@ class ListSentMessagesTests(unittest.TestCase):
         self.assertEqual(rows[0]["subject"], "Recent message")
         self.assertEqual(rows[0]["from"], "growthos@vitan.in")
         self.assertEqual(rows[0]["body_snippet"], "hello world")
+
+
+class FetchMessagesTests(unittest.TestCase):
+    def test_resolve_messages_url_from_account_and_folder(self):
+        with mock.patch.dict(
+            os.environ,
+            {
+                "ZOHO_MAIL_ACCOUNT_ID": "acct-123",
+                "ZOHO_MAIL_INBOX_FOLDER_ID": "folder-456",
+            },
+            clear=False,
+        ):
+            with mock.patch.object(MODULE, "ZOHO_MAIL_MESSAGES_URL", ""):
+                with mock.patch.object(MODULE, "ZOHO_MAIL_MESSAGES_LIMIT", "20"):
+                    url = resolve_messages_url()
+        self.assertEqual(
+            url,
+            "https://mail.zoho.in/api/accounts/acct-123/messages/view?folderId=folder-456&limit=20",
+        )
+
+    def test_fetch_messages_uses_resolved_url_when_explicit_url_missing(self):
+        payload = {
+            "messages": [
+                {
+                    "messageId": "mid-1",
+                    "threadId": "tid-1",
+                    "from": "jp@vitan.in",
+                    "to": ["growthos+pa@vitan.in"],
+                    "subject": "hello",
+                }
+            ]
+        }
+        fake_response = mock.Mock()
+        fake_response.json.return_value = payload
+        fake_response.raise_for_status.return_value = None
+
+        with mock.patch.object(MODULE, "ZOHO_MAIL_MESSAGES_URL", ""):
+            with mock.patch.dict(
+                os.environ,
+                {
+                    "ZOHO_MAIL_ACCOUNT_ID": "acct-123",
+                    "ZOHO_MAIL_INBOX_FOLDER_ID": "folder-456",
+                },
+                clear=False,
+            ):
+                with mock.patch.object(MODULE, "get_access_token", return_value="token-1"):
+                    with mock.patch.object(MODULE.requests, "get", return_value=fake_response) as get_mock:
+                        messages = fetch_messages()
+
+        self.assertEqual(len(messages), 1)
+        self.assertEqual(messages[0].message_id, "mid-1")
+        self.assertIn("accounts/acct-123/messages/view?folderId=folder-456", get_mock.call_args[0][0])
+
+    def test_fetch_messages_accepts_data_key_payload(self):
+        payload = {
+            "data": [
+                {
+                    "message_id": "mid-2",
+                    "thread_id": "tid-2",
+                    "from": "jp@vitan.in",
+                    "to": ["growthos+pa@vitan.in"],
+                    "subject": "hello-2",
+                }
+            ]
+        }
+        fake_response = mock.Mock()
+        fake_response.json.return_value = payload
+        fake_response.raise_for_status.return_value = None
+
+        with mock.patch.object(MODULE, "ZOHO_MAIL_MESSAGES_URL", "https://mail.zoho.in/api/custom"):
+            with mock.patch.object(MODULE, "get_access_token", return_value="token-1"):
+                with mock.patch.object(MODULE.requests, "get", return_value=fake_response):
+                    messages = fetch_messages()
+
+        self.assertEqual(len(messages), 1)
+        self.assertEqual(messages[0].message_id, "mid-2")
 
 
 if __name__ == "__main__":

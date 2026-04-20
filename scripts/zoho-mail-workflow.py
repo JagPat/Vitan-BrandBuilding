@@ -45,6 +45,8 @@ LOG_PATH = Path(os.getenv("BOARD_BYPASS_LOG_PATH", "/app/shared-workspace/board-
 ZOHO_ACCOUNTS_URL = os.getenv("ZOHO_ACCOUNTS_URL", "https://accounts.zoho.in/oauth/v2/token")
 ZOHO_MAIL_MESSAGES_URL = os.getenv("ZOHO_MAIL_MESSAGES_URL", "")
 ZOHO_SENT_FOLDER_URL = os.getenv("ZOHO_SENT_FOLDER_URL", "")
+ZOHO_MAIL_API_BASE_URL = os.getenv("ZOHO_MAIL_API_BASE_URL", "https://mail.zoho.in/api")
+ZOHO_MAIL_MESSAGES_LIMIT = os.getenv("ZOHO_MAIL_MESSAGES_LIMIT", "20")
 ZOHO_THREAD_ROOT_URL_TEMPLATE = os.getenv("ZOHO_THREAD_ROOT_URL_TEMPLATE", "")
 
 PAPERCLIP_API_URL = os.getenv("PAPERCLIP_API_URL", "")
@@ -138,24 +140,43 @@ def get_access_token() -> str:
     return token
 
 
+def resolve_messages_url() -> str:
+    if ZOHO_MAIL_MESSAGES_URL:
+        return ZOHO_MAIL_MESSAGES_URL
+
+    account_id = os.getenv("ZOHO_MAIL_ACCOUNT_ID", "").strip()
+    folder_id = os.getenv("ZOHO_MAIL_INBOX_FOLDER_ID", "").strip()
+    if not account_id or not folder_id:
+        return ""
+
+    return (
+        f"{ZOHO_MAIL_API_BASE_URL.rstrip('/')}/accounts/{account_id}/messages/view"
+        f"?folderId={folder_id}&limit={ZOHO_MAIL_MESSAGES_LIMIT}"
+    )
+
+
 def fetch_messages() -> list[Message]:
     fixture_path = os.getenv("ZOHO_MESSAGES_FILE", "")
     if fixture_path:
         raw = json.loads(Path(fixture_path).read_text(encoding="utf-8"))
         return [message_from_dict(item) for item in raw]
 
-    if not ZOHO_MAIL_MESSAGES_URL:
+    messages_url = resolve_messages_url()
+    if not messages_url:
         return []
 
     token = get_access_token()
     resp = requests.get(
-        ZOHO_MAIL_MESSAGES_URL,
+        messages_url,
         headers={"Authorization": f"Zoho-oauthtoken {token}"},
         timeout=60,
     )
     resp.raise_for_status()
     payload = resp.json()
-    items = payload.get("messages", payload if isinstance(payload, list) else [])
+    if isinstance(payload, dict):
+        items = payload.get("messages") or payload.get("data") or []
+    else:
+        items = payload if isinstance(payload, list) else []
     return [message_from_dict(item) for item in items]
 
 

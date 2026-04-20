@@ -40,13 +40,17 @@ def fit_box(src_width: float, src_height: float, box_x: float, box_y: float, box
 
 def render_pdf(contact_id: str, project_name: str, output_dir: Path | None = None) -> Path:
     try:
-        from PIL import Image
         from reportlab.lib import colors
         from reportlab.lib.pagesizes import A4
         from reportlab.lib.utils import ImageReader
         from reportlab.pdfgen import canvas
     except Exception as exc:  # pragma: no cover - runtime dependency branch
         raise RuntimeError(exc) from exc
+
+    try:
+        from PIL import Image  # type: ignore
+    except Exception:  # pragma: no cover - optional dependency branch
+        Image = None  # type: ignore[assignment]
 
     contact = load_contact(contact_id)
     project = project_metadata(project_name)
@@ -59,6 +63,9 @@ def render_pdf(contact_id: str, project_name: str, output_dir: Path | None = Non
     margin = 36
 
     def pil_reader(path: Path, *, preserve_alpha: bool = False) -> ImageReader:
+        if Image is None:
+            return ImageReader(str(path))
+
         image = Image.open(path)
         if preserve_alpha and image.mode == "RGBA":
             output_image = image

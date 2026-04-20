@@ -12,3 +12,12 @@ Purpose: keep collaboration artifacts in one shared location for drafting, revie
 ## Naming Convention
 Use date + ticket key + short slug when possible.
 Example: `2026-04-03-vita134-swot-competition-rebrand-baseline.md`
+
+## FE Build Tools
+- `Business development/shared-workspace/create_email.py`
+  - Creates branded HTML outreach email artifacts from `contacts-master.csv`.
+  - Example: `Business development/shared-workspace/create_email.py VIT-C-001 --project Privilon`
+- `Business development/shared-workspace/create_pdf.py`
+  - Creates branded one-page PDF outreach artifacts.
+  - Auto-bootstraps a local virtual environment (`.venvs/vitan-content-tools`) for PDF dependencies when needed.
+  - Example: `Business development/shared-workspace/create_pdf.py VIT-C-001 Privilon`

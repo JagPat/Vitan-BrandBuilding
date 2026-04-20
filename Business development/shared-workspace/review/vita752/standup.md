@@ -14,23 +14,24 @@
 ## Section 3 — Sub-team state (BS, DPM, OC).
 - BS: Deliverable: Seventy/Palladium editorial. Status: Blocked (drawings). Capacity: Idle (awaiting assets).
 - DPM: Deliverable: April LinkedIn campaign. Status: Running (starts Apr 21). Capacity: On-track.
-- OC: Deliverable: Safal Vihaan IBDA. Status: SUCCESS (Filed Apr 20). Next: CTBUH/WAF (Blocked on photos). Capacity: Over-utilised (juggling multiple awards).
+- OC: Deliverable: Safal Vihaan IBDA. Status: DEFERRED (Missed Apr 20 deadline due to missing board inputs). Next: CTBUH (Blocked on photos). JK AYA 36th SKIPPED (Project Ineligible). Capacity: Over-utilised.
 
 ## Section 4 — Last week in review.
-- Content shipped: Safal Vihaan IBDA submission ([VITA-632](/VITA/issues/VITA-632)), IIA Vision Statement ([VITA-740](/VITA/issues/VITA-740)).
-- Outreach outcomes: Wave 2 drafts finalized; 1 award filed.
+- Content shipped: IIA Vision Statement ([VITA-740](/VITA/issues/VITA-740)).
+- Outreach outcomes: Wave 2 drafts finalized; IBDA 2026 deferred.
 - Digital presence: Metrics gathering pending (DPM to establish analytics folder).
 
 ## Section 5 — This week's proposed focus.
 - Priority 1: Wave 2 Skyscraper Outreach (Thursday dispatch).
-- Priority 2: Unblock BS/OC via technical drawings/photo upload request to board ([VITA-474](/VITA/issues/VITA-474)).
+- Priority 2: Unblock BS/OC/DPM via high-res photo upload request to board ([VITA-474](/VITA/issues/VITA-474)).
 - Priority 3: April LinkedIn campaign launch (Apr 21).
+- Priority 4: Reassess CTBUH 2026 eligibility for 2025 completions.
 - Parked: Residential follow-ups (postponed to May to focus on Skyscrapers).
 
 ## Section 6 — Blockers / need from PA.
-- Decision needed: IBDA entry fee approval ([VITA-632](/VITA/issues/VITA-632)).
-- Approval pending: Drawings/Photos upload for [VITA-474](/VITA/issues/VITA-474), [VITA-571](/VITA/issues/VITA-571), [VITA-572](/VITA/issues/VITA-572).
-- Trade-off: High-prestige awards vs. lead gen (focusing on awards this week).
+- Decision needed: Confirmation of high-res asset delivery timeline ([VITA-474](/VITA/issues/VITA-474)).
+- Approval pending: Wave 2 outreach send-authorization (Thu).
+- Trade-off: Focusing on high-prestige skyscraper outreach over stale award leads.
 
 ## Section 7 — Commitments for the week.
 - [ ] Tuesday weekly plan filed (EOD Tue).

@@ -60,7 +60,7 @@ PROJECT_CATALOG: dict[str, dict[str, str]] = {
         "location": "Ahmedabad, Gujarat",
         "type": "Residential",
         "area": "Luxury apartment towers",
-        "year": "Undisclosed",
+        "year": "2023",
         "description": (
             "A premium residential development used to anchor outreach around livability, "
             "high-rise housing identity, and premium buyer positioning."
@@ -72,7 +72,7 @@ PROJECT_CATALOG: dict[str, dict[str, str]] = {
         "location": "Ahmedabad, Gujarat",
         "type": "Commercial",
         "area": "Office and retail high-rise",
-        "year": "Undisclosed",
+        "year": "2020",
         "description": (
             "A commercial tower reference suited to conversations about workplace identity, "
             "retail frontage, and premium mixed-use execution."
@@ -84,7 +84,7 @@ PROJECT_CATALOG: dict[str, dict[str, str]] = {
         "location": "Ahmedabad, Gujarat",
         "type": "Residential",
         "area": "Urban housing community",
-        "year": "Undisclosed",
+        "year": "2012",
         "description": (
             "A residential portfolio reference that supports outreach about community-led "
             "planning, daily usability, and delivery discipline."
@@ -96,7 +96,7 @@ PROJECT_CATALOG: dict[str, dict[str, str]] = {
         "location": "Ahmedabad, Gujarat",
         "type": "Commercial",
         "area": "Premium commercial complex",
-        "year": "Undisclosed",
+        "year": "2015",
         "description": (
             "A flagship commercial project often used to demonstrate premium frontage, "
             "urban presence, and a polished business environment."
@@ -108,7 +108,7 @@ PROJECT_CATALOG: dict[str, dict[str, str]] = {
         "location": "Ahmedabad, Gujarat",
         "type": "Commercial",
         "area": "Retail and lifestyle destination",
-        "year": "Undisclosed",
+        "year": "2023",
         "description": (
             "A retail-led portfolio reference that helps frame destination building, "
             "customer experience, and premium public-facing design."
@@ -116,11 +116,11 @@ PROJECT_CATALOG: dict[str, dict[str, str]] = {
     },
     "MERLIN PENTAGON": {
         "folder": "MERLIN PENTAGON",
-        "display": "Merlin Pentagon",
+        "display": "MERLIN PENTAGON",
         "location": "Kolkata, West Bengal",
         "type": "Commercial",
         "area": "Corporate office development",
-        "year": "Undisclosed",
+        "year": "2022",
         "description": (
             "A corporate-scale commercial reference that supports positioning around "
             "business-ready environments and sharp architectural expression."
@@ -132,7 +132,7 @@ PROJECT_CATALOG: dict[str, dict[str, str]] = {
         "location": "Ahmedabad, Gujarat",
         "type": "Institutional",
         "area": "Sports campus",
-        "year": "Undisclosed",
+        "year": "2011",
         "description": (
             "An institutional sports facility reference for conversations that need "
             "community use, activity planning, and operational clarity."
@@ -144,7 +144,7 @@ PROJECT_CATALOG: dict[str, dict[str, str]] = {
         "location": "Ahmedabad, Gujarat",
         "type": "Mixed-use",
         "area": "Mixed-format development",
-        "year": "Undisclosed",
+        "year": "2022",
         "description": (
             "A mixed-use reference that helps frame identity, flexibility, and strong "
             "visual character across different occupier needs."
@@ -156,10 +156,46 @@ PROJECT_CATALOG: dict[str, dict[str, str]] = {
         "location": "Ahmedabad, Gujarat",
         "type": "Mixed-use",
         "area": "Landscape-led development",
-        "year": "Undisclosed",
+        "year": "2018",
         "description": (
             "A landscape-forward project reference that supports outdoor experience, "
             "master planning, and lower-density premium positioning."
+        ),
+    },
+    "SHALIGRAM LUXURIA": {
+        "folder": "SHALIGRAM LUXURIA",
+        "display": "Shaligram Luxuria",
+        "location": "Ahmedabad, Gujarat",
+        "type": "Residential",
+        "area": "Ultra-luxury housing",
+        "year": "2025",
+        "description": (
+            "A flagship high-rise luxury project in the Ambli corridor, focusing on "
+            "privacy and utopian urbanism."
+        ),
+    },
+    "AUGUSTA": {
+        "folder": "AUGUSTA",
+        "display": "Augusta",
+        "location": "Ahmedabad, Gujarat",
+        "type": "Residential",
+        "area": "Large-scale urban housing",
+        "year": "2025",
+        "description": (
+            "A massive 170,000 sq. ft. residential project demonstrating scale and "
+            "climate-responsive facade strategies."
+        ),
+    },
+    "SAFAL VIHAAN": {
+        "folder": "SAFAL VIHAAN",
+        "display": "Safal Vihaan",
+        "location": "Ahmedabad, Gujarat",
+        "type": "Residential",
+        "area": "Sustainable community",
+        "year": "2024",
+        "description": (
+            "A nature-centric residential project built around 500+ existing chikoo trees, "
+            "emphasizing architecture as stewardship."
         ),
     },
 }

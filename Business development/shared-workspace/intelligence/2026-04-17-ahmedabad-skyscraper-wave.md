@@ -24,7 +24,7 @@ Ahmedabad is undergoing a massive vertical transformation in 2026, with over 30 
 *   **Current Architect:** Pankti B. Dholakia.
 *   **Vitan Angle:** Zade is expanding rapidly in Thaltej. High potential for a long-term partnership as they scale their "Z" brand.
 
-### D. Sri Lotus Developers
+### D. Sri Lotus Developers & Realty Ltd
 *   **Key Project:** GIFT City Vertical City (1 million sq. ft. mixed-use). Joint venture with Abhishek Bachchan.
 *   **Leadership:** Anand K. Pandit (CMD).
 *   **Current Architect:** "In-house expertise" (Planning Stage).
@@ -45,7 +45,6 @@ Ahmedabad is undergoing a massive vertical transformation in 2026, with over 30 
 1.  **GIFT City Focus:** Immediate discovery on Anand K. Pandit (Sri Lotus). This is the "cleanest" entry point due to the in-house design status.
 2.  **Engineering Value:** Use Vitan's "10-15% execution savings" pitch specifically for Navratna, targeting their engineer-led leadership.
 3.  **Thaltej/Bodakdev Sweep:** Monitor BU certificate issuances (like Science City) to identify developers nearing completion who may be planning their next (taller) move.
-
 
 ## [CONTACTS_MAP]
 | Entity | Contact ID | Link |

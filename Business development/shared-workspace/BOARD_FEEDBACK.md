@@ -43,6 +43,14 @@ This file records board-facing decisions, recurring preferences, and pattern imp
 - **Drafts location:** `shared-workspace/review/VITA-725/` (commit f4d52f0 on agent/bb branch)
 - **Status:** Ready for board review and dispatch decision; VITA-733 created for BB to send
 
+### 2026-04-20 — Board prefers group address for system email delivery (VITA-755)
+- **Issue:** [VITA-755](/VITA/issues/VITA-755)
+- **Channel:** Paperclip issue comment (Jagrut Patel, 2026-04-20T05:33)
+- **Decision:** Board wants all Growth OS emails sent TO `board@vitan.in` (Zoho group), not individual addresses or Gmail.
+- **Context:** Social-media-workflow was sending to `jagrutpatel@gmail.com`; board received in Gmail, not Zoho inbox.
+- **Action:** [VITA-756](/VITA/issues/VITA-756) filed to FE — update BOARD_CONTACTS.yaml to use `board@vitan.in` group; fix social-media-workflow.md From/To.
+- **Pattern signal (1/3):** Use group address for board delivery; all system emails FROM `growthos@vitan.in` (reinforces PC-001 signal).
+
 ### 2026-04-20 — Board needs to decide on IBDA entry fee (deadline today)
 - **Issue:** VITA-632 — India's Best Design Awards 2026 (Safal Vihaan), deadline April 20
 - **Open ask:** ₹35,000 entry fee approval; high-res Safal Vihaan photos

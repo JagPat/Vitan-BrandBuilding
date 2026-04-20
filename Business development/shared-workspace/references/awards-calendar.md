@@ -15,7 +15,7 @@
 *Note: Ascension is for the redevelopment of IIA HQ in Navi Mumbai. Reg: Apr 30. Sub: May 15. Prize: ₹15L.*
 | **JK Architect of the Year (AYA)** | National | April 30, 2026 | ₹0 | Monitoring | [aya.jkcement.com](https://aya.jkcement.com) |
 | **IADA 2026** | International | April 24, 2026 | TBD | **NEW** | [ad-c.org](https://ad-c.org) |
-| **CTBUH / CVU Awards 2026** | International | May 20, 2026 | $500+ | Preparation | [awards.ctbuh.org](https://awards.ctbuh.org) |
+| **CTBUH / CVU Awards 2026** | International | May 20, 2026 | $500+ | **PRIMARY FOCUS** ([VITA-588](/VITA/issues/VITA-588)) | [awards.ctbuh.org](https://awards.ctbuh.org) |
 | **INDIS 2026 (IIT Guwahati)** | National | May 15, 2026 | TBD | **NEW** | [iitg.ac.in](https://www.iitg.ac.in) |
 | **WADE ASIA 2026** | National | May 31, 2026 | TBD | **NEW** | [wadeasia.com](https://wadeasia.com) |
 | **GRI Awards India 2026** | National | June 5, 2026 | TBD | Monitoring | [gri.org.in](https://gri.org.in) |
@@ -99,4 +99,4 @@
 - **2027 Cycle Planning**: December.
 
 ---
-*Last Updated: April 20, 2026 (11:00 IST) by Outreach Coordinator*
+*Last Updated: April 20, 2026 (18:45 IST) by Outreach Coordinator*

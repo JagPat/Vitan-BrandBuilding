@@ -14,7 +14,10 @@
 | **IIA Ascension (Competition)** | National | April 30, 2026 | ₹0 | Monitoring | [indianinstituteofarchitects.com](https://indianinstituteofarchitects.com) |
 *Note: Ascension is for the redevelopment of IIA HQ in Navi Mumbai. Reg: Apr 30. Sub: May 15. Prize: ₹15L.*
 | **JK Architect of the Year (AYA)** | National | April 30, 2026 | ₹0 | Monitoring | [aya.jkcement.com](https://aya.jkcement.com) |
+| **IADA 2026** | International | April 24, 2026 | TBD | **NEW** | [ad-c.org](https://ad-c.org) |
 | **CTBUH / CVU Awards 2026** | International | May 20, 2026 | $500+ | Preparation | [awards.ctbuh.org](https://awards.ctbuh.org) |
+| **INDIS 2026 (IIT Guwahati)** | National | May 15, 2026 | TBD | **NEW** | [iitg.ac.in](https://www.iitg.ac.in) |
+| **WADE ASIA 2026** | National | May 31, 2026 | TBD | **NEW** | [wadeasia.com](https://wadeasia.com) |
 | **GRI Awards India 2026** | National | June 5, 2026 | TBD | Monitoring | [gri.org.in](https://gri.org.in) |
 
 *Note: CTBUH main registration closed Feb 14; May 20 target reflects specific innovation/technical category windows or extension targets.*
@@ -29,6 +32,7 @@
 | **iDAC Summit Ahmedabad** | Jagrut Patel | High-Rise Execution: Profit vs. Complexity | TBD | 2026-06-26 | [Abstract Prepared](../deliverables/outreach/idac-ahmedabad-2026-abstract.md) |
 | **Vibrant Gujarat Regional (Central)** | Jagrut Patel | Smart High-Rise as Urban Infrastructure | N/A | 2026-06-10 | Abstract Prepared ([VITA-533](/VITA/issues/VITA-533)) |
 | **ICAD 2026 (Vadodara)** | Jagrut Patel | Engineering the 162m Vertical City | 2026-08-22 | 2026-09-11 | Abstract Prepared ([VITA-533](/VITA/issues/VITA-533)) |
+| **ICAD 2026 (Bangalore)** | Jagrut Patel | TBD | 2026-07-19 | 2026-08-08 | **NEW** | [asar.org.in](http://asar.org.in) |
 | **ZAK World of Facades (Chennai)** | Regional | July 10, 2026 | TBD | In Planning | [zakworldoffacades.com](https://zakworldoffacades.com) |
 | **ZAK World of Facades (Delhi)** | Regional | August 28, 2026 | TBD | In Planning | [zakworldoffacades.com](https://zakworldoffacades.com) |
 | **ARCASIA Forum 23** | International | TBD (Sep 8-12) | TBD | [Abstract Prepared](../deliverables/outreach/arcasia-forum-23-abstract.md) | [arcasiaforum23.com](https://arcasiaforum23.com) |

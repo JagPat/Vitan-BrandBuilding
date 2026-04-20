@@ -18,10 +18,13 @@
 *   **Status:** Narrative drafted for Navratna ([Review](/VITA/issues/VITA-533#document-plan)). Blocked on high-res photos/drawings.
 
 ### B. WAF 2026 (World Architecture Festival)
-*   **Deadline:** April 24, 2026 (URGENT - 6 days remaining)
+*   **Deadline:** April 24, 2026
 *   **Candidates:** Shaligram Luxuria, Augusta, Safal Vihaan.
-*   **Vitan Strategy:** Enter in Future Projects (Residential/Commercial).
-*   **Status:** Narratives ready ([VITA-530](/VITA/issues/VITA-530)). Blocked on high-res photos/drawings [VITA-474].
+*   **Status:** **SKIPPED** per board directive (2026-04-20). Asset blockers and budget priority noted.
+
+### C. IADA 2026 (International Architecture & Design Awards)
+*   **Deadline:** April 24, 2026
+*   **Status:** **SKIPPED** ([VITA-775](/VITA/issues/VITA-775)). Rationale: Aligns with board directive to pause major award submissions this cycle.
 
 ---
 

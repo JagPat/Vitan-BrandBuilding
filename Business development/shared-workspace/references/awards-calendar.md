@@ -9,11 +9,12 @@
 
 | Award | Category | Deadline | Fee | Status | Reference |
 |-------|----------|----------|-----|--------|-----------|
-| **World Architecture Festival (WAF)** | International | April 24, 2026 | £400+ | **URGENT** (6 Days) | [worldarchitecturefestival.com](https://www.worldarchitecturefestival.com) |
+| **World Architecture Festival (WAF)** | International | April 24, 2026 | £400+ | **SKIPPED** ([VITA-530](/VITA/issues/VITA-530)) | [worldarchitecturefestival.com](https://www.worldarchitecturefestival.com) |
 | **India’s Best Design Awards 2026** | National | April 20, 2026 | ₹35,000 | **DEFERRED** ([VITA-632](/VITA/issues/VITA-632)) | [indiasbestdesignawards.com](https://www.indiasbestdesignawards.com) |
 | **IIA Ascension (Competition)** | National | April 30, 2026 | ₹0 | **CLAIMED** ([VITA-723](/VITA/issues/VITA-723)) | [indianinstituteofarchitects.com](https://indianinstituteofarchitects.com) |
 *Note: Ascension is for the redevelopment of IIA HQ in Navi Mumbai. Reg: Apr 30. Sub: May 15. Prize: ₹15L.*
 | **JK Architect of the Year (AYA)** | National | April 30, 2026 | ₹0 | Monitoring | [aya.jkcement.com](https://aya.jkcement.com) |
+| **IADA 2026** | International | April 24, 2026 | $250 | **SKIPPED** ([VITA-775](/VITA/issues/VITA-775)) | [ad-c.org](https://ad-c.org/) |
 | **CTBUH / CVU Awards 2026** | International | May 20, 2026 | $500+ | Preparation | [awards.ctbuh.org](https://awards.ctbuh.org) |
 | **GRI Awards India 2026** | National | June 5, 2026 | TBD | Monitoring | [gri.org.in](https://gri.org.in) |
 

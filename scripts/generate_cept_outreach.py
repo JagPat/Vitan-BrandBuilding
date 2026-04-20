@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate personalized Stage 1 outreach emails for Wave 2 of the 2026 Skyscraper Wave."""
+"""Generate personalized Stage 1 outreach email for CEPT University."""
 
 from __future__ import annotations
 
@@ -22,27 +22,17 @@ from branded_content_utils import (
     select_project_for_contact,
 )
 
-# Custom content mapping for the 4 targets in Wave 2
+# Custom content mapping for CEPT
 TARGET_CONTENT = {
-    "VIT-C-001": {  # HN Safal
-        "project": "PRIVILON",
-        "angle": "Specialized Execution for Skyscraper Complexity.",
-        "hook": "Your Titanium World Tower project is a defining landmark for SG Highway. For a 154m structure, execution complexity can often erode margins. Vitan’s integrated design-to-execution framework ensures 10-15% faster delivery while protecting the design intent."
+    "VIT-C-019": {  # Sachin Soni
+        "project": "ARA",
+        "angle": "Bridging Heritage Sensitivity with Technical Rigor.",
+        "hook": "The Sankdi Sheri Heritage project is a brilliant model for Ahmedabad’s urban renewal. At Vitan, we deeply respect this balance—where the preservation of a facade meets the demands of modern mobility. Having delivered 100+ projects in Gujarat, including institutional landmarks like the Ahmedabad Racquet Academy, we believe there is a unique bridge between CEPT’s research-led vision and Vitan’s execution-first approach."
     },
-    "VIT-C-002": {  # Arvind SmartSpaces
-        "project": "SEVENTY",
-        "angle": "Institutional Rigor for National-Scale Townships.",
-        "hook": "Arvind's shift toward large-scale themed townships like Aqua City reflects a national ambition we deeply respect. Having delivered major townships like Applewoods, Vitan brings the institutional rigor and documentation precision needed to scale Arvind’s vision across Gujarat."
-    },
-    "VIT-C-004": {  # Goyal & Co.
-        "project": "SAFAL PEGASUS",
-        "angle": "Logical Execution for Legacy Landmarks.",
-        "hook": "Goyal & Co. has a storied history of landmarking Ahmedabad. Our shared experience with partners like HN Safal provides a strong foundation for collaboration. Vitan’s 'Logical Execution' model aligns with your commitment to construction quality and design-to-delivery efficiency."
-    },
-    "VIT-C-005": {  # Iscon Group
-        "project": "PARIJAAT ECLAT",
-        "angle": "Maximizing ROI for Ultra-Luxury Segments.",
-        "hook": "Iscon Vogue is setting a new standard for luxury in Ahmedabad. In the ultra-luxury segment, where every day of delay is costly, Vitan positions as a 'Profit Centre.' Our technical rigor typically reduces execution costs by 10-15% while ensuring the premium brand identity is never compromised."
+    "VIT-C-024": {  # Barjor Mehta
+        "project": "ARA",
+        "angle": "Strategic Execution for Gujarat's Institutional Landmarks.",
+        "hook": "Under your leadership, CEPT continues to define the architectural discourse in India. As Ahmedabad pivots toward massive vertical and institutional transformation, Vitan offers 35 years of 'Ahmedabad Intimacy.' We see a strategic alignment in translating high-level urban research into executable, performance-led landmarks."
     },
 }
 
@@ -58,16 +48,10 @@ def build_personalized_email_html(contact_id: str) -> tuple[str, str]:
     logo_uri = image_to_data_uri(logo_path(48))
     hero_uri = image_to_data_uri(hero_image)
 
-    if contact_id == "VIT-C-001":
-        subject = f"Execution Rigor for Titanium World Tower | Vitan x HN Safal"
-    elif contact_id == "VIT-C-002":
-        subject = f"Institutional Rigor for Arvind SmartSpaces | Vitan Architects"
-    elif contact_id == "VIT-C-004":
-        subject = f"Logical Execution for Goyal & Co. Landmarks | Vitan x Goyal"
-    elif contact_id == "VIT-C-005":
-        subject = f"Maximizing ROI for Iscon Vogue | Vitan x Iscon Group"
+    if contact_id == "VIT-C-019":
+        subject = f"Heritage vs Rigor: A conversation with Vitan Architects"
     else:
-        subject = f"Peer-level execution for {contact.company}'s 2026 milestones"
+        subject = f"Institutional Transformation in Ahmedabad | Vitan x CEPT"
 
     greeting_name = contact.name.split()[0] if contact.name else "there"
     
@@ -114,7 +98,7 @@ def build_personalized_email_html(contact_id: str) -> tuple[str, str]:
                 <h1 style="margin:0 0 16px;font-size:30px;line-height:1.2;color:#1A1A1A;">{target_info['angle']}</h1>
                 <p style="margin:0 0 18px;font-size:16px;line-height:1.8;color:#4A4A4A;">Hi {html.escape(greeting_name)},</p>
                 <p style="margin:0 0 18px;font-size:15px;line-height:1.8;color:#4A4A4A;">{target_info['hook']}</p>
-                <p style="margin:0 0 18px;font-size:15px;line-height:1.8;color:#4A4A4A;">We view architecture not just as design, but as a <strong style="color:#1A1A1A;">Profit Centre</strong>. Vitan’s 35 years of experience in Ahmedabad has proven that structured design-to-execution workflows can save developers 10-15% on overall costs while elevating the landmark status of the project.</p>
+                <p style="margin:0 0 18px;font-size:15px;line-height:1.8;color:#4A4A4A;">Vitan Architects views institutional design as a commitment to <strong style="color:#1A1A1A;">Operational Survival</strong>. Our 35 years in Ahmedabad have proven that great design must be backed by technical mastery to ensure landmarks remain vibrant and high-performing for generations.</p>
                 
                 <table role="presentation" width="100%" cellspacing="0" cellpadding="0" style="margin:18px 0 24px;background:#F8F6F1;border-left:4px solid #D42B2B;">
                   <tr>
@@ -125,12 +109,12 @@ def build_personalized_email_html(contact_id: str) -> tuple[str, str]:
                   </tr>
                 </table>
                 
-                <p style="margin:0 0 22px;font-size:15px;line-height:1.8;color:#4A4A4A;">If you're open to it, I’d like to share how we would map this execution rigor to an upcoming project at {html.escape(contact.company)}.</p>
+                <p style="margin:0 0 22px;font-size:15px;line-height:1.8;color:#4A4A4A;">I would welcome the opportunity to discuss how Vitan can support CEPT’s upcoming initiatives.</p>
                 
                 <table role="presentation" cellspacing="0" cellpadding="0" style="margin-bottom:28px;">
                   <tr>
                     <td bgcolor="#D42B2B" style="border-radius:2px;">
-                      <a href="tel:{html.escape(CONTACT_DETAILS['mobile'].replace(' ', ''))}" style="display:inline-block;padding:14px 22px;font-size:14px;line-height:1;font-weight:700;letter-spacing:0.4px;color:#FFFFFF;text-decoration:none;">Book a Studio Visit</a>
+                      <a href="tel:{html.escape(CONTACT_DETAILS['mobile'].replace(' ', ''))}" style="display:inline-block;padding:14px 22px;font-size:14px;line-height:1;font-weight:700;letter-spacing:0.4px;color:#FFFFFF;text-decoration:none;">Schedule a Meeting</a>
                     </td>
                   </tr>
                 </table>
@@ -161,7 +145,7 @@ def build_personalized_email_html(contact_id: str) -> tuple[str, str]:
     return subject, body
 
 def main():
-    output_dir = ensure_output_dir(Path("Business development/shared-workspace/review/VITA-595"))
+    output_dir = ensure_output_dir(Path("Business development/shared-workspace/review/VITA-560"))
     for contact_id in TARGET_CONTENT.keys():
         try:
             subject, email_html = build_personalized_email_html(contact_id)

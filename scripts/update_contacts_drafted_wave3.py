@@ -4,7 +4,7 @@ from pathlib import Path
 
 csv_path = Path("Business development/shared-workspace/contacts-master.csv")
 target_ids = {
-    "VIT-C-001", "VIT-C-002", "VIT-C-004", "VIT-C-005"
+    "VIT-C-019", "VIT-C-024"
 }
 
 rows = []
@@ -14,7 +14,7 @@ with open(csv_path, 'r', encoding='utf-8-sig') as f:
     for row in reader:
         if row["Contact ID"] in target_ids:
             row["Draft Message Status"] = "drafted"
-            row["VITA Issue"] = "VITA-595"
+            row["VITA Issue"] = "VITA-560"
             row["Last Updated"] = "2026-04-20"
             row["Updated By"] = "BB"
         rows.append(row)

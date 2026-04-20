@@ -1,7 +1,7 @@
 # Weekly Growth OS Review - 2026-04-20
 
 ## Executive Summary
-This week focused on capitalizing on the "Ahmedabad Skyscraper Wave" (100m+ segment). Intelligence gathering and outreach drafting for the first 10 targets are complete. A "Second Wave" of 5 new prospects was identified and drafted today. The IIA Ascension Competition was claimed. System-level blockers (gemini_local errors) and asset blockers (high-res photography) are currently the primary constraints on award submissions.
+This week focused on capitalizing on the "Ahmedabad Skyscraper Wave" (100m+ segment). Intelligence gathering and outreach drafting for the first 10 targets are complete. A "Second Wave" of 5 new prospects was identified and drafted today. The IIA Ascension Competition was claimed. Major award submissions for this cycle (WAF, IADA) have been **SKIPPED** per board directive, and IBDA was **DEFERRED**. System-level blockers (gemini_local errors) and asset blockers (high-res photography) remain the primary constraints.
 
 ## Pipeline Snapshot
 - **Done**:
@@ -16,6 +16,8 @@ This week focused on capitalizing on the "Ahmedabad Skyscraper Wave" (100m+ segm
   - [VITA-649](/VITA/issues/VITA-649): Platform-level gemini_local errors (affecting BB, BS, OC, DPM). *Note: BB is functionally recovered as of this heartbeat.*
   - [VITA-474](/VITA/issues/VITA-474): Missing high-res photography (blocking WAF/CTBUH/IBDA).
   - [VITA-632](/VITA/issues/VITA-632): IBDA 2026 submission DEFERRED due to fee and asset blockers.
+- [VITA-530](/VITA/issues/VITA-530): WAF 2026 submission **SKIPPED** per board directive.
+- [VITA-775](/VITA/issues/VITA-775): IADA 2026 submission **SKIPPED** (Strategic alignment).
 
 ## Intelligence Quality
 - **Skyscraper Wave 2**: Identified 5 new targets (Constera, Shypram, Ratnadeep, Shivanta, Sivanta) with 30+ floor projects.

@@ -12,6 +12,7 @@ import json
 import os
 import re
 import sys
+from html import unescape
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 from email.utils import getaddresses, parsedate_to_datetime
@@ -55,6 +56,14 @@ PAPERCLIP_COMPANY_ID = os.getenv("PAPERCLIP_COMPANY_ID", "")
 PA_AGENT_ID = os.getenv("PA_AGENT_ID", "")
 
 
+def env_first(*names: str) -> str:
+    for name in names:
+        value = os.getenv(name)
+        if value:
+            return value
+    return ""
+
+
 @dataclass
 class Message:
     message_id: str
@@ -73,7 +82,8 @@ def canonical_email(value: str) -> str:
 
 
 def normalize_recipients(values: Sequence[str]) -> list[str]:
-    addresses = [addr for _, addr in getaddresses(values) if addr]
+    cleaned = [unescape(value) for value in values]
+    addresses = [addr for _, addr in getaddresses(cleaned) if addr]
     return sorted({canonical_email(addr) for addr in addresses})
 
 
@@ -117,17 +127,25 @@ def is_board_bypass(
 
 
 def get_access_token() -> str:
-    required = ["ZOHO_REFRESH_TOKEN", "ZOHO_CLIENT_ID", "ZOHO_CLIENT_SECRET"]
-    missing = [var for var in required if not os.getenv(var)]
+    refresh_token = env_first("ZOHO_REFRESH_TOKEN", "ZOHO_MAIL_REFRESH_TOKEN")
+    client_id = env_first("ZOHO_CLIENT_ID", "ZOHO_MAIL_CLIENT_ID")
+    client_secret = env_first("ZOHO_CLIENT_SECRET", "ZOHO_MAIL_CLIENT_SECRET")
+
+    required = {
+        "ZOHO_REFRESH_TOKEN|ZOHO_MAIL_REFRESH_TOKEN": refresh_token,
+        "ZOHO_CLIENT_ID|ZOHO_MAIL_CLIENT_ID": client_id,
+        "ZOHO_CLIENT_SECRET|ZOHO_MAIL_CLIENT_SECRET": client_secret,
+    }
+    missing = [key for key, value in required.items() if not value]
     if missing:
         raise RuntimeError(f"Missing required env vars: {', '.join(missing)}")
 
     resp = requests.post(
         ZOHO_ACCOUNTS_URL,
         data={
-            "refresh_token": os.environ["ZOHO_REFRESH_TOKEN"],
-            "client_id": os.environ["ZOHO_CLIENT_ID"],
-            "client_secret": os.environ["ZOHO_CLIENT_SECRET"],
+            "refresh_token": refresh_token,
+            "client_id": client_id,
+            "client_secret": client_secret,
             "grant_type": "refresh_token",
         },
         timeout=30,
@@ -309,10 +327,10 @@ def fetch_thread_root_recipients(message: Message) -> list[str]:
 
 
 def message_from_dict(item: dict) -> Message:
-    sender = item.get("from") or item.get("sender") or ""
-    to = normalize_recipients(item.get("to", []))
-    cc = normalize_recipients(item.get("cc", []))
-    bcc = normalize_recipients(item.get("bcc", []))
+    sender = item.get("fromAddress") or item.get("from") or item.get("sender") or ""
+    to = normalize_recipients(item.get("to", []) or [item.get("toAddress", "")])
+    cc = normalize_recipients(item.get("cc", []) or [item.get("ccAddress", "")])
+    bcc = normalize_recipients(item.get("bcc", []) or [item.get("bccAddress", "")])
 
     return Message(
         message_id=item.get("message_id") or item.get("messageId") or "",

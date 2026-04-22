@@ -22,7 +22,7 @@ Architecture shouldn't just be a cost centre; it should be a profit centre.
 
 **Visual**: High-contrast, monolithic shot of Parijaat Eclat (Exterior).
 **Asset Path**: `Business development/PHOTOS FOR SAMPLE PROJECT/PARIJAAT/PAARIJAT ECLAT (1).jpg`
-**Hashtags**: #VitanArchitects #AddingLifeEverySqFt #AhmedabadSkyline #VerticalUrbanism #ExecutionExcellence
+**Hashtags**: #VitanArchitects #AddingLifeEverySquareFoot #VitanDesign #AhmedabadSkyline #VerticalUrbanism #ExecutionExcellence
 
 ---
 
@@ -46,7 +46,7 @@ Jagrut Patel, Principal Architect
 
 **Visual**: Ahmedabad Racquet Academy (ARA) — Demonstrating longevity and patina.
 **Asset Path**: `Business development/PHOTOS FOR SAMPLE PROJECT/ARA (AHMEDABAD RACQUET ACADEMY)/ARA Sports Complex (3).jpg`
-**Hashtags**: #Architecture #Design #Ahmedabad #LongTermValue #VitanArchitects #AddingLifeEverySqFt
+**Hashtags**: #Architecture #Design #Ahmedabad #LongTermValue #VitanArchitects #AddingLifeEverySquareFoot #VitanDesign
 
 ---
 
@@ -62,7 +62,7 @@ Our role as "Execution Specialists" means we optimize structural and climatic lo
 
 **Visual**: High-contrast shot of Privilon (Exposed Concrete Atrium).
 **Asset Path**: `Business development/PHOTOS FOR SAMPLE PROJECT/PRIVILON/Privilon (10).jpg`
-**Hashtags**: #VitanArchitects #AddingLifeEverySqFt #Privilon #CommercialArchitecture #AhmedabadDesign
+**Hashtags**: #VitanArchitects #AddingLifeEverySquareFoot #VitanDesign #Privilon #CommercialArchitecture #AhmedabadDesign
 
 ---
 
@@ -82,7 +82,7 @@ Jagrut Patel, Principal Architect
 
 **Visual**: Column-free interior or double-height volume of Seventy.
 **Asset Path**: `Business development/PHOTOS FOR SAMPLE PROJECT/SEVENTY/DSC_8455-HDR.jpg` (Fallback for VITA-591).
-**Hashtags**: #ArchitectureProcess #DesignThinking #AddingLifeEverySqFt #CommercialDesign #ResidentialArchitecture #Ahmedabad
+**Hashtags**: #ArchitectureProcess #DesignThinking #VitanArchitects #AddingLifeEverySquareFoot #VitanDesign #CommercialDesign #ResidentialArchitecture #Ahmedabad
 
 ---
 
@@ -100,7 +100,7 @@ Scaling height requires scaling rigor. That is the Vitan Way.
 
 **Visual**: Silhouette or detail shot of a Vitan high-rise.
 **Asset Path**: `Business development/PHOTOS FOR SAMPLE PROJECT/PARIJAAT/PAARIJAT ECLAT (3).jpg`
-**Hashtags**: #VitanArchitects #AddingLifeEverySqFt #TheVitanWay #SkyscraperWave #AhmedabadRealEstate
+**Hashtags**: #VitanArchitects #AddingLifeEverySquareFoot #VitanDesign #TheVitanWay #SkyscraperWave #AhmedabadRealEstate
 
 ---
 
@@ -117,7 +117,7 @@ A precisely detailed façade isn't just aesthetic — it reduces long-term maint
 Jagrut Patel, Principal Architect
 
 **Visual**: Rendered section with ROI callouts (Awaiting Assets - VITA-591).
-**Hashtags**: #ArchitectureDesign #ROI #BuildingDesign #SustainableDesign #ValueEngineering #AddingLifeEverySqFt
+**Hashtags**: #ArchitectureDesign #ROI #BuildingDesign #SustainableDesign #ValueEngineering #VitanArchitects #AddingLifeEverySquareFoot #VitanDesign
 
 ---
 
@@ -134,4 +134,4 @@ Not just structurally sound — although that too. But spatially right. Cultural
 Jagrut Patel, Principal Architect
 
 **Visual**: Mature, occupied project photo (Awaiting Assets - VITA-591).
-**Hashtags**: #SustainableArchitecture #VitanArchitects #AddingLifeEverySqFt #Longevity
+**Hashtags**: #SustainableArchitecture #VitanArchitects #AddingLifeEverySquareFoot #VitanDesign #Longevity

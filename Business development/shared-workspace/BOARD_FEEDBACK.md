@@ -80,11 +80,12 @@ This file records board-facing decisions, recurring preferences, and pattern imp
 - **Open board action:** Platform restart recovery — see [VITA-837](/VITA/issues/VITA-837). Board needs to Coolify-redeploy or SSH-restart gemini_local processes.
 - **Escalation log:** PA unable to send board email (Zoho MCP not available this session). Escalated via Paperclip comment on [VITA-837](/VITA/issues/VITA-837) at ~09:30 UTC.
 
-### 2026-04-22 — WAF 2026 deadline imminent (April 24) — assets still missing
-- **Issue:** [VITA-474](/VITA/issues/VITA-474), [VITA-530](/VITA/issues/VITA-530), [VITA-588](/VITA/issues/VITA-588)
-- **Status:** OC/DPM are in error and cannot execute. WAF portal deadline is April 24 — 2 days away.
-- **Open board action:** Board must either supply high-res photos immediately OR accept that WAF entry will be filed without those assets.
-- **Pattern signal:** Asset upload blockers repeating (WAF, IIA Ascension, IBDA). See KAIZEN [VITA-764](/VITA/issues/VITA-764).
+### 2026-04-22 — WAF 2026 cancelled; asset-upload SOP deployed
+- **Issues:** VITA-474, VITA-530 — confirmed cancelled (WAF 2026 not being pursued). Previous April 24 deadline moot.
+- **Active asset blockers:** [VITA-571](/VITA/issues/VITA-571) (Palladium), [VITA-572](/VITA/issues/VITA-572) (Privilon), [VITA-573](/VITA/issues/VITA-573) (Seventy), [VITA-233](/VITA/issues/VITA-233) (Racquet Academy) — waiting for board-provided drawings/photos.
+- **KAIZEN response:** [VITA-764](/VITA/issues/VITA-764) SOP drafted (`commit b7b4c66`, `agent/pa`). File: `Business development/shared-workspace/references/project-asset-upload-sop.md`. Defines 4-level gap-signal protocol, asset paths, quality standards, per-project ASSET_CHECKLIST template.
+- **Sub-task:** [VITA-932](/VITA/issues/VITA-932) → FE: pre-deadline asset-readiness monthly routine.
+- **Pattern signal:** Asset blockers are a recurring structural constraint. SOP addresses process gap; board still needs to supply actual assets for VITA-571/572/573/233.
 
 ### 2026-04-20 — PA Heartbeat: Strategic Synthesis + Routing
 - **Actions taken:**

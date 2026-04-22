@@ -26,9 +26,9 @@ Architecture shouldn't just be a cost centre; it should be a profit centre.
 
 ---
 
-## Thursday, April 23 (RE-SCHEDULED)
+## Wednesday, April 22
 ### Campaign: Long-Term Value
-**Post 1: Value-Driven Excellence (LinkedIn)**
+**Post 1: Value-Driven Excellence (LinkedIn) [PUBLISHED]**
 **Theme**: Philosophical Foundation
 
 **Caption**:
@@ -44,7 +44,8 @@ We call it Value-Driven Excellence. The premise is simple: the most successful p
 
 Jagrut Patel, Principal Architect
 
-**Visual**: Split-frame comparison (Awaiting Assets - VITA-591).
+**Visual**: Ahmedabad Racquet Academy (ARA) — Demonstrating longevity and patina.
+**Asset Path**: `Business development/PHOTOS FOR SAMPLE PROJECT/ARA (AHMEDABAD RACQUET ACADEMY)/ARA Sports Complex (3).jpg`
 **Hashtags**: #Architecture #Design #Ahmedabad #LongTermValue #VitanArchitects #AddingLifeEverySqFt
 
 ---

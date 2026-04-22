@@ -26,7 +26,7 @@ Architecture shouldn't just be a cost centre; it should be a profit centre.
 
 ---
 
-## Tuesday, April 21
+## Thursday, April 23 (RE-SCHEDULED)
 ### Campaign: Long-Term Value
 **Post 1: Value-Driven Excellence (LinkedIn)**
 **Theme**: Philosophical Foundation
@@ -51,7 +51,7 @@ Jagrut Patel, Principal Architect
 
 ## Wednesday, April 22
 ### Campaign: Rising Skyline
-**Post 2: Heritage Meets Performance (LinkedIn)**
+**Post 2: Heritage Meets Performance (LinkedIn) [PUBLISHED]**
 **Theme**: Materiality & Performance
 
 **Caption**:

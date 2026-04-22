@@ -66,7 +66,7 @@ Our role as "Execution Specialists" means we optimize structural and climatic lo
 
 ---
 
-## Thursday, April 24
+## Thursday, April 23
 ### Campaign: Long-Term Value
 **Post 2: The Efficiency Mandate (LinkedIn)**
 **Theme**: Optimization
@@ -85,7 +85,7 @@ Jagrut Patel, Principal Architect
 
 ---
 
-## Friday, April 25
+## Friday, April 24
 ### Campaign: Rising Skyline
 **Post 3: The Profit Centre Architect (Instagram/LinkedIn)**
 **Theme**: Viability & The Vitan Way

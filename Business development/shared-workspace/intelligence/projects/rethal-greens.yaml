@@ -1,0 +1,29 @@
+id: "rethal-greens"
+title: "Rethal Greens"
+location:
+  city: "Ahmedabad"
+  state: "Gujarat"
+  country: "India"
+  address: "Ahmedabad, Gujarat, India"
+typology: "Mixed-use / Residential (Weekend Retreats)"
+status: "Completed"
+timeline:
+  completion_year: 0  # Undisclosed
+technical_data:
+  site_area:
+    value: 0
+    unit: "sqm"
+team:
+  client: ""
+  lead_architect: "Ar. Jagrut Patel"
+  design_team: []
+  landscape_architect: ""
+media:
+  photographer: ""
+  photography_permission: true
+  key_features:
+    - "Landscape-forward master planning"
+    - "Weekend retreat community"
+    - "Integration with natural surroundings"
+identifiers:
+  internal_id: ""

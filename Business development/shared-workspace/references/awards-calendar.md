@@ -17,6 +17,9 @@
 | **INDIS 2026 (IIT Guwahati)** | National | July 5, 2026 | ₹15,000 | **NEW** (Asia Design Week) | [iitg.ac.in](https://www.iitg.ac.in) |
 | **WADE ASIA 2026** | National | May 31, 2026 | ₹0 | **NEW** (Eligibility Check) | [wadeasia.com](https://wadeasia.com) |
 | **GRI Awards India 2026** | National | June 5, 2026 | TBD | Monitoring | [gri.org.in](https://gri.org.in) |
+| **Architecture & Interior Excellence (Goa)** | National | April 28, 2026 | TBD | **NEW** (Speaking/Awards) | [conferencealerts.co.in](https://conferencealerts.co.in) |
+| **Global Sustainability Awards (Delhi)** | National | May 31, 2026 | TBD | **NEW** (SDG Focus) | [globalsustainabilityawards.net](https://globalsustainabilityawards.net) |
+| **iDAC Infinity Awards 2026** | National | TBD | TBD | **NEW** (Skyscraper Focus) | [idacexpo.in](https://idacexpo.in) |
 
 *Note: JK AYA is free and registration closes Apr 30. WADE ASIA is for Indian Women Professionals (Check senior team eligibility).*
 
@@ -61,10 +64,12 @@
 - **India Design ID**: Feb (**PASSED**)
 
 ### Q2 (Apr–Jun)
-- **India’s Best Design Awards**: Apr 20 (**TODAY** - Board feedback needed).
+- **India’s Best Design Awards**: Apr 20 (**DEFERRED**).
 - **IIA Ascension Competition**: Reg Apr 30 / Sub May 15.
+- **Architecture & Interior Excellence (Goa)**: Apr 28.
 - **JK Architect of the Year (AYA)**: Apr 30.
 - **CTBUH Awards**: May 20.
+- **Global Sustainability Awards**: May 31.
 - **GRI Awards India**: June 5.
 - **WADE ASIA**: May 31.
 
@@ -81,4 +86,4 @@
 - **2027 Cycle Planning**: December.
 
 ---
-*Last Updated: April 22, 2026 (11:20 IST) by Outreach Coordinator*
+*Last Updated: April 22, 2026 (11:45 IST) by Outreach Coordinator*

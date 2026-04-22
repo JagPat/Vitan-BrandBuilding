@@ -80,7 +80,8 @@ We call it the Efficiency Mandate. The idea is that architecture, at its best, i
 
 Jagrut Patel, Principal Architect
 
-**Visual**: Process imagery / Annotated plan (Awaiting Assets - VITA-591).
+**Visual**: Column-free interior or double-height volume of Seventy.
+**Asset Path**: `Business development/PHOTOS FOR SAMPLE PROJECT/SEVENTY/DSC_8455-HDR.jpg` (Fallback for VITA-591).
 **Hashtags**: #ArchitectureProcess #DesignThinking #AddingLifeEverySqFt #CommercialDesign #ResidentialArchitecture #Ahmedabad
 
 ---

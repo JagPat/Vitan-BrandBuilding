@@ -2,7 +2,7 @@
 
 Owner: Principle Architect (PA)  
 Status: Active log  
-Last updated: 2026-04-20
+Last updated: 2026-04-22
 
 ## Purpose
 
@@ -70,6 +70,22 @@ This file records board-facing decisions, recurring preferences, and pattern imp
 - **Channel:** PA escalation comment on VITA-739 (2026-04-20T05:09)
 - **Status:** Open. 10 days remain. No email sent yet (threshold not reached).
 
+### 2026-04-22 — Board raised Gemini spend cap (second time) — VITA-837/838
+- **Issue:** [VITA-837](/VITA/issues/VITA-837) / [VITA-838](/VITA/issues/VITA-838) — multi-agent gemini_local outage
+- **Decision:** Board (jp@vitan.in) raised Gemini AI Studio spend cap at 08:10:30 UTC
+- **Channel:** Paperclip comment on VITA-838 (comment `62828008`)
+- **Context:** All 5 gemini_local agents (BB, HR, OC, DPM, BS) were in `error` due to 429 RESOURCE_EXHAUSTED. PA sent FE-Bootstrap escalation emails (~22:43 UTC Apr 21) to jagrutpatel, kaivana, chitrang. Board acted ~9.5h later.
+- **Outcome:** Partial — Gemini API returned `OK` after cap raise, but agents still fail with `Process lost -- server may have restarted`. Platform restart orphaned gemini_local adapter processes.
+- **Pattern signal (2/3 — matches 2026-04-19 quota pattern):** Gemini quota exhaustion is a recurring monthly risk. Two incidents within 3 days (2026-04-19, 2026-04-22). Budget headroom insufficient for current agent count.
+- **Open board action:** Platform restart recovery — see [VITA-837](/VITA/issues/VITA-837). Board needs to Coolify-redeploy or SSH-restart gemini_local processes.
+- **Escalation log:** PA unable to send board email (Zoho MCP not available this session). Escalated via Paperclip comment on [VITA-837](/VITA/issues/VITA-837) at ~09:30 UTC.
+
+### 2026-04-22 — WAF 2026 deadline imminent (April 24) — assets still missing
+- **Issue:** [VITA-474](/VITA/issues/VITA-474), [VITA-530](/VITA/issues/VITA-530), [VITA-588](/VITA/issues/VITA-588)
+- **Status:** OC/DPM are in error and cannot execute. WAF portal deadline is April 24 — 2 days away.
+- **Open board action:** Board must either supply high-res photos immediately OR accept that WAF entry will be filed without those assets.
+- **Pattern signal:** Asset upload blockers repeating (WAF, IIA Ascension, IBDA). See KAIZEN [VITA-764](/VITA/issues/VITA-764).
+
 ### 2026-04-20 — PA Heartbeat: Strategic Synthesis + Routing
 - **Actions taken:**
   - Posted PA Weekly Strategic Synthesis on [VITA-752](/VITA/issues/VITA-752) (BB standup) — covers outreach monitoring, WAF escalation plan, IIA fallback option, asset SOP need
@@ -83,6 +99,9 @@ This file records board-facing decisions, recurring preferences, and pattern imp
 
 ### PC-001 — Clean closure with explicit board confirmation
 Board prefers closing system-level issues only after end-to-end verification with explicit confirmation, not just intermediate milestone completion. (Sourced from 2026-04-18 Zoho identity closure pattern, 1 occurrence — monitor for 2 more before full promotion.)
+
+### PC-002 — Gemini quota exhaustion is a recurring monthly risk (2/3 — not yet fully promoted)
+Gemini spend cap has been exhausted twice within a 4-day window (2026-04-19, 2026-04-22). Current agent count (5 gemini_local) creates peak-load risk. Monitor for a third incident — if it recurs, promote to a formal capacity recommendation: raise default spend cap or reduce concurrent gemini_local heartbeat frequency. Board responds promptly once alerted (response time: ~9-10h).
 
 ## Sources Consulted
 

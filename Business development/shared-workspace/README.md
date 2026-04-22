@@ -21,3 +21,6 @@ Example: `2026-04-03-vita134-swot-competition-rebrand-baseline.md`
   - Creates branded one-page PDF outreach artifacts.
   - Auto-bootstraps a local virtual environment (`.venvs/vitan-content-tools`) for PDF dependencies when needed.
   - Example: `Business development/shared-workspace/create_pdf.py VIT-C-001 Privilon`
+- `scripts/asset_readiness_routine.py`
+  - Reads `references/submission-calendar.md`, checks project photo/checklist readiness for deadlines within 60 days, and posts a readiness table to the current BB standup issue.
+  - Example dry run: `python3 scripts/asset_readiness_routine.py --dry-run`

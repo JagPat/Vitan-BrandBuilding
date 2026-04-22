@@ -1,6 +1,6 @@
 # Talent Pipeline Tracker
 
-**Last Updated**: 2026-04-20
+**Last Updated**: 2026-04-22
 **Owner**: HR Agent
 
 ## Core Objectives
@@ -14,9 +14,9 @@
 
 | Name | Institution | Role | Status | Last Contact |
 |------|-------------|------|--------|--------------|
-| Sameep Padora | CEPT University | Dean | **ACTIVE CONVERSATION** | 2026-04-19 |
-| Vishwanath Kashikar | CEPT University | Faculty | **ACTIVE CONVERSATION** | 2026-04-20 |
-| Sachin Soni | CEPT University | Faculty | **WARM** | 2026-04-20 |
+| Sameep Padora | CEPT University | Dean | **ACTIVE CONVERSATION** | 2026-04-22 |
+| Vishwanath Kashikar | CEPT University | Faculty | **ACTIVE CONVERSATION** | 2026-04-22 |
+| Sachin Soni | CEPT University | Faculty | **ACTIVE CONVERSATION** | 2026-04-22 |
 | Snehal Nagarsheth | Anant National University | Principal | Contacted | 2026-04-17 |
 | C. Rekha Jetty | Nirma University | Director | Contacted | 2026-04-17 |
 

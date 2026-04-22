@@ -42,10 +42,10 @@
 
 | Project | Category | Photography | Drawings | Narrative | Eligibility (WAF / CTBUH / AYA) |
 |---------|----------|-------------|----------|-----------|-------------------------------|
-| **Navratna Skyscraper** | Tall / Future | 🔴 Needed | 🔴 Needed | ✅ [Review](/VITA/issues/VITA-533) | **CTBUH: ✅ / WAF: 🟡 / AYA: 🟡** |
-| **Shaligram Luxuria** | Housing | 🔴 [VITA-474](/VITA/issues/VITA-474) | 🔴 Needed | ✅ [Review](/VITA/issues/VITA-530) | **WAF: ✅ / CTBUH: 🟡 / AYA: ✅** |
-| **Augusta (Tragad)** | Housing | 🔴 [VITA-474](/VITA/issues/VITA-474) | 🔴 Needed | ✅ [Review](/VITA/issues/VITA-530) | **WAF: ✅ / CTBUH: ✅ / AYA: ✅** |
-| **Safal Vihaan** | Sustainable | 🔴 [VITA-474](/VITA/issues/VITA-474) | 🔴 Needed | ✅ [Review](/VITA/issues/VITA-530) | **WAF: ✅ / CTBUH: ❌ / AYA: ✅** |
+| **Navratna Skyscraper** | Tall / Future | 🔴 Needed | 🔴 Needed | ✅ [Review](/VITA/issues/VITA-533) | **CTBUH: ✅ / WAF: ❌ / AYA: 🟡** |
+| **Shaligram Luxuria** | Housing | 🔴 [VITA-474](/VITA/issues/VITA-474) | 🔴 Needed | ✅ [Review](/VITA/issues/VITA-530) | **WAF: ❌ / CTBUH: 🟡 / AYA: ✅** |
+| **Augusta (Tragad)** | Housing | 🔴 [VITA-474](/VITA/issues/VITA-474) | 🔴 Needed | ✅ [Review](/VITA/issues/VITA-530) | **WAF: ❌ / CTBUH: ✅ / AYA: ✅** |
+| **Safal Vihaan** | Sustainable | 🔴 [VITA-474](/VITA/issues/VITA-474) | 🔴 Needed | ✅ [Review](/VITA/issues/VITA-530) | **WAF: ❌ / CTBUH: ❌ / AYA: ✅** |
 | **ARA Sports Complex** | Sports | ✅ Ready | 🟡 [VITA-233](/VITA/issues/VITA-233) | ✅ [Review](/VITA/issues/VITA-530) | **WAF: ❌ / CTBUH: ❌ / AYA: ✅** |
 | **Pacifica Reflections**| Housing | ✅ Ready | 🟡 Needed | 🟡 Needed | **WAF: ❌ / CTBUH: ❌ / AYA: ✅** |
 | **Mondeal Retail Park** | Commercial | ✅ Ready | 🟡 Needed | 🟡 Needed | **WAF: ❌ / CTBUH: ❌ / AYA: ✅** |
@@ -81,4 +81,4 @@
 - **2027 Cycle Planning**: December.
 
 ---
-*Last Updated: April 20, 2026 (19:20 IST) by Outreach Coordinator*
+*Last Updated: April 22, 2026 (11:20 IST) by Outreach Coordinator*

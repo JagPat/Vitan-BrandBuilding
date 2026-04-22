@@ -43,7 +43,7 @@
 ## 4. Immediate Capability Gaps
 
 1. **Expansion Domains**: Healthcare and Senior Living require specialized technical knowledge or partnerships (per PA expansion evaluation).
-2. **Asset Curation**: Current bottleneck in exporting technical drawings and high-res project photography for submissions.
+2. **Asset Curation**: SOP established (VITA-764). Asset readiness monitoring added to FE/BB routines to resolve bottlenecks.
 3. **Identity Audit**: Platform-level requirement for Zoho identity self-audit (VITA-510).
 
 ## 5. Kaizen & Growth

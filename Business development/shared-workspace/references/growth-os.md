@@ -72,6 +72,7 @@ Escalation: BB→PA (high-value prospects, competitive threats), PA→HR (capabi
 - shared-workspace/review/vita{NNN}/ — working artifacts
 - shared-workspace/approved/vita{NNN}/ — board-approved
 - shared-workspace/intelligence/ — competitive/market data
+- shared-workspace/references/project-asset-upload-sop.md — asset readiness SOP
 - shared-workspace/references/ — system docs (this file, engagement-system.md)
 
 ## Success Metrics

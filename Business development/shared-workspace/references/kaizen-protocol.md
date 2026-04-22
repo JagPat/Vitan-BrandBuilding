@@ -25,7 +25,7 @@ PA creates monthly-retro-{YYYY-MM}.md with: growth metrics, competitive changes,
 - BB: track outreach effectiveness, build outreach-playbook.md
 - PA: assess positioning quality, evaluate cycle cadence
 - HR: track agent health trends, identify recurring gaps
-- FE: maintain tech-debt.md, track tool utilization
+- FE: maintain tech-debt.md, track tool utilization, monitor project asset readiness
 
 ## Kaizen Issues: "KAIZEN: {desc}" at medium priority
 ## Anti-Patterns: retro without action, improvement sprawl, ignoring board feedback

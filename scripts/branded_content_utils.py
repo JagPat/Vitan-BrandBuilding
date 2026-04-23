@@ -15,13 +15,13 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 BRAND_GUIDE_DIR = REPO_ROOT / "Business development" / "Brand Guide"
 PROJECT_PHOTO_DIR = REPO_ROOT / "Business development" / "PHOTOS FOR SAMPLE PROJECT"
 SHARED_WORKSPACE_DIR = REPO_ROOT / "Business development" / "shared-workspace"
-DEFAULT_OUTPUT_DIR = SHARED_WORKSPACE_DIR / "review" / "vita189"
+DEFAULT_OUTPUT_DIR = SHARED_WORKSPACE_DIR / "review" / "VITA-595"
 CONTACTS_CSV = SHARED_WORKSPACE_DIR / "contacts-master.csv"
 
 SOCIAL_LINKS = {
     "LinkedIn": "https://in.linkedin.com/company/vitanarchitects",
     "Instagram": "https://www.instagram.com/vitanarchitects/",
-    "Facebook": "https://www.facebook.com/jagrutnpartners/",
+    "Facebook": "https://www.facebook.com/vitanarchitects/",
     "ArchDaily": "https://www.archdaily.com/office/vitan-architects",
     "Website": "https://vitan.in",
 }
@@ -203,9 +203,11 @@ PROJECT_CATALOG: dict[str, dict[str, str]] = {
 # Corrected after VITA-189 issue comment: Parijaat Eclat is residential; Privilon is commercial.
 SECTOR_PROJECT_MAP = {
     "residential": ["PARIJAAT ECLAT", "SAFAL PARISAR"],
+    "luxury residential": ["PARIJAAT ECLAT"],
     "commercial": ["PRIVILON", "SAFAL PEGASUS", "PALLADIUM", "MERLIN PENTAGON"],
     "institutional": ["ARA"],
     "mixed": ["SEVENTY", "RETHAL GREENS"],
+    "mixed-use": ["SEVENTY", "PRIVILON"],
 }
 
 
@@ -305,20 +307,27 @@ def logo_path(size_px: int) -> Path:
 
 
 def image_to_data_uri(path: Path) -> str:
+    import subprocess
+    import tempfile
+
     mime_type, _ = mimetypes.guess_type(path.name)
     payload_bytes = path.read_bytes()
-    if path.suffix.lower() != ".png":
+    
+    # Resize and optimize if not a small PNG (like a logo)
+    if path.suffix.lower() in {".jpg", ".jpeg", ".webp"} or (path.suffix.lower() == ".png" and path.stat().st_size > 100000):
         try:
-            from PIL import Image
-
-            image = Image.open(io.BytesIO(payload_bytes)).convert("RGB")
-            image.thumbnail((1600, 1600))
-            buffer = io.BytesIO()
-            image.save(buffer, format="JPEG", quality=80, optimize=True)
-            payload_bytes = buffer.getvalue()
-            mime_type = "image/jpeg"
-        except Exception:
-            pass
+            with tempfile.NamedTemporaryFile(suffix=".jpg") as tmp:
+                # Use convert to resize and compress
+                subprocess.run(
+                    ["convert", str(path), "-resize", "1200x1200>", "-quality", "75", tmp.name],
+                    check=True,
+                    capture_output=True
+                )
+                payload_bytes = Path(tmp.name).read_bytes()
+                mime_type = "image/jpeg"
+        except Exception as e:
+            print(f"Warning: Failed to resize image {path} with convert: {e}")
+            
     payload = base64.b64encode(payload_bytes).decode("ascii")
     return f"data:{mime_type or 'application/octet-stream'};base64,{payload}"
 

@@ -28,7 +28,7 @@ def build_email_html(contact_id: str, explicit_project: str | None = None) -> tu
     logo_uri = image_to_data_uri(logo_path(48))
     hero_uri = image_to_data_uri(hero_image)
 
-    subject = f"{contact.company} x Vitan Architects | {project['display']} reference"
+    subject = f"Regarding {contact.company}'s vertical projects | Vitan Architects"
     greeting_name = contact.name.split()[0] if contact.name else "there"
     city_line = ", ".join(part for part in (contact.city, contact.state) if part)
 
@@ -44,8 +44,8 @@ def build_email_html(contact_id: str, explicit_project: str | None = None) -> tu
     notes_html = ""
     if contact.notes:
         notes_html = (
-            '<p style="margin:0 0 18px;font-size:14px;line-height:1.7;color:#4A4A4A;">'
-            f'<strong style="color:#1A1A1A;">Context noted:</strong> {html.escape(contact.notes)}'
+            '<p style="margin:0 0 18px;font-size:15px;line-height:1.8;color:#4A4A4A;">'
+            f'{html.escape(contact.notes)}'
             "</p>"
         )
 
@@ -83,12 +83,12 @@ def build_email_html(contact_id: str, explicit_project: str | None = None) -> tu
             </tr>
             <tr>
               <td style="padding:32px;">
-                <div style="font-size:12px;letter-spacing:1.4px;text-transform:uppercase;color:#D42B2B;font-weight:700;margin-bottom:12px;">Personalized outreach for {html.escape(contact.company)}</div>
-                <h1 style="margin:0 0 16px;font-size:30px;line-height:1.2;color:#1A1A1A;">{html.escape(project['display'])}: a relevant Vitan reference for your {html.escape(contact.sector)} portfolio</h1>
+                <div style="font-size:12px;letter-spacing:1.4px;text-transform:uppercase;color:#D42B2B;font-weight:700;margin-bottom:12px;">Vertical Excellence in {html.escape(contact.city)}</div>
+                <h1 style="margin:0 0 16px;font-size:30px;line-height:1.2;color:#1A1A1A;">{html.escape(project['display'])}: Execution credibility for {html.escape(contact.company)}</h1>
                 <p style="margin:0 0 18px;font-size:16px;line-height:1.8;color:#4A4A4A;">Hi {html.escape(greeting_name)},</p>
-                <p style="margin:0 0 18px;font-size:15px;line-height:1.8;color:#4A4A4A;">I’m sharing a concise Vitan reference that feels relevant to {html.escape(contact.company)}’s work in {html.escape(city_line or 'Ahmedabad')}. <strong style="color:#1A1A1A;">{html.escape(project['display'])}</strong> helps show how we approach {html.escape(project['type'].lower())} environments with a sharp eye on usability, market positioning, and execution clarity.</p>
-                <p style="margin:0 0 18px;font-size:15px;line-height:1.8;color:#4A4A4A;">{html.escape(project['description'])}</p>
+                <p style="margin:0 0 18px;font-size:15px;line-height:1.8;color:#4A4A4A;">I’m sharing a concise Vitan reference that aligns with {html.escape(contact.company)}’s current vertical trajectory in {html.escape(contact.city)}. <strong style="color:#1A1A1A;">{html.escape(project['display'])}</strong> demonstrates our approach to {html.escape(project['type'].lower())} environments where execution clarity and technical rigor are paramount.</p>
                 {notes_html}
+                <p style="margin:0 0 18px;font-size:15px;line-height:1.8;color:#4A4A4A;">{html.escape(project['description'])}</p>
                 <table role="presentation" width="100%" cellspacing="0" cellpadding="0" style="margin:18px 0 24px;background:#F8F6F1;border-left:4px solid #D42B2B;">
                   <tr>
                     <td style="padding:18px 20px;">

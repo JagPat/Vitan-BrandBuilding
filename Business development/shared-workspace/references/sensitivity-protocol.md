@@ -152,6 +152,34 @@ Ask: "What category does this correction fall into?"
 - **Auto-guardrails**: `WARM_REINTRO`, `BOARD_APPROVE_FIRST`
 - **Discovery question to add**: "Does any board member have a personal connection to this contact?"
 
+### Pattern: TOWNSHIP COMPETITION CONFLICT
+- **Trigger**: Prospect’s flagship township is in direct geographic/market competition with a Vitan-designed township.
+- **Risk**: Perceived conflict of interest; "township rivalry" dynamic.
+- **Auto-guardrails**: `NO_COMPETITOR_MENTION`, `VALUE_LEAD`, `WARM_REINTRO`
+- **Example**: Adani Realty (Shantigram) vs Vitan (Applewoods).
+- **Discovery question to add**: "Is this prospect’s major project in direct competition with a landmark Vitan project?"
+
+### Pattern: VENDOR LITIGATION HISTORY
+- **Trigger**: Public record of litigation between the prospect and previous vendors/contractors regarding payments.
+- **Risk**: Financial loss; difficult payment collection.
+- **Auto-guardrails**: `MILESTONE_PAY_ONLY`, `PROFITABILITY_CHECK`, `VALUE_LEAD`
+- **Example**: K K Group (RK Buildcon) — Saini Shuttering Store vs RK Buildcon litigation.
+- **Discovery question to add**: "Are there any public records of payment disputes or litigation with vendors?"
+
+### Pattern: DEEP PROFESSIONAL HISTORY
+- **Trigger**: Vitan has a multi-decade history of being the primary/house architect for the prospect.
+- **Risk**: Relationship dormancy; messaging must acknowledge legacy without sounding stale.
+- **Auto-guardrails**: `WARM_REINTRO`, `BOARD_APPROVE_FIRST`, `VALUE_LEAD`
+- **Example**: Bakeri Group — Vitan designed Sakar series, Bakeri City, and personal residence.
+- **Discovery question to add**: "What is the full depth of Vitan’s historical involvement with this client’s portfolio?"
+
+### Pattern: COMPETITOR LOCK-IN
+- **Trigger**: Prospect has a near-exclusive or high-volume relationship with a specific top-tier architect.
+- **Risk**: Low conversion probability; messaging must offer a distinct "wedge" (e.g. execution precision, operational cost savings) or specialized role.
+- **Auto-guardrails**: `NO_COMPETITOR_MENTION`, `VALUE_LEAD`, `INDEPENDENCE_FRAME`
+- **Example**: Shivalik Group — deep partnership with INI Design Studio.
+- **Discovery question to add**: "Does the prospect have a primary architectural partner for their flagship projects?"
+
 ---
 
 ## System Evolution Rules

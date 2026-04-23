@@ -48,7 +48,7 @@ Monthly:   1 ArchDaily/portal submission. 1 YouTube video.
 
 ### DIMENSION 4: Website & SEO
 The website is the hub that all other channels point to.
-- Every social post, every email, every portal feature should drive traffic to vitanarchitects.com
+- Every social post, every email, every portal feature should drive traffic to vitan.in
 - Website must have: project portfolio (with case studies showing savings delivered), team page, contact form, blog/insights section
 - SEO targets: "architects in Ahmedabad", "residential architects Gujarat", "cost-efficient architecture", "architectural firms Ahmedabad"
 - Blog content: 1-2 articles/month on topics that prospects search for (cost optimization in construction, sustainable design in Gujarat, etc.)

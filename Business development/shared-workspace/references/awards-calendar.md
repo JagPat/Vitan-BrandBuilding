@@ -10,7 +10,7 @@
 | Award | Category | Deadline | Fee | Status | Reference |
 |-------|----------|----------|-----|--------|-----------|
 | **JK Architect of the Year (AYA)** | National | April 30, 2026 | ₹0 | **IMMEDIATE FOCUS (VITA-814)** | [aya.jkcement.com](https://aya.jkcement.com) |
-| **IIA Ascension (Competition)** | National | April 30, 2026 | ₹0 | **Competition Focus** | [indianinstituteofarchitects.com](https://indianinstituteofarchitects.com) |
+| **IIA Ascension (Competition)** | National | April 30, 2026 | ₹0 | **Registration Details Prepared** ([VITA-739](/VITA/issues/VITA-739)) | [indianinstituteofarchitects.com](https://indianinstituteofarchitects.com) |
 | **CTBUH / CVU Awards 2026** | International | May 20, 2026 | $500+ | **PRIMARY FOCUS** ([VITA-588](/VITA/issues/VITA-588)) | [awards.ctbuh.org](https://awards.ctbuh.org) |
 | **India’s Best Design Awards 2026** | National | April 20, 2026 | ₹35,000 | **FILED (Safal Vihaan)** | [indiasbestdesignawards.com](https://www.indiasbestdesignawards.com) |
 | **WAF 2026** | International | April 24, 2026 | £900+ | **SKIPPED (Board Directive)** | [worldarchitecturefestival.com](https://www.worldarchitecturefestival.com) |

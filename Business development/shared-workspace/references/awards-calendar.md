@@ -12,12 +12,12 @@
 | **JK Architect of the Year (AYA)** | National | April 30, 2026 | ₹0 | **IMMEDIATE FOCUS (VITA-814)** | [aya.jkcement.com](https://aya.jkcement.com) |
 | **IIA Ascension (Competition)** | National | April 30, 2026 | ₹0 | **Competition Focus** | [indianinstituteofarchitects.com](https://indianinstituteofarchitects.com) |
 | **CTBUH / CVU Awards 2026** | International | May 20, 2026 | $500+ | **PRIMARY FOCUS** ([VITA-588](/VITA/issues/VITA-588)) | [awards.ctbuh.org](https://awards.ctbuh.org) |
-| **India’s Best Design Awards 2026** | National | April 20, 2026 | ₹35,000 | **DEFERRED (Deadline Missed)** | [indiasbestdesignawards.com](https://www.indiasbestdesignawards.com) |
+| **India’s Best Design Awards 2026** | National | April 20, 2026 | ₹35,000 | **FILED (Safal Vihaan)** | [indiasbestdesignawards.com](https://www.indiasbestdesignawards.com) |
 | **WAF 2026** | International | April 24, 2026 | £900+ | **SKIPPED (Board Directive)** | [worldarchitecturefestival.com](https://www.worldarchitecturefestival.com) |
 | **INDIS 2026 (IIT Guwahati)** | National | July 5, 2026 | ₹15,000 | **NEW** (Asia Design Week) | [iitg.ac.in](https://www.iitg.ac.in) |
 | **WADE ASIA 2026** | National | May 31, 2026 | ₹0 | **NEW** (Eligibility Check) | [wadeasia.com](https://wadeasia.com) |
 | **GRI Awards India 2026** | National | June 5, 2026 | TBD | Monitoring | [gri.org.in](https://gri.org.in) |
-| **Architecture & Interior Excellence (Goa)** | National | April 28, 2026 | TBD | **NEW** (Speaking/Awards) | [conferencealerts.co.in](https://conferencealerts.co.in) |
+| **Architecture & Interior Excellence (Goa)** | National | April 28, 2026 | TBD | **Nomination Package Ready** ([VITA-983](/VITA/issues/VITA-983)) | [conferencealerts.co.in](https://conferencealerts.co.in) |
 | **Global Sustainability Awards (Delhi)** | National | May 31, 2026 | TBD | **NEW** (SDG Focus) | [globalsustainabilityawards.net](https://globalsustainabilityawards.net) |
 | **iDAC Infinity Awards 2026** | National | TBD | TBD | **NEW** (Skyscraper Focus) | [idacexpo.in](https://idacexpo.in) |
 

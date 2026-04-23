@@ -41,14 +41,6 @@ def build_email_html(contact_id: str, explicit_project: str | None = None) -> tu
         for label, url in SOCIAL_LINKS.items()
     )
 
-    notes_html = ""
-    if contact.notes:
-        notes_html = (
-            '<p style="margin:0 0 18px;font-size:14px;line-height:1.7;color:#4A4A4A;">'
-            f'<strong style="color:#1A1A1A;">Context noted:</strong> {html.escape(contact.notes)}'
-            "</p>"
-        )
-
     body = f"""<!DOCTYPE html>
 <html lang="en">
   <head>
@@ -88,7 +80,6 @@ def build_email_html(contact_id: str, explicit_project: str | None = None) -> tu
                 <p style="margin:0 0 18px;font-size:16px;line-height:1.8;color:#4A4A4A;">Hi {html.escape(greeting_name)},</p>
                 <p style="margin:0 0 18px;font-size:15px;line-height:1.8;color:#4A4A4A;">I’m sharing a concise Vitan reference that feels relevant to {html.escape(contact.company)}’s work in {html.escape(city_line or 'Ahmedabad')}. <strong style="color:#1A1A1A;">{html.escape(project['display'])}</strong> helps show how we approach {html.escape(project['type'].lower())} environments with a sharp eye on usability, market positioning, and execution clarity.</p>
                 <p style="margin:0 0 18px;font-size:15px;line-height:1.8;color:#4A4A4A;">{html.escape(project['description'])}</p>
-                {notes_html}
                 <table role="presentation" width="100%" cellspacing="0" cellpadding="0" style="margin:18px 0 24px;background:#F8F6F1;border-left:4px solid #D42B2B;">
                   <tr>
                     <td style="padding:18px 20px;">

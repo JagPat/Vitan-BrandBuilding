@@ -68,39 +68,45 @@ Our role as "Execution Specialists" means we optimize structural and climatic lo
 
 ## Thursday, April 23
 ### Campaign: Long-Term Value
-**Post 2: The Efficiency Mandate (LinkedIn)**
-**Theme**: Optimization
+**Post 2: The Efficiency of Grandeur (LinkedIn)**
+**Theme**: Efficiency of Grandeur / Optimization
 
 **Caption**:
-We have a rule in the studio: every design decision must earn its place.
+We have a rule in the studio: every design decision must earn its place. 
 
-Not philosophically — concretely. Does this structural choice allow a column-free floor plate that adds leasable area? Does this orientation decision eliminate the need for mechanical cooling on the west face? Does this material selection perform better over 20 years than the cheaper alternative we're being pressured to use?
+We call it the **Efficiency of Grandeur**. In Ahmedabad’s vertical era, architecture must be more than a visual landmark; it must be a precision instrument of viability.
 
-We call it the Efficiency Mandate. The idea is that architecture, at its best, is a precision instrument. Every intervention either adds value or subtracts it. There is no neutral.
+Does a structural choice allow a column-free floor plate that adds leasable area? Does a core orientation decision eliminate mechanical cooling loads? Does the facade geometry mitigate wind loads to ensure occupant comfort at 150m+? 
+
+At Vitan Architects, we bridge the gap between design intent and execution discipline. Every intervention either adds value or subtracts it. In the skyscraper race, technical mastery is the new luxury.
 
 Jagrut Patel, Principal Architect
 
 **Visual**: Column-free interior or double-height volume of Seventy.
-**Asset Path**: `Business development/PHOTOS FOR SAMPLE PROJECT/SEVENTY/DSC_8455-HDR.jpg` (Fallback for VITA-591).
-**Hashtags**: #ArchitectureProcess #DesignThinking #VitanArchitects #AddingLifeEverySquareFoot #VitanDesign #CommercialDesign #ResidentialArchitecture #Ahmedabad
+**Asset Path**: `Business development/PHOTOS FOR SAMPLE PROJECT/SEVENTY/DSC_8455-HDR.jpg`
+**Hashtags**: #EfficiencyOfGrandeur #VitanArchitects #VerticalUrbanism #AhmedabadSkyline #DesignOptimization #ExecutionExcellence #ArchitectureROI
 
 ---
 
 ## Friday, April 24
 ### Campaign: Rising Skyline
-**Post 3: The Profit Centre Architect (Instagram/LinkedIn)**
-**Theme**: Viability & The Vitan Way
+**Post 3: The Profit Centre Model (Instagram/LinkedIn)**
+**Theme**: Efficiency of Grandeur / Viability
 
 **Caption**:
-The most profound architectural achievements occur because of constraints, not in spite of them. 
+In Ahmedabad’s "100-meter era," the most profound architectural achievements occur at the intersection of design intent and execution discipline. We call it the **Efficiency of Grandeur**.
 
-Vitan Architects has proven over 35 years that high design and high viability are not mutually exclusive. We design for the next generation of Ahmedabad’s skyline—where every square foot is optimized for both beauty and ROI.
+Take Parijaat Eclat. Beyond its status as a landmark of luxury residential design, it is a masterclass in the Vitan "Profit Centre" model. By serving as the technical bridge between architectural vision and developer viability, we identified 10-15% in execution savings through rigorous structural optimization.
+
+From maximizing sellable floor area via core-to-shell efficiency to ensuring superior lateral stability for seismic resilience, we prove that high design and high viability are not mutually exclusive.
+
+As we scale this rigor to our 162m Navratna Skyscraper, our mission remains the same: Architecture that works—for the people who live in it, and the partners who build it.
 
 Scaling height requires scaling rigor. That is the Vitan Way.
 
-**Visual**: Silhouette or detail shot of a Vitan high-rise.
-**Asset Path**: `Business development/PHOTOS FOR SAMPLE PROJECT/PARIJAAT/PAARIJAT ECLAT (3).jpg`
-**Hashtags**: #VitanArchitects #AddingLifeEverySquareFoot #VitanDesign #TheVitanWay #SkyscraperWave #AhmedabadRealEstate
+**Visual**: High-contrast, monolithic shot of Parijaat Eclat (Exterior elevation).
+**Asset Path**: `Business development/PHOTOS FOR SAMPLE PROJECT/PARIJAAT/PAARIJAT ECLAT (1).jpg`
+**Hashtags**: #VitanArchitects #EfficiencyOfGrandeur #ParijaatEclat #VerticalUrbanism #AhmedabadSkyline #TheVitanWay #SkyscraperWave #ArchitectureROI
 
 ---
 

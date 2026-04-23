@@ -22,13 +22,13 @@ Architecture shouldn't just be a cost centre; it should be a profit centre.
 
 **Visual**: High-contrast, monolithic shot of Parijaat Eclat (Exterior).
 **Asset Path**: `Business development/PHOTOS FOR SAMPLE PROJECT/PARIJAAT/PAARIJAT ECLAT (1).jpg`
-**Hashtags**: #VitanArchitects #AddingLifeEverySqFt #AhmedabadSkyline #VerticalUrbanism #ExecutionExcellence
+**Hashtags**: #VitanArchitects #AddingLifeEverySquareFoot #VitanDesign #AhmedabadSkyline #VerticalUrbanism #ExecutionExcellence
 
 ---
 
-## Tuesday, April 21
+## Wednesday, April 22
 ### Campaign: Long-Term Value
-**Post 1: Value-Driven Excellence (LinkedIn)**
+**Post 1: Value-Driven Excellence (LinkedIn) [PUBLISHED]**
 **Theme**: Philosophical Foundation
 
 **Caption**:
@@ -44,14 +44,15 @@ We call it Value-Driven Excellence. The premise is simple: the most successful p
 
 Jagrut Patel, Principal Architect
 
-**Visual**: Split-frame comparison (Awaiting Assets - VITA-591).
-**Hashtags**: #Architecture #Design #Ahmedabad #LongTermValue #VitanArchitects #AddingLifeEverySqFt
+**Visual**: Ahmedabad Racquet Academy (ARA) — Demonstrating longevity and patina.
+**Asset Path**: `Business development/PHOTOS FOR SAMPLE PROJECT/ARA (AHMEDABAD RACQUET ACADEMY)/ARA Sports Complex (3).jpg`
+**Hashtags**: #Architecture #Design #Ahmedabad #LongTermValue #VitanArchitects #AddingLifeEverySquareFoot #VitanDesign
 
 ---
 
 ## Wednesday, April 22
 ### Campaign: Rising Skyline
-**Post 2: Heritage Meets Performance (LinkedIn)**
+**Post 2: Heritage Meets Performance (LinkedIn) [PUBLISHED]**
 **Theme**: Materiality & Performance
 
 **Caption**:
@@ -61,11 +62,11 @@ Our role as "Execution Specialists" means we optimize structural and climatic lo
 
 **Visual**: High-contrast shot of Privilon (Exposed Concrete Atrium).
 **Asset Path**: `Business development/PHOTOS FOR SAMPLE PROJECT/PRIVILON/Privilon (10).jpg`
-**Hashtags**: #VitanArchitects #AddingLifeEverySqFt #Privilon #CommercialArchitecture #AhmedabadDesign
+**Hashtags**: #VitanArchitects #AddingLifeEverySquareFoot #VitanDesign #Privilon #CommercialArchitecture #AhmedabadDesign
 
 ---
 
-## Thursday, April 24
+## Thursday, April 23
 ### Campaign: Long-Term Value
 **Post 2: The Efficiency Mandate (LinkedIn)**
 **Theme**: Optimization
@@ -79,12 +80,13 @@ We call it the Efficiency Mandate. The idea is that architecture, at its best, i
 
 Jagrut Patel, Principal Architect
 
-**Visual**: Process imagery / Annotated plan (Awaiting Assets - VITA-591).
-**Hashtags**: #ArchitectureProcess #DesignThinking #AddingLifeEverySqFt #CommercialDesign #ResidentialArchitecture #Ahmedabad
+**Visual**: Column-free interior or double-height volume of Seventy.
+**Asset Path**: `Business development/PHOTOS FOR SAMPLE PROJECT/SEVENTY/DSC_8455-HDR.jpg` (Fallback for VITA-591).
+**Hashtags**: #ArchitectureProcess #DesignThinking #VitanArchitects #AddingLifeEverySquareFoot #VitanDesign #CommercialDesign #ResidentialArchitecture #Ahmedabad
 
 ---
 
-## Friday, April 25
+## Friday, April 24
 ### Campaign: Rising Skyline
 **Post 3: The Profit Centre Architect (Instagram/LinkedIn)**
 **Theme**: Viability & The Vitan Way
@@ -98,7 +100,7 @@ Scaling height requires scaling rigor. That is the Vitan Way.
 
 **Visual**: Silhouette or detail shot of a Vitan high-rise.
 **Asset Path**: `Business development/PHOTOS FOR SAMPLE PROJECT/PARIJAAT/PAARIJAT ECLAT (3).jpg`
-**Hashtags**: #VitanArchitects #AddingLifeEverySqFt #TheVitanWay #SkyscraperWave #AhmedabadRealEstate
+**Hashtags**: #VitanArchitects #AddingLifeEverySquareFoot #VitanDesign #TheVitanWay #SkyscraperWave #AhmedabadRealEstate
 
 ---
 
@@ -115,7 +117,7 @@ A precisely detailed façade isn't just aesthetic — it reduces long-term maint
 Jagrut Patel, Principal Architect
 
 **Visual**: Rendered section with ROI callouts (Awaiting Assets - VITA-591).
-**Hashtags**: #ArchitectureDesign #ROI #BuildingDesign #SustainableDesign #ValueEngineering #AddingLifeEverySqFt
+**Hashtags**: #ArchitectureDesign #ROI #BuildingDesign #SustainableDesign #ValueEngineering #VitanArchitects #AddingLifeEverySquareFoot #VitanDesign
 
 ---
 
@@ -132,4 +134,4 @@ Not just structurally sound — although that too. But spatially right. Cultural
 Jagrut Patel, Principal Architect
 
 **Visual**: Mature, occupied project photo (Awaiting Assets - VITA-591).
-**Hashtags**: #SustainableArchitecture #VitanArchitects #AddingLifeEverySqFt #Longevity
+**Hashtags**: #SustainableArchitecture #VitanArchitects #AddingLifeEverySquareFoot #VitanDesign #Longevity

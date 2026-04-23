@@ -104,6 +104,20 @@ Scaling height requires scaling rigor. That is the Vitan Way.
 
 ---
 
+## Monday, April 27
+### Campaign: Project Proof
+**Post 1: Material Honesty at Scale (LinkedIn/Instagram) [PENDING VITA-1021]**
+**Theme**: Materiality & Performance
+
+**Caption**:
+Material honesty is more than an aesthetic choice; it’s a commitment to performance. At Privilon, we leveraged exposed concrete to pay homage to Ahmedabad’s rich architectural legacy while delivering a high-performance commercial environment.
+
+**Visual**: Privilon (Exposed Concrete Atrium).
+**Asset Path**: `Business development/PHOTOS FOR SAMPLE PROJECT/PRIVILON/Privilon (10).jpg`
+**Hashtags**: #VitanArchitects #AddingLifeEverySqFt #Privilon #ArchitectureIndia #CommercialDesign #MaterialHonesty
+
+---
+
 ## Tuesday, April 28
 ### Campaign: Long-Term Value
 **Post 3: The Math of Beauty (LinkedIn)**
@@ -117,7 +131,23 @@ A precisely detailed façade isn't just aesthetic — it reduces long-term maint
 Jagrut Patel, Principal Architect
 
 **Visual**: Rendered section with ROI callouts (Awaiting Assets - VITA-591).
-**Hashtags**: #ArchitectureDesign #ROI #BuildingDesign #SustainableDesign #ValueEngineering #VitanArchitects #AddingLifeEverySquareFoot #VitanDesign
+**Hashtags**: #ArchitectureDesign #ROI #BuildingDesign #SustainableDesign #ValueEngineering #VitanArchitects #AddingLifeEverySqFt #VitanDesign
+
+---
+
+## Wednesday, April 29
+### Campaign: Vertical Urbanism
+**Post 1: Shaping the Future (LinkedIn/Facebook) [PENDING VITA-1020]**
+**Theme**: Capability & Competitions
+
+**Caption**:
+Shaping the Future: The IIA Ascension Competition.
+
+Vitan Architects is proud to announce our participation in the IIA Ascension Competition for the Navi Mumbai HQ redevelopment. As Ahmedabad’s skyline scales new heights—including our own 162m Navratna project—we are bringing that same execution rigor to the national stage.
+
+**Visual**: High-rise silhouette/detail shot.
+**Asset Path**: `Business development/PHOTOS FOR SAMPLE PROJECT/PARIJAAT/PAARIJAT ECLAT (3).jpg`
+**Hashtags**: #VitanArchitects #AddingLifeEverySqFt #SkyscraperWave #VerticalUrbanism #ArchitectureCompetition #DesignExcellence
 
 ---
 
@@ -134,4 +164,33 @@ Not just structurally sound — although that too. But spatially right. Cultural
 Jagrut Patel, Principal Architect
 
 **Visual**: Mature, occupied project photo (Awaiting Assets - VITA-591).
-**Hashtags**: #SustainableArchitecture #VitanArchitects #AddingLifeEverySquareFoot #VitanDesign #Longevity
+**Hashtags**: #SustainableArchitecture #VitanArchitects #AddingLifeEverySqFt #VitanDesign #Longevity
+
+---
+
+## Friday, May 1
+### Campaign: Project Proof
+**Post 2: Efficiency is the New Luxury (LinkedIn/Instagram) [PENDING VITA-1021]**
+**Theme**: Spatial Efficiency
+
+**Caption**:
+At Seventy, we challenged the notion that high-end residential design requires excess. Instead, we focused on spatial efficiency—optimizing every square foot to ensure that "luxury" is felt in the volume, the light, and the fluidity of movement.
+
+**Visual**: Double-height volume of Seventy.
+**Asset Path**: `Business development/PHOTOS FOR SAMPLE PROJECT/SEVENTY/DSC_8455-HDR.jpg`
+**Hashtags**: #VitanArchitects #AddingLifeEverySqFt #Seventy #LuxuryHousing #ResidentialArchitecture #SpatialEfficiency
+
+---
+
+## Saturday, May 2
+### Campaign: Vertical Urbanism
+**Post 2: The 2026 Skyscraper Wave (LinkedIn/X) [PENDING VITA-1020]**
+**Theme**: Market Commentary
+
+**Caption**:
+Ahmedabad is at a vertical tipping point. As urban land becomes more precious, the shift toward high-rise development is no longer optional—it’s a necessity for sustainable growth. 
+
+**Visual**: Skyline silhouette.
+**Asset Path**: `Business development/PHOTOS FOR SAMPLE PROJECT/PARIJAAT/PAARIJAT ECLAT (1).jpg`
+**Hashtags**: #VitanArchitects #AddingLifeEverySqFt #AhmedabadSkyline #SkyscraperWave #UrbanDevelopment #FutureOfDesign
+

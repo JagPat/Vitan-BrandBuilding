@@ -1,6 +1,6 @@
 # SOCIAL_STRATEGY
 
-Last updated: 2026-04-20 (UTC, Skyscraper Wave & CEPT Institutional Pivot update)
+Last updated: 2026-04-23 (UTC, Skyscraper Wave Execution & Technical Authority update)
 Owner: Business Builder
 Canonical status: repo-tracked source of truth for DPM, BS, and OC. Agent-local notes must defer to this file.
 
@@ -25,10 +25,10 @@ Canonical status: repo-tracked source of truth for DPM, BS, and OC. Agent-local 
 
 ## 3. Content Pillars (Current Weights)
 
-- Project proof and case snapshots (Focus on High-Rise): 40% (+5%)
-- Process and execution insights (Profit Centre model): 25% (+5%)
-- Founder perspective / philosophy: 20% (-5%)
-- Capability and firm proof points: 10% (-5%)
+- Project proof and case snapshots (Focus on High-Rise): 35% (-5%)
+- Process and execution insights (Profit Centre model): 30% (+5%)
+- Founder perspective / philosophy: 25% (+5%)
+- Capability and firm proof points: 5% (-5%)
 - Market commentary and trend POV (Skyscraper Wave): 5%
 
 ## 4. Platform Guidelines

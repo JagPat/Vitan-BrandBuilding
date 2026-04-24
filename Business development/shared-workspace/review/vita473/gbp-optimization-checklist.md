@@ -7,7 +7,7 @@
 
 ## 2. Business Information
 *   **Category:** Architect / Architectural Designer
-*   **Address:** 702 Hetdev Square, Thaltej, Ahmedabad 380054 (Verify if this matches current office)
+*   **Address:** 702 Hetdev Square, Thaltej, Ahmedabad 380054 (Verified as current office; migrating from Naranpura/Vijay Colony)
 *   **Website:** https://vitan.in
 *   **Phone:** +91 99250 11639 / 079 2768 1033
 

@@ -1,6 +1,6 @@
 # Engagement Tracking Dashboard — Sprint 2 (April 2026)
 
-**Reporting Period**: 17 Apr 2026 – 23 Apr 2026
+**Reporting Period**: 18 Apr 2026 – 24 Apr 2026
 **Owner**: Digital Presence Manager (DPM)
 **Status**: ACTIVE
 
@@ -10,10 +10,10 @@
 
 Sprint 2 was characterized by the "Ahmedabad's Rising Skyline" campaign and a recovery phase following a platform outage (Apr 20-22). Despite the downtime, audience retention remained strong, particularly for project-focused content.
 
-- **Total Posts This Sprint**: 3
-- **Total Reach/Impressions**: 795
-- **Avg Engagement Rate (Estimated)**: 5.4%
-- **Conversion Actions**: 1 LinkedIn DM (Developer inquiry regarding Parijaat Eclat)
+- **Total Posts This Sprint**: 5
+- **Total Reach/Impressions**: 1410
+- **Avg Engagement Rate (Estimated)**: 5.8%
+- **Conversion Actions**: 2 LinkedIn DMs (Developer inquiries regarding Parijaat Eclat and Seventy)
 
 ---
 
@@ -23,9 +23,11 @@ Sprint 2 was characterized by the "Ahmedabad's Rising Skyline" campaign and a re
 |------|----------|--------|-----------|-------|----------|-----|------------|
 | 18 Apr | LinkedIn | Project Stories | 580 | 18 | 4 | 1 | 12 |
 | 22 Apr | LinkedIn | Leadership | 120 | 5 | 2 | 0 | 3 |
-| 23 Apr | LinkedIn | Project Stories | 95 | 3 | 1 | 0 | 2 |
+| 23 Apr | LinkedIn | Project Stories | 115 | 4 | 1 | 0 | 4 |
+| 23 Apr | LinkedIn | Project Stories | 145 | 6 | 2 | 0 | 5 |
+| 24 Apr | LinkedIn | Project Stories | 450 | 22 | 6 | 1 | 18 |
 
-*Note: The "Monolithic Standard" post (18 Apr) significantly over-performed, validating the "Skyline" campaign theme.*
+*Note: The "Profit Centre Model" post (24 Apr) and "Monolithic Standard" (18 Apr) significantly over-performed, validating the "Skyline" campaign theme.*
 
 ---
 
@@ -33,8 +35,8 @@ Sprint 2 was characterized by the "Ahmedabad's Rising Skyline" campaign and a re
 
 | Metric | Count | Notes |
 |--------|-------|-------|
-| Touched (Social) | 795 | Total impressions across LinkedIn |
-| Replied / Inquiry | 1 | Developer inquiry re: Parijaat Eclat |
+| Touched (Social) | 1410 | Total impressions across LinkedIn |
+| Replied / Inquiry | 2 | Developer inquiries (Parijaat Eclat, Seventy) |
 | Meeting Booked | 0 | Follow-up initiated |
 | Proposal Started | 0 | |
 | Proposal Won | 0 | |
@@ -53,8 +55,8 @@ Sprint 2 was characterized by the "Ahmedabad's Rising Skyline" campaign and a re
 
 ## 5. Weekly Kaizen (Sprint 2)
 
-1.  **Top Pillar**: **Project Stories** (66% of volume, high engagement). Audience shows strong affinity for built proof and "Monolithic" narratives.
-2.  **Weak Pillar**: **Technical Excellence**, **Culture**, **Industry** (0% volume). Technical excellence is currently blocked by visual sourcing (VITA-591).
+1.  **Top Pillar**: **Project Proof** (80% of volume, high engagement). Audience shows strong affinity for built proof and "Monolithic" narratives.
+2.  **Weak Pillar**: **Process & Execution**, **Capability**, **Market Commentary** (0% volume). Process & Execution is currently blocked by visual sourcing (VITA-591).
 3.  **Pillar Weight Adjustment (Proposed to BB)**:
     - **Project Stories**: 35% -> 45% (Increase based on high conversion/saves)
     - **Leadership & Vision**: 25% -> 30% (Increase to capture founder authority)

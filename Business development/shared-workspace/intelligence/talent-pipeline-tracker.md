@@ -42,7 +42,7 @@
 ---
 
 ## Next Actions
-1. Execute follow-up conversation with CEPT faculty (VITA-771).
-2. Follow up with Anant/Nirma deans after 7 days (by Apr 24) if no response.
+1. Check Zoho inbox for CEPT/Anant/Nirma/MSU/Parul responses (Daily).
+2. Triage MSU and Parul responses if they arrive by May 1.
 3. Request top 3-5 portfolios from each placement coordinator for Vitan review.
 4. Feed promising student work to Outreach Coordinator (OC) for brand social amplification.

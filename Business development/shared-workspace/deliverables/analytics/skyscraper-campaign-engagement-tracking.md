@@ -10,8 +10,8 @@
 
 | Date | Platform | Content Type | Subject | Baseline Pillar |
 |------|----------|--------------|---------|-----------------|
-| 23 Apr | LinkedIn | Technical | The Efficiency of Grandeur (Studio Rule) | Leadership & Vision |
-| 24 Apr | IG/LI | Technical | The Profit Centre Model (Parijaat Eclat) | Project Stories |
+| 23 Apr | LinkedIn | Technical | The Efficiency of Grandeur (Studio Rule) | Leadership & Vision | MISSED WINDOW (Awaiting Board) |
+| 24 Apr | IG/LI | Technical | The Profit Centre Model (Parijaat Eclat) | Project Stories | AWAITING BOARD (9:00 AM IST) |
 | 27 Apr | IG/LI | Visual | Material Honesty at Scale | Project Stories |
 
 ---

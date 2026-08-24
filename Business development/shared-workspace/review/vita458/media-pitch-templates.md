@@ -8,7 +8,7 @@
 ## 1. Global/India Architecture Portals (A&D)
 **Target**: ArchDaily, Dezeen, Designboom, STIRworld, Domus India, etc.
 
-**Subject**: Project Submission: Privilon, Ahmedabad — A Dialogue between Global Design and Local Modernism
+**Subject**: Project Submission: Privilon, Ahmedabad — A Dialogue with Ahmedabad’s Modernist Heritage
 
 Dear [Editor Name],
 
@@ -16,7 +16,7 @@ I hope this finds you well.
 
 I am writing to share a recently completed project by **Vitan Architects (Jagrut & Partners)** in Ahmedabad: **Privilon**.
 
-Privilon is a 22-storey mixed-use landmark that represents a significant collaboration between local expertise and the international design perspective of Benoy (who served as Exterior Designer). 
+Privilon is a 22-storey mixed-use landmark by Vitan Architects, designed as a high-performance commercial environment rooted in Ahmedabad’s architectural context. 
 
 What makes Privilon particularly relevant for [Publication Name] is its deep dialogue with Ahmedabad’s architectural heritage. The building prominently features exposed concrete—a tribute to the modernist legacy of Le Corbusier and Louis Kahn—within a contemporary high-rise commercial context. 
 
@@ -46,7 +46,7 @@ Dear [Name],
 
 I am reaching out from **Vitan Architects** regarding a landmark project that is shaping the business district of Ahmedabad: **Privilon**.
 
-Located on the Ambli-BRTS road, Privilon is not just another commercial tower. It represents a new standard for mixed-use developments in Gujarat, blending international design standards (via collaboration with Benoy) with a deep respect for Ahmedabad's architectural roots.
+Located on the Ambli-BRTS road, Privilon is not just another commercial tower. It represents a new standard for mixed-use developments in Gujarat, blending contemporary commercial standards with a deep respect for Ahmedabad's architectural roots.
 
 From a business perspective, Privilon demonstrates how thoughtful architecture can act as a "profit centre"—reducing operational friction and increasing long-term asset value through "Workplace Identity" and superior planning logic.
 
@@ -66,4 +66,4 @@ Brand Storyteller, Vitan Architects
 **Alignment Check**:
 - Verified with Vitan brand voice (Professional, Warm, Design-forward).
 - Includes "Profit Centre" and "Adding Life" messaging.
-- Mentions collaboration with Benoy to add "Global" credibility.
+- Public copy names Vitan / Ar. Jagrut Patel only (Vitan-led; no other architects or collaborations).

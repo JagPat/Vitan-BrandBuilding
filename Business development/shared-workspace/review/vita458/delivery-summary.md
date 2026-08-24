@@ -13,7 +13,7 @@ Assembled the full editorial package for **Privilon (Ahmedabad)** for submission
 
 ## Strategic Messaging Applied
 - **Modernist Homage**: Positioned the use of exposed concrete as a deliberate architectural choice referencing Le Corbusier and Kahn, tailored for a contemporary commercial typology.
-- **Collaborative Excellence**: Highlighted the partnership between Vitan Architects and Benoy.
+- **Principal Credit**: Privilon is Vitan-led; public copy names Vitan / Ar. Jagrut Patel only (no other architects or collaborations).
 - **Value Proposition**: Focus on "Workplace Identity" and private lobbies as a differentiator in the commercial market.
 
 ## Remaining Gaps

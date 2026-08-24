@@ -10,7 +10,7 @@
 
 When commercial architecture works, it is rarely just because of the facade. It is because the workflow is clear.
 
-At Privilon, Ahmedabad, we focused on operational clarity from day one. In collaboration with Benoy, we designed a mixed-use landmark that balances premium identity with high-performance usability.
+At Privilon, Ahmedabad, we focused on operational clarity from day one. We designed a mixed-use landmark that balances premium identity with high-performance usability.
 
 A key architectural choice was the use of exposed concrete—a tribute to Ahmedabad’s rich modernist legacy of Le Corbusier and Louis Kahn. It brings a sense of permanence and architectural weight to a contemporary high-rise context.
 

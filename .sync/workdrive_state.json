@@ -123,7 +123,7 @@
     "1pu3j04bc50c1ef1644baa499c8e3ce7d7e76": {
       "name": "contacts-master.csv",
       "local_path": "Business development/shared-workspace/contacts-master.csv",
-      "modified_time": 1787548505796
+      "modified_time": 1787608293191
     },
     "1pu3j72b776e058954e3897b2536f1a59d3aa": {
       "name": "2026-04-04-ws2-competitor-mapping-delivery.md",
@@ -534,7 +534,12 @@
       "name": "2026-08-24-pa-locked-ws1-sheet-update.md",
       "local_path": "Business development/shared-workspace/change-notes/2026-08-24-pa-locked-ws1-sheet-update.md",
       "modified_time": 1787548354050
+    },
+    "dilvaca2e230b0db74e1f821b5492145aed71": {
+      "name": "2026-08-25-pa-owner-occupier-017-021.md",
+      "local_path": "Business development/shared-workspace/change-notes/2026-08-25-pa-owner-occupier-017-021.md",
+      "modified_time": 1787608291016
     }
   },
-  "last_sync_ts": 1787607855033
+  "last_sync_ts": 1787609003221
 }

@@ -11,13 +11,11 @@ Privilon is a landmark mixed-use commercial development situated in the high-gro
 
 - **Location**: Ambli-BRTS Road, Ahmedabad, India
 - **Architects**: Vitan Architects (Jagrut & Partners)
-- **Collaborators**: Benoy (Exterior Designer)
 - **Developer**: B Safal Group
 - **Lead Architect**: Vitan Architects (Ar. Jagrut Patel)
-- **Exterior Designer**: Benoy
 - **Structural Consultant**: Dimensions
 - **MEP Consultant**: Transenergy
-- **Photographer**: Infra of Ahmedabad (IOA) / Benoy Portfolio
+- **Photographer**: Infra of Ahmedabad (IOA)
 - **Typology**: Mixed-use (Commercial + Retail)
 - **Status**: Completed (~2018)
 
@@ -28,8 +26,8 @@ Privilon is a landmark mixed-use commercial development situated in the high-gro
 ### 1. The Context: A New Commercial Landmark
 In the rapidly evolving skyline of Ahmedabad, Privilon stands as a testament to the city’s shift toward global-standard commercial environments. Situated at the crossroads of the S.G. Highway and Ambli-BRTS road, the project was envisioned not just as a corporate container, but as a landmark that defines the identity of the district.
 
-### 2. Design Philosophy: Global Vision, Local Context
-The project represents a successful collaboration between the local architectural rigor of **Vitan Architects** (led by Ar. Jagrut Patel) and the international design perspective of **Benoy**. While Benoy focused on the dynamic "multilevel" landscape and the high-performance facade, Vitan ensured the project remained deeply rooted in Ahmedabad’s unique architectural heritage and operational realities.
+### 2. Design Philosophy: Local Context, Contemporary Form
+**Vitan Architects** (led by Ar. Jagrut Patel) designed Privilon with local architectural rigor and a contemporary high-performance facade. The dynamic multilevel landscape and facade treatment remain deeply rooted in Ahmedabad’s unique architectural heritage and operational realities.
 
 ### 3. Architectural Form & Structure
 Privilon is structured as two distinctive wings that rise through a series of free-flowing spaces. The 22-storey tower is characterized by its volumetric clarity and a facade treatment that balances transparency with solid presence. The use of glass and aluminum curtain walls provides a contemporary edge, while the underlying structural logic ensures that every floor plate is optimized for daylight and ventilation.
@@ -76,4 +74,3 @@ The following images from the `Business development/PHOTOS FOR SAMPLE PROJECT/PR
 - REPO: Business development/shared-workspace/review/vita375/q2-2026-content-calendar.md
 - WEB: B Safal Privilon Project Page
 - WEB: WFM Media (Exposed Concrete in Ahmedabad)
-- WEB: Benoy Global Projects (Privilon Ahmedabad)

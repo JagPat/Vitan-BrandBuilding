@@ -1,0 +1,71 @@
+# Parijaat Eclat — portal package metadata
+# Status: DRAFT for Principle Architect review. Not ready. Not approved. Not published.
+# Canonical fact source: intelligence/projects/parijaat-eclat.yaml
+# Internal id: VITA-189
+# Date: 2026-08-24
+
+project_id: "parijaat-eclat"
+official_name: "Parijaat Eclat"
+identifiers:
+  internal_id: "VITA-189"
+  rera: null  # PENDING — not present in canonical yaml
+
+location:
+  address: "Ambli-Bopal Road, Ahmedabad, India"
+  city: "Ahmedabad"
+  state: "Gujarat"
+  country: "India"
+
+typology: "Residential (Luxury High-rise)"
+status: "Completed"
+completion_year: 2018
+start_year: null  # PENDING — not present in canonical yaml
+
+technical_data:
+  gross_built_area: null  # PENDING — not present in canonical yaml
+  site_area: null         # PENDING — not present in canonical yaml
+  height: null            # PENDING — not present in canonical yaml
+  floors: 23
+  units: 48
+
+credits:
+  firm: "Vitan Architects"
+  firm_url: "https://www.vitan.in"
+  firm_email: "connect@vitan.in"
+  client: "B Safal Group"
+  lead_architect: "Ar. Jagrut Patel"
+  design_team: []  # PENDING — empty in canonical yaml
+  collaborators:
+    - "Benoy (Exterior Designer)"          # yaml-supported; PA to confirm scope vs Privilon
+    - "HCP Interior Design (Sample Apartments)"  # yaml-supported; do not extend beyond sample apartments
+  structural_engineer: null  # PENDING — not present in canonical yaml
+  mep_consultant: "Chettiar Consulting Engineers"
+  landscape_architect: "Prakruti Landscapes"
+  contractor: null  # PENDING — not present in canonical yaml
+  photographer: "Abhishek Shah"
+
+media:
+  photography_permission: true
+  photography_permission_note: >
+    Flagged true in canonical yaml. This is not a live publish clearance.
+    Do not treat as authorization to upload to any portal.
+  awards: []  # PENDING — not present in canonical yaml
+
+key_features:
+  - "Exposed concrete facade"
+  - "Luxury 4 BHK apartments and penthouses"
+  - "Integration with Privilon commercial hub"
+
+portal_tags:
+  - Residential
+  - Luxury High-rise
+  - Exposed Concrete
+  - Ahmedabad
+  - High-rise
+
+package_status: "DRAFT"
+review_gate: "Principle Architect"
+portal_submission: "not filed"
+ready: false
+approved: false
+published: false

@@ -123,7 +123,7 @@
     "1pu3j04bc50c1ef1644baa499c8e3ce7d7e76": {
       "name": "contacts-master.csv",
       "local_path": "Business development/shared-workspace/contacts-master.csv",
-      "modified_time": 1775743883654
+      "modified_time": 1787548505796
     },
     "1pu3j72b776e058954e3897b2536f1a59d3aa": {
       "name": "2026-04-04-ws2-competitor-mapping-delivery.md",
@@ -524,7 +524,17 @@
       "name": "Paarijat eclat Masterplan.jpg",
       "local_path": "Business development/PHOTOS FOR SAMPLE PROJECT/PARIJAAT/Paarijat eclat Masterplan.jpg",
       "modified_time": 1776930272521
+    },
+    "wclqde2702fa7690545f3a569796235c81084": {
+      "name": "2026-08-24-pa-enrich-then-add-014-016.md",
+      "local_path": "Business development/shared-workspace/change-notes/2026-08-24-pa-enrich-then-add-014-016.md",
+      "modified_time": 1787548503721
+    },
+    "wclqd9be3d4836f764ecf900aba35455864ef": {
+      "name": "2026-08-24-pa-locked-ws1-sheet-update.md",
+      "local_path": "Business development/shared-workspace/change-notes/2026-08-24-pa-locked-ws1-sheet-update.md",
+      "modified_time": 1787548354050
     }
   },
-  "last_sync_ts": 1787543692457
+  "last_sync_ts": 1787549170179
 }

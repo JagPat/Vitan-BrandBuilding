@@ -34,6 +34,8 @@ Never web, broker copy, other-firm portfolios, old firm names, or inference. Do 
 
 `photography_permission` in yaml is **not** publish clearance. Book/monograph is voice only, not copy — do not lift numbers or other-architect names from it. No performance claims without an evidence record.
 
+Board lock 2026-08-25 (Vitan Growth Lead / Board): Vitan-led projects — studio already has permission; architect holds project IP. UNKNOWN is the template default until a Board lock exists. After that lock, do not keep client/photographer as UNKNOWN as a publish blocker on Vitan-led studio stills. Photographer third-party credit is none required for studio stills. Courtesy rule: if we ever use non-studio content, name where it came from. Do not invent photographer names.
+
 A colliding git blob is not project evidence. Catalog scan is blob SHA on `main`.
 
 ## Holds this cycle (no register rows)

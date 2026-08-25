@@ -32,21 +32,17 @@ Copy the header row, then add one packet heading (`EV-…-001`) and only claims 
 | yaml (candidate only, not proof) | `Business development/shared-workspace/intelligence/projects/privilon.yaml` |
 | record status | internal / awaiting Growth Lead approval |
 | photographer | UNKNOWN |
+| photo/use permission | UNKNOWN |
 | client permission | UNKNOWN |
-| photo permission | UNKNOWN |
 | architect_credit_public | Lead architect Ar. Jagrut Patel, Vitan Architects |
 | architect_credit_internal | Not for public copy. Do not copy yaml collaborators into public columns. |
-| packet confidence | mixed (identity claims below are locked; photographer, client permission, and photo permission UNKNOWN) |
+| packet confidence | mixed (identity claims below are locked; photographer UNKNOWN; photo/use permission UNKNOWN; client permission UNKNOWN) |
 | review_date | 2026-09-01 (Asia/Kolkata) |
 | expiry_or_hold_notes | Phase 0 row is tight to the three public-yes claims below. No GBA. No other-architect names in public fields. Tranquil is a Board cut. Do not add floors, year, client, street address, CTA, hashtags, still numbers, or consultant names as public-yes claims in this row. Do not invent a yes for photographer or permissions. |
 
-### Internal asset notes (not public-yes claims)
+### Internal asset notes (not public-yes claims; not a Distribution row)
 
-2 Sep already-approved still, path only: `Business development/PHOTOS FOR SAMPLE PROJECT/PRIVILON/Privilon (16).jpg` (git blob SHA `aa243aca071854bf01a1ca43eaab72aae6acc91d` on `main`). Same blob also at `PRIVILON/FOR BOOK/Privilon (16).jpg` (same project, not a cross-project collision). It does not match any PARIJAAT / PARIJAAT ECLAT blob. Keep as the 2 Sep asset. Do not invent a Distribution row.
-
-Do not use `PRIVILON/Privilon (10).jpg` as the 2 Sep still. Do not treat that file as Privilon evidence. Blob SHA `4adf8154b3cced5a32dc42d748522f05a8ace107` is identical to `PARIJAAT ECLAT/Privilon (10).jpg` and `PARIJAAT/PAARIJAT ECLAT (1).jpg`.
-
-Other `PRIVILON/` files on `main` that do not collide with Parijaat: (2)(6)(12)(13)(14)(15)(16)(17)(23)(26)(29)(54). Only (10) collides. Non-collision is not photo clearance and is not a public-yes claim.
+2 Sep still is `Business development/PHOTOS FOR SAMPLE PROJECT/PRIVILON/Privilon (16).jpg`. Growth Lead approved this path 2026-08-25. Do not use `Privilon (10).jpg` (hash collision with PARIJAAT ECLAT / PAARIJAT ECLAT (1)).
 
 ### Claims
 

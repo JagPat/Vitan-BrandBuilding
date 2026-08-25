@@ -8,8 +8,9 @@ packets:
     internal_id_context: VITA-458
     yaml_candidate: Business development/shared-workspace/intelligence/projects/privilon.yaml
     record_status: internal / awaiting Growth Lead approval
-    permission: UNKNOWN
-    photographer_credit: UNKNOWN
+    photographer: UNKNOWN
+    client_permission: UNKNOWN
+    photo_permission: UNKNOWN
     architect_credit_public: Lead architect Ar. Jagrut Patel, Vitan Architects
     architect_credit_internal: Not for public copy. Do not copy yaml collaborators into public columns.
     packet_confidence: mixed
@@ -18,6 +19,17 @@ packets:
     expiry_or_hold_notes: >
       Phase 0 row is tight to the three public-yes claims.
       No GBA. No other-architect names in public fields. Tranquil is a Board cut.
+      Do not invent a yes for photographer or permissions.
+    internal_asset_notes:
+      sep2_still_path: Business development/PHOTOS FOR SAMPLE PROJECT/PRIVILON/Privilon (16).jpg
+      sep2_still_blob_sha: aa243aca071854bf01a1ca43eaab72aae6acc91d
+      sep2_still_also_at: Business development/PHOTOS FOR SAMPLE PROJECT/PRIVILON/FOR BOOK/Privilon (16).jpg
+      sep2_still_note: Same-project duplicate, not a cross-project collision. Keep as 2 Sep asset. Path is internal only. Do not invent a Distribution row.
+      excluded_path: Business development/PHOTOS FOR SAMPLE PROJECT/PRIVILON/Privilon (10).jpg
+      excluded_blob_sha: 4adf8154b3cced5a32dc42d748522f05a8ace107
+      excluded_note: Identical to PARIJAAT ECLAT/Privilon (10).jpg and PARIJAAT/PAARIJAT ECLAT (1).jpg. Not Privilon evidence. Do not use as 2 Sep still.
+      privilon_non_colliding_stills_on_main: ["2", "6", "12", "13", "14", "15", "16", "17", "23", "26", "29", "54"]
+      collision_scan: Only (10) collides with Parijaat. Non-collision is not photo clearance.
     claims:
       - claim: Project name is Privilon
         source: locked CAMP-2026-09-001 / Board credit rule

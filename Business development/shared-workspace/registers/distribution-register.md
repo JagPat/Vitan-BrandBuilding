@@ -20,4 +20,4 @@ A row may be added only for an **approved** Evidence Register entry. Do not inve
 | distribution_id | evidence_id | derived_content | channel | approval | publication_status | scheduled_window_ist | asset_path | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
-Note (not a row): 2 Sep Instagram stays unlocked outside this register as CAMP-2026-09-001. Do not add a `distribution_id`. Do not publish from this folder.
+Note (not a row): 2 Sep Instagram stays unlocked outside this register as CAMP-2026-09-001. Asset path is an internal note on EV-PRIVILON-001 only (`PRIVILON/Privilon (16).jpg`). Do not add a `distribution_id`. Do not use `Privilon (10).jpg`. Do not publish from this folder.

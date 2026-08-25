@@ -34,6 +34,8 @@ Never web, broker copy, other-firm portfolios, old firm names, or inference. Do 
 
 `photography_permission` in yaml is **not** publish clearance. Book/monograph is voice only, not copy — do not lift numbers or other-architect names from it. No performance claims without an evidence record.
 
+A colliding git blob is not project evidence. Catalog scan is blob SHA on `main`.
+
 ## Holds this cycle (no register rows)
 
 - ARA (VITA-211/226)

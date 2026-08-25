@@ -1,0 +1,40 @@
+# Machine-readable mirror of evidence-register.md. Markdown is the source of truth.
+# Internal-only. Phase 0.
+
+packets:
+  - evidence_id: EV-PRIVILON-001
+    project: Privilon
+    campaign_context: CAMP-2026-09-001
+    internal_id_context: VITA-458
+    yaml_candidate: Business development/shared-workspace/intelligence/projects/privilon.yaml
+    record_status: internal / awaiting Growth Lead approval
+    photographer: UNKNOWN
+    photo_use_permission: UNKNOWN
+    client_permission: UNKNOWN
+    architect_credit_public: Lead architect Ar. Jagrut Patel, Vitan Architects
+    architect_credit_internal: Not for public copy. Do not copy yaml collaborators into public columns.
+    packet_confidence: mixed
+    review_date: "2026-09-01"
+    timezone: Asia/Kolkata
+    expiry_or_hold_notes: >
+      Phase 0 row is tight to the three public-yes claims.
+      No GBA. No other-architect names in public fields. Tranquil is a Board cut.
+      Do not invent a yes for photographer or permissions.
+    internal_asset_notes:
+      - 2 Sep still is Business development/PHOTOS FOR SAMPLE PROJECT/PRIVILON/Privilon (16).jpg. Growth Lead approved this path 2026-08-25. Do not use Privilon (10).jpg (hash collision with PARIJAAT ECLAT / PAARIJAT ECLAT (1)). Not a public-yes claim. Not a Distribution row.
+    claims:
+      - claim: Project name is Privilon
+        source: locked CAMP-2026-09-001 / Board credit rule
+        status: PA-locked
+        public_yes_no: yes
+        confidence: high
+      - claim: "Board credit line: Lead architect Ar. Jagrut Patel, Vitan Architects"
+        source: locked CAMP-2026-09-001 / Board credit rule
+        status: Board-verified
+        public_yes_no: yes
+        confidence: high
+      - claim: Mixed-use, Ahmedabad
+        source: locked CAMP-2026-09-001 / Board credit rule
+        status: PA-locked
+        public_yes_no: yes
+        confidence: high

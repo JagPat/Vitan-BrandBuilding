@@ -1,0 +1,2 @@
+task_id,created_at,created_by,owner_bot,business_objective,source_links,skill_id,skill_version,permission_level,deadline,reviewer,retry_count,result,cost_tokens,failure_reason,rejection_reason,blocked_reason,related_contact_ids,evidence_ids,next_action_date,status
+STR-20260825-001,2026-08-25T17:50:00+05:30,Board,BB,Phase 1: record fixture tests for eleven v0.1 skills. No send.,https://github.com/JagPat/Vitan-BrandBuilding,SK-GL-01,0.1,INTERNAL,2026-08-25,GrowthLead,0,11/11 fixture tests pass. sent=no published=no,unknown,,,,,EV-PRIVILON-001,2026-08-26,Closed

@@ -136,3 +136,75 @@ packets:
         confidence: high
         review_date: "2026-10-07"
         expiry_or_hold_notes: New building decision for ARA, not a new public slogan. Occupancy/resale may be implied as use; do not say sold. Tenure file still coming — do not invent numbers
+
+  - evidence_id: EV-MERLIN-001
+    project: Merlin Pentagon
+    record_status: >
+      internal evidence / Board permission lock 2026-08-25.
+      Board queue mark. Chitrang first-still pick 2026-08-31.
+      Growth Lead unlock 2026-09-07.
+      File only; no Distribution row. No Urja pack.
+    photographer: none required as a third party (studio still). Do not invent photographer names.
+    photo_use_permission: Board-confirmed 2026-08-25 (Vitan-led studio/architect holds use rights). Status Board-verified. Not yaml photography_permission.
+    client_permission: Board-confirmed 2026-08-25 (Vitan-led studio/architect holds use rights). Status Board-verified. Not yaml photography_permission.
+    architect_credit_public: Lead architect Ar. Jagrut Patel, Vitan Architects
+    architect_credit_internal: Not for public copy. Not “& Team”. Do not copy yaml collaborators into public columns.
+    packet_confidence: identity claims locked; photo/use and client permission Board-verified 2026-08-25; photographer none required as third party for studio still
+    review_date: "2026-10-07"
+    timezone: Asia/Kolkata
+    expiry_or_hold_notes: >
+      Phase 0 row is tight to the four public-yes claims.
+      No GBA. No invented years, fees, client, or other-architect names. Not “& Team”.
+      Tenure file still coming — do not invent numbers. Do not say sold.
+      Live Privilon/ARA position (add life / occupied and used) continues in notes only;
+      new building decision for Merlin, not a new public slogan.
+      Board permission lock 2026-08-25 still stands.
+      Growth Lead unlock 2026-09-07; next review 2026-10-07.
+      Thin still set (two unique stills); hero is (1) only.
+      No Distribution row. No Urja pack.
+    internal_asset_notes:
+      - Live still is Business development/PHOTOS FOR SAMPLE PROJECT/MERLIN PENTAGON/Pentagon (1).jpg only. Chitrang first-still pick 2026-08-31 (Merlin-Pentagon-1.jpg; twisted facade / shuttering). Do not use Pentagon (3).jpg as the live hero unless Board says. Thin still set: two unique stills; hero is (1) only. Do not invent new stills or credits. Not a public-yes claim. Not a Distribution row.
+    claims:
+      - claim: Project name is Merlin Pentagon
+        source: Board lock 2026-08-25; Board queue mark; Chitrang first-still pick 2026-08-31 (Merlin-Pentagon-1.jpg); Growth Lead unlock 2026-09-07
+        permission: Board-confirmed 2026-08-25 (studio/architect holds use rights). Status Board-verified.
+        photographer_credit: none required as a third party (studio still)
+        architect_credit_public: Lead architect Ar. Jagrut Patel, Vitan Architects
+        architect_credit_internal: not public
+        status: PA-locked
+        public_yes_no: yes
+        confidence: high
+        review_date: "2026-10-07"
+      - claim: "Board credit line: Lead architect Ar. Jagrut Patel, Vitan Architects"
+        source: Board lock 2026-08-25; Board queue mark; Chitrang first-still pick 2026-08-31 (Merlin-Pentagon-1.jpg); Growth Lead unlock 2026-09-07
+        permission: Board-confirmed 2026-08-25 (studio/architect holds use rights). Status Board-verified.
+        photographer_credit: none required as a third party (studio still)
+        architect_credit_public: Lead architect Ar. Jagrut Patel, Vitan Architects
+        architect_credit_internal: not public
+        status: Board-verified
+        public_yes_no: yes
+        confidence: high
+        review_date: "2026-10-07"
+        expiry_or_hold_notes: Not “& Team”. No other architect or collaboration line in public copy
+      - claim: Ahmedabad
+        source: Board lock 2026-08-25; Board queue mark; Chitrang first-still pick 2026-08-31 (Merlin-Pentagon-1.jpg); Growth Lead unlock 2026-09-07
+        permission: Board-confirmed 2026-08-25 (studio/architect holds use rights). Status Board-verified.
+        photographer_credit: none required as a third party (studio still)
+        architect_credit_public: Lead architect Ar. Jagrut Patel, Vitan Architects
+        architect_credit_internal: not public
+        status: PA-locked
+        public_yes_no: yes
+        confidence: high
+        review_date: "2026-10-07"
+        expiry_or_hold_notes: Chitrang / Growth Lead. Do not expand to street address, year, GBA, fees, or yaml location invent
+      - claim: "Building decision (Chitrang via Growth Lead): five-road intersection; small triangular plot; two basements without losing FSI; facade executed as designed (twisted facade / shuttering)"
+        source: Board lock 2026-08-25; Board queue mark; Chitrang first-still pick 2026-08-31 (Merlin-Pentagon-1.jpg); Growth Lead unlock 2026-09-07
+        permission: Board-confirmed 2026-08-25 (studio/architect holds use rights). Status Board-verified.
+        photographer_credit: none required as a third party (studio still)
+        architect_credit_public: Lead architect Ar. Jagrut Patel, Vitan Architects
+        architect_credit_internal: not public
+        status: Board-verified
+        public_yes_no: yes
+        confidence: high
+        review_date: "2026-10-07"
+        expiry_or_hold_notes: New building decision for Merlin, not a new public slogan. Occupancy/resale may be implied as use; do not say sold. Tenure file still coming — do not invent numbers

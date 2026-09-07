@@ -40,6 +40,5 @@ A colliding git blob is not project evidence. Catalog scan is blob SHA on `main`
 
 ## Holds this cycle (no register rows)
 
-- ARA (VITA-211/226)
 - Parijaat Eclat (VITA-189 parked; PR 2228 closed without merge)
 - Palladium-as-lead/principal

@@ -38,6 +38,12 @@ Board lock 2026-08-25 (Vitan Growth Lead / Board): Vitan-led projects — studio
 
 A colliding git blob is not project evidence. Catalog scan is blob SHA on `main`.
 
+## Filed this cycle (Evidence Register; no Distribution)
+
+- EV-PRIVILON-001
+- EV-ARA-001
+- EV-MERLIN-001 (Growth Lead unlock 2026-09-07; file only)
+
 ## Holds this cycle (no register rows)
 
 - Parijaat Eclat (VITA-189 parked; PR 2228 closed without merge)

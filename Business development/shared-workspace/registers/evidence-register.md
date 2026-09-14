@@ -75,7 +75,7 @@ Live still remains `Business development/PHOTOS FOR SAMPLE PROJECT/PRIVILON/Priv
 
 ### Internal asset notes (not public-yes claims; not a Distribution row)
 
-Live item still is `Business development/PHOTOS FOR SAMPLE PROJECT/ARA/ARA Sports Complex (3).jpg` only. Chitrang first-still pick 2026-08-31 (`ARA-Sports-complex-3.jpg`). Next stills 4, 6, 26 are not this post. Omit 13. Do not invent new stills or credits.
+Live item still is `Business development/PHOTOS FOR SAMPLE PROJECT/ARA (AHMEDABAD RACQUET ACADEMY)/ARA Sports Complex (3).jpg` only. Chitrang first-still pick 2026-08-31 (`ARA-Sports-complex-3.jpg`). Next stills 4, 6, 26 are not this post. Omit 13. Do not invent new stills or credits.
 
 ### Claims
 

@@ -208,3 +208,87 @@ packets:
         confidence: high
         review_date: "2026-10-07"
         expiry_or_hold_notes: New building decision for Merlin, not a new public slogan. Occupancy/resale may be implied as use; do not say sold. Tenure file still coming — do not invent numbers
+
+  - evidence_id: EV-SEVENTY-001
+    project: Seventy
+    record_status: >
+      internal evidence / Board permission lock 2026-08-25.
+      Board MARKED Approve 2026-09-16: Executive Architecture / Executive Architect credit chrome.
+      Growth Lead unlock to file 2026-09-16.
+      Collaborative — Vitan is not Lead/Principal.
+      File only; no Distribution row. No Urja pack.
+    photographer: none required as a third party unless still shown not ours. Do not invent photographer names.
+    photo_use_permission: Board-confirmed 2026-08-25 (studio/architect holds use rights for Vitan studio stills) + Board credit chrome Approve 2026-09-16. Status Board-verified for credit line. Not yaml photography_permission.
+    client_permission: Board-confirmed 2026-08-25 (studio/architect holds use rights for Vitan studio stills) + Board credit chrome Approve 2026-09-16. Status Board-verified for credit line. Not yaml photography_permission.
+    architect_credit_public: "Executive Architect: Ar. Jagrut Patel, Vitan Architects"
+    design_credit_public: "Design: SCDA Architects (Board allowed after verify; https://seventy.co/team-architect.html 2026-09-16)"
+    architect_credit_internal: Not for public copy as Lead or Principal. Not “& Team”. Service framing Executive Architecture is Board-marked chrome. Do not copy yaml collaborators into public columns.
+    packet_confidence: identity claims locked; photo/use and client permission Board-verified 2026-08-25; credit chrome Board-verified 2026-09-16; Design SCDA medium-high (first-party project site; Board allowed after verify); photographer none required as third party for studio still
+    review_date: "2026-10-07"
+    timezone: Asia/Kolkata
+    expiry_or_hold_notes: >
+      Phase 0 row is tight to the five public-yes claims.
+      No GBA. No client. No yaml year. No tenure invent.
+      Not Lead architect. Not Principal. Not “& Team”.
+      Live Privilon/ARA/Merlin position (add life / occupied and used) continues in notes only;
+      new building decision for Seventy, not a new public slogan.
+      Board permission lock 2026-08-25 still stands.
+      Board Approve Executive Architecture 2026-09-16; Growth Lead unlock to file 2026-09-16; next review 2026-10-07.
+      File only; no Distribution row. No Urja pack.
+    internal_asset_notes:
+      - Hero still (internal note only) is Business development/PHOTOS FOR SAMPLE PROJECT/SEVENTY/DSC_9372.jpg (Chitrang Seventy-dsc_9372.jpg). Next stills on file: DSC_8768-HDR.jpg, DSC_8455-HDR.jpg. Do not invent DSC_9896 (disk has DSC_8996-HDR.jpg unmatched). Do not invent new stills or credits. Not a public-yes claim. Not a Distribution row.
+    claims:
+      - claim: Project name is Seventy
+        source: Board lock 2026-08-25; Board Approve Executive Architecture 2026-09-16; Chitrang first-still pick 2026-08-31; Growth Lead unlock to file 2026-09-16; seventy.co verify
+        permission: Board-confirmed 2026-08-25 (studio/architect holds use rights for Vitan studio stills) + Board credit chrome Approve 2026-09-16. Status Board-verified for credit line.
+        photographer_credit: none required as a third party unless still shown not ours
+        architect_credit_public: "Executive Architect: Ar. Jagrut Patel, Vitan Architects"
+        architect_credit_internal: not public
+        status: PA-locked
+        public_yes_no: yes
+        confidence: high
+        review_date: "2026-10-07"
+      - claim: "Executive Architect: Ar. Jagrut Patel, Vitan Architects (Board Approve 2026-09-16 Executive Architecture chrome)"
+        source: Board lock 2026-08-25; Board Approve Executive Architecture 2026-09-16; Chitrang first-still pick 2026-08-31; Growth Lead unlock to file 2026-09-16; seventy.co verify
+        permission: Board-confirmed 2026-08-25 (studio/architect holds use rights for Vitan studio stills) + Board credit chrome Approve 2026-09-16. Status Board-verified for credit line.
+        photographer_credit: none required as a third party unless still shown not ours
+        architect_credit_public: "Executive Architect: Ar. Jagrut Patel, Vitan Architects"
+        architect_credit_internal: not public
+        status: Board-verified
+        public_yes_no: yes
+        confidence: high
+        review_date: "2026-10-07"
+        expiry_or_hold_notes: Not Lead architect. Not Principal. Not “& Team”. Collaborative — Vitan is not Lead/Principal. Service framing Executive Architecture is Board-marked chrome.
+      - claim: "Design: SCDA Architects (verified seventy.co/team-architect.html 2026-09-16)"
+        source: Board lock 2026-08-25; Board Approve Executive Architecture 2026-09-16; Board allowed Design credit after verify; https://seventy.co/team-architect.html verified 2026-09-16 (RIBA award-winning architecture firm SCDA is the artist behind Seventy); Growth Lead unlock to file 2026-09-16
+        permission: Board-confirmed 2026-08-25 (studio/architect holds use rights for Vitan studio stills) + Board credit chrome Approve 2026-09-16. Status Board-verified for credit line.
+        photographer_credit: none required as a third party unless still shown not ours
+        architect_credit_public: "Executive Architect: Ar. Jagrut Patel, Vitan Architects"
+        architect_credit_internal: not public
+        status: Board-verified
+        public_yes_no: yes
+        confidence: medium-high
+        review_date: "2026-10-07"
+        expiry_or_hold_notes: First-party project site; Board allowed Design credit after verify. Design architect only — not Vitan Lead/Principal.
+      - claim: Ahmedabad (Chitrang / Growth Lead)
+        source: Board lock 2026-08-25; Board Approve Executive Architecture 2026-09-16; Chitrang first-still pick 2026-08-31; Growth Lead unlock to file 2026-09-16; seventy.co verify
+        permission: Board-confirmed 2026-08-25 (studio/architect holds use rights for Vitan studio stills) + Board credit chrome Approve 2026-09-16. Status Board-verified for credit line.
+        photographer_credit: none required as a third party unless still shown not ours
+        architect_credit_public: "Executive Architect: Ar. Jagrut Patel, Vitan Architects"
+        architect_credit_internal: not public
+        status: PA-locked
+        public_yes_no: yes
+        confidence: high
+        review_date: "2026-10-07"
+        expiry_or_hold_notes: Chitrang / Growth Lead. Do not expand to street address, year, GBA, fees, client, or yaml location invent
+      - claim: "Building decision (Chitrang 31 Aug via Growth Lead): two towers to 70 m (23 storeys) connected by an infinity pool; glass facade and double-height balconies"
+        source: Board lock 2026-08-25; Board Approve Executive Architecture 2026-09-16; Chitrang first-still pick 2026-08-31; Growth Lead unlock to file 2026-09-16; seventy.co verify
+        permission: Board-confirmed 2026-08-25 (studio/architect holds use rights for Vitan studio stills) + Board credit chrome Approve 2026-09-16. Status Board-verified for credit line.
+        photographer_credit: none required as a third party unless still shown not ours
+        architect_credit_public: "Executive Architect: Ar. Jagrut Patel, Vitan Architects"
+        architect_credit_internal: not public
+        status: Board-verified
+        public_yes_no: yes
+        confidence: high
+        review_date: "2026-10-07"
+        expiry_or_hold_notes: New building decision for Seventy, not a new public slogan. Continue live Privilon/ARA/Merlin position (add life / occupied and used) in notes only. Tenure file still coming — do not invent numbers. No GBA. No client. No yaml year.

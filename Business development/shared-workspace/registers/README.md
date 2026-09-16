@@ -13,6 +13,7 @@ Report to **Vitan Growth Lead**, not Head / Current Clients.
 - Firm: **Vitan Architects**. Never “Vitan Architecture”. Never Jagrut & Partners.
 - Recurring branded hashtag only: `#AddingLifeEverySqFt`. Inquiry: `connect@vitan.in`. Site: https://www.vitan.in
 - Public credit on Vitan-led jobs: **Ar. Jagrut Patel** only. No Benoy, Tranquil, SCDA, or “in collaboration with” in captions, social, or portal copy.
+- Seventy is collaborative (not Vitan-led). Board MARKED Approve 2026-09-16: public chrome is **Executive Architect: Ar. Jagrut Patel, Vitan Architects** plus **Design: SCDA Architects**. Not Lead, not Principal, not “& Team”. Not blocked for missing role chrome.
 - Palladium is the associate-credit exception and is **HOLD** this cycle. Do not treat Palladium as a Vitan-led story.
 
 ## Fact statuses
@@ -30,7 +31,7 @@ Confidence: **high** only when Board-verified or PA-locked; **medium** yaml-unve
 3. Repo photos/drawings for what they show, not credits
 4. Intelligence/projects yaml as **candidate only**
 
-Never web, broker copy, other-firm portfolios, old firm names, or inference. Do not scrape the web to fill credits or GBA.
+Never web, broker copy, other-firm portfolios, old firm names, or inference. Do not scrape the web to fill credits or GBA. Board-allowed exception: Seventy Design credit verified on first-party https://seventy.co/team-architect.html (2026-09-16) — not a general web scrape.
 
 `photography_permission` in yaml is **not** publish clearance. Book/monograph is voice only, not copy — do not lift numbers or other-architect names from it. No performance claims without an evidence record.
 
@@ -43,8 +44,12 @@ A colliding git blob is not project evidence. Catalog scan is blob SHA on `main`
 - EV-PRIVILON-001
 - EV-ARA-001
 - EV-MERLIN-001 (Growth Lead unlock 2026-09-07; file only)
+- EV-SEVENTY-001 (Growth Lead unlock 2026-09-16; Board Executive Architecture chrome Approve; file only)
 
 ## Holds this cycle (no register rows)
 
 - Parijaat Eclat (VITA-189 parked; PR 2228 closed without merge)
 - Palladium-as-lead/principal
+- Pegasus — stay off numbered public invent (no evidence row)
+
+Seventy is **not** held for missing role chrome (Board Approve Executive Architecture 2026-09-16). Filed as EV-SEVENTY-001; no Distribution.

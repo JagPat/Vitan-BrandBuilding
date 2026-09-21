@@ -125,7 +125,7 @@ Live still is `Business development/PHOTOS FOR SAMPLE PROJECT/MERLIN PENTAGON/Pe
 | --- | --- |
 | evidence_id | EV-SEVENTY-001 |
 | project | Seventy |
-| record status | internal evidence / Board permission lock 2026-08-25. Board MARKED Approve 2026-09-16: Executive Architecture / Executive Architect credit chrome. Growth Lead unlock to file 2026-09-16. Collaborative — Vitan is not Lead/Principal. Distribution DIST-SEVENTY-IG-001 + DIST-SEVENTY-FB-001 filed for live 17 Sep posts; LI+GBP still pending (no Dist rows until those land). |
+| record status | internal evidence / Board permission lock 2026-08-25. Board MARKED Approve 2026-09-16: Executive Architecture / Executive Architect credit chrome. Growth Lead unlock to file 2026-09-16. Collaborative — Vitan is not Lead/Principal. DIST-SEVENTY-IG-001 + DIST-SEVENTY-FB-001 + DIST-SEVENTY-GBP-001 filed; LI still pending (no Dist until LI posts). |
 | photographer | none required as a third party unless still shown not ours. Do not invent photographer names. |
 | photo/use permission | Board-confirmed 2026-08-25 (studio/architect holds use rights for Vitan studio stills) + Board credit chrome Approve 2026-09-16. Status Board-verified for credit line. Not yaml photography_permission. |
 | client permission | Board-confirmed 2026-08-25 (studio/architect holds use rights for Vitan studio stills) + Board credit chrome Approve 2026-09-16. Status Board-verified for credit line. Not yaml photography_permission. |
@@ -134,7 +134,7 @@ Live still is `Business development/PHOTOS FOR SAMPLE PROJECT/MERLIN PENTAGON/Pe
 | architect_credit_internal | Not for public copy as Lead or Principal. Not “& Team”. Service framing Executive Architecture is Board-marked chrome. Do not copy yaml collaborators into public columns. |
 | packet confidence | identity claims locked; photo/use and client permission Board-verified 2026-08-25; credit chrome Board-verified 2026-09-16; Design SCDA medium–high (first-party project site; Board allowed after verify); photographer none required as third party for studio still |
 | review_date | 2026-10-07 (Asia/Kolkata) |
-| expiry_or_hold_notes | Phase 0 row is tight to the five public-yes claims below. No GBA. No client. No yaml year. No tenure invent. Not Lead architect. Not Principal. Not “& Team”. Live Privilon/ARA/Merlin position (add life / occupied and used) continues in notes only; new building decision for Seventy, not a new public slogan. Board permission lock 2026-08-25 still stands. Board Approve Executive Architecture 2026-09-16; Growth Lead unlock to file 2026-09-16; next review 2026-10-07. Distribution DIST-SEVENTY-IG-001 + DIST-SEVENTY-FB-001 filed for live 17 Sep posts; LI+GBP still pending (no Dist rows until those land). |
+| expiry_or_hold_notes | Phase 0 row is tight to the five public-yes claims below. No GBA. No client. No yaml year. No tenure invent. Not Lead architect. Not Principal. Not “& Team”. Live Privilon/ARA/Merlin position (add life / occupied and used) continues in notes only; new building decision for Seventy, not a new public slogan. Board permission lock 2026-08-25 still stands. Board Approve Executive Architecture 2026-09-16; Growth Lead unlock to file 2026-09-16; next review 2026-10-07. DIST-SEVENTY-IG-001 + DIST-SEVENTY-FB-001 + DIST-SEVENTY-GBP-001 filed; LI still pending (no Dist until LI posts). |
 
 ### Internal asset notes (not public-yes claims; not a Distribution row)
 

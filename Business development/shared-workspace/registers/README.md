@@ -45,6 +45,7 @@ A colliding git blob is not project evidence. Catalog scan is blob SHA on `main`
 - EV-ARA-001
 - EV-MERLIN-001 (Growth Lead unlock 2026-09-07; file only)
 - EV-SEVENTY-001 (Growth Lead unlock 2026-09-16; Board Executive Architecture chrome Approve; file only)
+- EV-PAARIJAT-EROS-001 (filed 2026-09-28; GujRERA unreachable; registry fields PENDING; public-yes no; no Distribution row; not Parijaat Eclat)
 
 ## Holds this cycle (no register rows)
 

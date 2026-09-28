@@ -123,7 +123,7 @@
     "1pu3j04bc50c1ef1644baa499c8e3ce7d7e76": {
       "name": "contacts-master.csv",
       "local_path": "Business development/shared-workspace/contacts-master.csv",
-      "modified_time": 1790161909221
+      "modified_time": 1790578985715
     },
     "1pu3j72b776e058954e3897b2536f1a59d3aa": {
       "name": "2026-04-04-ws2-competitor-mapping-delivery.md",
@@ -554,7 +554,17 @@
       "name": "2026-09-21-monday-hunt-enrich.md",
       "local_path": "Business development/shared-workspace/change-notes/2026-09-21-monday-hunt-enrich.md",
       "modified_time": 1790161906732
+    },
+    "yuadbb4644b3f03f84cf9a841149be59aeb64": {
+      "name": "2026-09-28-monday-hunt-enrich.md",
+      "local_path": "Business development/shared-workspace/change-notes/2026-09-28-monday-hunt-enrich.md",
+      "modified_time": 1790578983048
+    },
+    "yuadb3da011a4030542d397d4443dcef8534e": {
+      "name": "X-Seventy-post.txt",
+      "local_path": "Business development/PHOTOS FOR SAMPLE PROJECT/SEVENTY/X-Seventy-post.txt",
+      "modified_time": 1790578978679
     }
   },
-  "last_sync_ts": 1790578693292
+  "last_sync_ts": 1790608595183
 }

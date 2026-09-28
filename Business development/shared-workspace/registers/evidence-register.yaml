@@ -30,6 +30,30 @@ packets:
       Still internal evidence; no Distribution row.
     internal_asset_notes:
       - Live still remains Business development/PHOTOS FOR SAMPLE PROJECT/PRIVILON/Privilon (16).jpg only. Growth Lead approved this path 2026-08-25. Do not use Privilon (10).jpg (hash collision with PARIJAAT ECLAT / PAARIJAT ECLAT (1)). Do not invent new stills or credits. Not a public-yes claim. Not a Distribution row.
+    internal_only_notes:
+      - >
+        INTERNAL-ONLY (never a public claim). Board decision 2026-09-28 12:46 IST
+        (relayed by Vitan Growth Lead): Privilon keeps the public line
+        "Lead architect Ar. Jagrut Patel, Vitan Architects" with NO Benoy design credit.
+        The Benoy pairing must not be used publicly or in outreach.
+      - >
+        INTERNAL-ONLY (never a public claim). Third-party public sources seen 2026-09-28
+        (internal reference only, not approved for any use):
+        https://www.lerchbates.com/projects/safal-privilion/ :
+        'Architect: Benoy Architects Singapore and Vitan Architects Ahmedabad, India';
+        client 'Safal Engineers & Realty LLP'.
+        https://enclosures.lerchbates.com/portfolio/safal-privilon/ :
+        lists Benoy Architects (Singapore) and Vitan Architects (Ahmedabad).
+        https://tactileretail.com/portfolio/safal-privilon/ : same two architects.
+        https://avantefacades.com/portfolio/safal-privilon/ : same two architects.
+        https://www.benoy.com/projects/paarijat-eclat-privilon-mixed-use-towers-2/ :
+        Benoy claims the exterior design concept for Paarijat Éclat & Privilon, 80,000 m2;
+        no Vitan mention.
+      - >
+        INTERNAL-ONLY (never a public claim). Completion year: NOT locked.
+        The only year seen is 2019 on third-party pages; not accepted as evidence.
+        A completion year needs a studio/Board-stated BU (occupancy) date or the GujRERA
+        completion record for registration .../AUDA/MAA01158/301217.
     claims:
       - claim: Project name is Privilon
         source: locked CAMP-2026-09-001 / Board credit rule
@@ -143,7 +167,7 @@ packets:
       internal evidence / Board permission lock 2026-08-25.
       Board queue mark. Chitrang first-still pick 2026-08-31.
       Growth Lead unlock 2026-09-07.
-      File only; no Distribution row. No Urja pack.
+      DIST-MERLIN-IG-001 + DIST-MERLIN-FB-001 + DIST-MERLIN-LI-001 + DIST-MERLIN-GBP-001 filed.
     photographer: none required as a third party (studio still). Do not invent photographer names.
     photo_use_permission: Board-confirmed 2026-08-25 (Vitan-led studio/architect holds use rights). Status Board-verified. Not yaml photography_permission.
     client_permission: Board-confirmed 2026-08-25 (Vitan-led studio/architect holds use rights). Status Board-verified. Not yaml photography_permission.
@@ -161,7 +185,7 @@ packets:
       Board permission lock 2026-08-25 still stands.
       Growth Lead unlock 2026-09-07; next review 2026-10-07.
       Thin still set (two unique stills); hero is (1) only.
-      No Distribution row. No Urja pack.
+      DIST-MERLIN-IG-001 + DIST-MERLIN-FB-001 + DIST-MERLIN-LI-001 + DIST-MERLIN-GBP-001 filed.
     internal_asset_notes:
       - Live still is Business development/PHOTOS FOR SAMPLE PROJECT/MERLIN PENTAGON/Pentagon (1).jpg only. Chitrang first-still pick 2026-08-31 (Merlin-Pentagon-1.jpg; twisted facade / shuttering). Do not use Pentagon (3).jpg as the live hero unless Board says. Thin still set: two unique stills; hero is (1) only. Do not invent new stills or credits. Not a public-yes claim. Not a Distribution row.
     claims:

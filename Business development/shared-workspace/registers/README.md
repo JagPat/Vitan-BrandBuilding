@@ -39,12 +39,12 @@ Board lock 2026-08-25 (Vitan Growth Lead / Board): Vitan-led projects — studio
 
 A colliding git blob is not project evidence. Catalog scan is blob SHA on `main`.
 
-## Filed this cycle (Evidence Register; no Distribution)
+## Filed this cycle (Evidence Register)
 
 - EV-PRIVILON-001
 - EV-ARA-001
-- EV-MERLIN-001 (Growth Lead unlock 2026-09-07; file only)
-- EV-SEVENTY-001 (Growth Lead unlock 2026-09-16; Board Executive Architecture chrome Approve; file only)
+- EV-MERLIN-001 (Growth Lead unlock 2026-09-07). Distribution rows: DIST-MERLIN-IG-001, DIST-MERLIN-FB-001, DIST-MERLIN-LI-001, DIST-MERLIN-GBP-001.
+- EV-SEVENTY-001 (Growth Lead unlock 2026-09-16; Board Executive Architecture chrome Approve). Distribution rows: DIST-SEVENTY-IG-001, DIST-SEVENTY-FB-001, DIST-SEVENTY-GBP-001, DIST-SEVENTY-LI-001.
 
 ## Holds this cycle (no register rows)
 
@@ -52,4 +52,4 @@ A colliding git blob is not project evidence. Catalog scan is blob SHA on `main`
 - Palladium-as-lead/principal
 - Pegasus — stay off numbered public invent (no evidence row)
 
-Seventy is **not** held for missing role chrome (Board Approve Executive Architecture 2026-09-16). Filed as EV-SEVENTY-001; no Distribution.
+Seventy is **not** held for missing role chrome (Board Approve Executive Architecture 2026-09-16). Filed as EV-SEVENTY-001. Distribution rows: DIST-SEVENTY-IG-001, DIST-SEVENTY-FB-001, DIST-SEVENTY-GBP-001, DIST-SEVENTY-LI-001.

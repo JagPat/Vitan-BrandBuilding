@@ -46,6 +46,17 @@ Copy the header row, then add one packet heading (`EV-…-001`) and only claims 
 
 Live still remains `Business development/PHOTOS FOR SAMPLE PROJECT/PRIVILON/Privilon (16).jpg` only. Growth Lead approved this path 2026-08-25. Do not use `Privilon (10).jpg` (hash collision with PARIJAAT ECLAT / PAARIJAT ECLAT (1)). Do not invent new stills or credits.
 
+### INTERNAL-ONLY notes (never public claims)
+
+- Board decision 2026-09-28 12:46 IST (relayed by Vitan Growth Lead): Privilon keeps the public line "Lead architect Ar. Jagrut Patel, Vitan Architects" with NO Benoy design credit. The Benoy pairing must not be used publicly or in outreach.
+- Third-party public sources seen 2026-09-28 (internal reference only, not approved for any use):
+  - https://www.lerchbates.com/projects/safal-privilion/ : 'Architect: Benoy Architects Singapore and Vitan Architects Ahmedabad, India'; client 'Safal Engineers & Realty LLP'.
+  - https://enclosures.lerchbates.com/portfolio/safal-privilon/ : lists Benoy Architects (Singapore) and Vitan Architects (Ahmedabad).
+  - https://tactileretail.com/portfolio/safal-privilon/ : same two architects.
+  - https://avantefacades.com/portfolio/safal-privilon/ : same two architects.
+  - https://www.benoy.com/projects/paarijat-eclat-privilon-mixed-use-towers-2/ : Benoy claims the exterior design concept for Paarijat Éclat & Privilon, 80,000 m2; no Vitan mention.
+- Completion year: NOT locked. The only year seen is 2019 on third-party pages; not accepted as evidence. A completion year needs a studio/Board-stated BU (occupancy) date or the GujRERA completion record for registration .../AUDA/MAA01158/301217.
+
 ### Claims
 
 | evidence_id | project | claim | source | permission | photographer_credit | architect_credit_public | architect_credit_internal | status | public_yes_no | confidence | review_date | expiry_or_hold_notes |
@@ -94,7 +105,7 @@ Live item still is `Business development/PHOTOS FOR SAMPLE PROJECT/ARA (AHMEDABA
 | --- | --- |
 | evidence_id | EV-MERLIN-001 |
 | project | Merlin Pentagon |
-| record status | internal evidence / Board permission lock 2026-08-25. Board queue mark. Chitrang first-still pick 2026-08-31. Growth Lead unlock 2026-09-07. File only; no Distribution row. No Urja pack. |
+| record status | internal evidence / Board permission lock 2026-08-25. Board queue mark. Chitrang first-still pick 2026-08-31. Growth Lead unlock 2026-09-07. DIST-MERLIN-IG-001 + DIST-MERLIN-FB-001 + DIST-MERLIN-LI-001 + DIST-MERLIN-GBP-001 filed. |
 | photographer | none required as a third party (studio still). Do not invent photographer names. |
 | photo/use permission | Board-confirmed 2026-08-25 (Vitan-led studio/architect holds use rights). Status Board-verified. Not yaml photography_permission. |
 | client permission | Board-confirmed 2026-08-25 (Vitan-led studio/architect holds use rights). Status Board-verified. Not yaml photography_permission. |
@@ -102,7 +113,7 @@ Live item still is `Business development/PHOTOS FOR SAMPLE PROJECT/ARA (AHMEDABA
 | architect_credit_internal | Not for public copy. Not “& Team”. Do not copy yaml collaborators into public columns. |
 | packet confidence | identity claims locked; photo/use and client permission Board-verified 2026-08-25; photographer none required as third party for studio still |
 | review_date | 2026-10-07 (Asia/Kolkata) |
-| expiry_or_hold_notes | Phase 0 row is tight to the four public-yes claims below. No GBA. No invented years, fees, client, or other-architect names. Not “& Team”. Tenure file still coming — do not invent numbers. Do not say sold. Live Privilon/ARA position (add life / occupied and used) continues in notes only; new building decision for Merlin, not a new public slogan. Board permission lock 2026-08-25 still stands. Growth Lead unlock 2026-09-07; next review 2026-10-07. Thin still set (two unique stills); hero is (1) only. No Distribution row. No Urja pack. |
+| expiry_or_hold_notes | Phase 0 row is tight to the four public-yes claims below. No GBA. No invented years, fees, client, or other-architect names. Not “& Team”. Tenure file still coming — do not invent numbers. Do not say sold. Live Privilon/ARA position (add life / occupied and used) continues in notes only; new building decision for Merlin, not a new public slogan. Board permission lock 2026-08-25 still stands. Growth Lead unlock 2026-09-07; next review 2026-10-07. Thin still set (two unique stills); hero is (1) only. DIST-MERLIN-IG-001 + DIST-MERLIN-FB-001 + DIST-MERLIN-LI-001 + DIST-MERLIN-GBP-001 filed. |
 
 ### Internal asset notes (not public-yes claims; not a Distribution row)
 

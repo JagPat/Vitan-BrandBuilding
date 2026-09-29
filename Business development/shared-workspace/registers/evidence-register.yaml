@@ -70,11 +70,18 @@ packets:
         (BU permission granted by AMC on 22 Jan 2019, citing CaseMine);
         Business development/shared-workspace/registers/references/privilon/2026-09-28-privilon-rera-completion-screenshot.png
         (RERA completion date 30 Jun 2019 plus registration MAA01158/301217, citing Bsafal).
-        developer name in screenshot unverified; promoter to be checked on GujRERA MAA01158/301217.
+        developer name in screenshot unverified at capture; the promoter check against
+        GujRERA MAA01158/301217 is closed in the live check note below (internal only).
       - >
-        Verification (still pending): once the GujRERA registry loads, check the live
-        MAA01158 completion record against 30 Jun 2019 and 22 Jan 2019, and record
-        that it was checked.
+        INTERNAL-ONLY (never a public claim). GujRERA live check 2026-09-29 IST
+        (https://gujrera.gujarat.gov.in/, regId 788): completionDateStr 30-06-2019
+        matches the internal GujRERA completion date; projRegNo
+        PR/GJ/AHMEDABAD/AHMEDABAD CITY/AUDA/MAA01158/301217 matches; registered
+        project type Mixed Development; registered promoter name SKZ DEVELOPERS LLP;
+        registered project name PAARIJAT ECLAT AND PRIVILON. AMC BU 22 Jan 2019 is
+        not a GujRERA field and was not re-checked on the registry. Verification
+        pending item closed for GujRERA completion/regNo/promoter/type. Public-yes
+        claims are unchanged.
     claims:
       - claim: Project name is Privilon
         source: locked CAMP-2026-09-001 / Board credit rule
@@ -118,7 +125,7 @@ packets:
         public_yes_no: yes
         confidence: high
         review_date: "2026-10-07"
-        expiry_or_hold_notes: Public claim is the year 2019 only. Locked on Board + studio (Shailesh) authority, not on Benoy or other third-party pages. BU date 22 Jan 2019 and GujRERA completion date 30 Jun 2019 stay internal. GujRERA live-registry check against 30 Jun 2019 and 22 Jan 2019 is still pending.
+        expiry_or_hold_notes: Public claim is the year 2019 only. Locked on Board + studio (Shailesh) authority, not on Benoy or other third-party pages. BU date 22 Jan 2019 and GujRERA completion date 30 Jun 2019 stay internal. GujRERA live check 2026-09-29 (regId 788) matched completionDateStr 30-06-2019 and registration MAA01158/301217. AMC BU 22 Jan 2019 is not a GujRERA field and was not re-checked on the registry.
 
   - evidence_id: EV-ARA-001
     project: ARA (Ahmedabad Racquet Academy)
@@ -350,25 +357,27 @@ packets:
         expiry_or_hold_notes: New building decision for Seventy, not a new public slogan. Continue live Privilon/ARA/Merlin position (add life / occupied and used) in notes only. Tenure file still coming — do not invent numbers. No GBA. No client. No yaml year.
 
   - evidence_id: EV-PAARIJAT-EROS-001
-    project: Paarijat Eros (working packet name only; registered name unread)
+    project: PAARIJAT EROS / Paarijat Eros
     record_status: >
-      internal evidence. GujRERA portal unreachable 2026-09-28 12:35 IST.
-      No registry fact filed. No Board lock. No Distribution row. Not Parijaat Eclat.
+      internal evidence; registry read 2026-09-29; no Board lock; no Distribution row.
+      Not Parijaat Eclat.
     photographer: "UNKNOWN (waiting on studio). Photos: none."
     photo_use_permission: UNKNOWN (waiting on studio)
     client_permission: UNKNOWN (no studio clearance on file)
     architect_credit_public: not suggested
-    architect_credit_internal: "Not for public copy. Professionals section unread. Do not infer a named architect or a firm. Do not publish \"Architect: Ar. Jagrut Patel, Vitan Architects\" from this packet."
-    packet_confidence: No registry-stated fact. Project attributes unknown. Photo/use and photographer UNKNOWN (waiting on studio).
+    architect_credit_internal: "Not for public copy. Professionals row filed from GujRERA 2026-09-29 (regId 31655): name JAGRUT RAMANLAL PATEL; licence CA/1999/24504; address VITAN HOUSE OPP RANGKUNJ SOCIETY; email jagrutpatel@gmail.com. The architect row does not print a firm name. Do not invent Vitan Architects as a public claim. Do not publish \"Architect: Ar. Jagrut Patel, Vitan Architects\" from this packet."
+    packet_confidence: Registry facts read 2026-09-29 from GujRERA regId 31655; internal only; not Board-locked. Photo/use and photographer UNKNOWN (waiting on studio).
     review_date: "2026-10-12"
     timezone: Asia/Kolkata
     expiry_or_hold_notes: >
-      GujRERA (https://gujrera.gujarat.gov.in/) did not load on 2026-09-28 12:35 IST.
-      DNS resolved; TLS and the browser timed out. Nothing was taken from any other site.
-      Each registry field is PENDING - GujRERA unreachable 2026-09-28 12:35 IST.
-      Public architect line is not suggested: the professionals section was not read,
-      so it is unknown whether the registry names Jagrut Patel and unknown whether it names a firm.
-      Flag stays public-yes no until that section is read and Growth Lead/Board clear it.
+      GujRERA (https://gujrera.gujarat.gov.in/) live read 2026-09-29, regId 31655
+      (alldatabyprojectid and project details). The 2026-09-28 unread state is closed
+      for the registry fields below. Filled registry claims use status registry-read:
+      the row was read, and that status is not Board-verified and not PA-locked.
+      public_yes_no stays no until Growth Lead/Board clear any public use.
+      Public architect line is not suggested: the architect row names
+      JAGRUT RAMANLAL PATEL and licence CA/1999/24504 and does not print a firm name.
+      Do not invent Vitan Architects as a public claim. Photos and permissions stay UNKNOWN.
       No GBA. No fees. No prices. No Distribution row.
       Parijaat Eclat stays held and is not this packet. Do not use Eclat stills.
     internal_asset_notes:
@@ -378,116 +387,116 @@ packets:
       There is no path for Paarijat Eros, Parijaat Eros, or Eros.
       Safal strings elsewhere on main are other records and are not a promoter legal name for this packet.
     claims:
-      - claim: "Registered project name: PENDING - GujRERA unreachable 2026-09-28 12:35 IST"
-        source: "https://gujrera.gujarat.gov.in/ unreachable 2026-09-28 12:35 IST; no registration number retrieved; no third-party substitute"
+      - claim: "Registered project name: PAARIJAT EROS"
+        source: "https://gujrera.gujarat.gov.in/ live 2026-09-29 (regId 31655)"
         permission: UNKNOWN (waiting on studio)
         photographer_credit: UNKNOWN (waiting on studio)
         architect_credit_public: not suggested
         architect_credit_internal: not public
-        status: PENDING
+        status: registry-read
         public_yes_no: no
-        confidence: unknown
+        confidence: medium
         review_date: "2026-10-12"
-        expiry_or_hold_notes: Internal. Registered name unread. Working packet name is not a registry fact.
-      - claim: "RERA registration number: PENDING - GujRERA unreachable 2026-09-28 12:35 IST"
-        source: "https://gujrera.gujarat.gov.in/ unreachable 2026-09-28 12:35 IST; no registration number retrieved; no third-party substitute"
+        expiry_or_hold_notes: Internal. Registered name filed. public-yes no until Growth Lead/Board clear any public use. Medium means the official registry row was read; not publish confidence; not a Board/PA lock.
+      - claim: "RERA registration number: PR/GJ/AHMEDABAD/SANAND/Ahmedabad Urban Development Authority/RAA17189/270726/300931"
+        source: "https://gujrera.gujarat.gov.in/ live 2026-09-29 (regId 31655)"
         permission: UNKNOWN (waiting on studio)
         photographer_credit: UNKNOWN (waiting on studio)
         architect_credit_public: not suggested
         architect_credit_internal: not public
-        status: PENDING
+        status: registry-read
         public_yes_no: no
-        confidence: unknown
+        confidence: medium
         review_date: "2026-10-12"
-        expiry_or_hold_notes: Internal.
-      - claim: "Promoter/developer legal name: PENDING - GujRERA unreachable 2026-09-28 12:35 IST"
-        source: "https://gujrera.gujarat.gov.in/ unreachable 2026-09-28 12:35 IST; no registration number retrieved; no third-party substitute"
+        expiry_or_hold_notes: Internal. public-yes no.
+      - claim: "Promoter/developer legal name: SAFAL CONSTRUCTIONS(INDIA) PRIVATE LIMITED"
+        source: "https://gujrera.gujarat.gov.in/ live 2026-09-29 (regId 31655)"
         permission: UNKNOWN (waiting on studio)
         photographer_credit: UNKNOWN (waiting on studio)
         architect_credit_public: not suggested
         architect_credit_internal: not public
-        status: PENDING
+        status: registry-read
         public_yes_no: no
-        confidence: unknown
+        confidence: medium
         review_date: "2026-10-12"
-        expiry_or_hold_notes: Internal. Do not fill from other Safal records in the repo.
-      - claim: "Approval/registration date: PENDING - GujRERA unreachable 2026-09-28 12:35 IST"
-        source: "https://gujrera.gujarat.gov.in/ unreachable 2026-09-28 12:35 IST; no registration number retrieved; no third-party substitute"
+        expiry_or_hold_notes: Internal. Taken from the GujRERA promoter name on regId 31655. Not filled from other Safal records in the repo. public-yes no.
+      - claim: "Approval/registration date: 27-07-2026"
+        source: "https://gujrera.gujarat.gov.in/ live 2026-09-29 (regId 31655)"
         permission: UNKNOWN (waiting on studio)
         photographer_credit: UNKNOWN (waiting on studio)
         architect_credit_public: not suggested
         architect_credit_internal: not public
-        status: PENDING
+        status: registry-read
         public_yes_no: no
-        confidence: unknown
+        confidence: medium
         review_date: "2026-10-12"
-        expiry_or_hold_notes: Internal. Ask date was not copied in.
-      - claim: "Project type: PENDING - GujRERA unreachable 2026-09-28 12:35 IST"
-        source: "https://gujrera.gujarat.gov.in/ unreachable 2026-09-28 12:35 IST; no registration number retrieved; no third-party substitute"
+        expiry_or_hold_notes: Internal. Registry approvedDate. public-yes no.
+      - claim: "Project type: Residential/Group Housing"
+        source: "https://gujrera.gujarat.gov.in/ live 2026-09-29 (regId 31655)"
         permission: UNKNOWN (waiting on studio)
         photographer_credit: UNKNOWN (waiting on studio)
         architect_credit_public: not suggested
         architect_credit_internal: not public
-        status: PENDING
+        status: registry-read
         public_yes_no: no
-        confidence: unknown
+        confidence: medium
         review_date: "2026-10-12"
-        expiry_or_hold_notes: Internal. Residential/commercial/mixed unread.
-      - claim: "Location as registered: PENDING - GujRERA unreachable 2026-09-28 12:35 IST"
-        source: "https://gujrera.gujarat.gov.in/ unreachable 2026-09-28 12:35 IST; no registration number retrieved; no third-party substitute"
+        expiry_or_hold_notes: Internal. public-yes no.
+      - claim: "Location as registered: Ahmedabad / Sanand / Godhavi; TPS No. 429 (Godhavi-Manipur), Survey No. 915/4/P, FP No 140; pin 382115; approving authority Ahmedabad Urban Development Authority"
+        source: "https://gujrera.gujarat.gov.in/ live 2026-09-29 (regId 31655)"
         permission: UNKNOWN (waiting on studio)
         photographer_credit: UNKNOWN (waiting on studio)
         architect_credit_public: not suggested
         architect_credit_internal: not public
-        status: PENDING
+        status: registry-read
         public_yes_no: no
-        confidence: unknown
+        confidence: medium
         review_date: "2026-10-12"
-        expiry_or_hold_notes: Internal. District/taluka/village unread.
-      - claim: "Number of towers/units: PENDING - GujRERA unreachable 2026-09-28 12:35 IST"
-        source: "https://gujrera.gujarat.gov.in/ unreachable 2026-09-28 12:35 IST; no registration number retrieved; no third-party substitute"
+        expiry_or_hold_notes: Internal. public-yes no.
+      - claim: "Number of towers/units: Flat inventory 88 (towers not separately stated on the registry inventory row)"
+        source: "https://gujrera.gujarat.gov.in/ live 2026-09-29 (regId 31655)"
         permission: UNKNOWN (waiting on studio)
         photographer_credit: UNKNOWN (waiting on studio)
         architect_credit_public: not suggested
         architect_credit_internal: not public
-        status: PENDING
+        status: registry-read
         public_yes_no: no
-        confidence: unknown
+        confidence: medium
         review_date: "2026-10-12"
-        expiry_or_hold_notes: Internal.
-      - claim: "Carpet area as registered: PENDING - GujRERA unreachable 2026-09-28 12:35 IST"
-        source: "https://gujrera.gujarat.gov.in/ unreachable 2026-09-28 12:35 IST; no registration number retrieved; no third-party substitute"
+        expiry_or_hold_notes: Internal. Inventory type Flat, count 88. Not a tower count. public-yes no.
+      - claim: "Carpet area as registered: 14985.52 (registry carpet; not GBA)"
+        source: "https://gujrera.gujarat.gov.in/ live 2026-09-29 (regId 31655)"
         permission: UNKNOWN (waiting on studio)
         photographer_credit: UNKNOWN (waiting on studio)
         architect_credit_public: not suggested
         architect_credit_internal: not public
-        status: PENDING
+        status: registry-read
         public_yes_no: no
-        confidence: unknown
+        confidence: medium
         review_date: "2026-10-12"
-        expiry_or_hold_notes: Internal. Carpet area only, and only if the registry shows it. Not GBA.
-      - claim: "Proposed completion date: PENDING - GujRERA unreachable 2026-09-28 12:35 IST"
-        source: "https://gujrera.gujarat.gov.in/ unreachable 2026-09-28 12:35 IST; no registration number retrieved; no third-party substitute"
+        expiry_or_hold_notes: Internal. Registry carpet 14985.52. Not GBA. public-yes no.
+      - claim: "Proposed completion date: 30-09-2031 (start 24-02-2026)"
+        source: "https://gujrera.gujarat.gov.in/ live 2026-09-29 (regId 31655)"
         permission: UNKNOWN (waiting on studio)
         photographer_credit: UNKNOWN (waiting on studio)
         architect_credit_public: not suggested
         architect_credit_internal: not public
-        status: PENDING
+        status: registry-read
         public_yes_no: no
-        confidence: unknown
+        confidence: medium
         review_date: "2026-10-12"
-        expiry_or_hold_notes: Internal.
-      - claim: "Architect named in the professionals section (name, firm, registration no.): PENDING - GujRERA unreachable 2026-09-28 12:35 IST"
-        source: "https://gujrera.gujarat.gov.in/ unreachable 2026-09-28 12:35 IST; no registration number retrieved; no third-party substitute"
+        expiry_or_hold_notes: Internal. completionDateStr 30-09-2031; startDateStr 24-02-2026. public-yes no.
+      - claim: "Architect named in the professionals section (name, firm, registration no.): name JAGRUT RAMANLAL PATEL; licence CA/1999/24504; address VITAN HOUSE OPP RANGKUNJ SOCIETY; email jagrutpatel@gmail.com. Registry does not print a firm name in the architect row."
+        source: "https://gujrera.gujarat.gov.in/ live 2026-09-29 (regId 31655)"
         permission: UNKNOWN (waiting on studio)
         photographer_credit: UNKNOWN (waiting on studio)
         architect_credit_public: not suggested
         architect_credit_internal: not public
-        status: PENDING
+        status: registry-read
         public_yes_no: no
-        confidence: unknown
+        confidence: medium
         review_date: "2026-10-12"
-        expiry_or_hold_notes: Public line not suggested. Unknown whether the registry names Jagrut Patel. Unknown whether it names the firm. public-yes only after that section is read and Growth Lead/Board clear it.
+        expiry_or_hold_notes: Public line not suggested. Registry names JAGRUT RAMANLAL PATEL and licence CA/1999/24504. It does not name a firm. Do not invent Vitan Architects as a public claim. public-yes only after Growth Lead/Board clear it.
       - claim: "Photos: none. Photo/use permission UNKNOWN (waiting on studio). Photographer UNKNOWN (waiting on studio). Client permission UNKNOWN (no studio clearance on file)."
         source: "No Paarijat Eros image on main. Eclat stills are not this packet: .sync/workdrive_state.json; Business development/shared-workspace/registers/evidence-register.md"
         permission: UNKNOWN (waiting on studio)

@@ -40,11 +40,25 @@ Copy the header row, then add one packet heading (`EV-…-001`) and only claims 
 | architect_credit_internal | Not for public copy. Do not copy yaml collaborators into public columns. |
 | packet confidence | identity claims locked; photo/use and client permission Board-verified 2026-08-25; photographer none required as third party for studio still |
 | review_date | 2026-10-07 (Asia/Kolkata) |
-| expiry_or_hold_notes | Phase 0 row is tight to the three public-yes claims below. No GBA. No other-architect names in public fields. Tranquil is a Board cut. Do not add floors, year, client, street address, CTA, hashtags, still numbers, or consultant names as public-yes claims in this row. Board permission lock 2026-08-25: studio/architect holds use rights (lock still stands). Photographer third-party credit none required for the studio still Privilon (16). Growth Lead cleared reuse 2026-09-07; next review 2026-10-07. Already-published cycle may keep circulating Privilon (16). Still internal evidence; no Distribution row. |
+| expiry_or_hold_notes | Phase 0 row is tight to the four public-yes claims below. No GBA. No other-architect names in public fields. Tranquil is a Board cut. Public completion year is the locked 2019 only. Do not add floors, client, street address, CTA, hashtags, still numbers, or consultant names as public-yes claims in this row. Board permission lock 2026-08-25: studio/architect holds use rights (lock still stands). Photographer third-party credit none required for the studio still Privilon (16). Growth Lead cleared reuse 2026-09-07; next review 2026-10-07. Already-published cycle may keep circulating Privilon (16). Still internal evidence; no Distribution row. |
 
 ### Internal asset notes (not public-yes claims; not a Distribution row)
 
 Live still remains `Business development/PHOTOS FOR SAMPLE PROJECT/PRIVILON/Privilon (16).jpg` only. Growth Lead approved this path 2026-08-25. Do not use `Privilon (10).jpg` (hash collision with PARIJAAT ECLAT / PAARIJAT ECLAT (1)). Do not invent new stills or credits.
+
+### INTERNAL-ONLY notes (never public claims)
+
+- Board decision 2026-09-28 12:46 IST (relayed by Vitan Growth Lead): Privilon keeps the public line "Lead architect Ar. Jagrut Patel, Vitan Architects" with NO Benoy design credit. The Benoy pairing must not be used publicly or in outreach.
+- Third-party public sources seen 2026-09-28 (internal reference only, not approved for any use):
+  - https://www.lerchbates.com/projects/safal-privilion/ : 'Architect: Benoy Architects Singapore and Vitan Architects Ahmedabad, India'; client 'Safal Engineers & Realty LLP'.
+  - https://enclosures.lerchbates.com/portfolio/safal-privilon/ : lists Benoy Architects (Singapore) and Vitan Architects (Ahmedabad).
+  - https://tactileretail.com/portfolio/safal-privilon/ : same two architects.
+  - https://avantefacades.com/portfolio/safal-privilon/ : same two architects.
+  - https://www.benoy.com/projects/paarijat-eclat-privilon-mixed-use-towers-2/ : Benoy claims the exterior design concept for Paarijat Éclat & Privilon, 80,000 m2; no Vitan mention.
+- Public completion year is locked as 2019 on Board + studio (Shailesh, Vitan studio) authority, confirmed 2026-09-28 in the Vitan Growth room. Source label: Board + studio (Shailesh), 2026-09-28. The year is locked on that Board/studio authority, not on Benoy or other third-party pages. 2019 seen earlier on third-party pages was not accepted as evidence and is not the basis of this lock.
+- Internal detail (not public): the Ahmedabad Municipal Corporation granted Building Use (BU) permission on 22 Jan 2019. The GujRERA official completion date is 30 Jun 2019, under registration PR/GJ/AHMEDABAD/AHMEDABAD CITY/AUDA/MAA01158/301217, which matches the registration number already referenced in this row. Those dates are not public claims.
+- Internal-only references (not the source of record and not a public citation; search-summary text quoting CaseMine and bsafal.com): `Business development/shared-workspace/registers/references/privilon/2026-09-28-privilon-bu-date-screenshot.png` (BU permission granted by AMC on 22 Jan 2019, citing CaseMine); `Business development/shared-workspace/registers/references/privilon/2026-09-28-privilon-rera-completion-screenshot.png` (RERA completion date 30 Jun 2019 plus registration MAA01158/301217, citing Bsafal). developer name in screenshot unverified; promoter to be checked on GujRERA MAA01158/301217.
+- Verification (still pending): once the GujRERA registry loads, check the live MAA01158 completion record against 30 Jun 2019 and 22 Jan 2019, and record that it was checked.
 
 ### Claims
 
@@ -53,6 +67,7 @@ Live still remains `Business development/PHOTOS FOR SAMPLE PROJECT/PRIVILON/Priv
 | EV-PRIVILON-001 | Privilon | Project name is Privilon | locked CAMP-2026-09-001 / Board credit rule | Board-confirmed 2026-08-25 (studio/architect holds use rights). Status Board-verified. | none required as a third party (studio still Privilon (16)) | Lead architect Ar. Jagrut Patel, Vitan Architects | not public | PA-locked | yes | high | 2026-10-07 | |
 | EV-PRIVILON-001 | Privilon | Board credit line: Lead architect Ar. Jagrut Patel, Vitan Architects | locked CAMP-2026-09-001 / Board credit rule | Board-confirmed 2026-08-25 (studio/architect holds use rights). Status Board-verified. | none required as a third party (studio still Privilon (16)) | Lead architect Ar. Jagrut Patel, Vitan Architects | not public | Board-verified | yes | high | 2026-10-07 | No other architect or collaboration line in public copy |
 | EV-PRIVILON-001 | Privilon | Mixed-use, Ahmedabad | locked CAMP-2026-09-001 / Board credit rule | Board-confirmed 2026-08-25 (studio/architect holds use rights). Status Board-verified. | none required as a third party (studio still Privilon (16)) | Lead architect Ar. Jagrut Patel, Vitan Architects | not public | PA-locked | yes | high | 2026-10-07 | Do not expand to street address or extra identity facts in this Phase 0 row |
+| EV-PRIVILON-001 | Privilon | Completion year is 2019 | Board + studio (Shailesh), 2026-09-28 | Board-confirmed 2026-08-25 (studio/architect holds use rights). Status Board-verified. | none required as a third party (studio still Privilon (16)) | Lead architect Ar. Jagrut Patel, Vitan Architects | not public | Board-verified | yes | high | 2026-10-07 | Public claim is the year 2019 only. Locked on Board + studio (Shailesh) authority, not on Benoy or other third-party pages. BU date 22 Jan 2019 and GujRERA completion date 30 Jun 2019 stay internal. GujRERA live-registry check against 30 Jun 2019 and 22 Jan 2019 is still pending. |
 
 ---
 
@@ -94,7 +109,7 @@ Live item still is `Business development/PHOTOS FOR SAMPLE PROJECT/ARA (AHMEDABA
 | --- | --- |
 | evidence_id | EV-MERLIN-001 |
 | project | Merlin Pentagon |
-| record status | internal evidence / Board permission lock 2026-08-25. Board queue mark. Chitrang first-still pick 2026-08-31. Growth Lead unlock 2026-09-07. File only; no Distribution row. No Urja pack. |
+| record status | internal evidence / Board permission lock 2026-08-25. Board queue mark. Chitrang first-still pick 2026-08-31. Growth Lead unlock 2026-09-07. DIST-MERLIN-IG-001 + DIST-MERLIN-FB-001 + DIST-MERLIN-LI-001 + DIST-MERLIN-GBP-001 filed. |
 | photographer | none required as a third party (studio still). Do not invent photographer names. |
 | photo/use permission | Board-confirmed 2026-08-25 (Vitan-led studio/architect holds use rights). Status Board-verified. Not yaml photography_permission. |
 | client permission | Board-confirmed 2026-08-25 (Vitan-led studio/architect holds use rights). Status Board-verified. Not yaml photography_permission. |
@@ -102,7 +117,7 @@ Live item still is `Business development/PHOTOS FOR SAMPLE PROJECT/ARA (AHMEDABA
 | architect_credit_internal | Not for public copy. Not “& Team”. Do not copy yaml collaborators into public columns. |
 | packet confidence | identity claims locked; photo/use and client permission Board-verified 2026-08-25; photographer none required as third party for studio still |
 | review_date | 2026-10-07 (Asia/Kolkata) |
-| expiry_or_hold_notes | Phase 0 row is tight to the four public-yes claims below. No GBA. No invented years, fees, client, or other-architect names. Not “& Team”. Tenure file still coming — do not invent numbers. Do not say sold. Live Privilon/ARA position (add life / occupied and used) continues in notes only; new building decision for Merlin, not a new public slogan. Board permission lock 2026-08-25 still stands. Growth Lead unlock 2026-09-07; next review 2026-10-07. Thin still set (two unique stills); hero is (1) only. No Distribution row. No Urja pack. |
+| expiry_or_hold_notes | Phase 0 row is tight to the four public-yes claims below. No GBA. No invented years, fees, client, or other-architect names. Not “& Team”. Tenure file still coming — do not invent numbers. Do not say sold. Live Privilon/ARA position (add life / occupied and used) continues in notes only; new building decision for Merlin, not a new public slogan. Board permission lock 2026-08-25 still stands. Growth Lead unlock 2026-09-07; next review 2026-10-07. Thin still set (two unique stills); hero is (1) only. DIST-MERLIN-IG-001 + DIST-MERLIN-FB-001 + DIST-MERLIN-LI-001 + DIST-MERLIN-GBP-001 filed. |
 
 ### Internal asset notes (not public-yes claims; not a Distribution row)
 
@@ -125,7 +140,7 @@ Live still is `Business development/PHOTOS FOR SAMPLE PROJECT/MERLIN PENTAGON/Pe
 | --- | --- |
 | evidence_id | EV-SEVENTY-001 |
 | project | Seventy |
-| record status | internal evidence / Board permission lock 2026-08-25. Board MARKED Approve 2026-09-16: Executive Architecture / Executive Architect credit chrome. Growth Lead unlock to file 2026-09-16. Collaborative — Vitan is not Lead/Principal. DIST-SEVENTY-IG-001 + DIST-SEVENTY-FB-001 + DIST-SEVENTY-GBP-001 filed; LI still pending (no Dist until LI posts). |
+| record status | internal evidence / Board permission lock 2026-08-25. Board MARKED Approve 2026-09-16: Executive Architecture / Executive Architect credit chrome. Growth Lead unlock to file 2026-09-16. Collaborative — Vitan is not Lead/Principal. DIST-SEVENTY-IG-001 + DIST-SEVENTY-FB-001 + DIST-SEVENTY-GBP-001 filed; LI post is live (DIST-SEVENTY-LI-001, urn:li:share:7508485082270208000); X is live (DIST-SEVENTY-X-001). |
 | photographer | none required as a third party unless still shown not ours. Do not invent photographer names. |
 | photo/use permission | Board-confirmed 2026-08-25 (studio/architect holds use rights for Vitan studio stills) + Board credit chrome Approve 2026-09-16. Status Board-verified for credit line. Not yaml photography_permission. |
 | client permission | Board-confirmed 2026-08-25 (studio/architect holds use rights for Vitan studio stills) + Board credit chrome Approve 2026-09-16. Status Board-verified for credit line. Not yaml photography_permission. |
@@ -134,7 +149,7 @@ Live still is `Business development/PHOTOS FOR SAMPLE PROJECT/MERLIN PENTAGON/Pe
 | architect_credit_internal | Not for public copy as Lead or Principal. Not “& Team”. Service framing Executive Architecture is Board-marked chrome. Do not copy yaml collaborators into public columns. |
 | packet confidence | identity claims locked; photo/use and client permission Board-verified 2026-08-25; credit chrome Board-verified 2026-09-16; Design SCDA medium–high (first-party project site; Board allowed after verify); photographer none required as third party for studio still |
 | review_date | 2026-10-07 (Asia/Kolkata) |
-| expiry_or_hold_notes | Phase 0 row is tight to the five public-yes claims below. No GBA. No client. No yaml year. No tenure invent. Not Lead architect. Not Principal. Not “& Team”. Live Privilon/ARA/Merlin position (add life / occupied and used) continues in notes only; new building decision for Seventy, not a new public slogan. Board permission lock 2026-08-25 still stands. Board Approve Executive Architecture 2026-09-16; Growth Lead unlock to file 2026-09-16; next review 2026-10-07. DIST-SEVENTY-IG-001 + DIST-SEVENTY-FB-001 + DIST-SEVENTY-GBP-001 filed; LI still pending (no Dist until LI posts). |
+| expiry_or_hold_notes | Phase 0 row is tight to the five public-yes claims below. No GBA. No client. No yaml year. No tenure invent. Not Lead architect. Not Principal. Not “& Team”. Live Privilon/ARA/Merlin position (add life / occupied and used) continues in notes only; new building decision for Seventy, not a new public slogan. Board permission lock 2026-08-25 still stands. Board Approve Executive Architecture 2026-09-16; Growth Lead unlock to file 2026-09-16; next review 2026-10-07. DIST-SEVENTY-IG-001 + DIST-SEVENTY-FB-001 + DIST-SEVENTY-GBP-001 filed; LI post is live (DIST-SEVENTY-LI-001, urn:li:share:7508485082270208000); X is live (DIST-SEVENTY-X-001). |
 
 ### Internal asset notes (not public-yes claims; not a Distribution row)
 

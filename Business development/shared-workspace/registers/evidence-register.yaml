@@ -365,7 +365,7 @@ packets:
     photo_use_permission: UNKNOWN (waiting on studio)
     client_permission: UNKNOWN (no studio clearance on file)
     architect_credit_public: not suggested
-    architect_credit_internal: "Not for public copy. Professionals row filed from GujRERA 2026-09-29 (regId 31655): name JAGRUT RAMANLAL PATEL; licence CA/1999/24504; address VITAN HOUSE OPP RANGKUNJ SOCIETY; email jagrutpatel@gmail.com. The architect row does not print a firm name. Do not invent Vitan Architects as a public claim. Do not publish \"Architect: Ar. Jagrut Patel, Vitan Architects\" from this packet."
+    architect_credit_internal: "Not for public copy. Professionals row filed from GujRERA 2026-09-29 (regId 31655): name JAGRUT RAMANLAL PATEL; licence CA/1999/24504; address VITAN HOUSE OPP RANGKUNJ SOCIETY; architect email on registry: Board personal (withheld). The architect row does not print a firm name. Do not invent Vitan Architects as a public claim. Do not publish \"Architect: Ar. Jagrut Patel, Vitan Architects\" from this packet."
     packet_confidence: Registry facts read 2026-09-29 from GujRERA regId 31655; internal only; not Board-locked. Photo/use and photographer UNKNOWN (waiting on studio).
     review_date: "2026-10-12"
     timezone: Asia/Kolkata
@@ -486,7 +486,7 @@ packets:
         confidence: medium
         review_date: "2026-10-12"
         expiry_or_hold_notes: Internal. completionDateStr 30-09-2031; startDateStr 24-02-2026. public-yes no.
-      - claim: "Architect named in the professionals section (name, firm, registration no.): name JAGRUT RAMANLAL PATEL; licence CA/1999/24504; address VITAN HOUSE OPP RANGKUNJ SOCIETY; email jagrutpatel@gmail.com. Registry does not print a firm name in the architect row."
+      - claim: "Architect named in the professionals section (name, firm, registration no.): name JAGRUT RAMANLAL PATEL; licence CA/1999/24504; address VITAN HOUSE OPP RANGKUNJ SOCIETY; architect email on registry: Board personal (withheld). Registry does not print a firm name in the architect row."
         source: "https://gujrera.gujarat.gov.in/ live 2026-09-29 (regId 31655)"
         permission: UNKNOWN (waiting on studio)
         photographer_credit: UNKNOWN (waiting on studio)

@@ -32,7 +32,7 @@ Traces to EV-PAARIJAT-EROS-001 claims "RERA registration number" and "Approval/r
 
 ## Vitan's named role
 
-Architect named in the professionals section (name, firm, registration no.): name JAGRUT RAMANLAL PATEL; licence CA/1999/24504; address VITAN HOUSE OPP RANGKUNJ SOCIETY; email jagrutpatel@gmail.com. The registry architect row does not print a firm name.
+Architect named in the professionals section (name, firm, registration no.): name JAGRUT RAMANLAL PATEL; licence CA/1999/24504; address VITAN HOUSE OPP RANGKUNJ SOCIETY; architect email on registry: Board personal (withheld). The registry architect row does not print a firm name.
 
 The public line "Architect: Ar. Jagrut Patel, Vitan Architects" is not suggested. Do not invent Vitan Architects as a public claim from this row. public-yes no.
 

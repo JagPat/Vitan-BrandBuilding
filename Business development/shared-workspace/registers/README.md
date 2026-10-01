@@ -46,6 +46,8 @@ A colliding git blob is not project evidence. Catalog scan is blob SHA on `main`
 - EV-MERLIN-001 (Growth Lead unlock 2026-09-07). Distribution rows: DIST-MERLIN-IG-001, DIST-MERLIN-FB-001, DIST-MERLIN-LI-001, DIST-MERLIN-GBP-001, DIST-MERLIN-X-001.
 - EV-SEVENTY-001 (Growth Lead unlock 2026-09-16; Board Executive Architecture chrome Approve). Distribution rows: DIST-SEVENTY-IG-001, DIST-SEVENTY-FB-001, DIST-SEVENTY-GBP-001, DIST-SEVENTY-LI-001.
 - EV-PAARIJAT-EROS-001 (filed 2026-09-28; GujRERA unreachable; registry fields PENDING; public-yes no; no Distribution row; not Parijaat Eclat)
+- EV-PARISAR-001 (Safal Parisar II; studio 28–29 Sep 2026; ready for review; review date 2026-10-31; no Distribution row)
+- EV-RETHAL-001 (Rethal Greens; studio 28–29 Sep 2026; ready for review; review date 2026-10-31; no Distribution row)
 
 ## Holds this cycle (no register rows)
 

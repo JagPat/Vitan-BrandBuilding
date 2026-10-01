@@ -519,3 +519,249 @@ packets:
         confidence: high
         review_date: "2026-10-12"
         expiry_or_hold_notes: Internal. High means those paths were read on main. Not publish confidence. Not a Board/PA lock. Not a Paarijat Eros project fact. Eclat stays held.
+
+  - evidence_id: EV-PARISAR-001
+    project: Safal Parisar II
+    record_status: >
+      ready for review. No Distribution row until merge + Urja approval.
+      Board OKs and Growth Lead merges.
+    photographer: >
+      Photo: Rajoo Solanki (Instagram tag @rajoo_solanky).
+      Chitrang (studio) mail to growthos@, 29 Sep 2026 12:09 IST
+      (mid 1790663992773108900; alternate id 1790663993627108900, Growth Lead quoted):
+      tag him wherever he photographed our projects.
+      Board lock 2026-08-25: credit a third-party photographer when known.
+    photo_use_permission: >
+      Board lock 2026-08-25 (on Vitan-led projects the studio holds use rights and the
+      architect holds project IP; client/photographer permission is not a publish blocker;
+      credit a third-party photographer when known).
+      Chitrang (studio) mail to growthos@, 29 Sep 2026 12:09 IST
+      (mid 1790663992773108900; alternate id 1790663993627108900, Growth Lead quoted):
+      posting approval is Urja's, not the studio's. Not yaml photography_permission.
+    client_permission: >
+      Client restrictions: none.
+      Chitrang (studio) mail to growthos@, 28 Sep 2026 12:48 IST
+      (mid 1790579913395108900; alternate id 1790579913719108900, Growth Lead quoted).
+      Board lock 2026-08-25: client permission is not a publish blocker on Vitan-led projects.
+    architect_credit_public: Lead architect Ar. Jagrut Patel, Vitan Architects
+    architect_credit_internal: >
+      Not for public copy. Lead architect; no design partner. Not “& Team”.
+      Do not copy yaml collaborators into public columns.
+      Chitrang (studio) mail to growthos@, 28 Sep 2026 12:48 IST
+      (mid 1790579913395108900; alternate id 1790579913719108900, Growth Lead quoted):
+      Vitan is lead architect on all projects except Seventy and Mondel retail park.
+    packet_confidence: >
+      Project name, lead-architect role, and Parisar II stills from Chitrang studio mail;
+      photographer credit from Chitrang 29 Sep 2026; photo/use from Board lock 2026-08-25.
+      Ready for review. Not yet Board-verified or PA-locked as a project packet.
+      City, use type, year, client, and GBA are UNKNOWN and are not public claims.
+    review_date: "2026-10-31"
+    timezone: Asia/Kolkata
+    expiry_or_hold_notes: >
+      Ready for review. No Distribution row until merge + Urja approval.
+      Board OKs and Growth Lead merges.
+      Public-yes claims below are the project name, the lead-architect credit line,
+      and the photographer credit only. No design partner. Not “& Team”.
+      City, use type, year, client, and GBA are UNKNOWN and are not public claims.
+      Not taken from the web. Not already recorded on main from a studio or Board source.
+      Resolved: hi-res 023 staged by Growth Lead (TIF + full-res JPG) at `/workspace/social-craft/rethal-parisar/parisar II 023.tif` (3600x2400), outside the repo.
+      Do not commit that image. Board lock 2026-08-25 still stands for use rights.
+    internal_asset_notes:
+      - >
+        Studio confirmed the Parisar stills are Parisar II.
+        Chitrang (studio) mail to growthos@, 28 Sep 2026 12:48 IST
+        (mid 1790579913395108900; alternate id 1790579913719108900, Growth Lead quoted)
+        sent high-resolution `parisar II 023.tif` to growthos@.
+        That TIF was in the mailbox, not the repo.
+        Resolved: hi-res 023 staged by Growth Lead (TIF + full-res JPG) at `/workspace/social-craft/rethal-parisar/parisar II 023.tif` (3600x2400), outside the repo.
+        The image is not committed here.
+        Hero 023 repo file (not the hi-res original):
+        Business development/PHOTOS FOR SAMPLE PROJECT/SAFAL PARISAR/parisar II 023.jpg.
+        Next stills in repo:
+        Business development/PHOTOS FOR SAMPLE PROJECT/SAFAL PARISAR/parisar II 010.jpg,
+        Business development/PHOTOS FOR SAMPLE PROJECT/SAFAL PARISAR/parisar II 029.jpg,
+        Business development/PHOTOS FOR SAMPLE PROJECT/SAFAL PARISAR/parisar II 040.jpg,
+        Business development/PHOTOS FOR SAMPLE PROJECT/SAFAL PARISAR/parisar II 046.jpg.
+        Not a public-yes claim. Not a Distribution row.
+    claims:
+      - claim: Project name is Safal Parisar II
+        source: >
+          Chitrang (studio) mail to growthos@, 28 Sep 2026 12:48 IST
+          (mid 1790579913395108900; alternate id 1790579913719108900, Growth Lead quoted).
+          Studio confirmed the Parisar stills are Parisar II.
+        permission: >
+          Board lock 2026-08-25 (on Vitan-led projects the studio holds use rights and the
+          architect holds project IP; client/photographer permission is not a publish blocker;
+          credit a third-party photographer when known).
+          Chitrang (studio) mail to growthos@, 29 Sep 2026 12:09 IST
+          (mid 1790663992773108900; alternate id 1790663993627108900, Growth Lead quoted):
+          posting approval is Urja's, not the studio's. Not yaml photography_permission.
+        photographer_credit: "Photo: Rajoo Solanki (Instagram tag @rajoo_solanky)"
+        architect_credit_public: Lead architect Ar. Jagrut Patel, Vitan Architects
+        architect_credit_internal: not public
+        status: ready for review
+        public_yes_no: yes
+        confidence: medium
+        review_date: "2026-10-31"
+        expiry_or_hold_notes: >
+          Public name is Safal Parisar II. No Distribution row until merge + Urja approval.
+          Not Board-verified. Not PA-locked. Studio-sourced; medium is not publish clearance.
+      - claim: "Lead architect Ar. Jagrut Patel, Vitan Architects"
+        source: >
+          Chitrang (studio) mail to growthos@, 28 Sep 2026 12:48 IST
+          (mid 1790579913395108900; alternate id 1790579913719108900, Growth Lead quoted):
+          Vitan is lead architect on all projects except Seventy and Mondel retail park.
+          No design partner. Board lock 2026-08-25.
+        permission: >
+          Board lock 2026-08-25 (on Vitan-led projects the studio holds use rights and the
+          architect holds project IP; client/photographer permission is not a publish blocker;
+          credit a third-party photographer when known).
+          Chitrang (studio) mail to growthos@, 29 Sep 2026 12:09 IST
+          (mid 1790663992773108900; alternate id 1790663993627108900, Growth Lead quoted):
+          posting approval is Urja's, not the studio's. Not yaml photography_permission.
+        photographer_credit: "Photo: Rajoo Solanki (Instagram tag @rajoo_solanky)"
+        architect_credit_public: Lead architect Ar. Jagrut Patel, Vitan Architects
+        architect_credit_internal: not public
+        status: ready for review
+        public_yes_no: yes
+        confidence: medium
+        review_date: "2026-10-31"
+        expiry_or_hold_notes: >
+          Not “& Team”. No design partner. No other architect or collaboration line in public copy.
+          No Distribution row until merge + Urja approval. Not Board-verified. Not PA-locked.
+      - claim: "Photo: Rajoo Solanki"
+        source: >
+          Chitrang (studio) mail to growthos@, 29 Sep 2026 12:09 IST
+          (mid 1790663992773108900; alternate id 1790663993627108900, Growth Lead quoted):
+          tag him wherever he photographed our projects. Instagram tag @rajoo_solanky.
+          Board lock 2026-08-25: credit a third-party photographer when known.
+        permission: >
+          Board lock 2026-08-25 (on Vitan-led projects the studio holds use rights and the
+          architect holds project IP; client/photographer permission is not a publish blocker;
+          credit a third-party photographer when known).
+          Chitrang (studio) mail to growthos@, 29 Sep 2026 12:09 IST
+          (mid 1790663992773108900; alternate id 1790663993627108900, Growth Lead quoted):
+          posting approval is Urja's, not the studio's. Not yaml photography_permission.
+        photographer_credit: "Photo: Rajoo Solanki (Instagram tag @rajoo_solanky)"
+        architect_credit_public: Lead architect Ar. Jagrut Patel, Vitan Architects
+        architect_credit_internal: not public
+        status: ready for review
+        public_yes_no: yes
+        confidence: medium
+        review_date: "2026-10-31"
+        expiry_or_hold_notes: >
+          Instagram tag @rajoo_solanky. No Distribution row until merge + Urja approval.
+          Not Board-verified. Not PA-locked.
+
+  - evidence_id: EV-RETHAL-001
+    project: Rethal Greens
+    record_status: >
+      ready for review. No Distribution row until merge + Urja approval.
+      Board OKs and Growth Lead merges.
+    photographer: >
+      No photo credit (decided, not a review item). Photographer unknown; studio has no record.
+      From Chitrang's own statement, Chitrang (studio) mail to growthos@, 29 Sep 2026 12:09 IST
+      (mid 1790663992773108900; alternate id 1790663993627108900, Growth Lead quoted).
+      Growth Lead confirmed 1 Oct 2026 09:49 IST: no photo credit on Rethal.
+    photo_use_permission: >
+      Board lock 2026-08-25 (on Vitan-led projects the studio holds use rights and the
+      architect holds project IP; client/photographer permission is not a publish blocker;
+      credit a third-party photographer when known).
+      Chitrang (studio) mail to growthos@, 29 Sep 2026 12:09 IST
+      (mid 1790663992773108900; alternate id 1790663993627108900, Growth Lead quoted):
+      posting approval is Urja's, not the studio's. Not yaml photography_permission.
+    client_permission: >
+      Client restrictions: none.
+      Chitrang (studio) mail to growthos@, 28 Sep 2026 12:48 IST
+      (mid 1790579913395108900; alternate id 1790579913719108900, Growth Lead quoted).
+      Board lock 2026-08-25: client permission is not a publish blocker on Vitan-led projects.
+    architect_credit_public: Lead architect Ar. Jagrut Patel, Vitan Architects
+    architect_credit_internal: >
+      Not for public copy. Lead architect; no design partner. Not “& Team”.
+      Do not copy yaml collaborators into public columns.
+      Chitrang (studio) mail to growthos@, 28 Sep 2026 12:48 IST
+      (mid 1790579913395108900; alternate id 1790579913719108900, Growth Lead quoted):
+      Vitan is lead architect on all projects except Seventy and Mondel retail park.
+    packet_confidence: >
+      Project name and lead-architect role from Chitrang studio mail;
+      no photo credit decided from Chitrang 29 Sep 2026 and Growth Lead 1 Oct 2026 09:49 IST;
+      photo/use from Board lock 2026-08-25.
+      Ready for review. Not yet Board-verified or PA-locked as a project packet.
+      City, use type, year, client, and GBA are UNKNOWN and are not public claims.
+    review_date: "2026-10-31"
+    timezone: Asia/Kolkata
+    expiry_or_hold_notes: >
+      Ready for review. No Distribution row until merge + Urja approval.
+      Board OKs and Growth Lead merges.
+      Public-yes claims below are the project name and the lead-architect credit line only.
+      No design partner. Not “& Team”. No photographer credit line (decided, not a review item).
+      City, use type, year, client, and GBA are UNKNOWN and are not public claims.
+      Not taken from the web. Not already recorded on main from a studio or Board source.
+      Board lock 2026-08-25 still stands for use rights.
+    internal_asset_notes:
+      - >
+        Stills picked by studio 31 Aug. Hero:
+        Business development/PHOTOS FOR SAMPLE PROJECT/RETHAL GREENS/Panorama 8.JPG
+        (studio filename Panorama-8). Then
+        Business development/PHOTOS FOR SAMPLE PROJECT/RETHAL GREENS/_MG_5964.JPG,
+        Business development/PHOTOS FOR SAMPLE PROJECT/RETHAL GREENS/Rethal Greens (105).JPG
+        (studio filename Rethal-Greens-105),
+        Business development/PHOTOS FOR SAMPLE PROJECT/RETHAL GREENS/_MG_5990.JPG.
+        Paths are in the repo.
+        Chitrang (studio) mail to growthos@, 28 Sep 2026 12:48 IST
+        (mid 1790579913395108900; alternate id 1790579913719108900, Growth Lead quoted).
+        Not a public-yes claim. Not a Distribution row.
+    claims:
+      - claim: Project name is Rethal Greens
+        source: >
+          Chitrang (studio) mail to growthos@, 28 Sep 2026 12:48 IST
+          (mid 1790579913395108900; alternate id 1790579913719108900, Growth Lead quoted).
+        permission: >
+          Board lock 2026-08-25 (on Vitan-led projects the studio holds use rights and the
+          architect holds project IP; client/photographer permission is not a publish blocker;
+          credit a third-party photographer when known).
+          Chitrang (studio) mail to growthos@, 29 Sep 2026 12:09 IST
+          (mid 1790663992773108900; alternate id 1790663993627108900, Growth Lead quoted):
+          posting approval is Urja's, not the studio's. Not yaml photography_permission.
+        photographer_credit: >
+          No photo credit (decided, not a review item). Photographer unknown; studio has no record.
+          Chitrang (studio) mail to growthos@, 29 Sep 2026 12:09 IST
+          (mid 1790663992773108900; alternate id 1790663993627108900, Growth Lead quoted).
+          Growth Lead confirmed 1 Oct 2026 09:49 IST.
+        architect_credit_public: Lead architect Ar. Jagrut Patel, Vitan Architects
+        architect_credit_internal: not public
+        status: ready for review
+        public_yes_no: yes
+        confidence: medium
+        review_date: "2026-10-31"
+        expiry_or_hold_notes: >
+          No Distribution row until merge + Urja approval. Not Board-verified. Not PA-locked.
+          Studio-sourced; medium is not publish clearance.
+      - claim: "Lead architect Ar. Jagrut Patel, Vitan Architects"
+        source: >
+          Chitrang (studio) mail to growthos@, 28 Sep 2026 12:48 IST
+          (mid 1790579913395108900; alternate id 1790579913719108900, Growth Lead quoted):
+          Vitan is lead architect on all projects except Seventy and Mondel retail park.
+          No design partner. Board lock 2026-08-25.
+        permission: >
+          Board lock 2026-08-25 (on Vitan-led projects the studio holds use rights and the
+          architect holds project IP; client/photographer permission is not a publish blocker;
+          credit a third-party photographer when known).
+          Chitrang (studio) mail to growthos@, 29 Sep 2026 12:09 IST
+          (mid 1790663992773108900; alternate id 1790663993627108900, Growth Lead quoted):
+          posting approval is Urja's, not the studio's. Not yaml photography_permission.
+        photographer_credit: >
+          No photo credit (decided, not a review item). Photographer unknown; studio has no record.
+          Chitrang (studio) mail to growthos@, 29 Sep 2026 12:09 IST
+          (mid 1790663992773108900; alternate id 1790663993627108900, Growth Lead quoted).
+          Growth Lead confirmed 1 Oct 2026 09:49 IST.
+        architect_credit_public: Lead architect Ar. Jagrut Patel, Vitan Architects
+        architect_credit_internal: not public
+        status: ready for review
+        public_yes_no: yes
+        confidence: medium
+        review_date: "2026-10-31"
+        expiry_or_hold_notes: >
+          Not “& Team”. No design partner. No other architect or collaboration line in public copy.
+          No photographer credit line. No Distribution row until merge + Urja approval.
+          Not Board-verified. Not PA-locked.

@@ -262,6 +262,18 @@ Hero 023 repo file (not the hi-res original): `Business development/PHOTOS FOR S
 
 Stills picked by studio 31 Aug. Hero: `Business development/PHOTOS FOR SAMPLE PROJECT/RETHAL GREENS/Panorama 8.JPG` (studio filename Panorama-8). Then `Business development/PHOTOS FOR SAMPLE PROJECT/RETHAL GREENS/_MG_5964.JPG`, `Business development/PHOTOS FOR SAMPLE PROJECT/RETHAL GREENS/Rethal Greens (105).JPG` (studio filename Rethal-Greens-105), `Business development/PHOTOS FOR SAMPLE PROJECT/RETHAL GREENS/_MG_5990.JPG`. Paths are in the repo. Chitrang (studio) mail to growthos@, 28 Sep 2026 12:48 IST (mid 1790579913395108900; alternate id 1790579913719108900, Growth Lead quoted). Not a public-yes claim. Not a Distribution row.
 
+### Board design intent (`board_design_intent`)
+
+Not a public-yes claim. Not a verified project fact. Not a Distribution row.
+
+| Field | Value |
+| --- | --- |
+| type | Board design intent (Board's own words, describing intent). These are NOT verified project facts and add no new factual claims (no year, area, client or site facts). |
+| statements | light forms; porous walls instead of boundaries (no compound walls); the landscape is left to lead (build little and leave nature as it is); the city's noise stays behind. |
+| source | Board, 1 Oct 2026 17:06 IST, relayed by Vitan Growth Lead. Used in the Rethal Greens caption sent to Urja for approval from growthos@ (Zoho message id 1790857819311130100). Caption line: "Some places are built to be seen. Rethal Greens was built to let go. Light forms, porous walls instead of boundaries, and the landscape left to lead, so the city's noise stays behind and the silence comes in." |
+| use | Allowed in captions and case-study prose as the architect's stated intent, attributed as intent. Do not present it as a measured outcome. |
+| status | The caption is pending Urja's approval. The planned live date is Thu 8 Oct, after Safal Parisar II. No Distribution row until it is live. |
+
 ### Claims
 
 | evidence_id | project | claim | source | permission | photographer_credit | architect_credit_public | architect_credit_internal | status | public_yes_no | confidence | review_date | expiry_or_hold_notes |

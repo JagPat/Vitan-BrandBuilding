@@ -523,8 +523,12 @@ packets:
   - evidence_id: EV-PARISAR-001
     project: Safal Parisar II
     record_status: >
-      ready for review. No Distribution row until merge + Urja approval.
-      Board OKs and Growth Lead merges.
+      ready for review. Board OKs and Growth Lead merges.
+      Urja approved the caption 2 Oct 2026 16:18 IST
+      (growthos@ Zoho message id 1790938116604110500).
+      DIST-PARISAR-X-001, DIST-PARISAR-FB-001, DIST-PARISAR-LI-001 and DIST-PARISAR-GBP-001 are live.
+      Instagram is pending: the account is restricted behind an unusual-login check
+      and is waiting on Board. No Instagram Distribution row.
     photographer: >
       Photo: Rajoo Solanki (Instagram tag @rajoo_solanky).
       Chitrang (studio) mail to growthos@, 29 Sep 2026 12:09 IST
@@ -558,11 +562,16 @@ packets:
     review_date: "2026-10-31"
     timezone: Asia/Kolkata
     expiry_or_hold_notes: >
-      Ready for review. No Distribution row until merge + Urja approval.
-      Board OKs and Growth Lead merges.
+      Ready for review. Board OKs and Growth Lead merges.
+      Urja approved the caption 2 Oct 2026 16:18 IST
+      (growthos@ Zoho message id 1790938116604110500).
+      DIST-PARISAR-X-001, DIST-PARISAR-FB-001, DIST-PARISAR-LI-001 and DIST-PARISAR-GBP-001 are live.
+      Instagram is pending: the account is restricted behind an unusual-login check
+      and is waiting on Board. No Instagram Distribution row.
       Public-yes claims below are the project name, the lead-architect credit line,
       and the photographer credit only. No design partner. Not “& Team”.
       City, use type, year, client, and GBA are UNKNOWN and are not public claims.
+      Approved caption intent is caption copy only and is not a public-yes fact.
       Not taken from the web. Not already recorded on main from a studio or Board source.
       Resolved: hi-res 023 staged by Growth Lead (TIF + full-res JPG) at `/workspace/social-craft/rethal-parisar/parisar II 023.tif` (3600x2400), outside the repo.
       Do not commit that image. Board lock 2026-08-25 still stands for use rights.
@@ -583,6 +592,35 @@ packets:
         Business development/PHOTOS FOR SAMPLE PROJECT/SAFAL PARISAR/parisar II 040.jpg,
         Business development/PHOTOS FOR SAMPLE PROJECT/SAFAL PARISAR/parisar II 046.jpg.
         Not a public-yes claim. Not a Distribution row.
+    approved_caption_intent:
+      type: >
+        Lines approved by Urja for the caption (2 Oct 2026 16:18 IST,
+        growthos@ Zoho message id 1790938116604110500).
+        These are stated design intent and caption copy, NOT verified evidence facts.
+        They add no facts about city, use, year, area, unit count or amenities.
+      statements:
+        - the towers step back to give the ground to everyone
+        - a corner for children to play
+      context: >
+        Rest of the approved line: "The shared court is where the building comes together:
+        a plaza to sit in, a lawn to walk around, and a corner for children to play."
+        The X version adds: "The towers rise; life stays at ground level."
+      source: >
+        Urja approval, 2 Oct 2026 16:18 IST, growthos@ Zoho message id 1790938116604110500.
+        Same approved caption set on DIST-PARISAR-X-001 (short X caption),
+        DIST-PARISAR-FB-001, DIST-PARISAR-LI-001 and DIST-PARISAR-GBP-001.
+        Credits on that set: "Lead architect Ar. Jagrut Patel, Vitan Architects"
+        and "Photo: Rajoo Solanki".
+      use: >
+        Reuse only as the approved caption wording.
+        Turning them into factual claims (for example about a children's play area)
+        needs studio confirmation.
+        Do not present them as verified evidence facts.
+      status: >
+        Approved by Urja 2 Oct 2026 16:18 IST and used on the live X, Facebook,
+        LinkedIn and Google Business Profile posts.
+        Instagram is pending: the account is restricted behind an unusual-login check
+        and is waiting on Board. No Instagram Distribution row.
     claims:
       - claim: Project name is Safal Parisar II
         source: >
@@ -604,7 +642,9 @@ packets:
         confidence: medium
         review_date: "2026-10-31"
         expiry_or_hold_notes: >
-          Public name is Safal Parisar II. No Distribution row until merge + Urja approval.
+          Public name is Safal Parisar II.
+          DIST-PARISAR-X-001, DIST-PARISAR-FB-001, DIST-PARISAR-LI-001 and DIST-PARISAR-GBP-001 filed.
+          Instagram pending (unusual-login check; waiting on Board). No Instagram row.
           Not Board-verified. Not PA-locked. Studio-sourced; medium is not publish clearance.
       - claim: "Lead architect Ar. Jagrut Patel, Vitan Architects"
         source: >
@@ -628,7 +668,9 @@ packets:
         review_date: "2026-10-31"
         expiry_or_hold_notes: >
           Not “& Team”. No design partner. No other architect or collaboration line in public copy.
-          No Distribution row until merge + Urja approval. Not Board-verified. Not PA-locked.
+          DIST-PARISAR-X-001, DIST-PARISAR-FB-001, DIST-PARISAR-LI-001 and DIST-PARISAR-GBP-001 filed.
+          Instagram pending (unusual-login check; waiting on Board). No Instagram row.
+          Not Board-verified. Not PA-locked.
       - claim: "Photo: Rajoo Solanki"
         source: >
           Chitrang (studio) mail to growthos@, 29 Sep 2026 12:09 IST
@@ -650,7 +692,9 @@ packets:
         confidence: medium
         review_date: "2026-10-31"
         expiry_or_hold_notes: >
-          Instagram tag @rajoo_solanky. No Distribution row until merge + Urja approval.
+          Instagram tag @rajoo_solanky.
+          DIST-PARISAR-X-001, DIST-PARISAR-FB-001, DIST-PARISAR-LI-001 and DIST-PARISAR-GBP-001 filed.
+          Instagram pending (unusual-login check; waiting on Board). No Instagram row.
           Not Board-verified. Not PA-locked.
 
   - evidence_id: EV-RETHAL-001

@@ -18,7 +18,7 @@ packets:
     architect_credit_public: Lead architect Ar. Jagrut Patel, Vitan Architects
     architect_credit_internal: Not for public copy. Do not copy yaml collaborators into public columns.
     packet_confidence: identity claims locked; photo/use and client permission Board-verified 2026-08-25; photographer none required as third party for studio still
-    review_date: "2026-10-07"
+    review_date: "2026-10-31"
     timezone: Asia/Kolkata
     expiry_or_hold_notes: >
       Phase 0 row is tight to the four public-yes claims below.
@@ -27,7 +27,7 @@ packets:
       Do not add floors, client, street address, CTA, hashtags, still numbers, or consultant names as public-yes claims in this row.
       Board permission lock 2026-08-25: studio/architect holds use rights (lock still stands).
       Photographer third-party credit none required for the studio still Privilon (16).
-      Growth Lead cleared reuse 2026-09-07; next review 2026-10-07.
+      Growth Lead cleared reuse 2026-09-07; next review 2026-10-31. Re-checked 2026-10-05: Proof Monday evidence verify (registers truthful, live Distribution rows match live posts) + Vitan Growth Lead confirmation of no new studio facts, credit changes or holds since filing. Review date moved 2026-10-07 to 2026-10-31.
       Already-published cycle may keep circulating Privilon (16).
       Still internal evidence; no Distribution row.
     internal_asset_notes:
@@ -92,7 +92,7 @@ packets:
         status: PA-locked
         public_yes_no: yes
         confidence: high
-        review_date: "2026-10-07"
+        review_date: "2026-10-31"
       - claim: "Board credit line: Lead architect Ar. Jagrut Patel, Vitan Architects"
         source: locked CAMP-2026-09-001 / Board credit rule
         permission: Board-confirmed 2026-08-25 (studio/architect holds use rights). Status Board-verified.
@@ -102,7 +102,7 @@ packets:
         status: Board-verified
         public_yes_no: yes
         confidence: high
-        review_date: "2026-10-07"
+        review_date: "2026-10-31"
         expiry_or_hold_notes: No other architect or collaboration line in public copy
       - claim: Mixed-use, Ahmedabad
         source: locked CAMP-2026-09-001 / Board credit rule
@@ -113,7 +113,7 @@ packets:
         status: PA-locked
         public_yes_no: yes
         confidence: high
-        review_date: "2026-10-07"
+        review_date: "2026-10-31"
         expiry_or_hold_notes: Do not expand to street address or extra identity facts in this Phase 0 row
       - claim: Completion year is 2019
         source: Board + studio (Shailesh), 2026-09-28
@@ -124,7 +124,7 @@ packets:
         status: Board-verified
         public_yes_no: yes
         confidence: high
-        review_date: "2026-10-07"
+        review_date: "2026-10-31"
         expiry_or_hold_notes: Public claim is the year 2019 only. Locked on Board + studio (Shailesh) authority, not on Benoy or other third-party pages. BU date 22 Jan 2019 and GujRERA completion date 30 Jun 2019 stay internal. GujRERA live check 2026-09-29 (regId 788) matched completionDateStr 30-06-2019 and registration MAA01158/301217. AMC BU 22 Jan 2019 is not a GujRERA field and was not re-checked on the registry.
 
   - evidence_id: EV-ARA-001
@@ -141,7 +141,7 @@ packets:
     architect_credit_public: Lead architect Ar. Jagrut Patel, Vitan Architects
     architect_credit_internal: Not for public copy. Not “& Team”. Do not copy yaml collaborators into public columns.
     packet_confidence: identity claims locked; photo/use and client permission Board-verified 2026-08-25; photographer none required as third party for studio still
-    review_date: "2026-10-07"
+    review_date: "2026-10-31"
     timezone: Asia/Kolkata
     expiry_or_hold_notes: >
       Phase 0 row is tight to the four public-yes claims.
@@ -151,7 +151,7 @@ packets:
       Live Privilon position (add life / occupied and used) continues in notes only; not a new public slogan.
       Floating gym pavilion is a new building decision for ARA, not a new slogan.
       Board permission lock 2026-08-25 still stands.
-      Growth Lead cleared this packet 2026-09-07; next review 2026-10-07.
+      Growth Lead cleared this packet 2026-09-07; next review 2026-10-31. Re-checked 2026-10-05: Proof Monday evidence verify (registers truthful, live Distribution rows match live posts) + Vitan Growth Lead confirmation of no new studio facts, credit changes or holds since filing. Review date moved 2026-10-07 to 2026-10-31.
       No Distribution row. No Urja pack.
     internal_asset_notes:
       - Live item still is Business development/PHOTOS FOR SAMPLE PROJECT/ARA (AHMEDABAD RACQUET ACADEMY)/ARA Sports Complex (3).jpg only. Chitrang first-still pick 2026-08-31 (ARA-Sports-complex-3.jpg). Next stills 4, 6, 26 are not this post. Omit 13. Do not invent new stills or credits. Not a public-yes claim. Not a Distribution row.
@@ -165,7 +165,7 @@ packets:
         status: PA-locked
         public_yes_no: yes
         confidence: high
-        review_date: "2026-10-07"
+        review_date: "2026-10-31"
       - claim: "Board credit line: Lead architect Ar. Jagrut Patel, Vitan Architects"
         source: Board lock 2026-08-25; Board queue/caption mark 2026-08-31; Growth Lead live confirmation 2026-09-07 (ARA went live 2 Sep); Chitrang first-still pick 2026-08-31 (ARA-Sports-complex-3.jpg)
         permission: Board-confirmed 2026-08-25 (studio/architect holds use rights). Status Board-verified.
@@ -175,7 +175,7 @@ packets:
         status: Board-verified
         public_yes_no: yes
         confidence: high
-        review_date: "2026-10-07"
+        review_date: "2026-10-31"
         expiry_or_hold_notes: Not “& Team”. No other architect or collaboration line in public copy
       - claim: Institutional / sports campus, Ahmedabad
         source: Board lock 2026-08-25; Board queue/caption mark 2026-08-31; Growth Lead live confirmation 2026-09-07 (ARA went live 2 Sep); Chitrang first-still pick 2026-08-31 (ARA-Sports-complex-3.jpg)
@@ -186,7 +186,7 @@ packets:
         status: PA-locked
         public_yes_no: yes
         confidence: high
-        review_date: "2026-10-07"
+        review_date: "2026-10-31"
         expiry_or_hold_notes: Do not expand to street address, year, GBA, or fees
       - claim: "Building decision (studio/Chitrang via Growth Lead): floating gym pavilion; people exercising can see the football field (energy exchange / motivation)"
         source: Board lock 2026-08-25; Board queue/caption mark 2026-08-31; Growth Lead live confirmation 2026-09-07 (ARA went live 2 Sep); Chitrang first-still pick 2026-08-31 (ARA-Sports-complex-3.jpg)
@@ -197,7 +197,7 @@ packets:
         status: Board-verified
         public_yes_no: yes
         confidence: high
-        review_date: "2026-10-07"
+        review_date: "2026-10-31"
         expiry_or_hold_notes: New building decision for ARA, not a new public slogan. Occupancy/resale may be implied as use; do not say sold. Tenure file still coming — do not invent numbers
 
   - evidence_id: EV-MERLIN-001
@@ -213,7 +213,7 @@ packets:
     architect_credit_public: Lead architect Ar. Jagrut Patel, Vitan Architects
     architect_credit_internal: Not for public copy. Not “& Team”. Do not copy yaml collaborators into public columns.
     packet_confidence: identity claims locked; photo/use and client permission Board-verified 2026-08-25; photographer none required as third party for studio still
-    review_date: "2026-10-07"
+    review_date: "2026-10-31"
     timezone: Asia/Kolkata
     expiry_or_hold_notes: >
       Phase 0 row is tight to the four public-yes claims.
@@ -222,7 +222,7 @@ packets:
       Live Privilon/ARA position (add life / occupied and used) continues in notes only;
       new building decision for Merlin, not a new public slogan.
       Board permission lock 2026-08-25 still stands.
-      Growth Lead unlock 2026-09-07; next review 2026-10-07.
+      Growth Lead unlock 2026-09-07; next review 2026-10-31. Re-checked 2026-10-05: Proof Monday evidence verify (registers truthful, live Distribution rows match live posts) + Vitan Growth Lead confirmation of no new studio facts, credit changes or holds since filing. Review date moved 2026-10-07 to 2026-10-31.
       Thin still set (two unique stills); hero is (1) only.
       DIST-MERLIN-IG-001 + DIST-MERLIN-FB-001 + DIST-MERLIN-LI-001 + DIST-MERLIN-GBP-001 + DIST-MERLIN-X-001 filed.
     internal_asset_notes:
@@ -237,7 +237,7 @@ packets:
         status: PA-locked
         public_yes_no: yes
         confidence: high
-        review_date: "2026-10-07"
+        review_date: "2026-10-31"
       - claim: "Board credit line: Lead architect Ar. Jagrut Patel, Vitan Architects"
         source: Board lock 2026-08-25; Board queue mark; Chitrang first-still pick 2026-08-31 (Merlin-Pentagon-1.jpg); Growth Lead unlock 2026-09-07
         permission: Board-confirmed 2026-08-25 (studio/architect holds use rights). Status Board-verified.
@@ -247,7 +247,7 @@ packets:
         status: Board-verified
         public_yes_no: yes
         confidence: high
-        review_date: "2026-10-07"
+        review_date: "2026-10-31"
         expiry_or_hold_notes: Not “& Team”. No other architect or collaboration line in public copy
       - claim: Ahmedabad
         source: Board lock 2026-08-25; Board queue mark; Chitrang first-still pick 2026-08-31 (Merlin-Pentagon-1.jpg); Growth Lead unlock 2026-09-07
@@ -258,7 +258,7 @@ packets:
         status: PA-locked
         public_yes_no: yes
         confidence: high
-        review_date: "2026-10-07"
+        review_date: "2026-10-31"
         expiry_or_hold_notes: Chitrang / Growth Lead. Do not expand to street address, year, GBA, fees, or yaml location invent
       - claim: "Building decision (Chitrang via Growth Lead): five-road intersection; small triangular plot; two basements without losing FSI; facade executed as designed (twisted facade / shuttering)"
         source: Board lock 2026-08-25; Board queue mark; Chitrang first-still pick 2026-08-31 (Merlin-Pentagon-1.jpg); Growth Lead unlock 2026-09-07
@@ -269,7 +269,7 @@ packets:
         status: Board-verified
         public_yes_no: yes
         confidence: high
-        review_date: "2026-10-07"
+        review_date: "2026-10-31"
         expiry_or_hold_notes: New building decision for Merlin, not a new public slogan. Occupancy/resale may be implied as use; do not say sold. Tenure file still coming — do not invent numbers
 
   - evidence_id: EV-SEVENTY-001
@@ -287,7 +287,7 @@ packets:
     design_credit_public: "Design: SCDA Architects (Board allowed after verify; https://seventy.co/team-architect.html 2026-09-16)"
     architect_credit_internal: Not for public copy as Lead or Principal. Not “& Team”. Service framing Executive Architecture is Board-marked chrome. Do not copy yaml collaborators into public columns.
     packet_confidence: identity claims locked; photo/use and client permission Board-verified 2026-08-25; credit chrome Board-verified 2026-09-16; Design SCDA medium-high (first-party project site; Board allowed after verify); photographer none required as third party for studio still
-    review_date: "2026-10-07"
+    review_date: "2026-10-31"
     timezone: Asia/Kolkata
     expiry_or_hold_notes: >
       Phase 0 row is tight to the five public-yes claims.
@@ -296,7 +296,7 @@ packets:
       Live Privilon/ARA/Merlin position (add life / occupied and used) continues in notes only;
       new building decision for Seventy, not a new public slogan.
       Board permission lock 2026-08-25 still stands.
-      Board Approve Executive Architecture 2026-09-16; Growth Lead unlock to file 2026-09-16; next review 2026-10-07.
+      Board Approve Executive Architecture 2026-09-16; Growth Lead unlock to file 2026-09-16; next review 2026-10-31. Re-checked 2026-10-05: Proof Monday evidence verify (registers truthful, live Distribution rows match live posts) + Vitan Growth Lead confirmation of no new studio facts, credit changes or holds since filing. Review date moved 2026-10-07 to 2026-10-31.
       DIST-SEVENTY-IG-001 + DIST-SEVENTY-FB-001 + DIST-SEVENTY-GBP-001 filed; LI post is live (DIST-SEVENTY-LI-001, urn:li:share:7508485082270208000); X is live (DIST-SEVENTY-X-001).
     internal_asset_notes:
       - Hero still (internal note only) is Business development/PHOTOS FOR SAMPLE PROJECT/SEVENTY/DSC_9372.jpg (Chitrang Seventy-dsc_9372.jpg). Next stills on file: DSC_8768-HDR.jpg, DSC_8455-HDR.jpg. Do not invent DSC_9896 (disk has DSC_8996-HDR.jpg unmatched). Do not invent new stills or credits. Not a public-yes claim. Not a Distribution row.
@@ -310,7 +310,7 @@ packets:
         status: PA-locked
         public_yes_no: yes
         confidence: high
-        review_date: "2026-10-07"
+        review_date: "2026-10-31"
       - claim: "Executive Architect: Ar. Jagrut Patel, Vitan Architects (Board Approve 2026-09-16 Executive Architecture chrome)"
         source: Board lock 2026-08-25; Board Approve Executive Architecture 2026-09-16; Chitrang first-still pick 2026-08-31; Growth Lead unlock to file 2026-09-16; seventy.co verify
         permission: Board-confirmed 2026-08-25 (studio/architect holds use rights for Vitan studio stills) + Board credit chrome Approve 2026-09-16. Status Board-verified for credit line.
@@ -320,7 +320,7 @@ packets:
         status: Board-verified
         public_yes_no: yes
         confidence: high
-        review_date: "2026-10-07"
+        review_date: "2026-10-31"
         expiry_or_hold_notes: Not Lead architect. Not Principal. Not “& Team”. Collaborative — Vitan is not Lead/Principal. Service framing Executive Architecture is Board-marked chrome.
       - claim: "Design: SCDA Architects (verified seventy.co/team-architect.html 2026-09-16)"
         source: Board lock 2026-08-25; Board Approve Executive Architecture 2026-09-16; Board allowed Design credit after verify; https://seventy.co/team-architect.html verified 2026-09-16 (RIBA award-winning architecture firm SCDA is the artist behind Seventy); Growth Lead unlock to file 2026-09-16
@@ -331,7 +331,7 @@ packets:
         status: Board-verified
         public_yes_no: yes
         confidence: medium-high
-        review_date: "2026-10-07"
+        review_date: "2026-10-31"
         expiry_or_hold_notes: First-party project site; Board allowed Design credit after verify. Design architect only — not Vitan Lead/Principal.
       - claim: Ahmedabad (Chitrang / Growth Lead)
         source: Board lock 2026-08-25; Board Approve Executive Architecture 2026-09-16; Chitrang first-still pick 2026-08-31; Growth Lead unlock to file 2026-09-16; seventy.co verify
@@ -342,7 +342,7 @@ packets:
         status: PA-locked
         public_yes_no: yes
         confidence: high
-        review_date: "2026-10-07"
+        review_date: "2026-10-31"
         expiry_or_hold_notes: Chitrang / Growth Lead. Do not expand to street address, year, GBA, fees, client, or yaml location invent
       - claim: "Building decision (Chitrang 31 Aug via Growth Lead): two towers to 70 m (23 storeys) connected by an infinity pool; glass facade and double-height balconies"
         source: Board lock 2026-08-25; Board Approve Executive Architecture 2026-09-16; Chitrang first-still pick 2026-08-31; Growth Lead unlock to file 2026-09-16; seventy.co verify
@@ -353,7 +353,7 @@ packets:
         status: Board-verified
         public_yes_no: yes
         confidence: high
-        review_date: "2026-10-07"
+        review_date: "2026-10-31"
         expiry_or_hold_notes: New building decision for Seventy, not a new public slogan. Continue live Privilon/ARA/Merlin position (add life / occupied and used) in notes only. Tenure file still coming — do not invent numbers. No GBA. No client. No yaml year.
 
   - evidence_id: EV-PAARIJAT-EROS-001
@@ -523,7 +523,7 @@ packets:
   - evidence_id: EV-PARISAR-001
     project: Safal Parisar II
     record_status: >
-      ready for review. Board OKs and Growth Lead merges.
+      Merged on main (PR #2553 c538942; Distribution PR #2648 1a85c5a). Live on X, Facebook, LinkedIn, Google Business Profile 2 Oct 2026. Instagram pending (unusual-login check, waiting on Board).
       Urja approved the caption 2 Oct 2026 16:18 IST
       (growthos@ Zoho message id 1790938116604110500).
       DIST-PARISAR-X-001, DIST-PARISAR-FB-001, DIST-PARISAR-LI-001 and DIST-PARISAR-GBP-001 are live.
@@ -557,12 +557,12 @@ packets:
     packet_confidence: >
       Project name, lead-architect role, and Parisar II stills from Chitrang studio mail;
       photographer credit from Chitrang 29 Sep 2026; photo/use from Board lock 2026-08-25.
-      Ready for review. Not yet Board-verified or PA-locked as a project packet.
+      Merged on main (PR #2553 c538942; Distribution PR #2648 1a85c5a). Live on X, Facebook, LinkedIn, Google Business Profile 2 Oct 2026. Instagram pending (unusual-login check, waiting on Board). Not yet Board-verified or PA-locked as a project packet.
       City, use type, year, client, and GBA are UNKNOWN and are not public claims.
     review_date: "2026-10-31"
     timezone: Asia/Kolkata
     expiry_or_hold_notes: >
-      Ready for review. Board OKs and Growth Lead merges.
+      Merged on main (PR #2553 c538942; Distribution PR #2648 1a85c5a). Live on X, Facebook, LinkedIn, Google Business Profile 2 Oct 2026. Instagram pending (unusual-login check, waiting on Board).
       Urja approved the caption 2 Oct 2026 16:18 IST
       (growthos@ Zoho message id 1790938116604110500).
       DIST-PARISAR-X-001, DIST-PARISAR-FB-001, DIST-PARISAR-LI-001 and DIST-PARISAR-GBP-001 are live.
@@ -637,7 +637,7 @@ packets:
         photographer_credit: "Photo: Rajoo Solanki (Instagram tag @rajoo_solanky)"
         architect_credit_public: Lead architect Ar. Jagrut Patel, Vitan Architects
         architect_credit_internal: not public
-        status: ready for review
+        status: "Merged on main (PR #2553 c538942; Distribution PR #2648 1a85c5a). Live on X, Facebook, LinkedIn, Google Business Profile 2 Oct 2026. Instagram pending (unusual-login check, waiting on Board)."
         public_yes_no: yes
         confidence: medium
         review_date: "2026-10-31"
@@ -662,7 +662,7 @@ packets:
         photographer_credit: "Photo: Rajoo Solanki (Instagram tag @rajoo_solanky)"
         architect_credit_public: Lead architect Ar. Jagrut Patel, Vitan Architects
         architect_credit_internal: not public
-        status: ready for review
+        status: "Merged on main (PR #2553 c538942; Distribution PR #2648 1a85c5a). Live on X, Facebook, LinkedIn, Google Business Profile 2 Oct 2026. Instagram pending (unusual-login check, waiting on Board)."
         public_yes_no: yes
         confidence: medium
         review_date: "2026-10-31"
@@ -687,7 +687,7 @@ packets:
         photographer_credit: "Photo: Rajoo Solanki (Instagram tag @rajoo_solanky)"
         architect_credit_public: Lead architect Ar. Jagrut Patel, Vitan Architects
         architect_credit_internal: not public
-        status: ready for review
+        status: "Merged on main (PR #2553 c538942; Distribution PR #2648 1a85c5a). Live on X, Facebook, LinkedIn, Google Business Profile 2 Oct 2026. Instagram pending (unusual-login check, waiting on Board)."
         public_yes_no: yes
         confidence: medium
         review_date: "2026-10-31"
@@ -700,8 +700,9 @@ packets:
   - evidence_id: EV-RETHAL-001
     project: Rethal Greens
     record_status: >
-      ready for review. No Distribution row until merge + Urja approval.
-      Board OKs and Growth Lead merges.
+      Merged on main (PR #2553 c538942; Board design-intent note PR #2627 2573bcc).
+      Urja approved 2 Oct 2026 16:19 IST (growthos@ Zoho message id 1790938176516125601): 'Use the Dusk image for all social media channels.' Captions as sent on 1 Oct (no edits). Planned live on all five platforms Thu 8 Oct 2026. The approved image is the dusk photo that was the alternate in the 1 Oct contact sheet. Its photographer/source is not recorded in this register: confirm it is a studio image (no third-party credit) or record the credit before Distribution rows are filed.
+      No Distribution row.
     photographer: >
       No photo credit (decided, not a review item). Photographer unknown; studio has no record.
       From Chitrang's own statement, Chitrang (studio) mail to growthos@, 29 Sep 2026 12:09 IST
@@ -730,13 +731,14 @@ packets:
       Project name and lead-architect role from Chitrang studio mail;
       no photo credit decided from Chitrang 29 Sep 2026 and Growth Lead 1 Oct 2026 09:49 IST;
       photo/use from Board lock 2026-08-25.
-      Ready for review. Not yet Board-verified or PA-locked as a project packet.
+      Merged on main (PR #2553 c538942; Board design-intent note PR #2627 2573bcc). Not yet Board-verified or PA-locked as a project packet.
       City, use type, year, client, and GBA are UNKNOWN and are not public claims.
     review_date: "2026-10-31"
     timezone: Asia/Kolkata
     expiry_or_hold_notes: >
-      Ready for review. No Distribution row until merge + Urja approval.
-      Board OKs and Growth Lead merges.
+      Merged on main (PR #2553 c538942; Board design-intent note PR #2627 2573bcc).
+      Urja approved 2 Oct 2026 16:19 IST (growthos@ Zoho message id 1790938176516125601): 'Use the Dusk image for all social media channels.' Captions as sent on 1 Oct (no edits). Planned live on all five platforms Thu 8 Oct 2026. The approved image is the dusk photo that was the alternate in the 1 Oct contact sheet. Its photographer/source is not recorded in this register: confirm it is a studio image (no third-party credit) or record the credit before Distribution rows are filed.
+      No Distribution row.
       Public-yes claims below are the project name and the lead-architect credit line only.
       No design partner. Not “& Team”. No photographer credit line (decided, not a review item).
       City, use type, year, client, and GBA are UNKNOWN and are not public claims.
@@ -776,8 +778,8 @@ packets:
         Allowed in captions and case-study prose as the architect's stated intent,
         attributed as intent. Do not present it as a measured outcome.
       status: >
-        The caption is pending Urja's approval. The planned live date is Thu 8 Oct,
-        after Safal Parisar II. No Distribution row until it is live.
+        approved. Urja approved 2 Oct 2026 16:19 IST (growthos@ Zoho message id 1790938176516125601): 'Use the Dusk image for all social media channels.' Captions as sent on 1 Oct (no edits). Planned live on all five platforms Thu 8 Oct 2026. The approved image is the dusk photo that was the alternate in the 1 Oct contact sheet. Its photographer/source is not recorded in this register: confirm it is a studio image (no third-party credit) or record the credit before Distribution rows are filed.
+        No Distribution row.
     claims:
       - claim: Project name is Rethal Greens
         source: >
@@ -797,12 +799,12 @@ packets:
           Growth Lead confirmed 1 Oct 2026 09:49 IST.
         architect_credit_public: Lead architect Ar. Jagrut Patel, Vitan Architects
         architect_credit_internal: not public
-        status: ready for review
+        status: "Merged on main (PR #2553 c538942; Board design-intent note PR #2627 2573bcc)."
         public_yes_no: yes
         confidence: medium
         review_date: "2026-10-31"
         expiry_or_hold_notes: >
-          No Distribution row until merge + Urja approval. Not Board-verified. Not PA-locked.
+          No Distribution row. Not Board-verified. Not PA-locked.
           Studio-sourced; medium is not publish clearance.
       - claim: "Lead architect Ar. Jagrut Patel, Vitan Architects"
         source: >
@@ -824,11 +826,11 @@ packets:
           Growth Lead confirmed 1 Oct 2026 09:49 IST.
         architect_credit_public: Lead architect Ar. Jagrut Patel, Vitan Architects
         architect_credit_internal: not public
-        status: ready for review
+        status: "Merged on main (PR #2553 c538942; Board design-intent note PR #2627 2573bcc)."
         public_yes_no: yes
         confidence: medium
         review_date: "2026-10-31"
         expiry_or_hold_notes: >
           Not “& Team”. No design partner. No other architect or collaboration line in public copy.
-          No photographer credit line. No Distribution row until merge + Urja approval.
+          No photographer credit line. No Distribution row.
           Not Board-verified. Not PA-locked.

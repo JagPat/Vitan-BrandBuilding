@@ -701,7 +701,7 @@ packets:
     project: Rethal Greens
     record_status: >
       Merged on main (PR #2553 c538942; Board design-intent note PR #2627 2573bcc).
-      Urja approved 2 Oct 2026 16:19 IST (growthos@ Zoho message id 1790938176516125601): 'Use the Dusk image for all social media channels.' Captions as sent on 1 Oct (no edits). Planned live on all five platforms Thu 8 Oct 2026. The approved image is the dusk photo that was the alternate in the 1 Oct contact sheet. Its photographer/source is not recorded in this register: confirm it is a studio image (no third-party credit) or record the credit before Distribution rows are filed.
+      Urja approved 2 Oct 2026 16:19 IST (growthos@ Zoho message id 1790938176516125601): 'Use the Dusk image for all social media channels.' Captions as sent on 1 Oct (no edits). Planned live on all five platforms Thu 8 Oct 2026. The approved image is the dusk photo that was the alternate in the 1 Oct contact sheet. Approved image: Panorama 11 (dusk), studio image, source `Business development/PHOTOS FOR SAMPLE PROJECT/RETHAL GREENS/Panorama 11.JPG` (same studio folder as Rethal Greens (105)). No photo credit: Chitrang (studio) mail to growthos@, 29 Sep 2026 12:09 IST (mid 1790663992773108900), said the Rethal photographer is unknown and to give no credit, which covers every Rethal still in that folder (applied by Vitan Growth Lead, 5 Oct 2026). Board lock 2026-08-25 covers use rights.
       No Distribution row.
     photographer: >
       No photo credit (decided, not a review item). Photographer unknown; studio has no record.
@@ -737,7 +737,7 @@ packets:
     timezone: Asia/Kolkata
     expiry_or_hold_notes: >
       Merged on main (PR #2553 c538942; Board design-intent note PR #2627 2573bcc).
-      Urja approved 2 Oct 2026 16:19 IST (growthos@ Zoho message id 1790938176516125601): 'Use the Dusk image for all social media channels.' Captions as sent on 1 Oct (no edits). Planned live on all five platforms Thu 8 Oct 2026. The approved image is the dusk photo that was the alternate in the 1 Oct contact sheet. Its photographer/source is not recorded in this register: confirm it is a studio image (no third-party credit) or record the credit before Distribution rows are filed.
+      Urja approved 2 Oct 2026 16:19 IST (growthos@ Zoho message id 1790938176516125601): 'Use the Dusk image for all social media channels.' Captions as sent on 1 Oct (no edits). Planned live on all five platforms Thu 8 Oct 2026. The approved image is the dusk photo that was the alternate in the 1 Oct contact sheet. Approved image: Panorama 11 (dusk), studio image, source `Business development/PHOTOS FOR SAMPLE PROJECT/RETHAL GREENS/Panorama 11.JPG` (same studio folder as Rethal Greens (105)). No photo credit: Chitrang (studio) mail to growthos@, 29 Sep 2026 12:09 IST (mid 1790663992773108900), said the Rethal photographer is unknown and to give no credit, which covers every Rethal still in that folder (applied by Vitan Growth Lead, 5 Oct 2026). Board lock 2026-08-25 covers use rights.
       No Distribution row.
       Public-yes claims below are the project name and the lead-architect credit line only.
       No design partner. Not “& Team”. No photographer credit line (decided, not a review item).
@@ -756,6 +756,8 @@ packets:
         Paths are in the repo.
         Chitrang (studio) mail to growthos@, 28 Sep 2026 12:48 IST
         (mid 1790579913395108900; alternate id 1790579913719108900, Growth Lead quoted).
+        Approved image: Panorama 11.JPG
+        (`Business development/PHOTOS FOR SAMPLE PROJECT/RETHAL GREENS/Panorama 11.JPG`).
         Not a public-yes claim. Not a Distribution row.
     board_design_intent:
       type: >
@@ -778,7 +780,7 @@ packets:
         Allowed in captions and case-study prose as the architect's stated intent,
         attributed as intent. Do not present it as a measured outcome.
       status: >
-        approved. Urja approved 2 Oct 2026 16:19 IST (growthos@ Zoho message id 1790938176516125601): 'Use the Dusk image for all social media channels.' Captions as sent on 1 Oct (no edits). Planned live on all five platforms Thu 8 Oct 2026. The approved image is the dusk photo that was the alternate in the 1 Oct contact sheet. Its photographer/source is not recorded in this register: confirm it is a studio image (no third-party credit) or record the credit before Distribution rows are filed.
+        approved. Urja approved 2 Oct 2026 16:19 IST (growthos@ Zoho message id 1790938176516125601): 'Use the Dusk image for all social media channels.' Captions as sent on 1 Oct (no edits). Planned live on all five platforms Thu 8 Oct 2026. The approved image is the dusk photo that was the alternate in the 1 Oct contact sheet. Approved image: Panorama 11 (dusk), studio image, source `Business development/PHOTOS FOR SAMPLE PROJECT/RETHAL GREENS/Panorama 11.JPG` (same studio folder as Rethal Greens (105)). No photo credit: Chitrang (studio) mail to growthos@, 29 Sep 2026 12:09 IST (mid 1790663992773108900), said the Rethal photographer is unknown and to give no credit, which covers every Rethal still in that folder (applied by Vitan Growth Lead, 5 Oct 2026). Board lock 2026-08-25 covers use rights.
         No Distribution row.
     claims:
       - claim: Project name is Rethal Greens

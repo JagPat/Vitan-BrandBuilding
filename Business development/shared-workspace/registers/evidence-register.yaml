@@ -12,12 +12,12 @@ packets:
       Growth Lead cleared reuse 2026-09-07.
       Already-published cycle may keep circulating Privilon (16).
       No Distribution row.
-    photographer: none required as a third party (studio still Privilon (16)). Only credit a photographer if the still is later shown not to be ours. Do not invent IOA, Benoy Portfolio, or other photographer names.
-    photo_use_permission: Board-confirmed 2026-08-25 (studio/architect holds use rights). Status Board-verified. Not yaml photography_permission.
+    photographer: "Photo: Shilpa Gavane for all Privilon photographs, including the approved still Business development/PHOTOS FOR SAMPLE PROJECT/PRIVILON/Privilon (16).jpg. Source: Chitrang Shah (studio) mail to growthos@vitan.in, 6 Oct 2026 16:30 IST, Zoho message id 1791284410808109700 (replies to growthos@ 'Privilon: new photos for two social posts', 6 Oct 13:26 IST). Exact wording: 'Photography credit: Shilpa Gavane for all privilon and parijat photographs'. Do not invent IOA, Benoy Portfolio, or other photographer names."
+    photo_use_permission: "Board-confirmed 2026-08-25 (studio/architect holds use rights). Status Board-verified. Not yaml photography_permission. The 13 studio stills in the internal asset notes were sent by the studio specifically for Vitan social posts (Chitrang, 6 Oct 2026); the Board lock of 2026-08-25 covers use rights."
     client_permission: Board-confirmed 2026-08-25 (studio/architect holds use rights). Status Board-verified. Not yaml photography_permission.
     architect_credit_public: Lead architect Ar. Jagrut Patel, Vitan Architects
     architect_credit_internal: Not for public copy. Do not copy yaml collaborators into public columns.
-    packet_confidence: identity claims locked; photo/use and client permission Board-verified 2026-08-25; photographer none required as third party for studio still
+    packet_confidence: "identity claims locked; photo/use and client permission Board-verified 2026-08-25; photographer credit Photo: Shilpa Gavane (Chitrang Shah studio mail to growthos@vitan.in, 6 Oct 2026 16:30 IST, Zoho message id 1791284410808109700)"
     review_date: "2026-10-31"
     timezone: Asia/Kolkata
     expiry_or_hold_notes: >
@@ -26,12 +26,92 @@ packets:
       Public completion year is the locked 2019 only.
       Do not add floors, client, street address, CTA, hashtags, still numbers, or consultant names as public-yes claims in this row.
       Board permission lock 2026-08-25: studio/architect holds use rights (lock still stands).
-      Photographer third-party credit none required for the studio still Privilon (16).
+      Photographer credit for all Privilon photographs, including the studio still Privilon (16), is Photo: Shilpa Gavane (Chitrang Shah studio mail to growthos@vitan.in, 6 Oct 2026 16:30 IST, Zoho message id 1791284410808109700).
+      Live Privilon posts filed before 6 Oct carry no photo credit. Whether to add the credit to those posts is Growth Lead's call. This record does not change their Distribution rows.
       Growth Lead cleared reuse 2026-09-07; next review 2026-10-31. Re-checked 2026-10-05: Proof Monday evidence verify (registers truthful, live Distribution rows match live posts) + Vitan Growth Lead confirmation of no new studio facts, credit changes or holds since filing. Review date moved 2026-10-07 to 2026-10-31.
       Already-published cycle may keep circulating Privilon (16).
       Still internal evidence; no Distribution row.
     internal_asset_notes:
-      - Live still remains Business development/PHOTOS FOR SAMPLE PROJECT/PRIVILON/Privilon (16).jpg only. Growth Lead approved this path 2026-08-25. Do not use Privilon (10).jpg (hash collision with PARIJAAT ECLAT / PAARIJAT ECLAT (1)). Do not invent new stills or credits. Not a public-yes claim. Not a Distribution row.
+      - "Approved still Business development/PHOTOS FOR SAMPLE PROJECT/PRIVILON/Privilon (16).jpg remains the path Growth Lead approved 2026-08-25. Credit for this still, and for all Privilon photographs, is Photo: Shilpa Gavane. Source: Chitrang Shah (studio) mail to growthos@vitan.in, 6 Oct 2026 16:30 IST, Zoho message id 1791284410808109700 (replies to growthos@ 'Privilon: new photos for two social posts', 6 Oct 13:26 IST). Exact wording: 'Photography credit: Shilpa Gavane for all privilon and parijat photographs'. High-res files for the two posts: Zoho WorkDrive folder linked in that mail. Do not use Privilon (10).jpg (hash collision with PARIJAAT ECLAT / PAARIJAT ECLAT (1)). Privilon (10) stays excluded. For the colliding PAARIJAT ECLAT / PAARIJAT ECLAT (1) still: Photo credit per studio: Shilpa Gavane (Chitrang 6 Oct 2026: 'all privilon and parijat photographs'). Which Paarijat project(s) this covers is not named; confirm before use. Parijaat Eclat stays held. Not a public-yes claim. Not a Distribution row."
+      - "Live Privilon posts filed before 6 Oct carry no photo credit. Whether to add the credit to those posts is Growth Lead's call. This record does not change their Distribution rows."
+      - "Thirteen studio stills are approved for social use. Credit for all of them is Photo: Shilpa Gavane. Use permission: sent by the studio specifically for Vitan social posts (Chitrang, 6 Oct), and the Board lock of 2026-08-25 covers use rights. Grouped as Chitrang sent them. Hash check on 7 Oct 2026 compared each in-repo PRIVILON file with every image under Business development/PHOTOS FOR SAMPLE PROJECT/ in other project folders. No cross-project hash collision. Privilon (23) and Privilon (54) match their copies in PRIVILON/FOR BOOK/ (same project folder)."
+    social_stills_approved:
+      credit: "Photo: Shilpa Gavane"
+      use_permission: "sent by the studio specifically for Vitan social posts (Chitrang, 6 Oct), and the Board lock of 2026-08-25 covers use rights"
+      high_res: "Zoho WorkDrive folder linked in that mail"
+      source: "Chitrang Shah (studio) mail to growthos@vitan.in, 6 Oct 2026 16:30 IST, Zoho message id 1791284410808109700"
+      public_yes_no: no
+      distribution_row: no
+      excluded: "Privilon (10) stays excluded (hash collision with PARIJAAT ECLAT / PAARIJAT ECLAT (1))"
+      posts:
+        - post: "Post 1, the scooped corner"
+          stills:
+            - file: "Privilon (14)"
+              note: "corner view, escalator going down, ground-floor corner shops"
+              repo_status: "in repo"
+              path: "Business development/PHOTOS FOR SAMPLE PROJECT/PRIVILON/Privilon (14).jpg"
+              sha256: "801a252a223c8705ad0c489647e8c7293d3ad48fe872ff86d82b2bb48cec8107"
+              hash_check: "no collision with images in other project folders"
+            - file: "Privilon (15)"
+              note: "corner view, shops clearly visible"
+              repo_status: "in repo"
+              path: "Business development/PHOTOS FOR SAMPLE PROJECT/PRIVILON/Privilon (15).jpg"
+              sha256: "67af7b1f357da017714830e0875dd039d3d42a28c68dacb007e5b0e6a8e54190"
+              hash_check: "no collision with images in other project folders"
+            - file: "Privilon (20)"
+              note: "from basement 1 foyer, escalator coming down from the ground-floor corner road"
+              repo_status: "staged outside repo; hash check pending"
+            - file: "Privilon (22)"
+              note: "from basement 1 foyer, stairs and escalators coming down"
+              repo_status: "staged outside repo; hash check pending"
+            - file: "Privilon (23)"
+              note: "from basement 1 foyer, stairs and escalators coming down from the side"
+              repo_status: "in repo"
+              path: "Business development/PHOTOS FOR SAMPLE PROJECT/PRIVILON/Privilon (23).jpg"
+              sha256: "dd83c547ec609363e63ba84b72792e6c92c7d8f4ba8bf580c5567590cbe9808c"
+              hash_check: "no collision with images in other project folders; same sha256 as PRIVILON/FOR BOOK/Privilon (23).jpg"
+            - file: "Privilon (24)"
+              note: "from basement 1 foyer looking towards the lower-level drop-off zone"
+              repo_status: "staged outside repo; hash check pending"
+            - file: "Privilon (54)"
+              note: "from the smaller road, escalator going down from ground, corner shops clearly visible"
+              repo_status: "in repo"
+              path: "Business development/PHOTOS FOR SAMPLE PROJECT/PRIVILON/Privilon (54).jpg"
+              sha256: "f6e88f00da52ae9584b72444666254616f36c9e3147adc68c5d29934ba5da34d"
+              hash_check: "no collision with images in other project folders; same sha256 as PRIVILON/FOR BOOK/Privilon (54).jpg"
+        - post: "Post 2, the lower-level plaza"
+          stills:
+            - file: "Privilon (26)"
+              note: "lower-level plaza, ramp coming down from the left, central drop-off with a car dropping off, level separation between the residences on the left and the commercial drop-off"
+              repo_status: "in repo"
+              path: "Business development/PHOTOS FOR SAMPLE PROJECT/PRIVILON/Privilon (26).jpg"
+              sha256: "5903196195fa21af442dcc0f3a541ff9ee00e3bf71b3d3867e1ce1e641ae72f6"
+              hash_check: "no collision with images in other project folders"
+            - file: "Privilon (27)"
+              note: "lower-level plaza, residences behind at ground level"
+              repo_status: "staged outside repo; hash check pending"
+              hash_check: "Not in the PRIVILON folder. A different file named Privilon (27).jpg sits in PARIJAAT ECLAT/ and is not this approved still."
+            - file: "Privilon (28)"
+              note: "lower-level plaza drop-off zone"
+              repo_status: "staged outside repo; hash check pending"
+            - file: "Privilon (29)"
+              note: "lower-level plaza drop-off zone from the double-height foyer"
+              repo_status: "in repo"
+              path: "Business development/PHOTOS FOR SAMPLE PROJECT/PRIVILON/Privilon (29).jpg"
+              sha256: "58d301bdaf962ac77fa0a6fc77b4085bc8800501fd98f0463056e0ed1e5a970a"
+              hash_check: "no collision with images in other project folders"
+            - file: "Privilon (42)"
+              note: "lower-level plaza with stepped landscape and the entry ramp to the lower-level plaza"
+              repo_status: "staged outside repo; hash check pending"
+            - file: "Privilon (44)"
+              note: "evening view of lower-level plaza"
+              repo_status: "staged outside repo; hash check pending"
+    internal_studio_fact:
+      fact: "The minus-one (lower-level) plaza is the covered area under the corner podium"
+      sourcing: studio-sourced
+      public_yes_no: no
+      hold: "internal until a caption uses it"
+      source: "Chitrang answered YES to that question in Chitrang Shah (studio) mail to growthos@vitan.in, 6 Oct 2026 16:30 IST, Zoho message id 1791284410808109700"
     internal_only_notes:
       - >
         INTERNAL-ONLY (never a public claim). Board decision 2026-09-28 12:46 IST
@@ -82,11 +162,17 @@ packets:
         not a GujRERA field and was not re-checked on the registry. Verification
         pending item closed for GujRERA completion/regNo/promoter/type. Public-yes
         claims are unchanged.
+      - >
+        Internal studio fact (not a public-yes claim). Studio-sourced and internal
+        until a caption uses it. The minus-one (lower-level) plaza is the covered
+        area under the corner podium. Chitrang answered YES to that question in the
+        same mail: Chitrang Shah (studio) mail to growthos@vitan.in, 6 Oct 2026
+        16:30 IST, Zoho message id 1791284410808109700.
     claims:
       - claim: Project name is Privilon
         source: locked CAMP-2026-09-001 / Board credit rule
         permission: Board-confirmed 2026-08-25 (studio/architect holds use rights). Status Board-verified.
-        photographer_credit: none required as a third party (studio still Privilon (16))
+        photographer_credit: "Photo: Shilpa Gavane (Chitrang Shah studio mail to growthos@vitan.in, 6 Oct 2026 16:30 IST, Zoho message id 1791284410808109700)"
         architect_credit_public: Lead architect Ar. Jagrut Patel, Vitan Architects
         architect_credit_internal: not public
         status: PA-locked
@@ -96,7 +182,7 @@ packets:
       - claim: "Board credit line: Lead architect Ar. Jagrut Patel, Vitan Architects"
         source: locked CAMP-2026-09-001 / Board credit rule
         permission: Board-confirmed 2026-08-25 (studio/architect holds use rights). Status Board-verified.
-        photographer_credit: none required as a third party (studio still Privilon (16))
+        photographer_credit: "Photo: Shilpa Gavane (Chitrang Shah studio mail to growthos@vitan.in, 6 Oct 2026 16:30 IST, Zoho message id 1791284410808109700)"
         architect_credit_public: Lead architect Ar. Jagrut Patel, Vitan Architects
         architect_credit_internal: not public
         status: Board-verified
@@ -107,7 +193,7 @@ packets:
       - claim: Mixed-use, Ahmedabad
         source: locked CAMP-2026-09-001 / Board credit rule
         permission: Board-confirmed 2026-08-25 (studio/architect holds use rights). Status Board-verified.
-        photographer_credit: none required as a third party (studio still Privilon (16))
+        photographer_credit: "Photo: Shilpa Gavane (Chitrang Shah studio mail to growthos@vitan.in, 6 Oct 2026 16:30 IST, Zoho message id 1791284410808109700)"
         architect_credit_public: Lead architect Ar. Jagrut Patel, Vitan Architects
         architect_credit_internal: not public
         status: PA-locked
@@ -118,7 +204,7 @@ packets:
       - claim: Completion year is 2019
         source: Board + studio (Shailesh), 2026-09-28
         permission: Board-confirmed 2026-08-25 (studio/architect holds use rights). Status Board-verified.
-        photographer_credit: none required as a third party (studio still Privilon (16))
+        photographer_credit: "Photo: Shilpa Gavane (Chitrang Shah studio mail to growthos@vitan.in, 6 Oct 2026 16:30 IST, Zoho message id 1791284410808109700)"
         architect_credit_public: Lead architect Ar. Jagrut Patel, Vitan Architects
         architect_credit_internal: not public
         status: Board-verified
@@ -361,12 +447,12 @@ packets:
     record_status: >
       internal evidence; registry read 2026-09-29; no Board lock; no Distribution row.
       Not Parijaat Eclat.
-    photographer: "UNKNOWN (waiting on studio). Photos: none."
+    photographer: "UNKNOWN (waiting on studio). Photos: none. Photo credit per studio: Shilpa Gavane (Chitrang 6 Oct 2026: 'all privilon and parijat photographs'). Which Paarijat project(s) this covers is not named; confirm before use."
     photo_use_permission: UNKNOWN (waiting on studio)
     client_permission: UNKNOWN (no studio clearance on file)
     architect_credit_public: not suggested
     architect_credit_internal: "Not for public copy. Professionals row filed from GujRERA 2026-09-29 (regId 31655): name JAGRUT RAMANLAL PATEL; licence CA/1999/24504; address VITAN HOUSE OPP RANGKUNJ SOCIETY; architect email on registry: Board personal (withheld). The architect row does not print a firm name. Do not invent Vitan Architects as a public claim. Do not publish \"Architect: Ar. Jagrut Patel, Vitan Architects\" from this packet."
-    packet_confidence: Registry facts read 2026-09-29 from GujRERA regId 31655; internal only; not Board-locked. Photo/use and photographer UNKNOWN (waiting on studio).
+    packet_confidence: "Registry facts read 2026-09-29 from GujRERA regId 31655; internal only; not Board-locked. Photo/use and photographer UNKNOWN (waiting on studio). Photo credit per studio: Shilpa Gavane (Chitrang 6 Oct 2026: 'all privilon and parijat photographs'). Which Paarijat project(s) this covers is not named; confirm before use."
     review_date: "2026-10-12"
     timezone: Asia/Kolkata
     expiry_or_hold_notes: >
@@ -380,8 +466,9 @@ packets:
       Do not invent Vitan Architects as a public claim. Photos and permissions stay UNKNOWN.
       No GBA. No fees. No prices. No Distribution row.
       Parijaat Eclat stays held and is not this packet. Do not use Eclat stills.
+      Photo credit per studio: Shilpa Gavane (Chitrang 6 Oct 2026: 'all privilon and parijat photographs'). Which Paarijat project(s) this covers is not named; confirm before use.
     internal_asset_notes:
-      - No still for Paarijat Eros. Do not use Business development/PHOTOS FOR SAMPLE PROJECT/PARIJAAT/ (those files are Parijaat/Paarijat Eclat). Do not pull any image from the web. Not a public-yes claim. Not a Distribution row.
+      - "No still for Paarijat Eros. Do not use Business development/PHOTOS FOR SAMPLE PROJECT/PARIJAAT/ (those files are Parijaat/Paarijat Eclat). Do not pull any image from the web. Not a public-yes claim. Not a Distribution row. Photo credit per studio: Shilpa Gavane (Chitrang 6 Oct 2026: 'all privilon and parijat photographs'). Which Paarijat project(s) this covers is not named; confirm before use. Parijaat Eclat stays held."
     repo_spelling_note: >
       On main, Parijaat and Paarijat name Parijaat Eclat.
       There is no path for Paarijat Eros, Parijaat Eros, or Eros.
@@ -500,14 +587,14 @@ packets:
       - claim: "Photos: none. Photo/use permission UNKNOWN (waiting on studio). Photographer UNKNOWN (waiting on studio). Client permission UNKNOWN (no studio clearance on file)."
         source: "No Paarijat Eros image on main. Eclat stills are not this packet: .sync/workdrive_state.json; Business development/shared-workspace/registers/evidence-register.md"
         permission: UNKNOWN (waiting on studio)
-        photographer_credit: UNKNOWN (waiting on studio)
+        photographer_credit: "UNKNOWN (waiting on studio). Photo credit per studio: Shilpa Gavane (Chitrang 6 Oct 2026: 'all privilon and parijat photographs'). Which Paarijat project(s) this covers is not named; confirm before use."
         architect_credit_public: not suggested
         architect_credit_internal: not public
         status: PENDING
         public_yes_no: no
         confidence: unknown
         review_date: "2026-10-12"
-        expiry_or_hold_notes: No image pulled from the web.
+        expiry_or_hold_notes: "No image pulled from the web. Parijaat Eclat stays held. Photo credit per studio: Shilpa Gavane (Chitrang 6 Oct 2026: 'all privilon and parijat photographs'). Which Paarijat project(s) this covers is not named; confirm before use."
       - claim: "Repo text on main: Parijaat/Paarijat strings name Parijaat Eclat (held). No path names Paarijat Eros, Parijaat Eros, or Eros. Safal strings elsewhere on main are other records and are not this promoter legal name."
         source: "scripts/branded_content_utils.py; scripts/sync_from_workdrive.py; scripts/sync_to_workdrive.py; Business development/shared-workspace/registers/distribution-register.md; Business development/shared-workspace/registers/evidence-register.md; Business development/shared-workspace/registers/evidence-register.yaml; Business development/shared-workspace/registers/README.md; Business development/shared-workspace/drafts/strategy-brief-2026-08-24.md; .sync/workdrive_state.json"
         permission: UNKNOWN (waiting on studio)

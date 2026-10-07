@@ -13,7 +13,7 @@ packets:
       Already-published cycle may keep circulating Privilon (16).
       No Distribution row.
     photographer: "Photo: Shilpa Gavane for all Privilon photographs, including the approved still Business development/PHOTOS FOR SAMPLE PROJECT/PRIVILON/Privilon (16).jpg. Source: Chitrang Shah (studio) mail to growthos@vitan.in, 6 Oct 2026 16:30 IST, Zoho message id 1791284410808109700 (replies to growthos@ 'Privilon: new photos for two social posts', 6 Oct 13:26 IST). Exact wording: 'Photography credit: Shilpa Gavane for all privilon and parijat photographs'. Do not invent IOA, Benoy Portfolio, or other photographer names."
-    photo_use_permission: "Board-confirmed 2026-08-25 (studio/architect holds use rights). Status Board-verified. Not yaml photography_permission. The 13 studio stills in the internal asset notes were sent by the studio specifically for Vitan social posts (Chitrang, 6 Oct 2026); the Board lock of 2026-08-25 covers use rights."
+    photo_use_permission: "Board-confirmed 2026-08-25 (studio/architect holds use rights). Status Board-verified. Not yaml photography_permission. The 12 studio stills in the internal asset notes were sent by the studio specifically for Vitan social posts (Chitrang, 6 Oct 2026); the Board lock of 2026-08-25 covers use rights."
     client_permission: Board-confirmed 2026-08-25 (studio/architect holds use rights). Status Board-verified. Not yaml photography_permission.
     architect_credit_public: Lead architect Ar. Jagrut Patel, Vitan Architects
     architect_credit_internal: Not for public copy. Do not copy yaml collaborators into public columns.
@@ -32,9 +32,9 @@ packets:
       Already-published cycle may keep circulating Privilon (16).
       Still internal evidence; no Distribution row.
     internal_asset_notes:
-      - "Approved still Business development/PHOTOS FOR SAMPLE PROJECT/PRIVILON/Privilon (16).jpg remains the path Growth Lead approved 2026-08-25. Credit for this still, and for all Privilon photographs, is Photo: Shilpa Gavane. Source: Chitrang Shah (studio) mail to growthos@vitan.in, 6 Oct 2026 16:30 IST, Zoho message id 1791284410808109700 (replies to growthos@ 'Privilon: new photos for two social posts', 6 Oct 13:26 IST). Exact wording: 'Photography credit: Shilpa Gavane for all privilon and parijat photographs'. High-res files for the two posts: Zoho WorkDrive folder linked in that mail. Do not use Privilon (10).jpg (hash collision with PARIJAAT ECLAT / PAARIJAT ECLAT (1)). Privilon (10) stays excluded. For the colliding PAARIJAT ECLAT / PAARIJAT ECLAT (1) still: Photo credit per studio: Shilpa Gavane (Chitrang 6 Oct 2026: 'all privilon and parijat photographs'). Which Paarijat project(s) this covers is not named; confirm before use. Parijaat Eclat stays held. Not a public-yes claim. Not a Distribution row."
+      - "Approved still Business development/PHOTOS FOR SAMPLE PROJECT/PRIVILON/Privilon (16).jpg remains the path Growth Lead approved 2026-08-25. Credit for this still, and for all Privilon photographs, is Photo: Shilpa Gavane. Source: Chitrang Shah (studio) mail to growthos@vitan.in, 6 Oct 2026 16:30 IST, Zoho message id 1791284410808109700 (replies to growthos@ 'Privilon: new photos for two social posts', 6 Oct 13:26 IST). Exact wording: 'Photography credit: Shilpa Gavane for all privilon and parijat photographs'. High-res files for the two posts: Zoho WorkDrive folder linked in that mail. Do not use Privilon (10).jpg (hash collision with PARIJAAT ECLAT / PAARIJAT ECLAT (1)). Privilon (10) stays excluded. Privilon (27) (lower-level plaza, residences behind at ground level) is HELD. Verified 7 Oct 2026 09:15 IST by Vitan Proof: the WorkDrive original of Privilon (27).jpg that Chitrang sent on 6 Oct is the same file (identical hash; git blob 685506aff628e3dabcb9db80be5242ab046ff4c1, sha256 b344e24429567f8ebb8bc778b247ccc0842a353d66320ca19a72a699eb8889f8) as Business development/PHOTOS FOR SAMPLE PROJECT/PARIJAAT ECLAT/Privilon (27).jpg and Business development/PHOTOS FOR SAMPLE PROJECT/PARIJAAT/PAARIJAT ECLAT (2).jpg. The same picture is also filed under Paarijat Eclat, so it stays out of use until the studio confirms which project it shows. For the colliding PAARIJAT ECLAT / PAARIJAT ECLAT (1) still: Photo credit per studio: Shilpa Gavane (Chitrang 6 Oct 2026: 'all privilon and parijat photographs'). Which Paarijat project(s) this covers is not named; confirm before use. Parijaat Eclat stays held. Not a public-yes claim. Not a Distribution row."
       - "Live Privilon posts filed before 6 Oct carry no photo credit. Whether to add the credit to those posts is Growth Lead's call. This record does not change their Distribution rows."
-      - "Thirteen studio stills are approved for social use. Credit for all of them is Photo: Shilpa Gavane. Use permission: sent by the studio specifically for Vitan social posts (Chitrang, 6 Oct), and the Board lock of 2026-08-25 covers use rights. Grouped as Chitrang sent them. Hash check on 7 Oct 2026 compared each in-repo PRIVILON file with every image under Business development/PHOTOS FOR SAMPLE PROJECT/ in other project folders. No cross-project hash collision. Privilon (23) and Privilon (54) match their copies in PRIVILON/FOR BOOK/ (same project folder)."
+      - "Twelve studio stills are approved for social use. Privilon (27) is off this list and HELD. Credit for all of them is Photo: Shilpa Gavane. Use permission: sent by the studio specifically for Vitan social posts (Chitrang, 6 Oct), and the Board lock of 2026-08-25 covers use rights. Grouped as Chitrang sent them. Hash check on 7 Oct 2026 compared each in-repo PRIVILON file with every image under Business development/PHOTOS FOR SAMPLE PROJECT/ in other project folders. No cross-project hash collision. Privilon (23) and Privilon (54) match their copies in PRIVILON/FOR BOOK/ (same project folder). Hash check on 7 Oct 2026 (verified 7 Oct 2026 09:15 IST by Vitan Proof): the WorkDrive originals of (20), (22), (24), (28), (42) and (44) were compared against every file in the repo at main and none matched. Those originals stay staged outside the repo."
     social_stills_approved:
       credit: "Photo: Shilpa Gavane"
       use_permission: "sent by the studio specifically for Vitan social posts (Chitrang, 6 Oct), and the Board lock of 2026-08-25 covers use rights"
@@ -43,6 +43,7 @@ packets:
       public_yes_no: no
       distribution_row: no
       excluded: "Privilon (10) stays excluded (hash collision with PARIJAAT ECLAT / PAARIJAT ECLAT (1))"
+      held: "Privilon (27) (lower-level plaza, residences behind at ground level) is HELD. Verified 7 Oct 2026 09:15 IST by Vitan Proof: the WorkDrive original of Privilon (27).jpg that Chitrang sent on 6 Oct is the same file (identical hash; git blob 685506aff628e3dabcb9db80be5242ab046ff4c1, sha256 b344e24429567f8ebb8bc778b247ccc0842a353d66320ca19a72a699eb8889f8) as Business development/PHOTOS FOR SAMPLE PROJECT/PARIJAAT ECLAT/Privilon (27).jpg and Business development/PHOTOS FOR SAMPLE PROJECT/PARIJAAT/PAARIJAT ECLAT (2).jpg. The same picture is also filed under Paarijat Eclat, so it stays out of use until the studio confirms which project it shows."
       posts:
         - post: "Post 1, the scooped corner"
           stills:
@@ -60,10 +61,14 @@ packets:
               hash_check: "no collision with images in other project folders"
             - file: "Privilon (20)"
               note: "from basement 1 foyer, escalator coming down from the ground-floor corner road"
-              repo_status: "staged outside repo; hash check pending"
+              repo_status: "staged outside repo"
+              sha256: "991dd99af0af0fcf1586b83d26cf4f0b1e60bad5ea83cb2c21ee0352780c3399"
+              hash_check: "7 Oct 2026: WorkDrive original compared against every file in the repo at main; no match"
             - file: "Privilon (22)"
               note: "from basement 1 foyer, stairs and escalators coming down"
-              repo_status: "staged outside repo; hash check pending"
+              repo_status: "staged outside repo"
+              sha256: "79252fc642090273c09f0ecd9b9dcb7699ec5b687e104657c63c0adf41e207c9"
+              hash_check: "7 Oct 2026: WorkDrive original compared against every file in the repo at main; no match"
             - file: "Privilon (23)"
               note: "from basement 1 foyer, stairs and escalators coming down from the side"
               repo_status: "in repo"
@@ -72,7 +77,9 @@ packets:
               hash_check: "no collision with images in other project folders; same sha256 as PRIVILON/FOR BOOK/Privilon (23).jpg"
             - file: "Privilon (24)"
               note: "from basement 1 foyer looking towards the lower-level drop-off zone"
-              repo_status: "staged outside repo; hash check pending"
+              repo_status: "staged outside repo"
+              sha256: "f9423e27d55569daa650bf3e043fcf2a4ef014baac106831ac681076001bd281"
+              hash_check: "7 Oct 2026: WorkDrive original compared against every file in the repo at main; no match"
             - file: "Privilon (54)"
               note: "from the smaller road, escalator going down from ground, corner shops clearly visible"
               repo_status: "in repo"
@@ -87,13 +94,11 @@ packets:
               path: "Business development/PHOTOS FOR SAMPLE PROJECT/PRIVILON/Privilon (26).jpg"
               sha256: "5903196195fa21af442dcc0f3a541ff9ee00e3bf71b3d3867e1ce1e641ae72f6"
               hash_check: "no collision with images in other project folders"
-            - file: "Privilon (27)"
-              note: "lower-level plaza, residences behind at ground level"
-              repo_status: "staged outside repo; hash check pending"
-              hash_check: "Not in the PRIVILON folder. A different file named Privilon (27).jpg sits in PARIJAAT ECLAT/ and is not this approved still."
             - file: "Privilon (28)"
               note: "lower-level plaza drop-off zone"
-              repo_status: "staged outside repo; hash check pending"
+              repo_status: "staged outside repo"
+              sha256: "27bb9cb8714cead5eda8263e37dbfff529fccdb17bc98f1590290df777402eb3"
+              hash_check: "7 Oct 2026: WorkDrive original compared against every file in the repo at main; no match"
             - file: "Privilon (29)"
               note: "lower-level plaza drop-off zone from the double-height foyer"
               repo_status: "in repo"
@@ -102,10 +107,14 @@ packets:
               hash_check: "no collision with images in other project folders"
             - file: "Privilon (42)"
               note: "lower-level plaza with stepped landscape and the entry ramp to the lower-level plaza"
-              repo_status: "staged outside repo; hash check pending"
+              repo_status: "staged outside repo"
+              sha256: "571e69257ca853c543e4948d97c8167be7a23eeb13c2a11a3b8c496330cc25a9"
+              hash_check: "7 Oct 2026: WorkDrive original compared against every file in the repo at main; no match"
             - file: "Privilon (44)"
               note: "evening view of lower-level plaza"
-              repo_status: "staged outside repo; hash check pending"
+              repo_status: "staged outside repo"
+              sha256: "7cfa8273c1ddc20f263f6eddf8905ec28467d53b518a28a9f94fdb39df6aba25"
+              hash_check: "7 Oct 2026: WorkDrive original compared against every file in the repo at main; no match"
     internal_studio_fact:
       fact: "The minus-one (lower-level) plaza is the covered area under the corner podium"
       sourcing: studio-sourced

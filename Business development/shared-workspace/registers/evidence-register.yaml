@@ -620,12 +620,11 @@ packets:
   - evidence_id: EV-PARISAR-001
     project: Safal Parisar II
     record_status: >
-      Merged on main (PR #2553 c538942; Distribution PR #2648 1a85c5a). Live on X, Facebook, LinkedIn, Google Business Profile 2 Oct 2026. Instagram pending (unusual-login check, waiting on Board).
+      Merged on main (PR #2553 c538942; Distribution PR #2648 1a85c5a). Live on X, Facebook, LinkedIn, Google Business Profile 2 Oct 2026. Instagram live 9 Oct 2026 07:30:21 IST (DIST-PARISAR-IG-001).
       Urja approved the caption 2 Oct 2026 16:18 IST
       (growthos@ Zoho message id 1790938116604110500).
       DIST-PARISAR-X-001, DIST-PARISAR-FB-001, DIST-PARISAR-LI-001 and DIST-PARISAR-GBP-001 are live.
-      Instagram is pending: the account is restricted behind an unusual-login check
-      and is waiting on Board. No Instagram Distribution row.
+      Instagram live 9 Oct 2026 07:30:21 IST (DIST-PARISAR-IG-001).
     photographer: >
       Photo: Rajoo Solanki (Instagram tag @rajoo_solanky).
       Chitrang (studio) mail to growthos@, 29 Sep 2026 12:09 IST
@@ -654,17 +653,16 @@ packets:
     packet_confidence: >
       Project name, lead-architect role, and Parisar II stills from Chitrang studio mail;
       photographer credit from Chitrang 29 Sep 2026; photo/use from Board lock 2026-08-25.
-      Merged on main (PR #2553 c538942; Distribution PR #2648 1a85c5a). Live on X, Facebook, LinkedIn, Google Business Profile 2 Oct 2026. Instagram pending (unusual-login check, waiting on Board). Not yet Board-verified or PA-locked as a project packet.
+      Merged on main (PR #2553 c538942; Distribution PR #2648 1a85c5a). Live on X, Facebook, LinkedIn, Google Business Profile 2 Oct 2026. Instagram live 9 Oct 2026 07:30:21 IST (DIST-PARISAR-IG-001). Not yet Board-verified or PA-locked as a project packet.
       City, use type, year, client, and GBA are UNKNOWN and are not public claims.
     review_date: "2026-10-31"
     timezone: Asia/Kolkata
     expiry_or_hold_notes: >
-      Merged on main (PR #2553 c538942; Distribution PR #2648 1a85c5a). Live on X, Facebook, LinkedIn, Google Business Profile 2 Oct 2026. Instagram pending (unusual-login check, waiting on Board).
+      Merged on main (PR #2553 c538942; Distribution PR #2648 1a85c5a). Live on X, Facebook, LinkedIn, Google Business Profile 2 Oct 2026. Instagram live 9 Oct 2026 07:30:21 IST (DIST-PARISAR-IG-001).
       Urja approved the caption 2 Oct 2026 16:18 IST
       (growthos@ Zoho message id 1790938116604110500).
       DIST-PARISAR-X-001, DIST-PARISAR-FB-001, DIST-PARISAR-LI-001 and DIST-PARISAR-GBP-001 are live.
-      Instagram is pending: the account is restricted behind an unusual-login check
-      and is waiting on Board. No Instagram Distribution row.
+      Instagram live 9 Oct 2026 07:30:21 IST (DIST-PARISAR-IG-001).
       Public-yes claims below are the project name, the lead-architect credit line,
       and the photographer credit only. No design partner. Not “& Team”.
       City, use type, year, client, and GBA are UNKNOWN and are not public claims.
@@ -716,8 +714,7 @@ packets:
       status: >
         Approved by Urja 2 Oct 2026 16:18 IST and used on the live X, Facebook,
         LinkedIn and Google Business Profile posts.
-        Instagram is pending: the account is restricted behind an unusual-login check
-        and is waiting on Board. No Instagram Distribution row.
+        Instagram live 9 Oct 2026 07:30:21 IST (DIST-PARISAR-IG-001).
     claims:
       - claim: Project name is Safal Parisar II
         source: >
@@ -734,14 +731,14 @@ packets:
         photographer_credit: "Photo: Rajoo Solanki (Instagram tag @rajoo_solanky)"
         architect_credit_public: Lead architect Ar. Jagrut Patel, Vitan Architects
         architect_credit_internal: not public
-        status: "Merged on main (PR #2553 c538942; Distribution PR #2648 1a85c5a). Live on X, Facebook, LinkedIn, Google Business Profile 2 Oct 2026. Instagram pending (unusual-login check, waiting on Board)."
+        status: "Merged on main (PR #2553 c538942; Distribution PR #2648 1a85c5a). Live on X, Facebook, LinkedIn, Google Business Profile 2 Oct 2026. Instagram live 9 Oct 2026 07:30:21 IST (DIST-PARISAR-IG-001)."
         public_yes_no: yes
         confidence: medium
         review_date: "2026-10-31"
         expiry_or_hold_notes: >
           Public name is Safal Parisar II.
           DIST-PARISAR-X-001, DIST-PARISAR-FB-001, DIST-PARISAR-LI-001 and DIST-PARISAR-GBP-001 filed.
-          Instagram pending (unusual-login check; waiting on Board). No Instagram row.
+          Instagram live 9 Oct 2026 07:30:21 IST (DIST-PARISAR-IG-001).
           Not Board-verified. Not PA-locked. Studio-sourced; medium is not publish clearance.
       - claim: "Lead architect Ar. Jagrut Patel, Vitan Architects"
         source: >
@@ -759,14 +756,14 @@ packets:
         photographer_credit: "Photo: Rajoo Solanki (Instagram tag @rajoo_solanky)"
         architect_credit_public: Lead architect Ar. Jagrut Patel, Vitan Architects
         architect_credit_internal: not public
-        status: "Merged on main (PR #2553 c538942; Distribution PR #2648 1a85c5a). Live on X, Facebook, LinkedIn, Google Business Profile 2 Oct 2026. Instagram pending (unusual-login check, waiting on Board)."
+        status: "Merged on main (PR #2553 c538942; Distribution PR #2648 1a85c5a). Live on X, Facebook, LinkedIn, Google Business Profile 2 Oct 2026. Instagram live 9 Oct 2026 07:30:21 IST (DIST-PARISAR-IG-001)."
         public_yes_no: yes
         confidence: medium
         review_date: "2026-10-31"
         expiry_or_hold_notes: >
           Not “& Team”. No design partner. No other architect or collaboration line in public copy.
           DIST-PARISAR-X-001, DIST-PARISAR-FB-001, DIST-PARISAR-LI-001 and DIST-PARISAR-GBP-001 filed.
-          Instagram pending (unusual-login check; waiting on Board). No Instagram row.
+          Instagram live 9 Oct 2026 07:30:21 IST (DIST-PARISAR-IG-001).
           Not Board-verified. Not PA-locked.
       - claim: "Photo: Rajoo Solanki"
         source: >
@@ -784,14 +781,14 @@ packets:
         photographer_credit: "Photo: Rajoo Solanki (Instagram tag @rajoo_solanky)"
         architect_credit_public: Lead architect Ar. Jagrut Patel, Vitan Architects
         architect_credit_internal: not public
-        status: "Merged on main (PR #2553 c538942; Distribution PR #2648 1a85c5a). Live on X, Facebook, LinkedIn, Google Business Profile 2 Oct 2026. Instagram pending (unusual-login check, waiting on Board)."
+        status: "Merged on main (PR #2553 c538942; Distribution PR #2648 1a85c5a). Live on X, Facebook, LinkedIn, Google Business Profile 2 Oct 2026. Instagram live 9 Oct 2026 07:30:21 IST (DIST-PARISAR-IG-001)."
         public_yes_no: yes
         confidence: medium
         review_date: "2026-10-31"
         expiry_or_hold_notes: >
           Instagram tag @rajoo_solanky.
           DIST-PARISAR-X-001, DIST-PARISAR-FB-001, DIST-PARISAR-LI-001 and DIST-PARISAR-GBP-001 filed.
-          Instagram pending (unusual-login check; waiting on Board). No Instagram row.
+          Instagram live 9 Oct 2026 07:30:21 IST (DIST-PARISAR-IG-001).
           Not Board-verified. Not PA-locked.
 
   - evidence_id: EV-RETHAL-001

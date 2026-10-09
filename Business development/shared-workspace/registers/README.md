@@ -46,7 +46,7 @@ A colliding git blob is not project evidence. Catalog scan is blob SHA on `main`
 - EV-MERLIN-001 (Growth Lead unlock 2026-09-07). Distribution rows: DIST-MERLIN-IG-001, DIST-MERLIN-FB-001, DIST-MERLIN-LI-001, DIST-MERLIN-GBP-001, DIST-MERLIN-X-001.
 - EV-SEVENTY-001 (Growth Lead unlock 2026-09-16; Board Executive Architecture chrome Approve). Distribution rows: DIST-SEVENTY-IG-001, DIST-SEVENTY-FB-001, DIST-SEVENTY-GBP-001, DIST-SEVENTY-LI-001.
 - EV-PAARIJAT-EROS-001 (filed 2026-09-28; GujRERA unreachable; registry fields PENDING; public-yes no; no Distribution row; not Parijaat Eclat)
-- EV-PARISAR-001 (Safal Parisar II; studio 28–29 Sep 2026; Merged on main (PR #2553 c538942; Distribution PR #2648 1a85c5a); live on X, Facebook, LinkedIn, Google Business Profile 2 Oct 2026; review date 2026-10-31). Distribution rows: DIST-PARISAR-X-001, DIST-PARISAR-FB-001, DIST-PARISAR-LI-001, DIST-PARISAR-GBP-001. Instagram pending (unusual-login check; waiting on Board). No Instagram row.
+- EV-PARISAR-001 (Safal Parisar II; studio 28–29 Sep 2026; Merged on main (PR #2553 c538942; Distribution PR #2648 1a85c5a); live on X, Facebook, LinkedIn, Google Business Profile 2 Oct 2026; review date 2026-10-31). Distribution rows: DIST-PARISAR-X-001, DIST-PARISAR-FB-001, DIST-PARISAR-LI-001, DIST-PARISAR-GBP-001. Instagram live 9 Oct 2026 07:30:21 IST (DIST-PARISAR-IG-001).
 - EV-RETHAL-001 (Rethal Greens; studio 28–29 Sep 2026; Merged on main (PR #2553 c538942; Board design-intent note PR #2627 2573bcc); Urja approved 2 Oct 2026; review date 2026-10-31; three live rows (DIST-RETHAL-LI-001, DIST-RETHAL-FB-001, DIST-RETHAL-X-001); Instagram and Google Business pending)
 
 ## Holds this cycle (no register rows)
